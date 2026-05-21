@@ -33,7 +33,6 @@
         " Unsorted 01f2 | SNI - sw1tzerl4nd.gxcore.net",
         " Unsorted 021a",
         " Unsorted 027e",
-        " Unsorted 02f7 | SNI - xapi.ozon.ru",
         " Unsorted 04d6",
         " Unsorted 061c",
         " Unsorted 0669",
@@ -363,6 +362,7 @@
         "🇩🇪 Germany 015d | SNI - www.samsung.com",
         "🇩🇪 Germany 01a1 | SNI - de.great-server-list.co.uk",
         "🇩🇪 Germany 02f0 | SNI - sso.passport.yandex.ru",
+        "🇩🇪 Germany 02f7 | SNI - xapi.ozon.ru",
         "🇩🇪 Germany 0437 | SNI - ads.x5.ru",
         "🇩🇪 Germany 0589 | SNI - ads.x5.ru",
         "🇩🇪 Germany 0596 | SNI - x5.ru",
@@ -482,7 +482,6 @@
         "🇩🇪 Germany cd60 | SNI - cdp.x5.ru",
         "🇩🇪 Germany cdf6 | SNI - web.max.ru",
         "🇩🇪 Germany ce05 | SNI - sso.passport.yandex.ru",
-        "🇩🇪 Germany cfe8 | SNI - n11.com",
         "🇩🇪 Germany d0c5 | SNI - de.moktana.app",
         "🇩🇪 Germany d6d9 | SNI - x5.ru",
         "🇩🇪 Germany d7ce | SNI - web.max.ru",
@@ -596,6 +595,7 @@
         "🇫🇮 Finland deba | SNI - www.id.vk.ru",
         "🇫🇮 Finland e029 | SNI - www.hollywoodreporter.com",
         "🇫🇮 Finland e100 | SNI - web.max.ru",
+        "🇫🇮 Finland e46d | SNI - france.spectrum.vu",
         "🇫🇮 Finland e6db | SNI - x5.ru",
         "🇫🇮 Finland e7f3 | SNI - admin.vp-mentality.lat",
         "🇫🇮 Finland e9b3 | SNI - www.tradingview.com",
@@ -881,6 +881,7 @@
         "🇳🇱 Netherlands bc58 | SNI - cdp.x5.ru",
         "🇳🇱 Netherlands bf17 | SNI - wl-6-2.nodes.ac",
         "🇳🇱 Netherlands c08d | SNI - tradingview.com",
+        "🇳🇱 Netherlands c185 | SNI - xapi.ozon.ru",
         "🇳🇱 Netherlands c2d2 | SNI - wl-6-5.nodes.ac",
         "🇳🇱 Netherlands c409 | SNI - www.deepl.com",
         "🇳🇱 Netherlands c43e | SNI - api-maps.yandex.ru",
@@ -1101,7 +1102,6 @@
         "🇷🇺 Russia dbe0 | SNI - eh.vk.com",
         "🇷🇺 Russia e08e | SNI - srv185.towersflowerss.com",
         "🇷🇺 Russia e1d1 | SNI - api-maps.yandex.ru",
-        "🇷🇺 Russia e46d | SNI - france.spectrum.vu",
         "🇷🇺 Russia e686 | SNI - ads.x5.ru",
         "🇷🇺 Russia e787 | SNI - api-maps.yandex.ru",
         "🇷🇺 Russia e85b | SNI - panel.cvs-a.com",
@@ -1246,10 +1246,10 @@
         "🇺🇸 United States b153 | SNI - panel.cvs-a.com",
         "🇺🇸 United States b7af | SNI - usa.ascella.network",
         "🇺🇸 United States c0d3",
-        "🇺🇸 United States c185 | SNI - xapi.ozon.ru",
         "🇺🇸 United States ca6b | SNI - stats.vk-portal.net",
         "🇺🇸 United States cdd4 | SNI - usa.xtrustnet.sbs",
         "🇺🇸 United States cdfd | SNI - sha.helper-internet.com",
+        "🇺🇸 United States cfe8 | SNI - n11.com",
         "🇺🇸 United States d1ad | SNI - fuck.rkn",
         "🇺🇸 United States d200 | SNI - www.deepl.com",
         "🇺🇸 United States d341 | SNI - fuck.rkn",
@@ -1377,24 +1377,6 @@
       "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
       "security": "auto",
       "alter_id": 0
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 02f7 | SNI - xapi.ozon.ru",
-      "server": "germany2.telega.now",
-      "server_port": 443,
-      "uuid": "30f5b380-5b9e-4d42-a50c-508a2a8cb2f6",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "xapi.ozon.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4",
-          "short_id": "0ffcc7"
-        }
-      }
     },
     {
       "type": "vless",
@@ -5795,6 +5777,24 @@
     },
     {
       "type": "vless",
+      "tag": "🇩🇪 Germany 02f7 | SNI - xapi.ozon.ru",
+      "server": "germany2.telega.now",
+      "server_port": 443,
+      "uuid": "30f5b380-5b9e-4d42-a50c-508a2a8cb2f6",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "xapi.ozon.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4",
+          "short_id": "fcb6"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇩🇪 Germany 0437 | SNI - ads.x5.ru",
       "server": "91.219.227.203",
       "server_port": 7433,
@@ -7871,24 +7871,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇩🇪 Germany cfe8 | SNI - n11.com",
-      "server": "144.31.12.194",
-      "server_port": 443,
-      "uuid": "30f5b380-5b9e-4d42-a50c-508a2a8cb2f6",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "n11.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "O60JwuL4PInkkwUGmKuzNdc0VjpJU8BCaWuWM3QeDGg",
-          "short_id": "5d28ea4c"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇩🇪 Germany d0c5 | SNI - de.moktana.app",
       "server": "185.191.118.33",
       "server_port": 443,
@@ -9868,6 +9850,24 @@
           "enabled": true,
           "public_key": "amq7QKz02gDCNYF4hrZxjVLkR0dSEjhUCAoA_kImrT0",
           "short_id": "dca74860c39d60fe"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇮 Finland e46d | SNI - france.spectrum.vu",
+      "server": "194.156.101.49",
+      "server_port": 443,
+      "uuid": "76713d07-5a6b-49c2-abd8-bc450a2fa7fc",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "france.spectrum.vu",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA",
+          "short_id": "f2a6d1c1e4b8"
         }
       }
     },
@@ -14775,6 +14775,24 @@
     },
     {
       "type": "vless",
+      "tag": "🇳🇱 Netherlands c185 | SNI - xapi.ozon.ru",
+      "server": "185.68.244.41",
+      "server_port": 443,
+      "uuid": "30f5b380-5b9e-4d42-a50c-508a2a8cb2f6",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "xapi.ozon.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4",
+          "short_id": "c5dc"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇳🇱 Netherlands c2d2 | SNI - wl-6-5.nodes.ac",
       "server": "51.250.33.25",
       "server_port": 443,
@@ -18646,24 +18664,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 Russia e46d | SNI - france.spectrum.vu",
-      "server": "194.156.101.49",
-      "server_port": 443,
-      "uuid": "76713d07-5a6b-49c2-abd8-bc450a2fa7fc",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "france.spectrum.vu",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA",
-          "short_id": "f2a6d1c1e4b8"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇷🇺 Russia e686 | SNI - ads.x5.ru",
       "server": "178.250.247.58",
       "server_port": 8443,
@@ -21108,24 +21108,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 United States c185 | SNI - xapi.ozon.ru",
-      "server": "185.68.244.41",
-      "server_port": 443,
-      "uuid": "30f5b380-5b9e-4d42-a50c-508a2a8cb2f6",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "xapi.ozon.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4",
-          "short_id": "433065"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇺🇸 United States ca6b | SNI - stats.vk-portal.net",
       "server": "45.8.157.20",
       "server_port": 48006,
@@ -21170,6 +21152,24 @@
           "enabled": true,
           "public_key": "W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE",
           "short_id": "ff776ff77be48b88"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 United States cfe8 | SNI - n11.com",
+      "server": "144.31.12.194",
+      "server_port": 443,
+      "uuid": "30f5b380-5b9e-4d42-a50c-508a2a8cb2f6",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "n11.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "O60JwuL4PInkkwUGmKuzNdc0VjpJU8BCaWuWM3QeDGg",
+          "short_id": "5d28ea4c"
         }
       }
     },
