@@ -44,38 +44,22 @@
     {
       "url": "https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt",
       "ua": "",
-      "enabled": true,
-      "hidden": false
-    },
-    {
-      "url": "https://etoneya.best/1",
-      "ua": "",
-      "enabled": true,
-      "hidden": false
+      "enabled": true
     },
     {
       "url": "https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt",
       "ua": "",
-      "enabled": true,
-      "hidden": false
+      "enabled": true
     },
     {
       "url": "https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt",
       "ua": "",
-      "enabled": true,
-      "hidden": false
+      "enabled": true
     },
     {
-      "url": "8f5c4a1faeb5",
-      "ua": "flclash",
-      "enabled": true,
-      "hidden": true
-    },
-    {
-      "url": "8f5c4a1faeb5",
-      "ua": "flclash",
-      "enabled": true,
-      "hidden": false
+      "url": "https://internet-tenshi.kangel.tech/1",
+      "ua": "",
+      "enabled": true
     }
   ]
 }
