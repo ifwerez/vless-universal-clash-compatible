@@ -9692,6 +9692,21 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇩🇪 Germany d9bb | SNI - ads.x5.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 158.160.33.78
+  port: 5443
+  udp: true
+  type: vless
+  uuid: 364417c0-ae53-49fa-a08d-b420c1c0bce6
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 6aRT_qG0ES5Hn8khTO3sTYqbdjpAf58pEMsBQHwXoWQ
+    short-id: "e22b3d0d3d8d820b"
 - name: "🇩🇪 Germany da1f | SNI - yandex.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
   server: 109.120.152.3
@@ -11273,21 +11288,6 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: "🇩🇪 Germany — #80"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
-  server: 158.160.33.78
-  port: 5443
-  udp: true
-  type: vless
-  uuid: 364417c0-ae53-49fa-a08d-b420c1c0bce6
-  network: tcp
-  tls: true
-  servername: ads.x5.ru
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: 6aRT_qG0ES5Hn8khTO3sTYqbdjpAf58pEMsBQHwXoWQ
-    short-id: "e22b3d0d3d8d820b"
 - name: "🇩🇰 Denmark 5079"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DK.png
   server: 45.148.31.0
@@ -12288,6 +12288,21 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇫🇮 Finland 255d | SNI - dnd.wb.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
+  server: 158.160.221.93
+  port: 2447
+  udp: true
+  type: vless
+  uuid: 30a504c7-a713-4433-b4d3-475ba0756ef4
+  network: tcp
+  tls: true
+  servername: dnd.wb.ru
+  client-fingerprint: random
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA
+    short-id: "7b374423e3f0f5fb"
 - name: "🇫🇮 Finland 262f"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
   server: 89.167.33.8
@@ -13844,6 +13859,21 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇫🇮 Finland 73ab | SNI - ads.x5.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
+  server: 158.160.221.93
+  port: 2443
+  udp: true
+  type: vless
+  uuid: 23e1b383-cc75-4f39-bcde-02ae64efe8cf
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: random
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA
+    short-id: "e035146d93da51a9"
 - name: "🇫🇮 Finland 73bc"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
   server: 188.215.31.141
@@ -13980,6 +14010,21 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇫🇮 Finland 7b61 | SNI - mail.skm62.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
+  server: 193.33.133.186
+  port: 443
+  udp: true
+  type: vless
+  uuid: 15b06c66-3b68-4945-abfd-afc5c3a544d8
+  network: tcp
+  tls: true
+  servername: mail.skm62.ru
+  client-fingerprint: qq
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 9YcV-gA7iaXFnI0HXQa624OIqm4zxO_U2eMCWXQAiCQ
+    short-id: "8375b32501373f41"
 - name: "🇫🇮 Finland 7c76"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
   server: 94.183.235.110
@@ -14765,6 +14810,21 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇫🇮 Finland a8da | SNI - akashi.vk-portal.net"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
+  server: 158.160.221.93
+  port: 2445
+  udp: true
+  type: vless
+  uuid: 23e1b383-cc75-4f39-bcde-02ae64efe8cf
+  network: tcp
+  tls: true
+  servername: akashi.vk-portal.net
+  client-fingerprint: random
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA
+    short-id: "7b374423e3f0f5fb"
 - name: "🇫🇮 Finland a93c"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
   server: 65.109.12.58
@@ -16030,54 +16090,6 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: "🇫🇮 Finland e9b3 | SNI - www.tradingview.com"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
-  server: 107.181.147.22
-  port: 443
-  udp: true
-  type: vless
-  uuid: fdc622b6-985c-40a0-8bcb-b6497804769a
-  network: tcp
-  tls: true
-  servername: www.tradingview.com
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE
-    short-id: "4c4d5ed45c74"
-- name: "🇫🇮 Finland ea44"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
-  server: 31.57.105.157
-  port: 8443
-  udp: true
-  type: trojan
-  password: "8r%3C%5B9%27l6hAO%238ZQi"
-  tls: true
-  sni: Koma-YT.PAGeS.Dev
-- name: "🇫🇮 Finland eaac"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
-  server: 135.136.176.221
-  port: 2053
-  udp: true
-  type: trojan
-  password: "8r%3C%5B9%27l6hAO%238ZQi"
-  tls: true
-  sni: Koma-YT.PAGeS.Dev
-- name: "🇫🇮 Finland eab9 | SNI - sni.111000.v6.rocks"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
-  server: 37.143.129.102
-  port: 2053
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: true
-  servername: sni.111000.v6.rocks
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/WangCai2🇨🇳"
-    headers:
-      Host: sni.111000.v6.rocks
 proxy-groups:
 - name: PROXY
   type: select
@@ -16993,6 +17005,7 @@ proxy-groups:
   - "🇩🇪 Germany d903 | SNI - sni.latonyamadeline.ndjp.net"
   - "🇩🇪 Germany d912 | SNI - sun6-21.userapi.com"
   - "🇩🇪 Germany d96b"
+  - "🇩🇪 Germany d9bb | SNI - ads.x5.ru"
   - "🇩🇪 Germany da1f | SNI - yandex.ru"
   - "🇩🇪 Germany da61"
   - "🇩🇪 Germany da9a"
@@ -17144,7 +17157,6 @@ proxy-groups:
   - "🇩🇪 Germany ff41"
   - "🇩🇪 Germany ff81"
   - "🇩🇪 Germany ff81 #2"
-  - "🇩🇪 Germany — #80"
   - "🇩🇰 Denmark 5079"
   - "🇪🇪 Estonia 173d | SNI - 3-85q.pages.dev"
   - "🇪🇪 Estonia 22fd | SNI - www.amd.com"
@@ -17233,6 +17245,7 @@ proxy-groups:
   - "🇫🇮 Finland 249f"
   - "🇫🇮 Finland 2521"
   - "🇫🇮 Finland 254d"
+  - "🇫🇮 Finland 255d | SNI - dnd.wb.ru"
   - "🇫🇮 Finland 262f"
   - "🇫🇮 Finland 271a"
   - "🇫🇮 Finland 2793"
@@ -17381,6 +17394,7 @@ proxy-groups:
   - "🇫🇮 Finland 7270"
   - "🇫🇮 Finland 72a9 | SNI - ads.x5.ru"
   - "🇫🇮 Finland 7366"
+  - "🇫🇮 Finland 73ab | SNI - ads.x5.ru"
   - "🇫🇮 Finland 73bc"
   - "🇫🇮 Finland 73db"
   - "🇫🇮 Finland 73ef"
@@ -17395,6 +17409,7 @@ proxy-groups:
   - "🇫🇮 Finland 7a18"
   - "🇫🇮 Finland 7ab5 | SNI - sso.passport.yandex.ru"
   - "🇫🇮 Finland 7b13"
+  - "🇫🇮 Finland 7b61 | SNI - mail.skm62.ru"
   - "🇫🇮 Finland 7c76"
   - "🇫🇮 Finland 7cf8 | SNI - www.techradar.com"
   - "🇫🇮 Finland 7d4a"
@@ -17469,6 +17484,7 @@ proxy-groups:
   - "🇫🇮 Finland a771 | SNI - cdnjs.com"
   - "🇫🇮 Finland a82a | SNI - sni.111000.v6.rocks"
   - "🇫🇮 Finland a87a"
+  - "🇫🇮 Finland a8da | SNI - akashi.vk-portal.net"
   - "🇫🇮 Finland a93c"
   - "🇫🇮 Finland a9a4 | SNI - ads.x5.ru"
   - "🇫🇮 Finland aa43"
@@ -17587,10 +17603,6 @@ proxy-groups:
   - "🇫🇮 Finland e77c | SNI - www.tradingview.com"
   - "🇫🇮 Finland e82e"
   - "🇫🇮 Finland e8f2"
-  - "🇫🇮 Finland e9b3 | SNI - www.tradingview.com"
-  - "🇫🇮 Finland ea44"
-  - "🇫🇮 Finland eaac"
-  - "🇫🇮 Finland eab9 | SNI - sni.111000.v6.rocks"
 - name: 🌍 Continents
   type: select
   proxies:
@@ -17602,8 +17614,8 @@ proxy-groups:
 - name: 🛠️ Protocols
   type: select
   proxies:
-  - 🛠️ TROJAN (1042)
-  - 🛠️ VLESS (444)
+  - 🛠️ TROJAN (1040)
+  - 🛠️ VLESS (446)
   - 🛠️ VMESS (14)
 - name: 🇩🇪 Germany (1054)
   type: select
@@ -18510,6 +18522,7 @@ proxy-groups:
   - "🇩🇪 Germany d903 | SNI - sni.latonyamadeline.ndjp.net"
   - "🇩🇪 Germany d912 | SNI - sun6-21.userapi.com"
   - "🇩🇪 Germany d96b"
+  - "🇩🇪 Germany d9bb | SNI - ads.x5.ru"
   - "🇩🇪 Germany da1f | SNI - yandex.ru"
   - "🇩🇪 Germany da61"
   - "🇩🇪 Germany da9a"
@@ -18661,7 +18674,6 @@ proxy-groups:
   - "🇩🇪 Germany ff41"
   - "🇩🇪 Germany ff81"
   - "🇩🇪 Germany ff81 #2"
-  - "🇩🇪 Germany — #80"
 - name: 🇫🇮 Finland (425)
   type: select
   proxies:
@@ -18732,6 +18744,7 @@ proxy-groups:
   - "🇫🇮 Finland 249f"
   - "🇫🇮 Finland 2521"
   - "🇫🇮 Finland 254d"
+  - "🇫🇮 Finland 255d | SNI - dnd.wb.ru"
   - "🇫🇮 Finland 262f"
   - "🇫🇮 Finland 271a"
   - "🇫🇮 Finland 2793"
@@ -18880,6 +18893,7 @@ proxy-groups:
   - "🇫🇮 Finland 7270"
   - "🇫🇮 Finland 72a9 | SNI - ads.x5.ru"
   - "🇫🇮 Finland 7366"
+  - "🇫🇮 Finland 73ab | SNI - ads.x5.ru"
   - "🇫🇮 Finland 73bc"
   - "🇫🇮 Finland 73db"
   - "🇫🇮 Finland 73ef"
@@ -18894,6 +18908,7 @@ proxy-groups:
   - "🇫🇮 Finland 7a18"
   - "🇫🇮 Finland 7ab5 | SNI - sso.passport.yandex.ru"
   - "🇫🇮 Finland 7b13"
+  - "🇫🇮 Finland 7b61 | SNI - mail.skm62.ru"
   - "🇫🇮 Finland 7c76"
   - "🇫🇮 Finland 7cf8 | SNI - www.techradar.com"
   - "🇫🇮 Finland 7d4a"
@@ -18968,6 +18983,7 @@ proxy-groups:
   - "🇫🇮 Finland a771 | SNI - cdnjs.com"
   - "🇫🇮 Finland a82a | SNI - sni.111000.v6.rocks"
   - "🇫🇮 Finland a87a"
+  - "🇫🇮 Finland a8da | SNI - akashi.vk-portal.net"
   - "🇫🇮 Finland a93c"
   - "🇫🇮 Finland a9a4 | SNI - ads.x5.ru"
   - "🇫🇮 Finland aa43"
@@ -19086,10 +19102,6 @@ proxy-groups:
   - "🇫🇮 Finland e77c | SNI - www.tradingview.com"
   - "🇫🇮 Finland e82e"
   - "🇫🇮 Finland e8f2"
-  - "🇫🇮 Finland e9b3 | SNI - www.tradingview.com"
-  - "🇫🇮 Finland ea44"
-  - "🇫🇮 Finland eaac"
-  - "🇫🇮 Finland eab9 | SNI - sni.111000.v6.rocks"
 - name: 🇪🇪 Estonia (17)
   type: select
   proxies:
@@ -19128,7 +19140,7 @@ proxy-groups:
   - 🇪🇪 Estonia (17)
   - 🇪🇸 Spain (3)
   - 🇫🇮 Finland (425)
-- name: 🛠️ TROJAN (1042)
+- name: 🛠️ TROJAN (1040)
   type: select
   proxies:
   - "🇩🇪 Germany 05ca"
@@ -20171,9 +20183,7 @@ proxy-groups:
   - "🇫🇮 Finland e50e"
   - "🇫🇮 Finland e82e"
   - "🇫🇮 Finland e8f2"
-  - "🇫🇮 Finland ea44"
-  - "🇫🇮 Finland eaac"
-- name: 🛠️ VLESS (444)
+- name: 🛠️ VLESS (446)
   type: select
   proxies:
   - "🇩🇪 Germany 05ad | SNI - download.docker.com"
@@ -20444,6 +20454,7 @@ proxy-groups:
   - "🇩🇪 Germany d8d3 | SNI - www.apple.com"
   - "🇩🇪 Germany d903 | SNI - sni.latonyamadeline.ndjp.net"
   - "🇩🇪 Germany d912 | SNI - sun6-21.userapi.com"
+  - "🇩🇪 Germany d9bb | SNI - ads.x5.ru"
   - "🇩🇪 Germany da1f | SNI - yandex.ru"
   - "🇩🇪 Germany dac4 | SNI - x5.ru"
   - "🇩🇪 Germany db18 | SNI - www.vk.com"
@@ -20483,7 +20494,6 @@ proxy-groups:
   - "🇩🇪 Germany fd00 | SNI - sni.111000.indevs.in"
   - "🇩🇪 Germany fd44"
   - "🇩🇪 Germany ff41"
-  - "🇩🇪 Germany — #80"
   - "🇩🇰 Denmark 5079"
   - "🇪🇪 Estonia 173d | SNI - 3-85q.pages.dev"
   - "🇪🇪 Estonia 22fd | SNI - www.amd.com"
@@ -20521,6 +20531,7 @@ proxy-groups:
   - "🇫🇮 Finland 179e | SNI - eh.vk.com"
   - "🇫🇮 Finland 2378 | SNI - www.microsoft.com"
   - "🇫🇮 Finland 2449 | SNI - www.microsoft.com"
+  - "🇫🇮 Finland 255d | SNI - dnd.wb.ru"
   - "🇫🇮 Finland 2793"
   - "🇫🇮 Finland 28d1 | SNI - www.microsoft.com"
   - "🇫🇮 Finland 2bf0 | SNI - sni.111000.v6.rocks"
@@ -20561,8 +20572,10 @@ proxy-groups:
   - "🇫🇮 Finland 6af8 | SNI - sni.111000.v6.rocks"
   - "🇫🇮 Finland 6dc1 | SNI - www.tradingview.com"
   - "🇫🇮 Finland 72a9 | SNI - ads.x5.ru"
+  - "🇫🇮 Finland 73ab | SNI - ads.x5.ru"
   - "🇫🇮 Finland 76cb | SNI - eh.vk.com"
   - "🇫🇮 Finland 7ab5 | SNI - sso.passport.yandex.ru"
+  - "🇫🇮 Finland 7b61 | SNI - mail.skm62.ru"
   - "🇫🇮 Finland 7cf8 | SNI - www.techradar.com"
   - "🇫🇮 Finland 7f8c"
   - "🇫🇮 Finland 802a | SNI - loadtest.dev.urent.ru"
@@ -20583,6 +20596,7 @@ proxy-groups:
   - "🇫🇮 Finland a36e | SNI - www.techradar.com"
   - "🇫🇮 Finland a771 | SNI - cdnjs.com"
   - "🇫🇮 Finland a82a | SNI - sni.111000.v6.rocks"
+  - "🇫🇮 Finland a8da | SNI - akashi.vk-portal.net"
   - "🇫🇮 Finland a9a4 | SNI - ads.x5.ru"
   - "🇫🇮 Finland ae12 | SNI - akashi.vk-portal.net"
   - "🇫🇮 Finland aeb6 | SNI - 31.207.5.236.blanesik.space"
@@ -20618,8 +20632,6 @@ proxy-groups:
   - "🇫🇮 Finland e46b | SNI - m.ok.ru"
   - "🇫🇮 Finland e46d | SNI - france.spectrum.vu [CIDR]"
   - "🇫🇮 Finland e77c | SNI - www.tradingview.com"
-  - "🇫🇮 Finland e9b3 | SNI - www.tradingview.com"
-  - "🇫🇮 Finland eab9 | SNI - sni.111000.v6.rocks"
 - name: 🛠️ VMESS (14)
   type: select
   proxies:
