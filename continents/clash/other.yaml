@@ -397,20 +397,6 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
-- name: " Unsorted 2bb9 | SNI - t39sed.gateway-api.sh21.eu.org"
-  server: 109.69.57.181
-  port: 443
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=firefox"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
 - name: " Unsorted 2bfa | SNI - travel.yandex.ru"
   server: 51.250.29.224
   port: 48206
@@ -590,34 +576,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted 3912 | SNI - t39sed.gateway-api.sh21.eu.org"
-  server: 210.16.65.149
-  port: 443
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=firefox"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
-- name: " Unsorted 3963 | SNI - t39sed.gateway-api.sh21.eu.org"
-  server: 14.63.31.79
-  port: 28017
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=firefox"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
 - name: " Unsorted 39bc"
   server: 91.84.107.167
   port: 8443
@@ -710,6 +668,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 483f | SNI - finite-node.rtxconfigz.com"
+  server: finite-node.rtxconfigz.com
+  port: 443
+  udp: true
+  type: vless
+  uuid: a5d740d3-2af5-49c2-bfca-f0983456f5fc
+  network: ws
+  tls: true
+  servername: finite-node.rtxconfigz.com
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: web.whatsapp.net
 - name: " Unsorted 490e | SNI - ads.x5.ru"
   server: 84.201.141.0
   port: 5443
@@ -871,20 +843,6 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
-- name: " Unsorted 5bf8 | SNI - t39sed.gateway-api.sh21.eu.org"
-  server: 185.39.51.124
-  port: 36284
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=firefox"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
 - name: " Unsorted 5c27 | SNI - travel.yandex.ru"
   server: 51.250.29.224
   port: 2006
@@ -1501,20 +1459,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted a64d | SNI - t39sed.gateway-api.sh21.eu.org"
-  server: 185.241.42.216
-  port: 443
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=firefox"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
 - name: " Unsorted a660 | SNI - cdp.x5.ru"
   server: 51.250.24.222
   port: 443
@@ -1659,20 +1603,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted c181 | SNI - t39sed.gateway-api.sh21.eu.org"
-  server: 103.90.75.121
-  port: 443
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=chrome"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
 - name: " Unsorted c2c0 | SNI - ads.x5.ru"
   server: 178.250.243.142
   port: 443
@@ -1702,20 +1632,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted c529 | SNI - t39sed.gateway-api.sh21.eu.org"
-  server: 27.100.182.157
-  port: 20005
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=firefox"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
 - name: " Unsorted c727"
   server: 109.71.240.207
   port: 8443
@@ -2027,34 +1943,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted ea79 | SNI - t39sed.gateway-api.sh21.eu.org"
-  server: 62.133.60.155
-  port: 443
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=firefox"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
-- name: " Unsorted ebe9 | SNI - t39sed.gateway-api.sh21.eu.org"
-  server: 142.248.219.98
-  port: 2053
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=chrome"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
 - name: " Unsorted ec9d"
   server: 212.34.146.229
   port: 8443
@@ -2099,20 +1987,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted f141 | SNI - t39sed.gateway-api.sh21.eu.org"
-  server: 103.39.78.118
-  port: 8443
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=firefox"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
 - name: " Unsorted f1cb"
   server: 77.221.158.36
   port: 8443
@@ -2139,20 +2013,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted f506 | SNI - t39sed.gateway-api.sh21.eu.org"
-  server: 103.232.213.245
-  port: 39835
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=firefox"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
 - name: " Unsorted f5d5"
   server: 77.221.156.92
   port: 8443
