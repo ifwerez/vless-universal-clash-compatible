@@ -1,0 +1,1684 @@
+# name: Clash - Other
+# title: Clash - Other
+# https://github.com/ifwerez/proxy-config-builder
+port: 7890
+socks-port: 7891
+mixed-port: 7893
+bind-address: 127.0.0.1
+allow-lan: false
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+dns:
+  enable: true
+  listen: 0.0.0.0:53
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  nameserver:
+  - https://1.1.1.1/dns-query
+  - tls://8.8.8.8:853
+  fallback:
+  - 8.8.4.4
+tun:
+  enable: true
+  stack: system
+  auto-route: true
+  auto-detect-interface: true
+proxies:
+- name: " Unsorted 014d"
+  server: 193.164.155.226
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 052a"
+  server: 185.211.170.101
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 06a1"
+  server: 193.47.60.37
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 06c1"
+  server: 77.75.199.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: vms.lifetime59.workers.dev
+- name: " Unsorted 085b"
+  server: 31.56.206.205
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 08b3"
+  server: 31.58.171.230
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 0a52"
+  server: 93.77.177.164
+  port: 443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 0f04"
+  server: 31.58.171.111
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 0ff3"
+  server: 212.34.146.98
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 1055"
+  server: 212.192.0.13
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 109b | SNI - travel.yandex.ru"
+  server: 84.201.167.159
+  port: 2006
+  udp: true
+  type: vless
+  uuid: b58448a9-5eb3-570c-8241-4ea9d88ff5ea
+  network: tcp
+  tls: true
+  servername: travel.yandex.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
+    short-id: "35a84908e9cfa95c"
+- name: " Unsorted 1464"
+  server: 89.110.100.76
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 1589"
+  server: 157.22.182.229
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 1b17 | SNI - ads.x5.ru"
+  server: 84.201.141.0
+  port: 4443
+  udp: true
+  type: vless
+  uuid: b7115280-d91e-4506-94c0-0810e80f4a53
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg
+    short-id: "844352756c1fabba"
+- name: " Unsorted 1c08 | SNI - w2ws.listwhite.cc"
+  server: w2ws.listwhite.cc
+  port: 443
+  udp: true
+  type: vless
+  uuid: 2f959378-8344-2040-a2c0-c382236c7638
+  network: ws
+  tls: true
+  servername: w2ws.listwhite.cc
+  client-fingerprint: chrome
+  ws-opts:
+    path: /upload/session
+    headers:
+      Host: s2.ws.listwhite.cc
+- name: " Unsorted 1cdb | SNI - dl.k8s.io"
+  server: 91.239.23.180
+  port: 443
+  udp: true
+  type: vless
+  uuid: e502ee54-8e2a-41c6-a3ca-3d192e8710fb
+  network: grpc
+  tls: true
+  servername: dl.k8s.io
+  client-fingerprint: safari
+  reality-opts:
+    public-key: 54hbwVG2QOq8hXR77roi2ZrKWPMK3Um3ZnagioywoDk
+    short-id: "bdf1e772522d1d5a"
+  grpc-opts:
+    grpc-service-name: xraygrpc
+- name: " Unsorted 1d74"
+  server: 212.34.151.109
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 1e3d"
+  server: 89.110.108.189
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 1f62 | SNI - ads.x5.ru"
+  server: bs.trustnet.sbs
+  port: 443
+  udp: true
+  type: vless
+  uuid: d310e139-65d9-4910-8422-75fdc47eeda3
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 4fkc7NTbrWKSBTpZHGE2jjQXVtrao1tQQ989zilyPUw
+- name: " Unsorted 1fdd"
+  server: 193.222.62.67
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 2043"
+  server: 89.169.170.230
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 23d0"
+  server: 77.221.157.251
+  port: 2096
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 24f5 | SNI - www.tesla.com"
+  server: 2.26.116.183
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 02ca6335-4c91-412c-956f-f7f9e5630b6c
+  network: tcp
+  tls: true
+  servername: www.tesla.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 7EP54JvAk7mD5mC-y_5C9SxGOHH6BGxuN9vOEpyL9n4
+    short-id: "11b6287a47dc"
+- name: " Unsorted 26d1"
+  server: 89.110.125.232
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 2a45 | SNI - max.ru"
+  server: 84.201.167.159
+  port: 48016
+  udp: true
+  type: vless
+  uuid: b58448a9-5eb3-570c-8241-4ea9d88ff5ea
+  network: tcp
+  tls: true
+  servername: max.ru
+  client-fingerprint: qq
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
+    short-id: "35a84908e9cfa95c"
+- name: " Unsorted 2bb9 | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 109.69.57.181
+  port: 443
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=firefox"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted 2bfa | SNI - travel.yandex.ru"
+  server: 51.250.29.224
+  port: 48206
+  udp: true
+  type: vless
+  uuid: b58448a9-5eb3-570c-8241-4ea9d88ff5ea
+  network: tcp
+  tls: true
+  servername: travel.yandex.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
+    short-id: "35a84908e9cfa95c"
+- name: " Unsorted 2c5a"
+  server: 45.38.143.62
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 2c9c | SNI - s1.ws.listwhite.cc"
+  server: s1.ws.listwhite.cc
+  port: 443
+  udp: true
+  type: vless
+  uuid: 2f959378-8344-2040-a2c0-c382236c7638
+  network: ws
+  tls: true
+  servername: s1.ws.listwhite.cc
+  client-fingerprint: chrome
+  ws-opts:
+    path: /upload/session
+    headers:
+      Host: s1.ws.listwhite.cc
+- name: " Unsorted 2d03 | SNI - s3.listwhite.cc"
+  server: s3.listwhite.cc
+  port: 443
+  udp: true
+  type: vless
+  uuid: 2f959378-8344-2040-a2c0-c382236c7638
+  network: ws
+  tls: true
+  servername: s3.listwhite.cc
+  client-fingerprint: chrome
+  ws-opts:
+    path: /upload/session
+    headers:
+      Host: s2.ws.listwhite.cc
+- name: " Unsorted 2d83 | SNI - travel.yandex.ru"
+  server: 217.16.21.104
+  port: 2006
+  udp: true
+  type: vless
+  uuid: b58448a9-5eb3-570c-8241-4ea9d88ff5ea
+  network: tcp
+  tls: true
+  servername: travel.yandex.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
+    short-id: "35a84908e9cfa95c"
+- name: " Unsorted 2eb8"
+  server: 138.124.60.93
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 2f6b | SNI - api-maps.yandex.ru"
+  server: ydlte.fluxorvpn.net
+  port: 443
+  udp: true
+  type: vless
+  uuid: c2c2ec90-56f7-4361-9bd6-03876e1309cd
+  network: tcp
+  tls: true
+  servername: api-maps.yandex.ru
+  client-fingerprint: qq
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM
+    short-id: "d7e1a2bb"
+- name: " Unsorted 3088"
+  server: 108.165.152.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      Host: vms.lifetime61.workers.dev
+- name: " Unsorted 30a6 | SNI - ads.x5.ru"
+  server: 84.201.141.0
+  port: 443
+  udp: true
+  type: vless
+  uuid: b7115280-d91e-4506-94c0-0810e80f4a53
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg
+    short-id: "844352756c1fabba"
+- name: " Unsorted 3358"
+  server: 213.176.113.98
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 336f"
+  server: 77.238.255.142
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 3762 | SNI - finite-node.rtxconfigz.com"
+  server: finite-node.rtxconfigz.com
+  port: 443
+  udp: true
+  type: vless
+  uuid: ce2aa2ab-d893-43c2-ae4c-5b45eb74d49f
+  network: ws
+  tls: true
+  servername: finite-node.rtxconfigz.com
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: tiktok.com
+- name: " Unsorted 3813 | SNI - et.seaspirit.dpdns.org"
+  server: 125.228.236.138
+  port: 443
+  udp: true
+  type: vless
+  uuid: 1c731995-761b-41b3-96d1-5ef5734ad909
+  network: ws
+  tls: true
+  servername: et.seaspirit.dpdns.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/fp=chrome"
+    headers:
+      Host: et.seaspirit.dpdns.org
+- name: " Unsorted 3882"
+  server: 193.164.155.186
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 3912 | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 210.16.65.149
+  port: 443
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=firefox"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted 3963 | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 14.63.31.79
+  port: 28017
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=firefox"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted 39bc"
+  server: 91.84.107.167
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 3a8c"
+  server: 89.110.119.231
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 3bdd"
+  server: 45.38.143.62
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 3d80"
+  server: 89.110.82.19
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 3f8a | SNI - 5post-gate.x5.ru"
+  server: 158.160.193.151
+  port: 443
+  udp: true
+  type: vless
+  uuid: eacdf9f8-2543-46f3-9436-ed4458fe0ad1
+  network: tcp
+  tls: true
+  servername: 5post-gate.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: XSyv5Fi_gW72GREh-PyGjfNfN4_Zyuuq6A-klKEU2Hc
+- name: " Unsorted 4332"
+  server: 212.192.217.100
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 435f"
+  server: 185.211.170.101
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 45a6"
+  server: 89.110.119.10
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 45ff | SNI - sn1.skylee5.cloudns.ch"
+  server: 219.76.13.183
+  port: 443
+  udp: true
+  type: vless
+  uuid: 06b65903-406d-4a41-8463-6fd5c0ee7798
+  network: ws
+  tls: true
+  servername: sn1.skylee5.cloudns.ch
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/fp=chrome"
+    headers:
+      Host: sn1.skylee5.cloudns.ch
+- name: " Unsorted 4721"
+  server: 80.74.28.213
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 490e | SNI - ads.x5.ru"
+  server: 84.201.141.0
+  port: 5443
+  udp: true
+  type: vless
+  uuid: b7115280-d91e-4506-94c0-0810e80f4a53
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg
+    short-id: "844352756c1fabba"
+- name: " Unsorted 4e99"
+  server: 85.193.90.131
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 4ec5"
+  server: 46.149.78.144
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 51e9"
+  server: 77.110.104.41
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 56ad"
+  server: 31.58.171.152
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 56d3"
+  server: 89.110.100.76
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 575f | SNI - www.bing.com"
+  server: 185.189.46.61
+  port: 443
+  udp: true
+  type: vless
+  uuid: 22418064-ba0f-42a2-8838-3c005733cec7
+  network: tcp
+  tls: true
+  servername: www.bing.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
+- name: " Unsorted 58c2 | SNI - finite-node.rtxconfigz.com"
+  server: finite-node.rtxconfigz.com
+  port: 443
+  udp: true
+  type: vless
+  uuid: 25f3beef-a4b6-40bc-aa74-17a0f89f683c
+  network: ws
+  tls: true
+  servername: finite-node.rtxconfigz.com
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: telegram.us
+- name: " Unsorted 5923"
+  server: 185.65.202.101
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 5964"
+  server: 212.192.8.178
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 59ae"
+  server: 5.255.118.107
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 5bf8 | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 185.39.51.124
+  port: 36284
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=firefox"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted 5c27 | SNI - travel.yandex.ru"
+  server: 51.250.29.224
+  port: 2006
+  udp: true
+  type: vless
+  uuid: b58448a9-5eb3-570c-8241-4ea9d88ff5ea
+  network: tcp
+  tls: true
+  servername: travel.yandex.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
+    short-id: "35a84908e9cfa95c"
+- name: " Unsorted 5f5e | SNI - ads.x5.ru"
+  server: 84.201.141.0
+  port: 3443
+  udp: true
+  type: vless
+  uuid: b7115280-d91e-4506-94c0-0810e80f4a53
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg
+    short-id: "844352756c1fabba"
+- name: " Unsorted 601d"
+  server: 138.124.89.189
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 6332"
+  server: 152.53.147.108
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 665f"
+  server: 195.200.19.244
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 672c"
+  server: 5.255.113.38
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 694c"
+  server: 185.79.138.12
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 6a38"
+  server: 217.114.7.97
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 6cde"
+  server: 85.155.98.71
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 6dc2"
+  server: 109.120.156.122
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 6e50 | SNI - ads.x5.ru"
+  server: ydlte.fluxorvpn.net
+  port: 8443
+  udp: true
+  type: vless
+  uuid: c2c2ec90-56f7-4361-9bd6-03876e1309cd
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: edge
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM
+    short-id: "d7e1a111"
+- name: " Unsorted 6f6d"
+  server: 31.58.171.111
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 7199 | SNI - github.com"
+  server: 144.31.245.146
+  port: 443
+  udp: true
+  type: vless
+  uuid: fbfd2093-7fc4-4cf1-b435-90def11f67b5
+  network: tcp
+  tls: true
+  servername: github.com
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: VH-4z1TvkJLyH9cgwdrhvMevxr3PltSBnMk43X6pi2U
+    short-id: "086007"
+- name: " Unsorted 7387 | SNI - ads.x5.ru"
+  server: bs.trustednet.sbs
+  port: 443
+  udp: true
+  type: vless
+  uuid: d310e139-65d9-4910-8422-75fdc47eeda3
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 4fkc7NTbrWKSBTpZHGE2jjQXVtrao1tQQ989zilyPUw
+- name: " Unsorted 7632 | SNI - max.ru"
+  server: 84.201.167.159
+  port: 48106
+  udp: true
+  type: vless
+  uuid: b58448a9-5eb3-570c-8241-4ea9d88ff5ea
+  network: tcp
+  tls: true
+  servername: max.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
+    short-id: "35a84908e9cfa95c"
+- name: " Unsorted 7ada"
+  server: 151.242.43.44
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 7cbe"
+  server: 84.32.49.95
+  port: 8443
+  udp: true
+  type: trojan
+  password: 162534
+  tls: true
+  sni: cchh2.pages.dev
+- name: " Unsorted 7d50 | SNI - api-maps.yandex.ru"
+  server: moon2.realm-of-ultramar.ru
+  port: 443
+  udp: true
+  type: vless
+  uuid: caa66029-c529-4e7e-a9be-38f38981bfe6
+  network: tcp
+  tls: true
+  servername: api-maps.yandex.ru
+  client-fingerprint: qq
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
+    short-id: "6cc5290e6f0b47c3"
+- name: " Unsorted 7f74"
+  server: 89.110.65.5
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 7f8f | SNI - max.ru"
+  server: 95.163.181.215
+  port: 48106
+  udp: true
+  type: vless
+  uuid: b58448a9-5eb3-570c-8241-4ea9d88ff5ea
+  network: tcp
+  tls: true
+  servername: max.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
+    short-id: "35a84908e9cfa95c"
+- name: " Unsorted 8281"
+  server: 31.58.171.102
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 8345"
+  server: 5.255.115.185
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 883c | SNI - et.seaspirit.dpdns.org"
+  server: 163.61.103.239
+  port: 443
+  udp: true
+  type: vless
+  uuid: 1c731995-761b-41b3-96d1-5ef5734ad909
+  network: ws
+  tls: true
+  servername: et.seaspirit.dpdns.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: et.seaspirit.dpdns.org
+- name: " Unsorted 89e8"
+  server: 31.128.37.116
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 8c5b | SNI - moon1.realm-of-ultramar.ru"
+  server: moon1.realm-of-ultramar.ru
+  port: 443
+  udp: true
+  type: vless
+  uuid: caa66029-c529-4e7e-a9be-38f38981bfe6
+  network: tcp
+  tls: true
+  servername: moon1.realm-of-ultramar.ru
+  client-fingerprint: qq
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
+- name: " Unsorted 8d91 | SNI - w1ws.listwhite.cc"
+  server: w1ws.listwhite.cc
+  port: 443
+  udp: true
+  type: vless
+  uuid: 2f959378-8344-2040-a2c0-c382236c7638
+  network: ws
+  tls: true
+  servername: w1ws.listwhite.cc
+  client-fingerprint: chrome
+  ws-opts:
+    path: /upload/session
+    headers:
+      Host: s1.ws.listwhite.cc
+- name: " Unsorted 8f49"
+  server: 212.34.146.6
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 8f4e"
+  server: 77.110.103.243
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 917c | SNI - io.ozone.ru"
+  server: 84.201.167.159
+  port: 2016
+  udp: true
+  type: vless
+  uuid: b58448a9-5eb3-570c-8241-4ea9d88ff5ea
+  network: tcp
+  tls: true
+  servername: io.ozone.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
+    short-id: "35a84908e9cfa95c"
+- name: " Unsorted 923d"
+  server: 31.56.197.181
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 92ed"
+  server: 77.221.157.251
+  port: 2087
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 9381"
+  server: 138.124.74.104
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 953f"
+  server: 109.206.236.142
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 9abc"
+  server: 45.38.143.97
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 9cba"
+  server: 89.208.105.59
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 9cef"
+  server: 151.242.43.44
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 9eb7"
+  server: 212.34.151.109
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted a2b1"
+  server: 31.128.37.116
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted a2cc"
+  server: 109.206.236.221
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted a316"
+  server: 31.56.197.90
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted a407"
+  server: 85.192.24.201
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted a47d"
+  server: 89.110.119.10
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted a572 | SNI - api-maps.yandex.ru"
+  server: moon3.realm-of-ultramar.ru
+  port: 443
+  udp: true
+  type: vless
+  uuid: caa66029-c529-4e7e-a9be-38f38981bfe6
+  network: tcp
+  tls: true
+  servername: api-maps.yandex.ru
+  client-fingerprint: qq
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
+    short-id: "6cc5290e6f0b47c3"
+- name: " Unsorted a61a"
+  server: 85.193.90.131
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted a63b"
+  server: 138.124.117.96
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted a64d | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 185.241.42.216
+  port: 443
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=firefox"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted a67b"
+  server: 77.105.139.166
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted a935"
+  server: 109.248.168.196
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted abdf"
+  server: 45.38.143.54
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted b0ba"
+  server: 46.21.82.168
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted b17c"
+  server: 151.242.43.77
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted b1ef"
+  server: 31.58.171.152
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted b2f1"
+  server: 46.149.78.144
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted bb51"
+  server: 155.103.71.153
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted bcf6 | SNI - disk.yandex.ru"
+  server: 158.160.122.82
+  port: 443
+  udp: true
+  type: vless
+  uuid: c508c6d2-0466-447e-83ad-84a4cbe35492
+  network: grpc
+  tls: true
+  servername: disk.yandex.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: zVkSQiDMvCFk2zmmvChQlDA24K2QUdoq1-IyFw5nMTw
+    short-id: "96d0a6e8a6c0d73a"
+  grpc-opts:
+    grpc-service-name: grpc
+- name: " Unsorted bebf"
+  server: 77.110.104.41
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted c05f"
+  server: 212.34.146.229
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted c160"
+  server: 89.169.1.76
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted c181 | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 103.90.75.121
+  port: 443
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=chrome"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted c355"
+  server: 62.84.98.74
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted c3db"
+  server: 195.200.16.192
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted c529 | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 27.100.182.157
+  port: 20005
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=firefox"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted c727"
+  server: 109.71.240.207
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted c86d"
+  server: 31.58.171.7
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted c98d"
+  server: 31.56.206.205
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted ca65"
+  server: 89.110.111.27
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted cc1d"
+  server: 109.120.176.88
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted d0c7"
+  server: 109.206.236.154
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted d0ee"
+  server: 45.143.167.72
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted d3fb"
+  server: 185.65.202.101
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted d54a"
+  server: 89.110.108.206
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted d797"
+  server: 193.164.155.226
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted d8d0"
+  server: 109.71.240.207
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted d92a"
+  server: 31.58.171.7
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted dae5"
+  server: 45.38.143.54
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted dcb5"
+  server: 109.120.184.43
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted dd37"
+  server: 150.241.74.98
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted dfd3"
+  server: 5.188.118.92
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted dfed"
+  server: 89.110.125.232
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted e1c7"
+  server: 45.38.143.139
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted e2b2 | SNI - et.seaspirit.dpdns.org"
+  server: 8.209.231.3
+  port: 443
+  udp: true
+  type: vless
+  uuid: 1c731995-761b-41b3-96d1-5ef5734ad909
+  network: ws
+  tls: true
+  servername: et.seaspirit.dpdns.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/fp=chrome"
+    headers:
+      Host: et.seaspirit.dpdns.org
+- name: " Unsorted e33f"
+  server: 138.124.89.211
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted e41b | SNI - max.ru"
+  server: 217.16.21.104
+  port: 48016
+  udp: true
+  type: vless
+  uuid: b58448a9-5eb3-570c-8241-4ea9d88ff5ea
+  network: tcp
+  tls: true
+  servername: max.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
+    short-id: "35a84908e9cfa95c"
+- name: " Unsorted e41c"
+  server: 91.108.242.148
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted e635"
+  server: 151.242.43.77
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted e6f4"
+  server: 77.221.157.251
+  port: 2083
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted e754"
+  server: 109.206.236.221
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted e76a"
+  server: 89.110.108.189
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted e8eb"
+  server: 77.221.157.251
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted e992 | SNI - 5post-gate.x5.ru"
+  server: 51.250.30.235
+  port: 443
+  udp: true
+  type: vless
+  uuid: eacdf9f8-2543-46f3-9436-ed4458fe0ad1
+  network: tcp
+  tls: true
+  servername: 5post-gate.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: XSyv5Fi_gW72GREh-PyGjfNfN4_Zyuuq6A-klKEU2Hc
+- name: " Unsorted ea79 | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 62.133.60.155
+  port: 443
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=firefox"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted ebe9 | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 142.248.219.98
+  port: 2053
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=chrome"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted ec9d"
+  server: 212.34.146.229
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted ed5d | SNI - max.ru"
+  server: 51.250.73.213
+  port: 48016
+  udp: true
+  type: vless
+  uuid: b58448a9-5eb3-570c-8241-4ea9d88ff5ea
+  network: tcp
+  tls: true
+  servername: max.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
+    short-id: "35a84908e9cfa95c"
+- name: " Unsorted efc7"
+  server: 77.238.255.142
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted f141 | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 103.39.78.118
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=firefox"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted f1cb"
+  server: 77.221.158.36
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted f485 | SNI - obhod.riotvpn.eu"
+  server: 87.228.101.202
+  port: 80
+  udp: true
+  type: vless
+  uuid: b7115280-d91e-4506-94c0-0810e80f4a53
+  network: tcp
+  tls: true
+  servername: obhod.riotvpn.eu
+  client-fingerprint: chrome
+- name: " Unsorted f4df"
+  server: 217.114.7.17
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted f506 | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 103.232.213.245
+  port: 39835
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=firefox"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted f5d5"
+  server: 77.221.156.92
+  port: 8443
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted fe49"
+  server: 104.167.196.91
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted fe79 | SNI - max.ru"
+  server: 51.250.73.213
+  port: 48106
+  udp: true
+  type: vless
+  uuid: b58448a9-5eb3-570c-8241-4ea9d88ff5ea
+  network: tcp
+  tls: true
+  servername: max.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
+    short-id: "35a84908e9cfa95c"
+- name: " Unsorted fea4"
+  server: 31.58.171.230
+  port: 2053
+  udp: true
+  type: trojan
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+rules:
+- GEOSITE,category-ads-all,REJECT
+- GEOSITE,cn,DIRECT
+- GEOIP,cn,DIRECT
+- GEOIP,private,DIRECT
+- MATCH,PROXY

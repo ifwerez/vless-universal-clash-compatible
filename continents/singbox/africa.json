@@ -1,0 +1,82 @@
+# name: Singbox - Africa
+{
+  "log": {
+    "level": "info"
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "dns-remote",
+        "address": "https://1.1.1.1/dns-query"
+      }
+    ]
+  },
+  "inbounds": [
+    {
+      "type": "tun",
+      "tag": "tun-in",
+      "inet4_address": "172.19.0.1/30",
+      "auto_route": true,
+      "strict_route": true
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "selector",
+      "tag": "proxy",
+      "outbounds": [
+        "🇳🇬 Nigeria 5332 | SNI - max.ru"
+      ]
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇬 Nigeria 5332 | SNI - max.ru",
+      "server": "85.239.39.29",
+      "server_port": 443,
+      "uuid": "a8f62e90-a16d-43bc-b094-15160bcd160c",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "max.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "6Ntt3Has_bksYarpbK5iDJJkn9traD3znSLSN1WXL14",
+          "short_id": "a1b2c3d4a1b2c3d5"
+        }
+      }
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "protocol": "dns",
+        "action": "hijack-dns"
+      },
+      {
+        "geosite": "category-ads-all",
+        "action": "reject"
+      },
+      {
+        "geosite": "cn",
+        "action": "direct"
+      },
+      {
+        "geoip": "cn",
+        "action": "direct"
+      },
+      {
+        "geoip": "private",
+        "action": "direct"
+      },
+      {
+        "outbound": "proxy",
+        "action": "route"
+      }
+    ]
+  }
+}

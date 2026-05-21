@@ -1,0 +1,89 @@
+# name: Singbox - hysteria2
+{
+  "log": {
+    "level": "info"
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "dns-remote",
+        "address": "https://1.1.1.1/dns-query"
+      }
+    ]
+  },
+  "inbounds": [
+    {
+      "type": "tun",
+      "tag": "tun-in",
+      "inet4_address": "172.19.0.1/30",
+      "auto_route": true,
+      "strict_route": true
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "selector",
+      "tag": "proxy",
+      "outbounds": [
+        "🇰🇷 South Korea 4c25",
+        "🇷🇺 Russia fb75"
+      ]
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇰🇷 South Korea 4c25",
+      "server": "47.80.6.141",
+      "server_port": 443,
+      "password": "how8JSc5DuJbiH5Du6sVtel5OJiMz3UTu0/6CRY/Se4=",
+      "tls": {
+        "enabled": true,
+        "server_name": "apps.apple.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇷🇺 Russia fb75",
+      "server": "193.53.126.108",
+      "server_port": 443,
+      "password": "10550754-cf62-3d3b-ba6a-50be27a275d7",
+      "tls": {
+        "enabled": true,
+        "server_name": "s463.okgfwbackxyz.xyz",
+        "insecure": false
+      }
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "protocol": "dns",
+        "action": "hijack-dns"
+      },
+      {
+        "geosite": "category-ads-all",
+        "action": "reject"
+      },
+      {
+        "geosite": "cn",
+        "action": "direct"
+      },
+      {
+        "geoip": "cn",
+        "action": "direct"
+      },
+      {
+        "geoip": "private",
+        "action": "direct"
+      },
+      {
+        "outbound": "proxy",
+        "action": "route"
+      }
+    ]
+  }
+}

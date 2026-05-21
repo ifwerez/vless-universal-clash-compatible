@@ -1,0 +1,208 @@
+# name: Singbox - Oceania
+{
+  "log": {
+    "level": "info"
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "dns-remote",
+        "address": "https://1.1.1.1/dns-query"
+      }
+    ]
+  },
+  "inbounds": [
+    {
+      "type": "tun",
+      "tag": "tun-in",
+      "inet4_address": "172.19.0.1/30",
+      "auto_route": true,
+      "strict_route": true
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "selector",
+      "tag": "proxy",
+      "outbounds": [
+        "🇦🇺 Australia 2433 | SNI - yahoo.com",
+        "🇦🇺 Australia 4cec | SNI - yahoo.com",
+        "🇦🇺 Australia 5db8 | SNI - www.tesla.com",
+        "🇦🇺 Australia 71f3 | SNI - www.tesla.com",
+        "🇦🇺 Australia 96af | SNI - yahoo.com",
+        "🇦🇺 Australia b9ae | SNI - yahoo.com",
+        "🇳🇿 New Zealand 39b2",
+        "🇳🇿 New Zealand 98af | SNI - tradingview.com"
+      ]
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "vless",
+      "tag": "🇦🇺 Australia 2433 | SNI - yahoo.com",
+      "server": "3.27.234.120",
+      "server_port": 51808,
+      "uuid": "b64ced11-143e-4ded-a985-a8de25461061",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "yahoo.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XHnwfyEySdx57QT_8P_7vDVFzdLHO4tO9BQOsHxxlEk",
+          "short_id": "8810c789eea55c28"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇦🇺 Australia 4cec | SNI - yahoo.com",
+      "server": "54.252.231.115",
+      "server_port": 55292,
+      "uuid": "aca32055-db88-4634-b623-6429ddbb6c93",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "yahoo.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kPx16abMZD2x6dv7NW_hn1HSc2P8RsPptytcCT-neQs",
+          "short_id": "bd711c02c8dc9955"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇦🇺 Australia 5db8 | SNI - www.tesla.com",
+      "server": "54.253.37.164",
+      "server_port": 23951,
+      "uuid": "3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.tesla.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0",
+          "short_id": "8c4907b7884b31"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇦🇺 Australia 71f3 | SNI - www.tesla.com",
+      "server": "3.106.214.88",
+      "server_port": 31318,
+      "uuid": "3c7961e6-6ce7-4e55-8b8a-01a5d663efd4",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.tesla.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "uAhNpK_fDxgKKNtYtUs2uB79V28pjFv1-Mh7D4PTaW8",
+          "short_id": "1b665f78655294"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇦🇺 Australia 96af | SNI - yahoo.com",
+      "server": "3.106.54.135",
+      "server_port": 57001,
+      "uuid": "30ac5a8b-5022-43c0-b0c2-11b9a98a986e",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "yahoo.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "aSK0B0bgRalAWw_5d7buTjy4dYLF2WGTZhUojypI618",
+          "short_id": "b2dd66706eb2"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇦🇺 Australia b9ae | SNI - yahoo.com",
+      "server": "13.239.112.139",
+      "server_port": 42376,
+      "uuid": "c42b435d-e1d2-45ba-85bc-2f3c080ce826",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "yahoo.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "5x6nErZvJp6uFYQ4VkOZSrnz4FWNRvYJqTfimjuBOCw",
+          "short_id": "be125600cea6"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇿 New Zealand 39b2",
+      "server": "45.15.140.128",
+      "server_port": 4443,
+      "password": "strong-secret-pass-777",
+      "tls": {
+        "enabled": true,
+        "server_name": "45.15.140.128",
+        "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇿 New Zealand 98af | SNI - tradingview.com",
+      "server": "45.15.140.128",
+      "server_port": 8443,
+      "uuid": "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "tradingview.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI"
+        }
+      }
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "protocol": "dns",
+        "action": "hijack-dns"
+      },
+      {
+        "geosite": "category-ads-all",
+        "action": "reject"
+      },
+      {
+        "geosite": "cn",
+        "action": "direct"
+      },
+      {
+        "geoip": "cn",
+        "action": "direct"
+      },
+      {
+        "geoip": "private",
+        "action": "direct"
+      },
+      {
+        "outbound": "proxy",
+        "action": "route"
+      }
+    ]
+  }
+}

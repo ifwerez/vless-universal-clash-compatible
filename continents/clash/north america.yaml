@@ -1,0 +1,1206 @@
+# name: Clash - North America
+# title: Clash - North America
+# https://github.com/ifwerez/proxy-config-builder
+port: 7890
+socks-port: 7891
+mixed-port: 7893
+bind-address: 127.0.0.1
+allow-lan: false
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+dns:
+  enable: true
+  listen: 0.0.0.0:53
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  nameserver:
+  - https://1.1.1.1/dns-query
+  - tls://8.8.8.8:853
+  fallback:
+  - 8.8.4.4
+tun:
+  enable: true
+  stack: system
+  auto-route: true
+  auto-detect-interface: true
+proxies:
+- name: "0621 | 🇨🇦 Canada | VLESS | 📺 YT"
+  server: 15.223.121.250
+  port: 41087
+  udp: true
+  type: vless
+  uuid: 57d94cf7-ca36-4c2a-bec5-90cf38588cda
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.tesla.com
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: aoGL5vNnsEuKoBXQFXyHTxjvcdAn3SxT4qUgV6aJxnw
+    short-id: "190d259bbd40d4c3"
+- name: "0875 | 🇨🇦 Canada | VLESS | 📺 YT"
+  server: chatgpt.com
+  port: 2053
+  udp: true
+  type: vless
+  uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  network: ws
+  tls: true
+  flow: ''
+  servername: BpB241.gaNIJoV670.WOrkErs.dev.
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      {}
+- name: "1022 | 🇨🇦 Canada | VLESS | 📺 YT"
+  server: chatgpt.com
+  port: 2096
+  udp: true
+  type: vless
+  uuid: a22bff60-a40a-4250-bde2-4c660e363b47
+  network: ws
+  tls: true
+  flow: ''
+  servername: index.harmony702.workers.dev
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      {}
+- name: "1187 | 🇨🇦 Canada | VLESS | 📺 YT"
+  server: 35.182.252.92
+  port: 51072
+  udp: true
+  type: vless
+  uuid: b6b2c827-4ac1-4e2c-af28-dfa7edbfeb81
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.sony.com
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 5KJ1tLErCUEfqxc3IsnY_49p_gWe0mPB8eXJ3MLucgU
+    short-id: "0675732ab101"
+- name: "1396 | 🇨🇦 Canada | VLESS | 📺 YT"
+  server: 23.173.104.207
+  port: 2053
+  udp: true
+  type: vless
+  uuid: 981fca81-5be1-41f8-ac9b-d138e8109943
+  network: ws
+  tls: true
+  flow: ''
+  servername: babayaga-6i7.pages.dev
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      {}
+- name: "2701 | 🇨🇦 Canada | VLESS | 📺 YT"
+  server: myanmar.visa.com
+  port: 8443
+  udp: true
+  type: vless
+  uuid: fc625795-792d-4d9d-9d38-bffe59467d2d
+  network: ws
+  tls: true
+  flow: ''
+  servername: daluan.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      {}
+- name: "0001 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: us.skysafe.online
+  port: 443
+  udp: true
+  type: vless
+  uuid: 0e3a9376-1bf0-4b9e-a328-f28083bf6c34
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: us.skysafe.online
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc
+    short-id: "fb38c1c83009e1"
+- name: "0024 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 82.38.63.246
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 89f8f53c-2ec5-11f1-bffe-46c4782ac1a7
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ''
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc
+    short-id: "cafe01234567"
+- name: "0040 | 🇺🇸 USA | 🏳️ SNI-Yandex | VLESS | 📺 YT"
+  server: us2.unlockregion.top
+  port: 443
+  udp: true
+  type: vless
+  uuid: 3c81c716-4fd5-11f1-8a2c-525400a7149e
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: cloudcdn-m9-15.cdn.yandex.net
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: _rpOMKjM0nkFCJay0V5SuvhWVHQkr51YJbSyY2Q0gA4
+- name: "0062 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 207.57.128.27
+  port: 8081
+  udp: true
+  type: vless
+  uuid: 38114739-05e0-4c58-be61-7a501488569c
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0
+    short-id: "a1b2c3d4"
+- name: "0089 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 15.204.97.206
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "0106 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: usa.visa.com
+  port: 443
+  udp: true
+  type: vless
+  uuid: fc625795-792d-4d9d-9d38-bffe59467d2d
+  network: ws
+  tls: true
+  flow: ''
+  servername: daluan.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      {}
+- name: "0181 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 82.38.63.246
+  port: 8443
+  udp: true
+  type: vless
+  uuid: ca05976a-2dea-11f1-9ec5-baabcd4be2cd
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.apple.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc
+    short-id: "cafe01234567"
+- name: "0224 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 15.204.97.216
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "0266 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 2.26.114.3
+  port: 443
+  udp: true
+  type: vless
+  uuid: f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.deepl.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU
+- name: "0368 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 174.136.205.68
+  port: 443
+  udp: true
+  type: vless
+  uuid: cc0c5ff2-00b5-4dcb-8811-076c637911c4
+  network: tcp
+  tls: true
+  flow: ''
+  servername: navi.bankrate.com
+  client-fingerprint: random
+  reality-opts:
+    public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
+    short-id: "2da72ce6"
+- name: "0382 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 100.23.55.30
+  port: 443
+  udp: true
+  type: vless
+  uuid: 79b78774-0ccd-4792-aa2d-189887dd987f
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ohio.ap221.com
+  client-fingerprint: chrome
+- name: "0395 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 2.26.22.139
+  port: 443
+  udp: true
+  type: vless
+  uuid: cda21e1a-4a07-412c-ae0b-4e1472bbbace
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: google.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: FNUvdW0gSMh30g80qiD2LejYDzbh6vwUGtV3fbihwzk
+    short-id: "2627"
+- name: "0414 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 67.102.180.16
+  port: 443
+  udp: true
+  type: vless
+  uuid: b831381d-6324-4d53-ad4f-8cda48b30811
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.microsoft.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 3j9h81MFAlsEOQ4K1ey1XD0tz1aEVNaMGMoMjQwif1w
+    short-id: "16"
+- name: "0463 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 152.53.80.40
+  port: 443
+  udp: true
+  type: vless
+  uuid: e6567a1e-260f-4b0e-8de3-e2e12f90e854
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: sha.helper-internet.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE
+    short-id: "ff776ff77be48b88"
+- name: "0471 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: kr.s3-rus.ru
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 41d1527e-526b-436c-a84c-d70dc91f0648
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ads.x5.ru
+  client-fingerprint: edge
+  reality-opts:
+    public-key: x274vAATjQyRHChXL5coeXJB4ZuGx_-4Q_918Rw6lWA
+    short-id: "372c05b48fe83e5b"
+- name: "0474 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 2.26.123.64
+  port: 443
+  udp: true
+  type: vless
+  uuid: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: download.spectrum.vu
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8
+    short-id: "0d1a2c1d4e1f"
+- name: "0501 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 144.34.224.221
+  port: 26083
+  udp: true
+  type: vless
+  uuid: 266aef47-5faa-41e5-956f-0999e8b122ae
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: addons.mozilla.org
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 7amlaska72Zj_l5e1czdynnPYz9b2v44ZeBiKWp3dzM
+    short-id: "2985ccb1"
+- name: "0604 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 2.26.3.148
+  port: 443
+  udp: true
+  type: vless
+  uuid: d511e429-e32b-46a7-ac07-a0fffa9b634c
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.deepl.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU
+    short-id: "67ccfc02"
+- name: "0623 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: kr.s3-rus.ru
+  port: 8443
+  udp: true
+  type: vless
+  uuid: d678c5d1-c658-47da-a448-827b27c5c31a
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ads.x5.ru
+  client-fingerprint: edge
+  reality-opts:
+    public-key: x274vAATjQyRHChXL5coeXJB4ZuGx_-4Q_918Rw6lWA
+    short-id: "372c05b48fe83e5b"
+- name: "0653 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 95.164.85.33
+  port: 443
+  udp: true
+  type: vless
+  uuid: 43488128-319e-f480-64ea-0acdc712e2a8
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.rakuten.co.jp
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: -n5iY1LH6WNzxc6_sQg_phf04553mzBExCqQzRvoA3U
+    short-id: "41427aa565e28984"
+- name: "0658 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 154.21.91.91
+  port: 15623
+  udp: true
+  type: vless
+  uuid: 78dca3dc-8134-4e65-a08b-ba34ba228cdd
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.icloud.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: x_BonebeDcNGX4eoog2P-p7_kzQhB0-OHJw5l1lbUCs
+    short-id: "3f000000"
+- name: "0690 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 77.83.199.113
+  port: 443
+  udp: true
+  type: vless
+  uuid: ec9e7b71-72b6-0021-8549-2efb1b21a502
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
+    short-id: "6e3f0a5b"
+- name: "0693 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 2.27.7.250
+  port: 443
+  udp: true
+  type: vless
+  uuid: c8d1c6d3-388f-48fc-a8f0-ed90d955d096
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.google.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw
+    short-id: "6ba85179e30d4fc2"
+- name: "0694 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 154.17.22.207
+  port: 443
+  udp: true
+  type: vless
+  uuid: 06b65903-406d-4a41-8463-6fd5c0ee7798
+  network: ws
+  tls: true
+  flow: ''
+  servername: sn1.skylee5.cloudns.ch
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      {}
+- name: "0710 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 185.184.70.120
+  port: 443
+  udp: true
+  type: vless
+  uuid: 145adeb9-279d-4c1d-a97c-93fe28ca071e
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: time.is
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: KUD5RiuqMRrhOoN6X2FcXpYZfoN_7z8BcviSBlyxOBw
+    short-id: "cbd8f4"
+- name: "0806 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 138.124.123.220
+  port: 443
+  udp: true
+  type: vless
+  uuid: c0430eea-066a-4a97-ac7f-77c4d10965a5
+  network: tcp
+  tls: true
+  flow: ''
+  servername: yahoo.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: Saj8JGZ0VDNJNYKYgoaB_yfbww0uKUbn_FjwOLBIU3c
+    short-id: "51f00000"
+- name: "0807 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 147.182.212.232
+  port: 56565
+  udp: true
+  type: vless
+  uuid: 7b188eea-b08f-42c2-bac7-d3b0e74218b8
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.paypal.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY
+- name: "0889 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 15.204.97.219
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "0897 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 137.184.218.169
+  port: 36925
+  udp: true
+  type: vless
+  uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.cloudflare.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0
+- name: "0924 | 🇺🇸 USA | 🏳️ SNI-X5 | VLESS | 📺 YT"
+  server: us.musicperec.ru
+  port: 443
+  udp: true
+  type: vless
+  uuid: 2d281503-7a0a-0021-8934-4c94585c87b1
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
+    short-id: "0a4b7c3d"
+- name: "0942 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 15.204.97.198
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "0965 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: usa.spectrumproxy.shop
+  port: 443
+  udp: true
+  type: vless
+  uuid: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: usa.spectrumproxy.shop
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: XtQ3m_8a_LWCiVVEKu7cZxvJCdKnjShteUAtZ3EOlko
+    short-id: "a3a7c2d9f1a4"
+- name: "0970 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 159.89.87.21
+  port: 28190
+  udp: true
+  type: vless
+  uuid: 14c80e0e-f7ce-4991-94fc-99a1db4a9b1e
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno
+- name: "1020 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 95.164.85.109
+  port: 59374
+  udp: true
+  type: vless
+  uuid: bfc78cd8-5951-4803-8d6c-4cedef8cd420
+  network: tcp
+  tls: true
+  flow: ''
+  servername: yahoo.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc
+    short-id: "d21e7c"
+- name: "1052 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: us2.persik.host
+  port: 443
+  udp: true
+  type: vless
+  uuid: 5234854d-106b-41ee-8fc7-4acc6a1158a2
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: us2.persik.host
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: Q8UTJ0U6_Kkt6PDD4NtAwRLauYRNNimdL6LU1KtSfTk
+    short-id: "8ab4e2d9"
+- name: "1116 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: ae.s3-rus.ru
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 41d1527e-526b-436c-a84c-d70dc91f0648
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ads.x5.ru
+  client-fingerprint: edge
+  reality-opts:
+    public-key: x274vAATjQyRHChXL5coeXJB4ZuGx_-4Q_918Rw6lWA
+    short-id: "372c05b48fe83e5b"
+- name: "1147 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 156.229.161.107
+  port: 10001
+  udp: true
+  type: vless
+  uuid: 9c79aceb-4649-44ea-9698-b5e9ecf6d6da
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.icloud.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4
+    short-id: "fb2c6678"
+- name: "1219 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 192.204.45.241
+  port: 24479
+  udp: true
+  type: vless
+  uuid: fe85e12e-8820-416d-90f5-f93b5274da01
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.icloud.com
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: jiZqt7Fm9MnXnLD25PuZ2Z1N1j5OKGVyRLPJqa1LSQw
+    short-id: "da62ee6c8126787f"
+- name: "1350 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 216.167.21.64
+  port: 23177
+  udp: true
+  type: vless
+  uuid: 1e382f65-4faf-4b3d-9d45-929f2460a9e9
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.sony.com
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: XAV1U0I9jQO0o2mlcT268s7nR6FMQtLrnLk36xv4GXM
+    short-id: "5bd3185e34a9ea"
+- name: "1357 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 144.31.207.111
+  port: 443
+  udp: true
+  type: vless
+  uuid: 2001daf3-5c56-4bef-8ea6-8dd0493c5a4c
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.deepl.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU
+    short-id: "1a"
+- name: "1362 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 2.26.3.148
+  port: 443
+  udp: true
+  type: vless
+  uuid: ae8ddd8e-00af-48e5-bd57-05074a1bbffb
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.deepl.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU
+    short-id: "67ccfc02"
+- name: "1394 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 132.226.85.167
+  port: 443
+  udp: true
+  type: vless
+  uuid: e43dd231-7c75-4606-80ec-50fbb8335ce7
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.microsoft.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 3ik9ws7ATJ5dKDY2Fofv9y7_vpFYsTqgOJRxiQKwA3A
+    short-id: "7b233a973c94ca0a"
+- name: "1479 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 2.26.3.239
+  port: 443
+  udp: true
+  type: vless
+  uuid: 2001daf3-5c56-4bef-8ea6-8dd0493c5a4c
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.deepl.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU
+    short-id: "c4fb372c78b32874"
+- name: "1517 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 100.22.77.114
+  port: 443
+  udp: true
+  type: vless
+  uuid: ce069292-c8bf-40dd-a6b1-87818a1e64e9
+  network: ws
+  tls: true
+  flow: ''
+  servername: 2-eox.pages.dev
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      {}
+- name: "1689 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 2.26.22.139
+  port: 443
+  udp: true
+  type: vless
+  uuid: 834868b6-0f2f-4759-8840-0663307896c6
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: google.com
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: FNUvdW0gSMh30g80qiD2LejYDzbh6vwUGtV3fbihwzk
+    short-id: "2627"
+- name: "1701 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 47.253.226.114
+  port: 443
+  udp: true
+  type: vless
+  uuid: 055a1ce8-2a16-4a0d-a2c2-22826c9b2413
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.cloudflare.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc
+- name: "1718 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 193.233.217.174
+  port: 443
+  udp: true
+  type: vless
+  uuid: b2a69c23-05cd-4862-bde8-fa5b0afcdc08
+  network: tcp
+  tls: true
+  flow: ''
+  servername: yahoo.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: JYt-2J_e3204dsiJcZv0AsUc4KIM-zj2MceJQIeGuxg
+    short-id: "64d0"
+- name: "1723 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 74.48.173.150
+  port: 28906
+  udp: true
+  type: vless
+  uuid: d09c384b-384b-4d9a-85c6-07d3dce8ae5b
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.suffolk.edu
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: wi1nGPSt-wF8rJIwpMTZI_5QG1qnkuzRyAWFEtgnBS0
+    short-id: "6ba85179e30d4fc2"
+- name: "1757 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 15.204.97.197
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "1772 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 38.54.104.230
+  port: 443
+  udp: true
+  type: vless
+  uuid: 9be451e0-10a1-4344-a282-cdae536b98d3
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.cloudflare.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: nAEubzfxjDBY00k_13U-GNjviSXosEaJ5dpwnmGV90Y
+- name: "1792 | 🇺🇸 USA | 🏳️ SNI-VK | VLESS | 📺 YT"
+  server: us2.duckfree.online
+  port: 443
+  udp: true
+  type: vless
+  uuid: 9d444061-93fc-4b85-bc12-5b5bdbe08048
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: sun1-18.userapi.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY
+- name: "1800 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 80.209.241.47
+  port: 443
+  udp: true
+  type: vless
+  uuid: c8d1c6d3-388f-48fc-a8f0-ed90d955d096
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.google.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw
+    short-id: "6ba85179e30d4fc2"
+- name: "1850 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 104.250.239.8
+  port: 17195
+  udp: true
+  type: vless
+  uuid: 2219a1b1-9290-4ac5-94fd-6cfc1fb25280
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: usvless.yydzx.xyz
+  client-fingerprint: chrome
+- name: "1887 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 47.251.25.74
+  port: 443
+  udp: true
+  type: vless
+  uuid: 18805ff3-b420-45de-af18-93be14024ae8
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.amazon.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8
+- name: "2169 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 209.166.46.195
+  port: 443
+  udp: true
+  type: vless
+  uuid: 73c16ed4-d111-4434-8b24-0dfe112a0813
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.microsoft.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: wIFJUBk4GRYT8Oim0-cPDwlGaTHh3kUYP2tOlKz1xlc
+    short-id: "9f4380a6"
+- name: "2217 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 173.242.127.138
+  port: 443
+  udp: true
+  type: vless
+  uuid: 06b65903-406d-4a41-8463-6fd5c0ee7798
+  network: ws
+  tls: true
+  flow: ''
+  servername: sn1.skylee5.cloudns.ch
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      {}
+- name: "2550 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: us.musicperec.ru
+  port: 443
+  udp: true
+  type: vless
+  uuid: ec9e7b71-72b6-0021-8549-2efb1b21a502
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
+    short-id: "6e3f0a5b"
+- name: "2641 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 100.23.55.30
+  port: 443
+  udp: true
+  type: vless
+  uuid: 3a1d7c1d-09c6-4c81-8e11-75dd4ab1ac07
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ohio1.ap221.com
+  client-fingerprint: chrome
+- name: "2656 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 104.129.165.138
+  port: 2096
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: true
+  flow: ''
+  servername: sni.111000.indevs.in
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      {}
+- name: "2661 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 64.23.143.23
+  port: 34045
+  udp: true
+  type: vless
+  uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
+  network: tcp
+  tls: true
+  flow: ''
+  servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
+    short-id: "e8ab71d0"
+- name: "2667 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 154.21.84.172
+  port: 443
+  udp: true
+  type: vless
+  uuid: 58538b9e-2cc5-42bf-90c5-305439916b31
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.microsoft.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: ArPjAWK7xOPzpWSxJTgJ2TVqHuBclErU3uiLczPJZhM
+    short-id: "abcd1234"
+- name: "2702 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 207.57.128.27
+  port: 8081
+  udp: true
+  type: vless
+  uuid: 4d6eb1e2-7cab-43a7-9129-0fffd3002709
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: aws.amazon.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0
+    short-id: "a1b2c3d4"
+- name: "2745 | 🇺🇸 USA | 🏳️ SNI-VK | VLESS | 📺 YT"
+  server: 195.26.250.121
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 2815b6ce-2967-48ad-b996-6967a3f917ae
+  network: tcp
+  tls: true
+  flow: ''
+  servername: vk.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4
+    short-id: "b3a1cc510a2001c6"
+- name: "2767 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 45.151.132.228
+  port: 19034
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: true
+  flow: ''
+  servername: sni.111000.indevs.in
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      {}
+- name: "2860 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 15.204.97.195
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "2973 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 44.242.50.106
+  port: 36895
+  udp: true
+  type: vless
+  uuid: 5c875449-ae7d-46f8-b919-5a29f271dfce
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.icloud.com
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: SKJQzoN8Lh8kqrDEyKzevbHHmfRhKe8XmzBxPYXF2A4
+    short-id: "5a585c3e894bf074"
+- name: "3141 | 🇺🇸 USA | 🏳️ SNI-Ozon | VLESS | 📺 YT"
+  server: 195.26.250.121
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 072baf2f-574e-4939-8b20-ccd89c17fefb
+  network: tcp
+  tls: true
+  flow: ''
+  servername: ozon.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4
+    short-id: "b3a1cc510a2001c6"
+- name: "3198 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 15.204.97.214
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "3199 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 178.157.48.41
+  port: 1443
+  udp: true
+  type: vless
+  uuid: ae0dd58e-e222-40bf-84ae-365a97532737
+  network: ws
+  tls: true
+  flow: ''
+  servername: pagescm.freen32.cc.cd
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      {}
+- name: "3223 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 186.246.2.76
+  port: 52006
+  udp: true
+  type: vless
+  uuid: 75807638-6f19-07d0-ae08-38492ee85c88
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: cl-ru-tw.fastaichat.ru
+  client-fingerprint: chrome
+- name: "3230 | 🇺🇸 USA | 🏳️ SNI-Yandex | VLESS | 📺 YT"
+  server: 45.83.140.189
+  port: 443
+  udp: true
+  type: vless
+  uuid: 9d444061-93fc-4b85-bc12-5b5bdbe08048
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: cloudcdn-m9-13.cdn.yandex.net
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY
+- name: "3297 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 186.246.2.177
+  port: 52006
+  udp: true
+  type: vless
+  uuid: 75807638-6f19-07d0-ae08-38492ee85c88
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: cl-ru-tw.fastaichat.ru
+  client-fingerprint: chrome
+- name: "3405 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 38.14.232.220
+  port: 26951
+  udp: true
+  type: vless
+  uuid: 19ca6e1e-f021-4d90-984e-9ee9d89b5115
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: apple.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: FsGyaNhXeIRd78L6RQ-818iiGEEgEH9fAwJNrpkTHlE
+    short-id: "8efda308375a26"
+- name: "3413 | 🇺🇸 USA | 🏳️ SNI-Yandex | VLESS | 📺 YT"
+  server: 38.114.103.54
+  port: 8443
+  udp: true
+  type: vless
+  uuid: b27ab9aa-a525-4deb-a1fd-6d16c9614612
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: yandex.net
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: "6ba85179e30d4fc2"
+- name: "3539 | 🇺🇸 USA | 🏳️ SNI-VK | VLESS | 📺 YT"
+  server: 195.26.250.121
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 30748ba4-ac51-48fb-b624-19c21ac4c31a
+  network: tcp
+  tls: true
+  flow: ''
+  servername: eh.vk.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4
+    short-id: "b3a1cc510a2001c6"
+- name: "3577 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 38.55.146.153
+  port: 13000
+  udp: true
+  type: vless
+  uuid: b852270a-1283-4ea8-8a2f-5bae8e644a3e
+  network: tcp
+  tls: false
+  flow: ''
+  servername: ''
+  client-fingerprint: chrome
+- name: "3717 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: 153.76.116.21
+  port: 443
+  udp: true
+  type: vless
+  uuid: e502ee54-8e2a-41c6-a3ca-3d192e8710fb
+  network: grpc
+  tls: true
+  flow: ''
+  servername: hostoff.net
+  client-fingerprint: safari
+  reality-opts:
+    public-key: q3sMB7EjGa7fU5yyFVuMaaJ9gRDxNrMyyyeFh7yjJCA
+    short-id: "9ac9e73ec9c3d4d6"
+  grpc-opts:
+    grpc-service-name: xraygrpc
+- name: "3812 | 🇺🇸 USA | VLESS | 📺 YT"
+  server: ae.s3-rus.ru
+  port: 8443
+  udp: true
+  type: vless
+  uuid: d678c5d1-c658-47da-a448-827b27c5c31a
+  network: tcp
+  tls: true
+  flow: xtls-rprx-vision
+  servername: ads.x5.ru
+  client-fingerprint: edge
+  reality-opts:
+    public-key: x274vAATjQyRHChXL5coeXJB4ZuGx_-4Q_918Rw6lWA
+    short-id: "372c05b48fe83e5b"
+- name: 🇺🇸 United States — 381
+  server: 85.193.82.212
+  port: 40443
+  udp: true
+  type: vless
+  uuid: 1c9be3cc-6bc6-4631-b691-38f49ce7477f
+  network: grpc
+  tls: true
+  flow: ''
+  servername: max.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: RXG821C5MAxnSe66PDwRFriCe2mzohzIiWYppChkEDg
+    short-id: "0162e56ac9924472"
+  grpc-opts:
+    grpc-service-name: max-ru/d0fda5e9
+rules:
+- MATCH,PROXY

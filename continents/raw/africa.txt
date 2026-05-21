@@ -1,0 +1,1 @@
+vless://a8f62e90-a16d-43bc-b094-15160bcd160c@85.239.39.29:443?type=tcp&security=reality&fp=chrome&sni=max.ru&flow=xtls-rprx-vision&pbk=6Ntt3Has_bksYarpbK5iDJJkn9traD3znSLSN1WXL14&sid=a1b2c3d4a1b2c3d5#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%205332%20%7C%20SNI%20-%20max.ru
