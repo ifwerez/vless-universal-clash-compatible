@@ -27,12 +27,10 @@
       "outbounds": [
         "🇧🇷 Brazil 0a40",
         "🇧🇷 Brazil 2f4b | SNI - api.cvs-a.com",
-        "🇧🇷 Brazil 56de",
         "🇧🇷 Brazil 7883 | SNI - varzesh3.varzesh.dpdns.org",
         "🇧🇷 Brazil 81c2",
         "🇧🇷 Brazil 97eb",
         "🇧🇷 Brazil a247",
-        "🇧🇷 Brazil b181",
         "🇧🇷 Brazil e1e0",
         "🇨🇦 Canada 000e",
         "🇨🇦 Canada 0062 | SNI - aged-sun-9128.danicng13.workers.dev",
@@ -44,8 +42,6 @@
         "🇨🇦 Canada 0340",
         "🇨🇦 Canada 065f",
         "🇨🇦 Canada 06a1",
-        "🇨🇦 Canada 073d",
-        "🇨🇦 Canada 0851",
         "🇨🇦 Canada 08a5",
         "🇨🇦 Canada 08e7",
         "🇨🇦 Canada 0b15 | SNI - bLUe-FRosT-Dd9D.tvUdWRY.woRKerS.dEv",
@@ -116,7 +112,6 @@
         "🇨🇦 Canada 3d02 | SNI - vpn3.rnmcnm.com",
         "🇨🇦 Canada 4043 | SNI - aged-sun-9128.danicng13.workers.dev",
         "🇨🇦 Canada 4097",
-        "🇨🇦 Canada 40a2",
         "🇨🇦 Canada 4280",
         "🇨🇦 Canada 4389",
         "🇨🇦 Canada 4499",
@@ -250,7 +245,6 @@
         "🇨🇦 Canada 9f71",
         "🇨🇦 Canada a081",
         "🇨🇦 Canada a0be",
-        "🇨🇦 Canada a122",
         "🇨🇦 Canada a176",
         "🇨🇦 Canada a277",
         "🇨🇦 Canada a323",
@@ -309,7 +303,6 @@
         "🇨🇦 Canada c0fa",
         "🇨🇦 Canada c230",
         "🇨🇦 Canada c244",
-        "🇨🇦 Canada c267",
         "🇨🇦 Canada c32a | SNI - qyi.fqjd663.ggff.net",
         "🇨🇦 Canada c542",
         "🇨🇦 Canada c562",
@@ -403,11 +396,8 @@
         "🇨🇦 Canada fc19 | SNI - babayaga-6i7.pages.dev",
         "🇨🇦 Canada fc61",
         "🇨🇦 Canada ff2d",
-        "🇨🇱 Chile 2cca",
-        "🇨🇱 Chile bfaa",
         "🇲🇽 Mexico 0fa9",
         "🇲🇽 Mexico a0db",
-        "🇵🇪 Peru b863",
         "🇺🇸 United States 000c | SNI - sni.111000.indevs.in",
         "🇺🇸 United States 0045 | SNI - ex.sue.x10.mx",
         "🇺🇸 United States 0115",
@@ -433,7 +423,6 @@
         "🇺🇸 United States 0901 | SNI - fuck.rkn",
         "🇺🇸 United States 0993",
         "🇺🇸 United States 09f4",
-        "🇺🇸 United States 09f9",
         "🇺🇸 United States 0a8a",
         "🇺🇸 United States 0d35",
         "🇺🇸 United States 0d3d",
@@ -505,9 +494,7 @@
         "🇺🇸 United States 2680",
         "🇺🇸 United States 2827",
         "🇺🇸 United States 2832 | SNI - sni.111000.dns.army",
-        "🇺🇸 United States 2944",
         "🇺🇸 United States 2963",
-        "🇺🇸 United States 2972",
         "🇺🇸 United States 2b2e | SNI - asmaos.uk",
         "🇺🇸 United States 2b42",
         "🇺🇸 United States 2b94",
@@ -613,18 +600,15 @@
         "🇺🇸 United States 4f6b",
         "🇺🇸 United States 511e | SNI - ex.sue.x10.mx",
         "🇺🇸 United States 515e | SNI - sni.111000.indevs.in",
-        "🇺🇸 United States 517b",
         "🇺🇸 United States 51ad | SNI - pagescm.freen11.cc.cd",
         "🇺🇸 United States 544c",
         "🇺🇸 United States 546b | SNI - sni.111000.dns.army",
-        "🇺🇸 United States 5499",
         "🇺🇸 United States 549c | SNI - ey.nazanin.dpdns.org",
         "🇺🇸 United States 552f | SNI - sni.111000.indevs.in",
         "🇺🇸 United States 5551",
         "🇺🇸 United States 5596",
         "🇺🇸 United States 565f | SNI - 3-85q.pages.dev",
         "🇺🇸 United States 5747 | SNI - ads.x5.ru",
-        "🇺🇸 United States 5824",
         "🇺🇸 United States 583c | SNI - sni.111000.dynv6.net",
         "🇺🇸 United States 586c | SNI - www.icloud.com",
         "🇺🇸 United States 58e5 | SNI - ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV",
@@ -633,7 +617,6 @@
         "🇺🇸 United States 5aec | SNI - talas.realm-of-ultramar.ru",
         "🇺🇸 United States 5bc4",
         "🇺🇸 United States 5be1",
-        "🇺🇸 United States 5be5",
         "🇺🇸 United States 5ca4",
         "🇺🇸 United States 5cb4 | SNI - cloudflare.com",
         "🇺🇸 United States 5ce3",
@@ -702,12 +685,10 @@
         "🇺🇸 United States 7f3f | SNI - console.zedmodeon.lat",
         "🇺🇸 United States 7fd3 | SNI - sni.111000.indevs.in",
         "🇺🇸 United States 8060 | SNI - www.microsoft.com",
-        "🇺🇸 United States 808e",
         "🇺🇸 United States 8138 | SNI - sni.111000.dynv6.net",
         "🇺🇸 United States 81ac | SNI - sni.111000.dynv6.net",
         "🇺🇸 United States 81b7",
         "🇺🇸 United States 81e2",
-        "🇺🇸 United States 8228",
         "🇺🇸 United States 8273",
         "🇺🇸 United States 8286",
         "🇺🇸 United States 837f | SNI - juzi8186.qea.ccwu.cc",
@@ -762,7 +743,6 @@
         "🇺🇸 United States 964b",
         "🇺🇸 United States 965e | SNI - www.cloudflare.com",
         "🇺🇸 United States 96f5 | SNI - qyi.fqjd663.ggff.net",
-        "🇺🇸 United States 9729",
         "🇺🇸 United States 97cd | SNI - sni.111000.dynv6.net",
         "🇺🇸 United States 97d5",
         "🇺🇸 United States 981d",
@@ -784,7 +764,6 @@
         "🇺🇸 United States a12e | SNI - juzibaipiao.5112233.xyz",
         "🇺🇸 United States a135 | SNI - snip.ere.de5.net",
         "🇺🇸 United States a1b1",
-        "🇺🇸 United States a217",
         "🇺🇸 United States a2db | SNI - rukawa.pages.dev",
         "🇺🇸 United States a2ff | SNI - sni.latonyamadeline.ndjp.net",
         "🇺🇸 United States a390",
@@ -801,7 +780,6 @@
         "🇺🇸 United States a74c | SNI - nameless-violet-d45c.anthony900.workers.dev",
         "🇺🇸 United States a782 | SNI - jp.laoyoutiao.link",
         "🇺🇸 United States a80c",
-        "🇺🇸 United States a8ce",
         "🇺🇸 United States a8d6 | SNI - adminvps.ru",
         "🇺🇸 United States a907 | SNI - jbp7i.data-edge.chinav.indevs.in",
         "🇺🇸 United States a95f | SNI - sni.111000.indevs.in",
@@ -834,11 +812,9 @@
         "🇺🇸 United States b4a2 | SNI - juzibaipiao.5112233.xyz",
         "🇺🇸 United States b4c1",
         "🇺🇸 United States b4ca | SNI - javad.fighterjavad8-faa.workers.dev",
-        "🇺🇸 United States b4da",
         "🇺🇸 United States b4eb",
         "🇺🇸 United States b4f3 | SNI - sni.111000.v6.navy",
         "🇺🇸 United States b547",
-        "🇺🇸 United States b638",
         "🇺🇸 United States b6ab | SNI - sun1-18.userapi.com",
         "🇺🇸 United States b6ee",
         "🇺🇸 United States b753",
@@ -879,12 +855,10 @@
         "🇺🇸 United States c980 | SNI - y6-3cj.PAgES.DEV",
         "🇺🇸 United States c9ed",
         "🇺🇸 United States ca6b | SNI - stats.vk-portal.net",
-        "🇺🇸 United States cb9d",
         "🇺🇸 United States cc01",
         "🇺🇸 United States cc0e | SNI - y6-3cj.PAgES.DEV",
         "🇺🇸 United States cc9a",
         "🇺🇸 United States ccf3 | SNI - juzibaipiao.5112233.xyz",
-        "🇺🇸 United States cd38",
         "🇺🇸 United States cd53 | SNI - juzibaipiao.5112233.xyz",
         "🇺🇸 United States cd57",
         "🇺🇸 United States cdca | SNI - sni.111000.dynv6.net",
@@ -1032,14 +1006,6 @@
       }
     },
     {
-      "type": "ss",
-      "tag": "🇧🇷 Brazil 56de",
-      "server": "109.104.155.45",
-      "server_port": 41348,
-      "password": "NVcw9OTGwmThWmhs1uh7rrIJcVz7ln96ifYZiv4zsWvToTjg",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
       "type": "vless",
       "tag": "🇧🇷 Brazil 7883 | SNI - varzesh3.varzesh.dpdns.org",
       "server": "104.17.213.213",
@@ -1086,14 +1052,6 @@
       "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
       "security": "auto",
       "alter_id": 1
-    },
-    {
-      "type": "ss",
-      "tag": "🇧🇷 Brazil b181",
-      "server": "38.54.57.90",
-      "server_port": 990,
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "method": "chacha20-ietf-poly1305"
     },
     {
       "type": "vmess",
@@ -1278,22 +1236,6 @@
           "Host": "lucky-voice-d6f3.difat89954-0c6.workers.dev"
         }
       }
-    },
-    {
-      "type": "ss",
-      "tag": "🇨🇦 Canada 073d",
-      "server": "144.217.164.29",
-      "server_port": 12000,
-      "password": "8JCsPssfgS8tiRwiMlhARg==",
-      "method": "aes-256-gcm"
-    },
-    {
-      "type": "ss",
-      "tag": "🇨🇦 Canada 0851",
-      "server": "79.127.233.170",
-      "server_port": 989,
-      "password": "f8f7aCzcPKbsF8p3",
-      "method": "aes-256-cfb"
     },
     {
       "type": "trojan",
@@ -2392,14 +2334,6 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       }
-    },
-    {
-      "type": "ss",
-      "tag": "🇨🇦 Canada 40a2",
-      "server": "79.127.233.170",
-      "server_port": 990,
-      "password": "f8f7aCzcPKbsF8p3",
-      "method": "chacha20-ietf-poly1305"
     },
     {
       "type": "trojan",
@@ -4455,14 +4389,6 @@
       }
     },
     {
-      "type": "ss",
-      "tag": "🇨🇦 Canada a122",
-      "server": "23.95.76.59",
-      "server_port": 990,
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
       "type": "trojan",
       "tag": "🇨🇦 Canada a176",
       "server": "51.222.30.98",
@@ -5367,14 +5293,6 @@
           "Host": "tt.andishehparenting.com"
         }
       }
-    },
-    {
-      "type": "ss",
-      "tag": "🇨🇦 Canada c267",
-      "server": "79.127.200.169",
-      "server_port": 990,
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "method": "chacha20-ietf-poly1305"
     },
     {
       "type": "vless",
@@ -6814,22 +6732,6 @@
       }
     },
     {
-      "type": "ss",
-      "tag": "🇨🇱 Chile 2cca",
-      "server": "154.205.153.107",
-      "server_port": 990,
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
-      "type": "ss",
-      "tag": "🇨🇱 Chile bfaa",
-      "server": "154.205.153.107",
-      "server_port": 990,
-      "password": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D",
-      "method": "aes-256-gcm"
-    },
-    {
       "type": "vless",
       "tag": "🇲🇽 Mexico 0fa9",
       "server": "srv186.towersflowerss.com",
@@ -6859,14 +6761,6 @@
         "path": "/vless/",
         "headers": {}
       }
-    },
-    {
-      "type": "ss",
-      "tag": "🇵🇪 Peru b863",
-      "server": "138.186.143.32",
-      "server_port": 990,
-      "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-      "method": "chacha20-ietf-poly1305"
     },
     {
       "type": "vless",
@@ -7250,14 +7144,6 @@
           "Host": "vms.lifetime36.workers.dev"
         }
       }
-    },
-    {
-      "type": "ss",
-      "tag": "🇺🇸 United States 09f9",
-      "server": "23.95.75.146",
-      "server_port": 443,
-      "password": "NDRySIABARbErNIVsCNVkyYAHiBzhveT",
-      "method": "chacha20-ietf-poly1305"
     },
     {
       "type": "trojan",
@@ -8254,14 +8140,6 @@
       }
     },
     {
-      "type": "ss",
-      "tag": "🇺🇸 United States 2944",
-      "server": "38.110.1.111",
-      "server_port": 8000,
-      "password": "KixLvKzwjekG00rm",
-      "method": "aes-256-gcm"
-    },
-    {
       "type": "trojan",
       "tag": "🇺🇸 United States 2963",
       "server": "92.118.112.68",
@@ -8272,14 +8150,6 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       }
-    },
-    {
-      "type": "ss",
-      "tag": "🇺🇸 United States 2972",
-      "server": "154.12.240.141",
-      "server_port": 80,
-      "password": "mK7eN3z276Tr0vVA",
-      "method": "aes-256-gcm"
     },
     {
       "type": "vless",
@@ -9846,14 +9716,6 @@
       }
     },
     {
-      "type": "ss",
-      "tag": "🇺🇸 United States 517b",
-      "server": "107.175.87.207",
-      "server_port": 10011,
-      "password": "86039b71-ba82-4ca8-838e-87086ae666de",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
       "type": "vless",
       "tag": "🇺🇸 United States 51ad | SNI - pagescm.freen11.cc.cd",
       "server": "8.35.211.241",
@@ -9904,14 +9766,6 @@
           "Host": "sni.111000.dns.army"
         }
       }
-    },
-    {
-      "type": "ss",
-      "tag": "🇺🇸 United States 5499",
-      "server": "135.148.67.88",
-      "server_port": 2087,
-      "password": "a9dIXhPAuSDCKUPU",
-      "method": "chacha20-ietf-poly1305"
     },
     {
       "type": "vless",
@@ -10012,14 +9866,6 @@
           "short_id": "6e3f0a5b"
         }
       }
-    },
-    {
-      "type": "ss",
-      "tag": "🇺🇸 United States 5824",
-      "server": "154.38.176.7",
-      "server_port": 80,
-      "password": "YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg%3D%3D",
-      "method": "aes-256-gcm"
     },
     {
       "type": "vless",
@@ -10140,14 +9986,6 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       }
-    },
-    {
-      "type": "ss",
-      "tag": "🇺🇸 United States 5be5",
-      "server": "2.27.7.250",
-      "server_port": 8388,
-      "password": "X6btbRvJCo3uTQ--yaaT8Mvh0CgqhYTL",
-      "method": "chacha20-ietf-poly1305"
     },
     {
       "type": "trojan",
@@ -11150,14 +10988,6 @@
       }
     },
     {
-      "type": "ss",
-      "tag": "🇺🇸 United States 808e",
-      "server": "45.55.40.127",
-      "server_port": 49726,
-      "password": "elTuo73FsQwO90EbLo96Ve",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
       "type": "vless",
       "tag": "🇺🇸 United States 8138 | SNI - sni.111000.dynv6.net",
       "server": "216.128.140.218",
@@ -11220,14 +11050,6 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       }
-    },
-    {
-      "type": "ss",
-      "tag": "🇺🇸 United States 8228",
-      "server": "154.53.57.143",
-      "server_port": 80,
-      "password": "uwmRUOVM5ljNAtPj",
-      "method": "aes-256-gcm"
     },
     {
       "type": "trojan",
@@ -12044,14 +11866,6 @@
       }
     },
     {
-      "type": "ss",
-      "tag": "🇺🇸 United States 9729",
-      "server": "62.146.171.57",
-      "server_port": 80,
-      "password": "jd9FR12wprKPNJHg",
-      "method": "aes-256-gcm"
-    },
-    {
       "type": "vless",
       "tag": "🇺🇸 United States 97cd | SNI - sni.111000.dynv6.net",
       "server": "147.182.239.72",
@@ -12360,14 +12174,6 @@
       }
     },
     {
-      "type": "ss",
-      "tag": "🇺🇸 United States a217",
-      "server": "15.204.247.49",
-      "server_port": 12000,
-      "password": "8JCsPssfgS8tiRwiMlhARg==",
-      "method": "aes-256-gcm"
-    },
-    {
       "type": "vless",
       "tag": "🇺🇸 United States a2db | SNI - rukawa.pages.dev",
       "server": "172.64.144.74",
@@ -12613,15 +12419,6 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       }
-    },
-    {
-      "type": "vmess",
-      "tag": "🇺🇸 United States a8ce",
-      "server": "23.224.173.99",
-      "server_port": 443,
-      "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-      "security": "auto",
-      "alter_id": 64
     },
     {
       "type": "vless",
@@ -13107,14 +12904,6 @@
       }
     },
     {
-      "type": "ss",
-      "tag": "🇺🇸 United States b4da",
-      "server": "92.118.112.101",
-      "server_port": 9483,
-      "password": "qFvn2fNEvBgM5knffrN96q",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
       "type": "trojan",
       "tag": "🇺🇸 United States b4eb",
       "server": "178.128.70.6",
@@ -13157,14 +12946,6 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       }
-    },
-    {
-      "type": "ss",
-      "tag": "🇺🇸 United States b638",
-      "server": "185.111.156.33",
-      "server_port": 80,
-      "password": "5mCH4624QflO1cFR",
-      "method": "aes-256-gcm"
     },
     {
       "type": "vless",
@@ -13753,14 +13534,6 @@
       }
     },
     {
-      "type": "ss",
-      "tag": "🇺🇸 United States cb9d",
-      "server": "108.181.57.93",
-      "server_port": 8388,
-      "password": "RSo52SbxW40r",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
       "type": "trojan",
       "tag": "🇺🇸 United States cc01",
       "server": "45.40.155.253",
@@ -13823,14 +13596,6 @@
           "Host": "juzibaipiao.5112233.xyz"
         }
       }
-    },
-    {
-      "type": "ss",
-      "tag": "🇺🇸 United States cd38",
-      "server": "69.164.240.86",
-      "server_port": 10880,
-      "password": "3px0wmx0e81145g568ga",
-      "method": "aes-128-gcm"
     },
     {
       "type": "vless",
