@@ -28,7 +28,6 @@
         "🇧🇷 Brazil 2f4b | SNI - api.cvs-a.com",
         "🇨🇦 Canada 4351 | SNI - api-maps.yandex.ru",
         "🇺🇸 United States 087c | SNI - ads.x5.ru",
-        "🇺🇸 United States 0b76 | SNI - eh.vk.com",
         "🇺🇸 United States 23b1 | SNI - ussun.api.dznn.net",
         "🇺🇸 United States 2e60 | SNI - ads.x5.ru",
         "🇺🇸 United States 339b | SNI - www.apple.com",
@@ -44,7 +43,6 @@
         "🇺🇸 United States 8698 | SNI - ads.x5.ru",
         "🇺🇸 United States 8c75 | SNI - usa1.jugploer.icu",
         "🇺🇸 United States 9374 | SNI - top4182166920.mwscdn.ru",
-        "🇺🇸 United States 9ca6 | SNI - us.convexia.net",
         "🇺🇸 United States a70e",
         "🇺🇸 United States ae70 | SNI - de6.x3vpn.ru",
         "🇺🇸 United States b153 | SNI - panel.cvs-a.com",
@@ -53,8 +51,6 @@
         "🇺🇸 United States cfe8 | SNI - n11.com",
         "🇺🇸 United States d8e4 | SNI - sun6-21.userapi.com",
         "🇺🇸 United States dfce | SNI - sun6-21.userapi.com",
-        "🇺🇸 United States ea25 | SNI - us.convexia.net",
-        "🇺🇸 United States ebc7 | SNI - us.convexia.net",
         "🇺🇸 United States f413 | SNI - sso.passport.yandex.ru",
         "🇺🇸 United States f826 | SNI - sso.passport.yandex.ru"
       ]
@@ -118,23 +114,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 United States 0b76 | SNI - eh.vk.com",
-      "server": "node-usa1.rmp-inc.top",
-      "server_port": 443,
-      "uuid": "9ccbf816-1e5a-4c43-8ec6-bb47dc9b2968",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "eh.vk.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "19Z9Syrik36ltvmS01HL2hsxcPCjlEF16wXWOozJHTU"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇺🇸 United States 23b1 | SNI - ussun.api.dznn.net",
       "server": "ussun.api.dznn.net",
       "server_port": 443,
@@ -147,7 +126,7 @@
         "reality": {
           "enabled": true,
           "public_key": "9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg",
-          "short_id": "19aa22f681923dc8"
+          "short_id": "0a6ba2716a409da6"
         }
       }
     },
@@ -391,24 +370,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 United States 9ca6 | SNI - us.convexia.net",
-      "server": "ruus.organic-cdn.net",
-      "server_port": 443,
-      "uuid": "79dcc045-5715-4ce9-a013-931569e38778",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "us.convexia.net",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "jydkvpm6P7x3p5Ueco8tMR9b3XrbwRSyr445QpWrjTo",
-          "short_id": "400c3f968745cc18"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇺🇸 United States a70e",
       "server": "dd.zazazuza.ru",
       "server_port": 52601,
@@ -542,42 +503,6 @@
           "enabled": true,
           "public_key": "NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk",
           "short_id": "35a84908e9cfa95c"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇺🇸 United States ea25 | SNI - us.convexia.net",
-      "server": "us.organic-cdn.net",
-      "server_port": 443,
-      "uuid": "79dcc045-5715-4ce9-a013-931569e38778",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "us.convexia.net",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "nSvVKrQb6h-V8Nm-WJsG3BSZC0U5jrpgqFswPBK92kc",
-          "short_id": "79eaa223dd"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇺🇸 United States ebc7 | SNI - us.convexia.net",
-      "server": "us.organic-cdn.net",
-      "server_port": 8443,
-      "uuid": "79dcc045-5715-4ce9-a013-931569e38778",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "us.convexia.net",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "jydkvpm6P7x3p5Ueco8tMR9b3XrbwRSyr445QpWrjTo",
-          "short_id": "ef4206bc9fae1a"
         }
       }
     },
