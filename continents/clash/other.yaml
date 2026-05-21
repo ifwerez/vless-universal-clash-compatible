@@ -116,20 +116,6 @@ proxies:
   alterId: 0
   network: raw
   tls: false
-- name: " Unsorted 02f7 | SNI - xapi.ozon.ru"
-  server: germany2.telega.now
-  port: 443
-  udp: true
-  type: vless
-  uuid: 30f5b380-5b9e-4d42-a50c-508a2a8cb2f6
-  network: tcp
-  tls: true
-  servername: xapi.ozon.ru
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4
-    short-id: "0ffcc7"
 - name: " Unsorted 04d6"
   server: pl194.mechvpn.online
   port: 443
