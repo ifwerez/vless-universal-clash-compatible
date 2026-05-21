@@ -25,20 +25,6 @@ tun:
   auto-route: true
   auto-detect-interface: true
 proxies:
-- name: " Unsorted 00fd | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net"
-  server: 103.133.240.115
-  port: 17416
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: rolaqoubhqt.bpd67081tsq.ddns-ip.net
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: rolaqoubhqt.bpd67081tsq.ddns-ip.net
 - name: " Unsorted 014d"
   server: 193.164.155.226
   port: 8443
@@ -87,20 +73,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted 0dda | SNI - oia8or7k8rs5.zrf.xx.kg"
-  server: 83.147.216.223
-  port: 4433
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: oia8or7k8rs5.zrf.xx.kg
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: oia8or7k8rs5.zrf.xx.kg
 - name: " Unsorted 0e6c"
   server: 91.84.125.227
   port: 8443
@@ -169,21 +141,6 @@ proxies:
     path: /upload/session
     headers:
       Host: s2.ws.listwhite.cc
-- name: " Unsorted 1cdb | SNI - dl.k8s.io"
-  server: 91.239.23.180
-  port: 443
-  udp: true
-  type: vless
-  uuid: e502ee54-8e2a-41c6-a3ca-3d192e8710fb
-  network: grpc
-  tls: true
-  servername: dl.k8s.io
-  client-fingerprint: safari
-  reality-opts:
-    public-key: 54hbwVG2QOq8hXR77roi2ZrKWPMK3Um3ZnagioywoDk
-    short-id: "bdf1e772522d1d5a"
-  grpc-opts:
-    grpc-service-name: xraygrpc
 - name: " Unsorted 1d74"
   server: 212.34.151.109
   port: 2053
@@ -200,20 +157,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted 1ecc | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io"
-  server: 213.179.69.150
-  port: 35130
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: adv2m5gy-wrhiahph85c.ovtc.qzz.io
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: adv2m5gy-wrhiahph85c.ovtc.qzz.io
 - name: " Unsorted 1f62 | SNI - ads.x5.ru"
   server: bs.trustnet.sbs
   port: 443
@@ -227,19 +170,6 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 4fkc7NTbrWKSBTpZHGE2jjQXVtrao1tQQ989zilyPUw
-- name: " Unsorted 1fbb"
-  server: 160.153.138.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: vms.lifetime04.workers.dev
 - name: " Unsorted 2043"
   server: 89.169.170.230
   port: 8443
@@ -256,20 +186,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted 24f5 | SNI - www.tesla.com"
-  server: 2.26.116.183
-  port: 8443
-  udp: true
-  type: vless
-  uuid: 02ca6335-4c91-412c-956f-f7f9e5630b6c
-  network: tcp
-  tls: true
-  servername: www.tesla.com
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: 7EP54JvAk7mD5mC-y_5C9SxGOHH6BGxuN9vOEpyL9n4
-    short-id: "11b6287a47dc"
 - name: " Unsorted 2615"
   server: 85.155.98.71
   port: 8443
@@ -372,19 +288,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted 30cd"
-  server: 89.116.180.40
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560"
-    headers:
-      Host: vms.lifetime09.workers.dev
 - name: " Unsorted 3358"
   server: 213.176.113.98
   port: 2053
@@ -393,34 +296,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted 3762 | SNI - finite-node.rtxconfigz.com"
-  server: finite-node.rtxconfigz.com
-  port: 443
-  udp: true
-  type: vless
-  uuid: ce2aa2ab-d893-43c2-ae4c-5b45eb74d49f
-  network: ws
-  tls: true
-  servername: finite-node.rtxconfigz.com
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: tiktok.com
-- name: " Unsorted 3813 | SNI - et.seaspirit.dpdns.org"
-  server: 125.228.236.138
-  port: 443
-  udp: true
-  type: vless
-  uuid: 1c731995-761b-41b3-96d1-5ef5734ad909
-  network: ws
-  tls: true
-  servername: et.seaspirit.dpdns.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/fp=chrome"
-    headers:
-      Host: et.seaspirit.dpdns.org
 - name: " Unsorted 3882"
   server: 193.164.155.186
   port: 8443
@@ -437,19 +312,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted 3a6e"
-  server: 154.194.12.40
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime35.workers.dev
 - name: " Unsorted 3a8c"
   server: 89.110.119.231
   port: 8443
@@ -490,20 +352,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg"
-  server: 91.184.243.190
-  port: 4433
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: oia8or7k8rs5.zrf.xx.kg
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: oia8or7k8rs5.zrf.xx.kg
 - name: " Unsorted 4332"
   server: 212.192.217.100
   port: 8443
@@ -531,23 +379,9 @@ proxies:
   servername: sn1.skylee5.cloudns.ch
   client-fingerprint: chrome
   ws-opts:
-    path: "/fp=chrome"
+    path: "/fp=chromefp=chrome"
     headers:
       Host: sn1.skylee5.cloudns.ch
-- name: " Unsorted 483f | SNI - finite-node.rtxconfigz.com"
-  server: finite-node.rtxconfigz.com
-  port: 443
-  udp: true
-  type: vless
-  uuid: a5d740d3-2af5-49c2-bfca-f0983456f5fc
-  network: ws
-  tls: true
-  servername: finite-node.rtxconfigz.com
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: web.whatsapp.net
 - name: " Unsorted 4e99"
   server: 85.193.90.131
   port: 2053
@@ -593,33 +427,6 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
-- name: " Unsorted 5778"
-  server: 154.194.12.50
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime35.workers.dev
-- name: " Unsorted 58c2 | SNI - finite-node.rtxconfigz.com"
-  server: finite-node.rtxconfigz.com
-  port: 443
-  udp: true
-  type: vless
-  uuid: 25f3beef-a4b6-40bc-aa74-17a0f89f683c
-  network: ws
-  tls: true
-  servername: finite-node.rtxconfigz.com
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: telegram.us
 - name: " Unsorted 5923"
   server: 185.65.202.101
   port: 2053
@@ -714,19 +521,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted 6ce4"
-  server: 50.62.198.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime39.workers.dev
 - name: " Unsorted 6dc2"
   server: 109.120.156.122
   port: 8443
@@ -775,19 +569,6 @@ proxies:
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
     short-id: "35a84908e9cfa95c"
-- name: " Unsorted 7aae"
-  server: 45.85.119.40
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime56.workers.dev
 - name: " Unsorted 7ada"
   server: 151.242.43.44
   port: 2053
@@ -796,20 +577,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted 7cf5 | SNI - r8wez3psbuhgs6lgju.sate.qzz.io"
-  server: 64.188.106.174
-  port: 4433
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: r8wez3psbuhgs6lgju.sate.qzz.io
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: r8wez3psbuhgs6lgju.sate.qzz.io
 - name: " Unsorted 7d50 | SNI - api-maps.yandex.ru"
   server: moon2.realm-of-ultramar.ru
   port: 443
@@ -824,19 +591,6 @@ proxies:
   reality-opts:
     public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
     short-id: "6cc5290e6f0b47c3"
-- name: " Unsorted 7d83"
-  server: 31.12.75.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560"
-    headers:
-      Host: vms.lifetime21.workers.dev
 - name: " Unsorted 7e36"
   server: 89.110.108.206
   port: 2053
@@ -891,20 +645,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted 883c | SNI - et.seaspirit.dpdns.org"
-  server: 163.61.103.239
-  port: 443
-  udp: true
-  type: vless
-  uuid: 1c731995-761b-41b3-96d1-5ef5734ad909
-  network: ws
-  tls: true
-  servername: et.seaspirit.dpdns.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: et.seaspirit.dpdns.org
 - name: " Unsorted 8c37"
   server: 89.110.82.148
   port: 8443
@@ -1018,46 +758,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted 9eca"
-  server: 185.148.107.40
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime55.workers.dev
-- name: " Unsorted 9f1c | SNI - cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev"
-  server: www.csgo.net
-  port: 2095
-  udp: true
-  type: vless
-  uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-  network: ws
-  tls: false
-  servername: cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/fp=randomized"
-    headers:
-      Host: cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev
-- name: " Unsorted a02f"
-  server: 31.12.75.50
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime21.workers.dev
 - name: " Unsorted a2cc"
   server: 109.206.236.221
   port: 8443
@@ -1120,20 +820,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted abf4 | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net"
-  server: 149.129.36.200
-  port: 25006
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
 - name: " Unsorted b0ba"
   server: 46.21.82.168
   port: 2053
@@ -1166,19 +852,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted bfa5"
-  server: 72.167.243.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: ''
-    headers:
-      Host: vms.lifetime55.workers.dev
 - name: " Unsorted c160"
   server: 89.169.1.76
   port: 8443
@@ -1187,19 +860,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted c367"
-  server: 103.116.7.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: vms.lifetime35.workers.dev
 - name: " Unsorted c3db"
   server: 195.200.16.192
   port: 2053
@@ -1208,19 +868,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted c554"
-  server: 185.193.30.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: ''
-    headers:
-      Host: vms.lifetime09.workers.dev
 - name: " Unsorted c86d"
   server: 31.58.171.7
   port: 2053
@@ -1269,20 +916,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted d78e | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net"
-  server: 91.186.217.158
-  port: 441
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristi"
-    headers:
-      Host: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
 - name: " Unsorted d797"
   server: 193.164.155.226
   port: 2053
@@ -1339,20 +972,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted e2b2 | SNI - et.seaspirit.dpdns.org"
-  server: 8.209.231.3
-  port: 443
-  udp: true
-  type: vless
-  uuid: 1c731995-761b-41b3-96d1-5ef5734ad909
-  network: ws
-  tls: true
-  servername: et.seaspirit.dpdns.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/fp=chrome"
-    headers:
-      Host: et.seaspirit.dpdns.org
 - name: " Unsorted e33f"
   server: 138.124.89.211
   port: 8443
@@ -1421,34 +1040,6 @@ proxies:
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
     short-id: "35a84908e9cfa95c"
-- name: " Unsorted ee5b | SNI - t39sed.gateway-api.sh21.eu.org"
-  server: 45.41.207.154
-  port: 443
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=firefox"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
-- name: " Unsorted f088 | SNI - oia8or7k8rs5.zrf.xx.kg"
-  server: 91.184.240.106
-  port: 433
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: oia8or7k8rs5.zrf.xx.kg
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: oia8or7k8rs5.zrf.xx.kg
 - name: " Unsorted f4df"
   server: 217.114.7.17
   port: 8443
@@ -1465,19 +1056,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted f787"
-  server: 45.85.118.50
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime55.workers.dev
 - name: " Unsorted fae6"
   server: 31.56.197.183
   port: 8443
@@ -1486,20 +1064,6 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: " Unsorted fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io"
-  server: 8.211.161.124
-  port: 25809
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: adv2m5gy-wrhiahph85c.ovtc.qzz.io
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: adv2m5gy-wrhiahph85c.ovtc.qzz.io
 - name: " Unsorted fe49"
   server: 104.167.196.91
   port: 2053
