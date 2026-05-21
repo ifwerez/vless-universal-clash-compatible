@@ -69,21 +69,6 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4
-- name: "🇺🇸 United States 345c | SNI - us.nodes.rocketnetwork.ru"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: us.nodes.rocketnetwork.ru
-  port: 443
-  udp: true
-  type: vless
-  uuid: 49a74c22-64e6-4799-aeb7-ae6f51bc1ddf
-  network: tcp
-  tls: true
-  servername: us.nodes.rocketnetwork.ru
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs
-    short-id: "428ef87fd47a3a32"
 - name: "🇺🇸 United States 3804 | SNI - sso.passport.yandex.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 95.163.211.237
@@ -431,6 +416,21 @@ proxies:
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
     short-id: "35a84908e9cfa95c"
+- name: "🇺🇸 United States e3b0 | SNI - sn1.skylee5.cloudns.ch [geo]"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 154.17.22.207
+  port: 443
+  udp: true
+  type: vless
+  uuid: 06b65903-406d-4a41-8463-6fd5c0ee7798
+  network: ws
+  tls: true
+  servername: sn1.skylee5.cloudns.ch
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: sn1.skylee5.cloudns.ch
 rules:
 - GEOSITE,category-ads-all,REJECT
 - GEOSITE,cn,DIRECT
