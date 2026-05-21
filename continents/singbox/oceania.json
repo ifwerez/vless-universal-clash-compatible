@@ -27,10 +27,14 @@
       "outbounds": [
         "🇦🇺 Australia 2433 | SNI - yahoo.com",
         "🇦🇺 Australia 4cec | SNI - yahoo.com",
-        "🇦🇺 Australia 5db8 | SNI - www.tesla.com",
         "🇦🇺 Australia 71f3 | SNI - www.tesla.com",
-        "🇦🇺 Australia 96af | SNI - yahoo.com",
+        "🇦🇺 Australia 7b84",
+        "🇦🇺 Australia b418",
+        "🇦🇺 Australia b671",
         "🇦🇺 Australia b9ae | SNI - yahoo.com",
+        "🇦🇺 Australia ce25",
+        "🇦🇺 Australia ec93",
+        "🇳🇿 New Zealand 5320 | SNI - sni.jpmj.dev",
         "🇳🇿 New Zealand 98af | SNI - tradingview.com"
       ]
     },
@@ -76,24 +80,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇦🇺 Australia 5db8 | SNI - www.tesla.com",
-      "server": "54.253.37.164",
-      "server_port": 23951,
-      "uuid": "3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.tesla.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0",
-          "short_id": "8c4907b7884b31"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇦🇺 Australia 71f3 | SNI - www.tesla.com",
       "server": "3.106.214.88",
       "server_port": 31318,
@@ -112,21 +98,35 @@
     },
     {
       "type": "vless",
-      "tag": "🇦🇺 Australia 96af | SNI - yahoo.com",
-      "server": "3.106.54.135",
-      "server_port": 57001,
-      "uuid": "30ac5a8b-5022-43c0-b0c2-11b9a98a986e",
+      "tag": "🇦🇺 Australia 7b84",
+      "server": "162.159.60.173",
+      "server_port": 8880,
+      "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇦🇺 Australia b418",
+      "server": "192.65.217.30",
+      "server_port": 8880,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "yahoo.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "aSK0B0bgRalAWw_5d7buTjy4dYLF2WGTZhUojypI618",
-          "short_id": "b2dd66706eb2"
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "vms.lifetime37.workers.dev"
         }
       }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇦🇺 Australia b671",
+      "server": "sy4.620720.xyz",
+      "server_port": 443,
+      "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516",
+      "security": "auto",
+      "alter_id": 0
     },
     {
       "type": "vless",
@@ -143,6 +143,43 @@
           "enabled": true,
           "public_key": "5x6nErZvJp6uFYQ4VkOZSrnz4FWNRvYJqTfimjuBOCw",
           "short_id": "be125600cea6"
+        }
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇦🇺 Australia ce25",
+      "server": "45.15.185.17",
+      "server_port": 80,
+      "uuid": "c503a96a-a2f5-4847-a31f-20c17ecf3be4",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vless",
+      "tag": "🇦🇺 Australia ec93",
+      "server": "188.114.98.0",
+      "server_port": 443,
+      "uuid": "f9912d4e-bb46-4934-bbfa-d933074f044c",
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇿 New Zealand 5320 | SNI - sni.jpmj.dev",
+      "server": "114.129.43.238",
+      "server_port": 2096,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.jpmj.dev",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?Telegram🇨🇳@WangCai2=",
+        "headers": {
+          "Host": "sni.jpmj.dev"
         }
       }
     },
