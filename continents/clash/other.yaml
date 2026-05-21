@@ -47,6 +47,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 05c5 | SNI - cdp.x5.ru"
+  server: 51.250.17.80
+  port: 443
+  udp: true
+  type: vless
+  uuid: c1061915-ff01-4153-aa87-bfae19d5fa5c
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 061c"
   server: 89.208.104.51
   port: 2053
@@ -71,6 +85,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 0b7d | SNI - cdp.x5.ru"
+  server: 51.250.103.104
+  port: 443
+  udp: true
+  type: vless
+  uuid: c1061915-ff01-4153-aa87-bfae19d5fa5c
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 0dda | SNI - oia8or7k8rs5.zrf.xx.kg"
   server: 83.147.216.223
   port: 4433
@@ -759,6 +787,20 @@ proxies:
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
     short-id: "35a84908e9cfa95c"
+- name: " Unsorted 77f3 | SNI - cdp.x5.ru"
+  server: 51.250.102.69
+  port: 443
+  udp: true
+  type: vless
+  uuid: c1061915-ff01-4153-aa87-bfae19d5fa5c
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 7aae"
   server: 45.85.119.40
   port: 8880
@@ -1462,6 +1504,20 @@ proxies:
     path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
     headers:
       Host: vms.lifetime55.workers.dev
+- name: " Unsorted faac | SNI - cdp.x5.ru"
+  server: 51.250.97.18
+  port: 443
+  udp: true
+  type: vless
+  uuid: c1061915-ff01-4153-aa87-bfae19d5fa5c
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted fae6"
   server: 31.56.197.183
   port: 8443
