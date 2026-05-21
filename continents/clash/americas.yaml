@@ -47,15 +47,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
-    short-id: bb55683efa59799d
-- name: "🇧🇷 Brazil 56de"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BR.png
-  server: 109.104.155.45
-  port: 41348
-  udp: true
-  type: ss
-  password: NVcw9OTGwmThWmhs1uh7rrIJcVz7ln96ifYZiv4zsWvToTjg
-  cipher: chacha20-ietf-poly1305
+    short-id: "bb55683efa59799d"
 - name: "🇧🇷 Brazil 7883 | SNI - varzesh3.varzesh.dpdns.org"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BR.png
   server: 104.17.213.213
@@ -107,14 +99,6 @@ proxies:
   alterId: 1
   network: ws
   tls: true
-- name: "🇧🇷 Brazil b181"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BR.png
-  server: 38.54.57.90
-  port: 990
-  udp: true
-  type: ss
-  password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-  cipher: chacha20-ietf-poly1305
 - name: "🇧🇷 Brazil e1e0"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BR.png
   server: 188.114.98.0
@@ -271,22 +255,6 @@ proxies:
     path: "/?ed=2048"
     headers:
       Host: lucky-voice-d6f3.difat89954-0c6.workers.dev
-- name: "🇨🇦 Canada 073d"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: 144.217.164.29
-  port: 12000
-  udp: true
-  type: ss
-  password: "8JCsPssfgS8tiRwiMlhARg=="
-  cipher: aes-256-gcm
-- name: "🇨🇦 Canada 0851"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: 79.127.233.170
-  port: 989
-  udp: true
-  type: ss
-  password: f8f7aCzcPKbsF8p3
-  cipher: aes-256-cfb
 - name: "🇨🇦 Canada 08a5"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 23.173.104.228
@@ -1208,14 +1176,6 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: "🇨🇦 Canada 40a2"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: 79.127.233.170
-  port: 990
-  udp: true
-  type: ss
-  password: f8f7aCzcPKbsF8p3
-  cipher: chacha20-ietf-poly1305
 - name: "🇨🇦 Canada 4280"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 23.173.104.236
@@ -2957,14 +2917,6 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: "🇨🇦 Canada a122"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: 23.95.76.59
-  port: 990
-  udp: true
-  type: ss
-  password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-  cipher: chacha20-ietf-poly1305
 - name: "🇨🇦 Canada a176"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 51.222.30.98
@@ -3050,7 +3002,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 5KJ1tLErCUEfqxc3IsnY_49p_gWe0mPB8eXJ3MLucgU
-    short-id: 0675732ab101
+    short-id: "0675732ab101"
 - name: "🇨🇦 Canada a580"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 172.64.146.116
@@ -3724,14 +3676,6 @@ proxies:
     path: /
     headers:
       Host: tt.andishehparenting.com
-- name: "🇨🇦 Canada c267"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: 79.127.200.169
-  port: 990
-  udp: true
-  type: ss
-  password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-  cipher: chacha20-ietf-poly1305
 - name: "🇨🇦 Canada c32a | SNI - qyi.fqjd663.ggff.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 172.66.138.181
@@ -4960,22 +4904,6 @@ proxies:
     path: "/?ed=2048"
     headers:
       Host: amirvpn.amirhm00100.workers.dev
-- name: "🇨🇱 Chile 2cca"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CL.png
-  server: 154.205.153.107
-  port: 990
-  udp: true
-  type: ss
-  password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-  cipher: chacha20-ietf-poly1305
-- name: "🇨🇱 Chile bfaa"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CL.png
-  server: 154.205.153.107
-  port: 990
-  udp: true
-  type: ss
-  password: "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D"
-  cipher: aes-256-gcm
 - name: "🇲🇽 Mexico 0fa9"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/MX.png
   server: srv186.towersflowerss.com
@@ -5004,14 +4932,6 @@ proxies:
     path: /vless/
     headers:
       {}
-- name: "🇵🇪 Peru b863"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PE.png
-  server: 138.186.143.32
-  port: 990
-  udp: true
-  type: ss
-  password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-  cipher: chacha20-ietf-poly1305
 - name: "🇺🇸 United States 000c | SNI - sni.111000.indevs.in"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 72.18.132.149
@@ -5083,7 +5003,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: 01
+    short-id: "01"
 - name: "🇺🇸 United States 0290 | SNI - sni.111000.v6.navy"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 8.6.112.0
@@ -5175,7 +5095,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: k-vQOS0BRMLybmbbgXA73BH0sXMvPOKc9ESzaxYY4RA
-    short-id: 6e49074f
+    short-id: "6e49074f"
 - name: "🇺🇸 United States 06a9 | SNI - snip.ere.de5.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 108.162.198.38
@@ -5304,7 +5224,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: 01
+    short-id: "01"
 - name: "🇺🇸 United States 0993"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 165.22.130.178
@@ -5328,14 +5248,6 @@ proxies:
     path: ''
     headers:
       Host: vms.lifetime36.workers.dev
-- name: "🇺🇸 United States 09f9"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 23.95.75.146
-  port: 443
-  udp: true
-  type: ss
-  password: NDRySIABARbErNIVsCNVkyYAHiBzhveT
-  cipher: chacha20-ietf-poly1305
 - name: "🇺🇸 United States 0a8a"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 85.209.195.61
@@ -5415,7 +5327,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 3ik9ws7ATJ5dKDY2Fofv9y7_vpFYsTqgOJRxiQKwA3A
-    short-id: 7b233a973c94ca0a
+    short-id: "7b233a973c94ca0a"
 - name: "🇺🇸 United States 0fe0"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 8.6.112.0
@@ -5610,7 +5522,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc
-    short-id: cafe01234567
+    short-id: "cafe01234567"
 - name: "🇺🇸 United States 16ab"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 64.181.218.67
@@ -5899,7 +5811,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 9VGdo4k2eDCCYj_KkIP_WCVns67Ha9BqDmWrGJBOpTY
-    short-id: 643ed732ada33f
+    short-id: "643ed732ada33f"
 - name: "🇺🇸 United States 2159"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 138.197.194.78
@@ -6034,7 +5946,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg
-    short-id: 0a6ba2716a409da6
+    short-id: "0a6ba2716a409da6"
 - name: "🇺🇸 United States 23e6"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 162.251.82.253
@@ -6058,7 +5970,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: 0a4b7c3d
+    short-id: "0a4b7c3d"
 - name: "🇺🇸 United States 24f5 | SNI - www.tesla.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 2.26.116.183
@@ -6073,7 +5985,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 7EP54JvAk7mD5mC-y_5C9SxGOHH6BGxuN9vOEpyL9n4
-    short-id: 11b6287a47dc
+    short-id: "11b6287a47dc"
 - name: "🇺🇸 United States 2536"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 31.57.63.63
@@ -6159,14 +6071,6 @@ proxies:
     path: "/?ed=2560&https://t.me/WangCai2🇨🇳"
     headers:
       Host: sni.111000.dns.army
-- name: "🇺🇸 United States 2944"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 38.110.1.111
-  port: 8000
-  udp: true
-  type: ss
-  password: KixLvKzwjekG00rm
-  cipher: aes-256-gcm
 - name: "🇺🇸 United States 2963"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 92.118.112.68
@@ -6176,14 +6080,6 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: "🇺🇸 United States 2972"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 154.12.240.141
-  port: 80
-  udp: true
-  type: ss
-  password: mK7eN3z276Tr0vVA
-  cipher: aes-256-gcm
 - name: "🇺🇸 United States 2b2e | SNI - asmaos.uk"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 8.6.112.0
@@ -6254,7 +6150,7 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
-    short-id: 25b19ab8cfd78fe5
+    short-id: "25b19ab8cfd78fe5"
 - name: "🇺🇸 United States 2c60"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 85.209.195.61
@@ -6322,7 +6218,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 3j9h81MFAlsEOQ4K1ey1XD0tz1aEVNaMGMoMjQwif1w
-    short-id: 16
+    short-id: "16"
 - name: "🇺🇸 United States 2f48 | SNI - www.deepl.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 2.26.3.148
@@ -6658,7 +6554,7 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
-    short-id: e8ab71d0
+    short-id: "e8ab71d0"
 - name: "🇺🇸 United States 38b5"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 148.135.70.157
@@ -6691,7 +6587,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
-    short-id: bb55683efa59799d
+    short-id: "bb55683efa59799d"
 - name: "🇺🇸 United States 3968"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 104.19.45.127
@@ -6837,7 +6733,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: 01
+    short-id: "01"
 - name: "🇺🇸 United States 3ce6"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 165.232.54.102
@@ -6861,7 +6757,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc
-    short-id: fb38c1c83009e1
+    short-id: "fb38c1c83009e1"
 - name: "🇺🇸 United States 3d5f"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 134.195.211.140
@@ -6885,7 +6781,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU
-    short-id: c4fb372c78b32874
+    short-id: "c4fb372c78b32874"
 - name: "🇺🇸 United States 3e37 | SNI - adminvps.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 2.26.90.84
@@ -6899,7 +6795,7 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: PdpC_vd6QYOgFb-p-1X5LcwvkW4Go8HlVyyzX_uVL0I
-    short-id: ae99cc80bf3da3de
+    short-id: "ae99cc80bf3da3de"
   grpc-opts:
     grpc-service-name: xraygrpc
 - name: "🇺🇸 United States 3e96"
@@ -6925,7 +6821,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: 6ba85179e30d4fc2
+    short-id: "6ba85179e30d4fc2"
 - name: "🇺🇸 United States 3eee | SNI - wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.feadlenetwork19922h.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 151.101.2.228
@@ -6966,7 +6862,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc
-    short-id: cafe01234567
+    short-id: "cafe01234567"
 - name: "🇺🇸 United States 418b"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 192.9.130.170
@@ -7174,7 +7070,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: ThmCg7PnzUKsjDoTtqddU2G1tPC8oRTeeN_Z46wJHAg
-    short-id: bdc9b685646303f6
+    short-id: "bdc9b685646303f6"
 - name: "🇺🇸 United States 49eb"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 45.40.147.30
@@ -7217,7 +7113,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: KUD5RiuqMRrhOoN6X2FcXpYZfoN_7z8BcviSBlyxOBw
-    short-id: cbd8f4
+    short-id: "cbd8f4"
 - name: "🇺🇸 United States 4a07 | SNI - yt-tv.xtrustnet.sbs"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: yt-tv.xtrustnet.sbs
@@ -7266,7 +7162,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
-    short-id: 35a84908e9cfa95c
+    short-id: "35a84908e9cfa95c"
 - name: "🇺🇸 United States 4b9f"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 159.112.235.253
@@ -7308,7 +7204,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg
-    short-id: 0a6ba2716a409da6
+    short-id: "0a6ba2716a409da6"
 - name: "🇺🇸 United States 4ce3 | SNI - babayaga-6i7.pages.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 8.34.146.231
@@ -7367,7 +7263,7 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: PdpC_vd6QYOgFb-p-1X5LcwvkW4Go8HlVyyzX_uVL0I
-    short-id: ae99cc80bf3da3de
+    short-id: "ae99cc80bf3da3de"
   grpc-opts:
     grpc-service-name: xraygrpc
 - name: "🇺🇸 United States 4e0e | SNI - juzibaipiao.5112233.xyz"
@@ -7493,14 +7389,6 @@ proxies:
     path: "/?ed=2560&Telegram🇨🇳@WangCai2"
     headers:
       Host: sni.111000.indevs.in
-- name: "🇺🇸 United States 517b"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 107.175.87.207
-  port: 10011
-  udp: true
-  type: ss
-  password: 86039b71-ba82-4ca8-838e-87086ae666de
-  cipher: chacha20-ietf-poly1305
 - name: "🇺🇸 United States 51ad | SNI - pagescm.freen11.cc.cd"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 8.35.211.241
@@ -7540,14 +7428,6 @@ proxies:
     path: "/?ed=2560&https://t.me/WangCai2🇨🇳"
     headers:
       Host: sni.111000.dns.army
-- name: "🇺🇸 United States 5499"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 135.148.67.88
-  port: 2087
-  udp: true
-  type: ss
-  password: a9dIXhPAuSDCKUPU
-  cipher: chacha20-ietf-poly1305
 - name: "🇺🇸 United States 549c | SNI - ey.nazanin.dpdns.org"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 104.25.86.75
@@ -7630,15 +7510,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
-    short-id: 6e3f0a5b
-- name: "🇺🇸 United States 5824"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 154.38.176.7
-  port: 80
-  udp: true
-  type: ss
-  password: "YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg%3D%3D"
-  cipher: aes-256-gcm
+    short-id: "6e3f0a5b"
 - name: "🇺🇸 United States 583c | SNI - sni.111000.dynv6.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 64.23.252.20
@@ -7668,7 +7540,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: SKJQzoN8Lh8kqrDEyKzevbHHmfRhKe8XmzBxPYXF2A4
-    short-id: 5a585c3e894bf074
+    short-id: "5a585c3e894bf074"
 - name: "🇺🇸 United States 58e5 | SNI - ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 8.6.112.9
@@ -7737,14 +7609,6 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: "🇺🇸 United States 5be5"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 2.27.7.250
-  port: 8388
-  udp: true
-  type: ss
-  password: X6btbRvJCo3uTQ--yaaT8Mvh0CgqhYTL
-  cipher: chacha20-ietf-poly1305
 - name: "🇺🇸 United States 5ca4"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 23.95.34.158
@@ -7768,7 +7632,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: yxRy8t-W5pCOglMeGNTeen8vQPK1SG0sM49vL6GLpjo
-    short-id: 0a8a84dcb5
+    short-id: "0a8a84dcb5"
 - name: "🇺🇸 United States 5ce3"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: u8.huvicloud.com
@@ -7794,7 +7658,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
-    short-id: bb55683efa59799d
+    short-id: "bb55683efa59799d"
 - name: "🇺🇸 United States 5df1"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 152.70.143.65
@@ -7901,7 +7765,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: 01
+    short-id: "01"
 - name: "🇺🇸 United States 624b | SNI - www.cloudflare.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 38.54.104.230
@@ -8071,7 +7935,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU
-    short-id: 1a
+    short-id: "1a"
 - name: "🇺🇸 United States 6bfa"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 205.172.57.218
@@ -8095,7 +7959,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: yxRy8t-W5pCOglMeGNTeen8vQPK1SG0sM49vL6GLpjo
-    short-id: 0a8a84dcb5
+    short-id: "0a8a84dcb5"
 - name: "🇺🇸 United States 6de6"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 138.197.194.78
@@ -8187,7 +8051,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg
-    short-id: 19aa22f681923dc8
+    short-id: "19aa22f681923dc8"
 - name: "🇺🇸 United States 71f2"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 37.1.211.227
@@ -8424,7 +8288,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw
-    short-id: 6ba85179e30d4fc2
+    short-id: "6ba85179e30d4fc2"
 - name: "🇺🇸 United States 7ce8 | SNI - wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.feadlenetwork19922h.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 151.101.130.228
@@ -8574,15 +8438,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: BpG11A3OQpAnDVN1aMsqF5LbqmQrqzM1nVMl4PziaCs
-    short-id: 63c7f71052ef7a21
-- name: "🇺🇸 United States 808e"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 45.55.40.127
-  port: 49726
-  udp: true
-  type: ss
-  password: elTuo73FsQwO90EbLo96Ve
-  cipher: chacha20-ietf-poly1305
+    short-id: "63c7f71052ef7a21"
 - name: "🇺🇸 United States 8138 | SNI - sni.111000.dynv6.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 216.128.140.218
@@ -8631,14 +8487,6 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: "🇺🇸 United States 8228"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 154.53.57.143
-  port: 80
-  udp: true
-  type: ss
-  password: uwmRUOVM5ljNAtPj
-  cipher: aes-256-gcm
 - name: "🇺🇸 United States 8273"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 107.172.137.69
@@ -8685,7 +8533,7 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: xLfTq-rzjNrNzAy7VBIuntmr_3uTNkduP6hWj8-MjgQ
-    short-id: ad39874fc6f17823
+    short-id: "ad39874fc6f17823"
 - name: "🇺🇸 United States 8447"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 160.153.0.30
@@ -8801,7 +8649,7 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: PdpC_vd6QYOgFb-p-1X5LcwvkW4Go8HlVyyzX_uVL0I
-    short-id: ae99cc80bf3da3de
+    short-id: "ae99cc80bf3da3de"
   grpc-opts:
     grpc-service-name: xraygrpc
 - name: "🇺🇸 United States 86b6 | SNI - l.ayovo.netlib.re"
@@ -9312,14 +9160,6 @@ proxies:
     path: "/?ed=2048"
     headers:
       Host: qyi.fqjd663.ggff.net
-- name: "🇺🇸 United States 9729"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 62.146.171.57
-  port: 80
-  udp: true
-  type: ss
-  password: jd9FR12wprKPNJHg
-  cipher: aes-256-gcm
 - name: "🇺🇸 United States 97cd | SNI - sni.111000.dynv6.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 147.182.239.72
@@ -9476,7 +9316,7 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
-    short-id: 2da72ce6
+    short-id: "2da72ce6"
 - name: "🇺🇸 United States 9eb7"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 165.22.130.178
@@ -9573,14 +9413,6 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: "🇺🇸 United States a217"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 15.204.247.49
-  port: 12000
-  udp: true
-  type: ss
-  password: "8JCsPssfgS8tiRwiMlhARg=="
-  cipher: aes-256-gcm
 - name: "🇺🇸 United States a2db | SNI - rukawa.pages.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 172.64.144.74
@@ -9703,7 +9535,7 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw
-    short-id: 7dbf7d3233971d5c
+    short-id: "7dbf7d3233971d5c"
 - name: "🇺🇸 United States a6c4"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 64.23.220.49
@@ -9775,17 +9607,6 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: "🇺🇸 United States a8ce"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 23.224.173.99
-  port: 443
-  udp: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  cipher: auto
-  alterId: 64
-  network: ws
-  tls: true
 - name: "🇺🇸 United States a8d6 | SNI - adminvps.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 2.26.90.84
@@ -9799,7 +9620,7 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: PdpC_vd6QYOgFb-p-1X5LcwvkW4Go8HlVyyzX_uVL0I
-    short-id: ae99cc80bf3da3de
+    short-id: "ae99cc80bf3da3de"
   grpc-opts:
     grpc-service-name: xraygrpc
 - name: "🇺🇸 United States a907 | SNI - jbp7i.data-edge.chinav.indevs.in"
@@ -9846,7 +9667,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: 01
+    short-id: "01"
 - name: "🇺🇸 United States aabf | SNI - nl2.cvs-a.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: nl2.cvs-a.com
@@ -9861,7 +9682,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
-    short-id: bb55683efa59799d
+    short-id: "bb55683efa59799d"
 - name: "🇺🇸 United States ab41"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 165.232.54.102
@@ -9924,7 +9745,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: ArPjAWK7xOPzpWSxJTgJ2TVqHuBclErU3uiLczPJZhM
-    short-id: abcd1234
+    short-id: "abcd1234"
 - name: "🇺🇸 United States acf6"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 104.207.145.249
@@ -10061,7 +9882,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
-    short-id: bb55683efa59799d
+    short-id: "bb55683efa59799d"
 - name: "🇺🇸 United States b204"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 64.227.62.172
@@ -10181,14 +10002,6 @@ proxies:
     path: /
     headers:
       Host: javad.fighterjavad8-faa.workers.dev
-- name: "🇺🇸 United States b4da"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 92.118.112.101
-  port: 9483
-  udp: true
-  type: ss
-  password: qFvn2fNEvBgM5knffrN96q
-  cipher: chacha20-ietf-poly1305
 - name: "🇺🇸 United States b4eb"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 178.128.70.6
@@ -10222,14 +10035,6 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: "🇺🇸 United States b638"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 185.111.156.33
-  port: 80
-  udp: true
-  type: ss
-  password: 5mCH4624QflO1cFR
-  cipher: aes-256-gcm
 - name: "🇺🇸 United States b6ab | SNI - sun1-18.userapi.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: us2.duckfree.online
@@ -10707,15 +10512,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
-    short-id: 35a84908e9cfa95c
-- name: "🇺🇸 United States cb9d"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 108.181.57.93
-  port: 8388
-  udp: true
-  type: ss
-  password: RSo52SbxW40r
-  cipher: chacha20-ietf-poly1305
+    short-id: "35a84908e9cfa95c"
 - name: "🇺🇸 United States cc01"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 45.40.155.253
@@ -10764,14 +10561,6 @@ proxies:
     path: "/?ed=2048"
     headers:
       Host: juzibaipiao.5112233.xyz
-- name: "🇺🇸 United States cd38"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 69.164.240.86
-  port: 10880
-  udp: true
-  type: ss
-  password: 3px0wmx0e81145g568ga
-  cipher: aes-128-gcm
 - name: "🇺🇸 United States cd53 | SNI - juzibaipiao.5112233.xyz"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 89.116.180.161
@@ -10837,7 +10626,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE
-    short-id: ff776ff77be48b88
+    short-id: "ff776ff77be48b88"
 - name: "🇺🇸 United States ce28"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 81.85.77.14
@@ -10917,7 +10706,7 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw
-    short-id: 7dbf7d3233971d5c
+    short-id: "7dbf7d3233971d5c"
 - name: "🇺🇸 United States d094"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 178.128.70.6
@@ -11032,7 +10821,7 @@ proxies:
   servername: apple.com
   reality-opts:
     public-key: fviTlCtkzpbYhTpHObiVtlgCaAT8LytP9eWUoa6Jfy4
-    short-id: 8f2cdce880f9b4e8
+    short-id: "8f2cdce880f9b4e8"
   grpc-opts:
     grpc-service-name: xyz
 - name: "🇺🇸 United States d1ad | SNI - fuck.rkn"
@@ -11049,7 +10838,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: 01
+    short-id: "01"
 - name: "🇺🇸 United States d200 | SNI - www.deepl.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 144.31.207.111
@@ -11064,7 +10853,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU
-    short-id: 67ccfc02
+    short-id: "67ccfc02"
 - name: "🇺🇸 United States d261"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 157.245.215.195
@@ -11088,7 +10877,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: 01
+    short-id: "01"
 - name: "🇺🇸 United States d408 | SNI - speed.cloudflare.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 103.175.79.2
@@ -11239,7 +11028,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: x_BonebeDcNGX4eoog2P-p7_kzQhB0-OHJw5l1lbUCs
-    short-id: 3f000000
+    short-id: "3f000000"
 - name: "🇺🇸 United States d8e4 | SNI - sun6-21.userapi.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: de1-nv.jugploer.icu
@@ -11360,7 +11149,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: jiZqt7Fm9MnXnLD25PuZ2Z1N1j5OKGVyRLPJqa1LSQw
-    short-id: da62ee6c8126787f
+    short-id: "da62ee6c8126787f"
 - name: "🇺🇸 United States dc79"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 74.48.65.76
@@ -11437,7 +11226,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
-    short-id: 35a84908e9cfa95c
+    short-id: "35a84908e9cfa95c"
 - name: "🇺🇸 United States e0f2 | SNI - sni.111000.dynv6.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 45.76.60.96
@@ -11505,7 +11294,7 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: fviTlCtkzpbYhTpHObiVtlgCaAT8LytP9eWUoa6Jfy4
-    short-id: 66f80bb224a5065a
+    short-id: "66f80bb224a5065a"
   grpc-opts:
     grpc-service-name: xyz
 - name: "🇺🇸 United States e35b"
@@ -11636,7 +11425,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 2VJpo3kXJl9inZRLlXn65LvBUTyaHPmhggfQlzoAzkA
-    short-id: 655e55861e
+    short-id: "655e55861e"
 - name: "🇺🇸 United States eae3"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 143.110.133.216
@@ -11737,7 +11526,7 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: PdpC_vd6QYOgFb-p-1X5LcwvkW4Go8HlVyyzX_uVL0I
-    short-id: ae99cc80bf3da3de
+    short-id: "ae99cc80bf3da3de"
   grpc-opts:
     grpc-service-name: xraygrpc
 - name: "🇺🇸 United States ef19"
@@ -11841,7 +11630,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8
-    short-id: 0d1a2c1d4e1f
+    short-id: "0d1a2c1d4e1f"
 - name: "🇺🇸 United States f230 | SNI - www.icloud.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 156.229.161.107
@@ -11856,7 +11645,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4
-    short-id: fb2c6678
+    short-id: "fb2c6678"
 - name: "🇺🇸 United States f260 | SNI - cloudcdn-m9-15.cdn.yandex.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: usa.clgate.network
@@ -11899,7 +11688,7 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw
-    short-id: 7dbf7d3233971d5c
+    short-id: "7dbf7d3233971d5c"
 - name: "🇺🇸 United States f4db"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 157.245.178.181
@@ -11967,7 +11756,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 4iWZChsH0rnqtn89xiB1evDLkFjmgh-3WYjx8cknZC0
-    short-id: a8b9c0d1e2f34567
+    short-id: "a8b9c0d1e2f34567"
 - name: "🇺🇸 United States f616"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 108.162.193.253
@@ -12100,7 +11889,7 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw
-    short-id: 7dbf7d3233971d5c
+    short-id: "7dbf7d3233971d5c"
 - name: "🇺🇸 United States fae9"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 156.225.72.25
