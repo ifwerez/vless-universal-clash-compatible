@@ -130,6 +130,7 @@
         " Unsorted dfed",
         " Unsorted e1c7",
         " Unsorted e33f",
+        " Unsorted e3b0 | SNI - sn1.skylee5.cloudns.ch",
         " Unsorted e41b | SNI - max.ru",
         " Unsorted e41c",
         " Unsorted e6f4",
@@ -1532,6 +1533,26 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": " Unsorted e3b0 | SNI - sn1.skylee5.cloudns.ch",
+      "server": "154.17.22.207",
+      "server_port": 443,
+      "uuid": "06b65903-406d-4a41-8463-6fd5c0ee7798",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sn1.skylee5.cloudns.ch",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sn1.skylee5.cloudns.ch"
+        }
       }
     },
     {
