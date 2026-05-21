@@ -951,21 +951,6 @@ proxies:
   password: kkzh2prsyr2ik47as615
   tls: true
   sni: 64.94.95.118
-- name: "🇺🇸 United States c185 | SNI - xapi.ozon.ru"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 185.68.244.41
-  port: 443
-  udp: true
-  type: vless
-  uuid: 30f5b380-5b9e-4d42-a50c-508a2a8cb2f6
-  network: tcp
-  tls: true
-  servername: xapi.ozon.ru
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4
-    short-id: "433065"
 - name: "🇺🇸 United States ca6b | SNI - stats.vk-portal.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 45.8.157.20
@@ -1008,6 +993,21 @@ proxies:
   reality-opts:
     public-key: W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE
     short-id: "ff776ff77be48b88"
+- name: "🇺🇸 United States cfe8 | SNI - n11.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 144.31.12.194
+  port: 443
+  udp: true
+  type: vless
+  uuid: 30f5b380-5b9e-4d42-a50c-508a2a8cb2f6
+  network: tcp
+  tls: true
+  servername: n11.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: O60JwuL4PInkkwUGmKuzNdc0VjpJU8BCaWuWM3QeDGg
+    short-id: "5d28ea4c"
 - name: "🇺🇸 United States d1ad | SNI - fuck.rkn"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 15.204.97.206
