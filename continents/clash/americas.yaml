@@ -173,6 +173,20 @@ proxies:
     public-key: bL3667MRr_X2BxjBlzNblnbDI-2OTfgohyTRbQ8suBc
   grpc-opts:
     grpc-service-name: grpc
+- name: "🇺🇸 United States 627d | SNI - ads.x5.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 178.250.243.142
+  port: 443
+  udp: true
+  type: vless
+  uuid: 4240323c-fdfd-4269-affe-c96827946470
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
+    short-id: "25b19ab8cfd78fe5"
 - name: "🇺🇸 United States 71e9 | SNI - listwhite.cc"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: autobus.api.dznn.net
@@ -202,6 +216,20 @@ proxies:
     path: /
     headers:
       {}
+- name: "🇺🇸 United States 8a9c | SNI - eh.vk.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 95.163.211.240
+  port: 8080
+  udp: true
+  type: vless
+  uuid: 0c42af97-b62b-428e-bf76-de09288afcfd
+  network: tcp
+  tls: true
+  servername: eh.vk.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw
+    short-id: "7dbf7d3233971d5c"
 - name: "🇺🇸 United States 8c75 | SNI - usa1.jugploer.icu"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: usa1.jugploer.icu
@@ -216,17 +244,49 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: Hnf0rsS2jGwkYlpF4Yywc0jfEC4b96a-rREvrIz_4xM
-- name: "🇺🇸 United States 9374 | SNI - top4182166920.mwscdn.ru"
+- name: "🇺🇸 United States 91d3 | SNI - ads.x5.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 185.242.19.249
+  server: 193.33.133.143
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 4240323c-fdfd-4269-affe-c96827946470
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: xLfTq-rzjNrNzAy7VBIuntmr_3uTNkduP6hWj8-MjgQ
+    short-id: "ad39874fc6f17823"
+- name: "🇺🇸 United States 9e19 | SNI - bucket-ru-5.extravpn.io"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 5.188.115.27
   port: 443
   udp: true
   type: vless
-  uuid: 91a3f712-c4e0-42a0-9475-bdd551a06e73
+  uuid: 324ed16f-83d5-001e-81b9-d3b3e5ed6609
+  network: grpc
+  tls: true
+  servername: bucket-ru-5.extravpn.io
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: mcSB8VHQwqXzWo7oA7RWii3SLVngh63eJOEjxqHKzn8
+  grpc-opts:
+    grpc-service-name: bucket-ru-5.extravpn.io
+- name: "🇺🇸 United States a3ad | SNI - ads.x5.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 91.219.227.203
+  port: 8080
+  udp: true
+  type: vless
+  uuid: 0c42af97-b62b-428e-bf76-de09288afcfd
   network: tcp
   tls: true
-  servername: top4182166920.mwscdn.ru
+  servername: ads.x5.ru
   client-fingerprint: chrome
+  reality-opts:
+    public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw
+    short-id: "7dbf7d3233971d5c"
 - name: "🇺🇸 United States a70e"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: dd.zazazuza.ru
@@ -342,34 +402,20 @@ proxies:
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
     short-id: "35a84908e9cfa95c"
-- name: "🇺🇸 United States fdf2 | SNI - ads.x5.ru"
+- name: "🇺🇸 United States fabd | SNI - sso.passport.yandex.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 193.33.133.143
-  port: 8443
+  server: 95.163.211.237
+  port: 8080
   udp: true
   type: vless
-  uuid: 0b9b79ef-e8be-41c0-9189-bc9ec35597bf
+  uuid: 0c42af97-b62b-428e-bf76-de09288afcfd
   network: tcp
   tls: true
-  servername: ads.x5.ru
-  client-fingerprint: chrome
+  servername: sso.passport.yandex.ru
+  client-fingerprint: qq
   reality-opts:
-    public-key: xLfTq-rzjNrNzAy7VBIuntmr_3uTNkduP6hWj8-MjgQ
-    short-id: "ad39874fc6f17823"
-- name: "🇺🇸 United States feee | SNI - ads.x5.ru"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 178.250.243.142
-  port: 443
-  udp: true
-  type: vless
-  uuid: 0b9b79ef-e8be-41c0-9189-bc9ec35597bf
-  network: tcp
-  tls: true
-  servername: ads.x5.ru
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
-    short-id: "25b19ab8cfd78fe5"
+    public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw
+    short-id: "7dbf7d3233971d5c"
 rules:
 - GEOSITE,category-ads-all,REJECT
 - GEOSITE,cn,DIRECT
