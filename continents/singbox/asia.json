@@ -40,7 +40,7 @@
         "🇯🇵 Japan aff5 | SNI - api.cvs-a.com",
         "🇯🇵 Japan ea3e | SNI - www.amazon.com",
         "🇰🇷 South Korea 4c25",
-        "🇰🇿 Kazakhstan 0347 | SNI - id.vk.ru",
+        "🇰🇿 Kazakhstan 0347 | SNI - www.id.vk.ru",
         "🇰🇿 Kazakhstan 0a91 | SNI - panel.cvs-a.com",
         "🇰🇿 Kazakhstan 2a1b | SNI - kz2-in.api.dznn.net",
         "🇰🇿 Kazakhstan 3d87 | SNI - sun6-21.userapi.com",
@@ -49,20 +49,20 @@
         "🇰🇿 Kazakhstan 91b2",
         "🇰🇿 Kazakhstan 94fb | SNI - kz.trustnet.sbs",
         "🇰🇿 Kazakhstan 9934 | SNI - bucket-ru-2.extravpn.io",
-        "🇸🇬 Singapore 2a94 | SNI - apple.com",
         "🇸🇬 Singapore 6674",
         "🇸🇬 Singapore 8a63",
         "🇸🇬 Singapore bc9a | SNI - api-maps.yandex.ru",
         "🇹🇷 Turkey 02f0 | SNI - max.ru",
         "🇹🇷 Turkey 0c2d | SNI - tr-in.api.dznn.net",
+        "🇹🇷 Turkey 2960 | SNI - sun9-37.userapi.com",
         "🇹🇷 Turkey 30a4",
-        "🇹🇷 Turkey 3a50 | SNI - bazar.palkaservices.xyz",
         "🇹🇷 Turkey 5fd6 | SNI - api.cvs-a.com",
-        "🇹🇷 Turkey 6d4b | SNI - eh.vk.com",
         "🇹🇷 Turkey 9775 | SNI - max.ru",
         "🇹🇷 Turkey bc5b | SNI - 194.58.41.88.fwqfw783rg2dad.website",
         "🇹🇷 Turkey beb6 | SNI - ads.x5.ru",
         "🇹🇷 Turkey dbb9 | SNI - tr1.cvs-a.com",
+        "🇹🇷 Turkey e11f | SNI - sun9-37.userapi.com",
+        "🇹🇷 Turkey e1df | SNI - sun9-37.userapi.com",
         "🇹🇼 Taiwan 4987 | SNI - www.python.org",
         "🇹🇼 Taiwan 9860 | SNI - www.python.org"
       ]
@@ -334,14 +334,14 @@
     },
     {
       "type": "vless",
-      "tag": "🇰🇿 Kazakhstan 0347 | SNI - id.vk.ru",
+      "tag": "🇰🇿 Kazakhstan 0347 | SNI - www.id.vk.ru",
       "server": "109.73.205.73",
       "server_port": 9880,
       "uuid": "5a631312-d31a-4626-9eb4-d3f191a407d1",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
-        "server_name": "id.vk.ru",
+        "server_name": "www.id.vk.ru",
         "insecure": false,
         "reality": {
           "enabled": true,
@@ -489,28 +489,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇸🇬 Singapore 2a94 | SNI - apple.com",
-      "server": "vpn-sg.spend.tg",
-      "server_port": 8443,
-      "uuid": "eacdf9f8-2543-46f3-9436-ed4458fe0ad1",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "apple.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {}
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇸🇬 Singapore 6674",
       "server": "172.237.90.117",
       "server_port": 14573,
@@ -589,7 +567,25 @@
         "reality": {
           "enabled": true,
           "public_key": "9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg",
-          "short_id": "19aa22f681923dc8"
+          "short_id": "0a6ba2716a409da6"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇹🇷 Turkey 2960 | SNI - sun9-37.userapi.com",
+      "server": "tr.vz-or.com",
+      "server_port": 443,
+      "uuid": "fea742aa-02db-4cc7-9612-45fb9be1ec8a",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sun9-37.userapi.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE",
+          "short_id": "abbcd128"
         }
       }
     },
@@ -600,24 +596,6 @@
       "server_port": 64534,
       "uuid": "b43a13be-150c-4a6a-8501-b71c1b6476fb",
       "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "🇹🇷 Turkey 3a50 | SNI - bazar.palkaservices.xyz",
-      "server": "bazar.palkaservices.xyz",
-      "server_port": 443,
-      "uuid": "7ac9c688-27ce-4832-a70d-9cebdd8f4f88",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "bazar.palkaservices.xyz",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "XGN5Hvo3UM1UyeHuEILxrXZc3-VpbV610xGV-whtGQM",
-          "short_id": "f8bdfc8252074299"
-        }
-      }
     },
     {
       "type": "vless",
@@ -634,23 +612,6 @@
           "enabled": true,
           "public_key": "vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY",
           "short_id": "bb55683efa59799d"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇹🇷 Turkey 6d4b | SNI - eh.vk.com",
-      "server": "node-turk2.rmp-inc.top",
-      "server_port": 443,
-      "uuid": "9ccbf816-1e5a-4c43-8ec6-bb47dc9b2968",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "eh.vk.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "19Z9Syrik36ltvmS01HL2hsxcPCjlEF16wXWOozJHTU"
         }
       }
     },
@@ -723,6 +684,42 @@
           "enabled": true,
           "public_key": "vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY",
           "short_id": "bb55683efa59799d"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇹🇷 Turkey e11f | SNI - sun9-37.userapi.com",
+      "server": "tr.vz-or.com",
+      "server_port": 443,
+      "uuid": "aec6fb38-01c8-43fd-b353-e870d4baf0fb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sun9-37.userapi.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE",
+          "short_id": "abbcd128"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇹🇷 Turkey e1df | SNI - sun9-37.userapi.com",
+      "server": "tr.vz-or.com",
+      "server_port": 443,
+      "uuid": "7e73e243-f81e-47c0-8e30-cc2d008a171c",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sun9-37.userapi.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE",
+          "short_id": "abbcd128"
         }
       }
     },
