@@ -33,6 +33,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 02e0 | SNI - cdp.x5.ru"
+  server: 84.201.168.186
+  port: 443
+  udp: true
+  type: vless
+  uuid: eba7f551-7e8f-49be-83f6-7c618fa3acb9
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 052a"
   server: 185.211.170.101
   port: 8443
@@ -49,6 +63,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 06a3 | SNI - cdp.x5.ru"
+  server: 158.160.136.203
+  port: 443
+  udp: true
+  type: vless
+  uuid: cbb739c2-34d9-4ec5-b229-9c1f42ae0c62
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 06c1"
   server: 77.75.199.30
   port: 8880
@@ -86,6 +114,19 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 0d10 | SNI - ads.x5.ru"
+  server: 178.250.243.142
+  port: 443
+  udp: true
+  type: vless
+  uuid: 443c9e66-43b9-4a65-91d9-a77524dfe7f5
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
+    short-id: "25b19ab8cfd78fe5"
 - name: " Unsorted 0f04"
   server: 31.58.171.111
   port: 2053
@@ -124,6 +165,20 @@ proxies:
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
     short-id: "35a84908e9cfa95c"
+- name: " Unsorted 141a | SNI - cdp.x5.ru"
+  server: 51.250.108.162
+  port: 443
+  udp: true
+  type: vless
+  uuid: cbb739c2-34d9-4ec5-b229-9c1f42ae0c62
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 1464"
   server: 89.110.100.76
   port: 2053
@@ -140,6 +195,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 19eb | SNI - cdp.x5.ru"
+  server: 51.250.24.222
+  port: 443
+  udp: true
+  type: vless
+  uuid: cb3d46ff-5a28-40f0-94fb-47a6b2146d58
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 1b17 | SNI - ads.x5.ru"
   server: 84.201.141.0
   port: 4443
@@ -168,6 +237,20 @@ proxies:
     path: /upload/session
     headers:
       Host: s2.ws.listwhite.cc
+- name: " Unsorted 1caf | SNI - cdp.x5.ru"
+  server: 84.201.168.220
+  port: 443
+  udp: true
+  type: vless
+  uuid: cbb739c2-34d9-4ec5-b229-9c1f42ae0c62
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 1cdb | SNI - dl.k8s.io"
   server: 91.239.23.180
   port: 443
@@ -272,6 +355,20 @@ proxies:
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
     short-id: "35a84908e9cfa95c"
+- name: " Unsorted 2bb8 | SNI - cdp.x5.ru"
+  server: 158.160.136.203
+  port: 443
+  udp: true
+  type: vless
+  uuid: eba7f551-7e8f-49be-83f6-7c618fa3acb9
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 2bb9 | SNI - t39sed.gateway-api.sh21.eu.org"
   server: 109.69.57.181
   port: 443
@@ -358,6 +455,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 2ef2 | SNI - ads.x5.ru"
+  server: 87.228.101.202
+  port: 4443
+  udp: true
+  type: vless
+  uuid: b7115280-d91e-4506-94c0-0810e80f4a53
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg
+    short-id: "844352756c1fabba"
 - name: " Unsorted 2f6b | SNI - api-maps.yandex.ru"
   server: ydlte.fluxorvpn.net
   port: 443
@@ -562,6 +673,20 @@ proxies:
     path: "/fp=chrome"
     headers:
       Host: sn1.skylee5.cloudns.ch
+- name: " Unsorted 46af | SNI - cdp.x5.ru"
+  server: 51.250.24.232
+  port: 443
+  udp: true
+  type: vless
+  uuid: cbb739c2-34d9-4ec5-b229-9c1f42ae0c62
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 4721"
   server: 80.74.28.213
   port: 8443
@@ -584,6 +709,20 @@ proxies:
   reality-opts:
     public-key: sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg
     short-id: "844352756c1fabba"
+- name: " Unsorted 4986 | SNI - cdp.x5.ru"
+  server: 84.201.168.220
+  port: 443
+  udp: true
+  type: vless
+  uuid: eba7f551-7e8f-49be-83f6-7c618fa3acb9
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 4e99"
   server: 85.193.90.131
   port: 2053
@@ -608,6 +747,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 52cd | SNI - cdp.x5.ru"
+  server: 84.201.136.5
+  port: 443
+  udp: true
+  type: vless
+  uuid: eba7f551-7e8f-49be-83f6-7c618fa3acb9
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 56ad"
   server: 31.58.171.152
   port: 2053
@@ -637,6 +790,20 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
+- name: " Unsorted 578a | SNI - ads.x5.ru"
+  server: 87.228.101.202
+  port: 5443
+  udp: true
+  type: vless
+  uuid: b7115280-d91e-4506-94c0-0810e80f4a53
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg
+    short-id: "844352756c1fabba"
 - name: " Unsorted 58c2 | SNI - finite-node.rtxconfigz.com"
   server: finite-node.rtxconfigz.com
   port: 443
@@ -675,6 +842,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 5b38 | SNI - cdp.x5.ru"
+  server: 51.250.108.162
+  port: 443
+  udp: true
+  type: vless
+  uuid: eba7f551-7e8f-49be-83f6-7c618fa3acb9
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 5bf8 | SNI - t39sed.gateway-api.sh21.eu.org"
   server: 185.39.51.124
   port: 36284
@@ -725,6 +906,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 6187 | SNI - api-maps.yandex.ru"
+  server: 92.255.58.63
+  port: 443
+  udp: true
+  type: vless
+  uuid: 535ed216-e160-487f-bada-6a249c581697
+  network: tcp
+  tls: true
+  servername: api-maps.yandex.ru
+  client-fingerprint: qq
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
+    short-id: "6cc5290e6f0b47c3"
 - name: " Unsorted 6332"
   server: 152.53.147.108
   port: 8443
@@ -749,6 +944,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 67a6 | SNI - cdp.x5.ru"
+  server: 51.250.24.222
+  port: 443
+  udp: true
+  type: vless
+  uuid: eba7f551-7e8f-49be-83f6-7c618fa3acb9
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 694c"
   server: 185.79.138.12
   port: 2053
@@ -803,6 +1012,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 7095 | SNI - cdp.x5.ru"
+  server: 51.250.24.232
+  port: 443
+  udp: true
+  type: vless
+  uuid: cb3d46ff-5a28-40f0-94fb-47a6b2146d58
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 7199 | SNI - github.com"
   server: 144.31.245.146
   port: 443
@@ -843,6 +1066,20 @@ proxies:
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
     short-id: "35a84908e9cfa95c"
+- name: " Unsorted 7824 | SNI - cdp.x5.ru"
+  server: 158.160.57.73
+  port: 443
+  udp: true
+  type: vless
+  uuid: eba7f551-7e8f-49be-83f6-7c618fa3acb9
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 7ada"
   server: 151.242.43.44
   port: 2053
@@ -851,6 +1088,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 7c29 | SNI - cdp.x5.ru"
+  server: 51.250.97.18
+  port: 443
+  udp: true
+  type: vless
+  uuid: cbb739c2-34d9-4ec5-b229-9c1f42ae0c62
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 7cbe"
   server: 84.32.49.95
   port: 8443
@@ -946,6 +1197,20 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
+- name: " Unsorted 8c8d | SNI - ads.x5.ru"
+  server: 87.228.101.202
+  port: 443
+  udp: true
+  type: vless
+  uuid: b7115280-d91e-4506-94c0-0810e80f4a53
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg
+    short-id: "844352756c1fabba"
 - name: " Unsorted 8d91 | SNI - w1ws.listwhite.cc"
   server: w1ws.listwhite.cc
   port: 443
@@ -960,6 +1225,20 @@ proxies:
     path: /upload/session
     headers:
       Host: s1.ws.listwhite.cc
+- name: " Unsorted 8f44 | SNI - api-maps.yandex.ru"
+  server: 185.14.46.108
+  port: 443
+  udp: true
+  type: vless
+  uuid: 434f2919-a1f8-4ae7-af5b-a198914c7958
+  network: tcp
+  tls: true
+  servername: api-maps.yandex.ru
+  client-fingerprint: qq
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
+    short-id: "6cc5290e6f0b47c3"
 - name: " Unsorted 8f49"
   server: 212.34.146.6
   port: 2053
@@ -1014,6 +1293,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 938d | SNI - cdp.x5.ru"
+  server: 51.250.24.232
+  port: 443
+  udp: true
+  type: vless
+  uuid: eba7f551-7e8f-49be-83f6-7c618fa3acb9
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 953f"
   server: 109.206.236.142
   port: 8443
@@ -1022,6 +1315,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 989b | SNI - cdp.x5.ru"
+  server: 51.250.106.87
+  port: 443
+  udp: true
+  type: vless
+  uuid: eba7f551-7e8f-49be-83f6-7c618fa3acb9
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 9abc"
   server: 45.38.143.97
   port: 8443
@@ -1108,6 +1415,20 @@ proxies:
   reality-opts:
     public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
     short-id: "6cc5290e6f0b47c3"
+- name: " Unsorted a619 | SNI - ads.x5.ru"
+  server: 87.228.101.202
+  port: 3443
+  udp: true
+  type: vless
+  uuid: b7115280-d91e-4506-94c0-0810e80f4a53
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg
+    short-id: "844352756c1fabba"
 - name: " Unsorted a61a"
   server: 85.193.90.131
   port: 8443
@@ -1138,6 +1459,20 @@ proxies:
     path: "/danfeng?ed=2560fp=firefox"
     headers:
       Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted a660 | SNI - cdp.x5.ru"
+  server: 51.250.24.222
+  port: 443
+  udp: true
+  type: vless
+  uuid: cbb739c2-34d9-4ec5-b229-9c1f42ae0c62
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted a67b"
   server: 77.105.139.166
   port: 8443
@@ -1146,6 +1481,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted a7ff | SNI - api-maps.yandex.ru"
+  server: 185.14.46.108
+  port: 443
+  udp: true
+  type: vless
+  uuid: 535ed216-e160-487f-bada-6a249c581697
+  network: tcp
+  tls: true
+  servername: api-maps.yandex.ru
+  client-fingerprint: qq
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
+    short-id: "6cc5290e6f0b47c3"
 - name: " Unsorted a935"
   server: 109.248.168.196
   port: 8443
@@ -1194,6 +1543,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted b70a | SNI - cdp.x5.ru"
+  server: 51.250.97.18
+  port: 443
+  udp: true
+  type: vless
+  uuid: eba7f551-7e8f-49be-83f6-7c618fa3acb9
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted bb51"
   server: 155.103.71.153
   port: 2053
@@ -1225,6 +1588,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted bfd9 | SNI - cdp.x5.ru"
+  server: 84.201.136.5
+  port: 443
+  udp: true
+  type: vless
+  uuid: cb3d46ff-5a28-40f0-94fb-47a6b2146d58
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted c05f"
   server: 212.34.146.229
   port: 2053
@@ -1255,6 +1632,19 @@ proxies:
     path: "/danfeng?ed=2560fp=chrome"
     headers:
       Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted c2c0 | SNI - ads.x5.ru"
+  server: 178.250.243.142
+  port: 443
+  udp: true
+  type: vless
+  uuid: 1d9f391b-fc04-4484-8c68-9e0992a44334
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
+    short-id: "25b19ab8cfd78fe5"
 - name: " Unsorted c355"
   server: 62.84.98.74
   port: 2053
@@ -1325,6 +1715,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted ccea | SNI - cdp.x5.ru"
+  server: 51.250.106.87
+  port: 443
+  udp: true
+  type: vless
+  uuid: cb3d46ff-5a28-40f0-94fb-47a6b2146d58
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted d0c7"
   server: 109.206.236.154
   port: 8443
@@ -1421,6 +1825,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted e13b | SNI - cdp.x5.ru"
+  server: 84.201.136.5
+  port: 443
+  udp: true
+  type: vless
+  uuid: cbb739c2-34d9-4ec5-b229-9c1f42ae0c62
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted e1c7"
   server: 45.38.143.139
   port: 8443
@@ -1451,6 +1869,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted e35b | SNI - cdp.x5.ru"
+  server: 51.250.106.87
+  port: 443
+  udp: true
+  type: vless
+  uuid: cbb739c2-34d9-4ec5-b229-9c1f42ae0c62
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted e41b | SNI - max.ru"
   server: 217.16.21.104
   port: 48016
@@ -1646,6 +2078,19 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted f9e8 | SNI - ads.x5.ru"
+  server: 178.250.243.142
+  port: 443
+  udp: true
+  type: vless
+  uuid: a87d9eb9-7f09-4056-a5ba-ea8b1d212e5c
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
+    short-id: "25b19ab8cfd78fe5"
 - name: " Unsorted fe49"
   server: 104.167.196.91
   port: 2053
@@ -1676,6 +2121,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted fead | SNI - api-maps.yandex.ru"
+  server: 92.255.58.63
+  port: 443
+  udp: true
+  type: vless
+  uuid: 434f2919-a1f8-4ae7-af5b-a198914c7958
+  network: tcp
+  tls: true
+  servername: api-maps.yandex.ru
+  client-fingerprint: qq
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
+    short-id: "6cc5290e6f0b47c3"
 rules:
 - GEOSITE,category-ads-all,REJECT
 - GEOSITE,cn,DIRECT
