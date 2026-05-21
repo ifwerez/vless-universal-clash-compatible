@@ -28,7 +28,6 @@
         "🇧🇷 Brazil 2f4b | SNI - api.cvs-a.com",
         "🇺🇸 United States 23b1 | SNI - ussun.api.dznn.net",
         "🇺🇸 United States 339b | SNI - www.apple.com",
-        "🇺🇸 United States 345c | SNI - us.nodes.rocketnetwork.ru",
         "🇺🇸 United States 3804 | SNI - sso.passport.yandex.ru",
         "🇺🇸 United States 3901 | SNI - us1.cvs-a.com",
         "🇺🇸 United States 4203 | SNI - 194.58.41.88.fwqfw783rg2dad.website",
@@ -52,7 +51,8 @@
         "🇺🇸 United States cdd4 | SNI - usa.xtrustnet.sbs",
         "🇺🇸 United States cfe8 | SNI - n11.com",
         "🇺🇸 United States d8e4 | SNI - sun6-21.userapi.com",
-        "🇺🇸 United States dfce | SNI - sun6-21.userapi.com"
+        "🇺🇸 United States dfce | SNI - sun6-21.userapi.com",
+        "🇺🇸 United States e3b0 | SNI - sn1.skylee5.cloudns.ch [geo]"
       ]
     },
     {
@@ -109,24 +109,6 @@
         "reality": {
           "enabled": true,
           "public_key": "im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇺🇸 United States 345c | SNI - us.nodes.rocketnetwork.ru",
-      "server": "us.nodes.rocketnetwork.ru",
-      "server_port": 443,
-      "uuid": "49a74c22-64e6-4799-aeb7-ae6f51bc1ddf",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "us.nodes.rocketnetwork.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs",
-          "short_id": "428ef87fd47a3a32"
         }
       }
     },
@@ -543,6 +525,26 @@
           "enabled": true,
           "public_key": "NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk",
           "short_id": "35a84908e9cfa95c"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 United States e3b0 | SNI - sn1.skylee5.cloudns.ch [geo]",
+      "server": "154.17.22.207",
+      "server_port": 443,
+      "uuid": "06b65903-406d-4a41-8463-6fd5c0ee7798",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sn1.skylee5.cloudns.ch",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sn1.skylee5.cloudns.ch"
         }
       }
     }
