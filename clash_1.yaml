@@ -281,20 +281,6 @@ proxies:
     path: "/?https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3="
     headers:
       Host: sni.111000.v6.army
-- name: " Unsorted 1252 | SNI - 2-1ng.pages.dev"
-  server: 104.18.33.45
-  port: 443
-  udp: true
-  type: vless
-  uuid: ce069292-c8bf-40dd-a6b1-87818a1e64e9
-  network: ws
-  tls: true
-  servername: 2-1ng.pages.dev
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: 2-1ng.pages.dev
 - name: " Unsorted 1280 | SNI - hetz.x-smm.com"
   server: 173.245.59.217
   port: 443
@@ -516,6 +502,19 @@ proxies:
     path: /
     headers:
       Host: filter.elitesilver002.workers.dev
+- name: " Unsorted 1a39"
+  server: bmi.ir
+  port: 8080
+  udp: true
+  type: vless
+  uuid: 43794829-04d4-7a21-c86c-42246dd41bd4
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: cdn-665e-o0g.fars-rehan.ir
 - name: " Unsorted 1ae5 | SNI - sni.111000.v6.rocks"
   server: 45.144.52.69
   port: 443
@@ -653,19 +652,6 @@ proxies:
     path: /9om0kfpk0v09
     headers:
       Host: index.arcane509.workers.dev
-- name: " Unsorted 2115"
-  server: 104.18.2.11
-  port: 443
-  udp: true
-  type: vless
-  uuid: cb213db5-803d-49dd-a7e2-46d938af0751
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: ''
-    headers:
-      Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev
 - name: " Unsorted 2197 | SNI - pavosilene.qzz.io"
   server: 104.26.4.221
   port: 443
@@ -1026,20 +1012,6 @@ proxies:
     path: /vless/
     headers:
       {}
-- name: " Unsorted 3cac | SNI - juzi8186.qea.ccwu.cc"
-  server: 172.64.149.209
-  port: 443
-  udp: true
-  type: vless
-  uuid: bafacd98-136a-4530-838d-4e5c51838dac
-  network: ws
-  tls: true
-  servername: juzi8186.qea.ccwu.cc
-  client-fingerprint: firefox
-  ws-opts:
-    path: "/discuss/f/juzibaipiao?ed=2560"
-    headers:
-      Host: juzi8186.qea.ccwu.cc
 - name: " Unsorted 3d3a"
   server: 146.75.119.82
   port: 443
@@ -1168,6 +1140,20 @@ proxies:
     path: "/?ed=2560"
     headers:
       Host: sni.111000.indevs.in
+- name: " Unsorted 4cb4 | SNI - sni.111000.v6.rocks"
+  server: 159.65.82.25
+  port: 443
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: true
+  servername: sni.111000.v6.rocks
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3="
+    headers:
+      Host: sni.111000.v6.rocks
 - name: " Unsorted 4d39 | SNI - sni.latonyamadeline.ndjp.net"
   server: 104.17.4.195
   port: 443
@@ -1244,6 +1230,14 @@ proxies:
     path: "/?ed=2560"
     headers:
       Host: sni.111000.de5.net
+- name: " Unsorted 51e9 [CIDR]"
+  server: 77.110.104.41
+  port: 2053
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
 - name: " Unsorted 528d | SNI - sni.111000.indevs.in"
   server: 89.116.180.138
   port: 443
@@ -1341,14 +1335,6 @@ proxies:
     path: ''
     headers:
       Host: sni.111000.v6.navy
-- name: " Unsorted 59ae [CIDR]"
-  server: 5.255.118.107
-  port: 8443
-  udp: true
-  type: trojan
-  password: "8r%3C%5B9%27l6hAO%238ZQi"
-  tls: true
-  sni: Koma-YT.PAGeS.Dev
 - name: " Unsorted 59ca | SNI - 638990351320529492.prius-amshz.info"
   server: 108.162.193.217
   port: 443
@@ -1413,19 +1399,6 @@ proxies:
     path: "/?Telegram🇨🇳@WangCai2="
     headers:
       Host: sni.111000.indevs.in
-- name: " Unsorted 5be4"
-  server: rfral.aghanami.ir
-  port: 80
-  udp: true
-  type: vless
-  uuid: 0303d63a-2f5a-41d6-bde8-ca8174f74bdd
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      {}
 - name: " Unsorted 5c70 | SNI - sni.111000.v6.navy"
   server: 37.59.97.139
   port: 443
@@ -1641,14 +1614,6 @@ proxies:
     path: "/103.86.44.120=65432"
     headers:
       Host: afrcloud22.mmv.kr
-- name: " Unsorted 672c [CIDR]"
-  server: 5.255.113.38
-  port: 8443
-  udp: true
-  type: trojan
-  password: "8r%3C%5B9%27l6hAO%238ZQi"
-  tls: true
-  sni: Koma-YT.PAGeS.Dev
 - name: " Unsorted 67eb"
   server: 198.41.222.191
   port: 443
@@ -1690,20 +1655,14 @@ proxies:
     path: "/45.76.183.217=49292"
     headers:
       Host: hetz.x-smm.com
-- name: " Unsorted 69a0 | SNI - juzi8186.qea.ccwu.cc"
-  server: 104.18.33.45
-  port: 443
+- name: " Unsorted 694c [CIDR]"
+  server: 185.79.138.12
+  port: 2053
   udp: true
-  type: vless
-  uuid: bafacd98-136a-4530-838d-4e5c51838dac
-  network: ws
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
-  servername: juzi8186.qea.ccwu.cc
-  client-fingerprint: firefox
-  ws-opts:
-    path: "/info/readme/items/juzibaipiao?ed=2560"
-    headers:
-      Host: juzi8186.qea.ccwu.cc
+  sni: Koma-YT.PAGeS.Dev
 - name: " Unsorted 6b3a"
   server: 162.159.27.20
   port: 443
@@ -1808,15 +1767,6 @@ proxies:
   reality-opts:
     public-key: L9LQ_8Ymo1o7QRPvWXsd4VY_i_OZ-0ZIw_mU16zaPEY
     short-id: "a20d3ed244c76426"
-- name: " Unsorted 6ffa"
-  server: 45.130.125.112
-  port: 443
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: tcp
-  tls: false
-  client-fingerprint: chrome
 - name: " Unsorted 70cc | SNI - sni.111000.indevs.in"
   server: 45.131.7.138
   port: 443
@@ -1844,19 +1794,6 @@ proxies:
     path: /cdn
     headers:
       Host: cp.movizdl.ir
-- name: " Unsorted 7387 | SNI - ads.x5.ru"
-  server: bs.trustednet.sbs
-  port: 443
-  udp: true
-  type: vless
-  uuid: d310e139-65d9-4910-8422-75fdc47eeda3
-  network: tcp
-  tls: true
-  servername: ads.x5.ru
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: 4fkc7NTbrWKSBTpZHGE2jjQXVtrao1tQQ989zilyPUw
 - name: " Unsorted 7492 | SNI - sni.111000.indevs.in"
   server: 209.102.207.162
   port: 443
@@ -2015,6 +1952,20 @@ proxies:
     path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
     headers:
       Host: vms.lifetime60.workers.dev
+- name: " Unsorted 7c80 | SNI - qyi.fqjd663.ggff.net"
+  server: 63.141.128.3
+  port: 443
+  udp: true
+  type: vless
+  uuid: 8c4604ef-749c-4b56-adf1-7da405002a21
+  network: ws
+  tls: true
+  servername: qyi.fqjd663.ggff.net
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: qyi.fqjd663.ggff.net
 - name: " Unsorted 7d55 | SNI - sni.111000.indevs.in"
   server: 190.93.245.94
   port: 443
@@ -2051,14 +2002,6 @@ proxies:
   network: tcp
   tls: false
   client-fingerprint: chrome
-- name: " Unsorted 8345 [CIDR]"
-  server: 5.255.115.185
-  port: 2053
-  udp: true
-  type: trojan
-  password: "8r%3C%5B9%27l6hAO%238ZQi"
-  tls: true
-  sni: Koma-YT.PAGeS.Dev
 - name: " Unsorted 8372 | SNI - hetz.x-smm.com"
   server: 172.64.33.91
   port: 443
@@ -2173,6 +2116,34 @@ proxies:
     path: "/45.76.183.217=49292"
     headers:
       Host: hetz.x-smm.com
+- name: " Unsorted 8b37 | SNI - ss.2026.accesscam.org"
+  server: 104.17.185.207
+  port: 443
+  udp: true
+  type: vless
+  uuid: 695b11c7-6bec-927c-f1ea-f13683c557d6
+  network: ws
+  tls: true
+  servername: ss.2026.accesscam.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/proxyip=sjc.o00o.ooo"
+    headers:
+      Host: ss.2026.accesscam.org
+- name: " Unsorted 8be0 | SNI - juzi8186.qea.ccwu.cc"
+  server: 172.67.70.92
+  port: 443
+  udp: true
+  type: vless
+  uuid: bafacd98-136a-4530-838d-4e5c51838dac
+  network: ws
+  tls: true
+  servername: juzi8186.qea.ccwu.cc
+  client-fingerprint: firefox
+  ws-opts:
+    path: "/buy/ads/juzibaipiao?ed=2560"
+    headers:
+      Host: juzi8186.qea.ccwu.cc
 - name: " Unsorted 8c0a"
   server: varzesh3.com
   port: 80
@@ -2344,20 +2315,6 @@ proxies:
     path: /57ba2ab1
     headers:
       Host: ovhwuxian.pai50288.uk
-- name: " Unsorted 970d | SNI - 1-aym.pages.dev"
-  server: 172.64.149.209
-  port: 443
-  udp: true
-  type: vless
-  uuid: ce069292-c8bf-40dd-a6b1-87818a1e64e9
-  network: ws
-  tls: true
-  servername: 1-aym.pages.dev
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: 1-aym.pages.dev
 - name: " Unsorted 9715 | SNI - pa-7oa.pages.dev"
   server: 104.19.234.170
   port: 443
@@ -3953,14 +3910,6 @@ proxies:
     path: /
     headers:
       Host: p1.sesrsa.com
-- name: " Unsorted f608 [CIDR]"
-  server: 193.164.155.186
-  port: 2053
-  udp: true
-  type: trojan
-  password: "8r%3C%5B9%27l6hAO%238ZQi"
-  tls: true
-  sni: Koma-YT.PAGeS.Dev
 - name: " Unsorted f64c | SNI - looazjoijji.global.ssl.fastly.net"
   server: 151.101.37.194
   port: 443
@@ -3989,16 +3938,6 @@ proxies:
   reality-opts:
     public-key: eEEraNK24HvLNi7BMiwukELj8zSIPfUCEgXL2C4fbHw
     short-id: "85225c27630d023f"
-- name: " Unsorted f75a"
-  server: 45.192.101.134
-  port: 9527
-  udp: true
-  type: vmess
-  uuid: ae862e1d-3b8c-443a-027b-37c6c69ef43c
-  cipher: auto
-  alterId: 0
-  network: tcp
-  tls: false
 - name: " Unsorted f794 | SNI - gaosir.unfeeling.sbs"
   server: 159.246.55.253
   port: 443
@@ -4103,6 +4042,13 @@ proxies:
     path: "/?ed=2560"
     headers:
       Host: shomal-g74f3znf-v2.shomal-321.workers.dev
+- name: " Unsorted fd93"
+  server: tr-1.stunnel.cc
+  port: 8441
+  udp: true
+  type: trojan
+  password: tunnel-ljlcf
+  tls: true
 - name: " Unsorted fecf"
   server: 172.67.69.238
   port: 443
@@ -4143,19 +4089,6 @@ proxies:
     path: "/?ed=2560"
     headers:
       Host: sv-1.jservices.ir
-- name: "🇮🇷 Iran  Unsorted 1a39"
-  server: bmi.ir
-  port: 8080
-  udp: true
-  type: vless
-  uuid: 43794829-04d4-7a21-c86c-42246dd41bd4
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: cdn-665e-o0g.fars-rehan.ir
 - name: "🇮🇷 Iran  Unsorted 26b8"
   server: pro.networkbazaar.ir
   port: 2082
@@ -4169,6 +4102,19 @@ proxies:
     path: /
     headers:
       Host: pro.networkbazaar.ir
+- name: "🇮🇷 Iran  Unsorted 5be4"
+  server: rfral.aghanami.ir
+  port: 80
+  udp: true
+  type: vless
+  uuid: 0303d63a-2f5a-41d6-bde8-ca8174f74bdd
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      {}
 - name: "🇮🇷 Iran  Unsorted 9d07"
   server: snappfood.ir
   port: 2052
@@ -4215,6 +4161,15 @@ proxies:
     path: /
     headers:
       Host: vip.yaml7.ggff.net
+- name: "🇸🇨 Seychelles  Unsorted 6ffa"
+  server: 45.130.125.112
+  port: 443
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: tcp
+  tls: false
+  client-fingerprint: chrome
 - name: "🇸🇨 Seychelles  Unsorted 9276"
   server: srv1.khatibirepair.ir
   port: 80
@@ -4499,21 +4454,6 @@ proxies:
     path: /upload/session
     headers:
       Host: at.ws.dznn.net
-- name: "🇦🇹 Austria 🇦🇹 Austria 62da | SNI - srv152.towersflowerss.com"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AT.png
-  server: srv152.towersflowerss.com
-  port: 64534
-  udp: true
-  type: vless
-  uuid: b43a13be-150c-4a6a-8501-b71c1b6476fb
-  network: ws
-  tls: false
-  servername: srv152.towersflowerss.com
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      {}
 - name: "🇦🇹 Austria 🇦🇹 Austria 6a67 | SNI - chat.deepseek.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AT.png
   server: 152.53.1.32
@@ -4943,6 +4883,21 @@ proxies:
     path: "/eyJqdW5rIjoiN2pDUmU3bklKIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560"
     headers:
       Host: v2raygulf11.v2raygulf11.workers.dev
+- name: "🇨🇦 Canada  Unsorted 0f23 | SNI - 1-axj.pages.dev"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: da.mfa.gov.ua
+  port: 443
+  udp: true
+  type: vless
+  uuid: ce069292-c8bf-40dd-a6b1-87818a1e64e9
+  network: ws
+  tls: true
+  servername: 1-axj.pages.dev
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/proxyip=ProxyIP.DE.owg.dpdns.org"
+    headers:
+      Host: 1-axj.pages.dev
 - name: "🇨🇦 Canada  Unsorted 120c | SNI - lively-brook-c471.nedena3319.workers.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: lively-brook-c471.nedena3319.workers.dev
@@ -4969,6 +4924,21 @@ proxies:
   alterId: 0
   network: ws
   tls: true
+- name: "🇨🇦 Canada  Unsorted 1252 | SNI - 2-1ng.pages.dev"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: 104.18.33.45
+  port: 443
+  udp: true
+  type: vless
+  uuid: ce069292-c8bf-40dd-a6b1-87818a1e64e9
+  network: ws
+  tls: true
+  servername: 2-1ng.pages.dev
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: 2-1ng.pages.dev
 - name: "🇨🇦 Canada  Unsorted 12be | SNI - 3-93f.pages.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: store.ubi.com
@@ -5038,21 +5008,6 @@ proxies:
     path: "/apps/lessons/juzibaipiao?ed=2560"
     headers:
       Host: juzi8186.qea.ccwu.cc
-- name: "🇨🇦 Canada  Unsorted 1843 | SNI - sni.111000.dynv6.net"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 8443
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: true
-  servername: sni.111000.dynv6.net
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?Telegram🇨🇳 @WangCai2"
-    headers:
-      Host: sni.111000.dynv6.net
 - name: "🇨🇦 Canada  Unsorted 189f | SNI - sany.tara132.workers.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: ip.sb
@@ -5165,6 +5120,20 @@ proxies:
     path: /PdgTMW8NBNZYo6L23v
     headers:
       Host: index.0x15.workers.dev
+- name: "🇨🇦 Canada  Unsorted 2115"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: 104.18.2.11
+  port: 443
+  udp: true
+  type: vless
+  uuid: cb213db5-803d-49dd-a7e2-46d938af0751
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev
 - name: "🇨🇦 Canada  Unsorted 22b1 | SNI - snippets.kkii.eu.org"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 104.17.25.173
@@ -5194,21 +5163,6 @@ proxies:
     path: ''
     headers:
       Host: square-frost-8d11.9660004.workers.dev
-- name: "🇨🇦 Canada  Unsorted 2483 | SNI - index.0x15.workers.DEV"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: singapore.com
-  port: 2083
-  udp: true
-  type: vless
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  network: ws
-  tls: true
-  servername: index.0x15.workers.DEV
-  client-fingerprint: chrome
-  ws-opts:
-    path: /9quSDGMroCZkFeWzTk
-    headers:
-      Host: index.0x15.workers.dev
 - name: "🇨🇦 Canada  Unsorted 251d | SNI - juzi8186.qea.ccwu.cc"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 172.64.147.104
@@ -5239,21 +5193,6 @@ proxies:
     path: "/?ed=2048"
     headers:
       Host: qyi.fqjd663.ggff.net
-- name: "🇨🇦 Canada  Unsorted 26b7 | SNI - 026.elEctrOCELLCo-cF-026.wORKERs.deV"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 443
-  udp: true
-  type: vless
-  uuid: 064059ce-23b9-45d3-953d-57d4c5092874
-  network: ws
-  tls: true
-  servername: 026.elEctrOCELLCo-cF-026.wORKERs.deV
-  client-fingerprint: chrome
-  ws-opts:
-    path: /eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0
-    headers:
-      Host: 026.electrocellco-cf-026.workers.dev
 - name: "🇨🇦 Canada  Unsorted 26fb | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: cf.090227.xyz
@@ -5269,15 +5208,6 @@ proxies:
     path: "/fp=randomized"
     headers:
       Host: fuckingfangbinxing.cnmfangbinxing-n.workers.dev
-- name: "🇨🇦 Canada  Unsorted 275c"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 443
-  udp: true
-  type: trojan
-  password: humanity
-  tls: true
-  sni: www.gossipglove.com
 - name: "🇨🇦 Canada  Unsorted 2766"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 104.18.4.46
@@ -5494,21 +5424,6 @@ proxies:
     path: /
     headers:
       Host: tt.andishehparenting.com
-- name: "🇨🇦 Canada  Unsorted 3149 | SNI - sni.111000.indevs.in"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 2096
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: true
-  servername: sni.111000.indevs.in
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed"
-    headers:
-      Host: sni.111000.indevs.in
 - name: "🇨🇦 Canada  Unsorted 35d0"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 104.17.147.22
@@ -5590,6 +5505,21 @@ proxies:
   password: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63
   tls: true
   sni: cloudflare-proxy-1jk.pages.dev
+- name: "🇨🇦 Canada  Unsorted 3cac | SNI - juzi8186.qea.ccwu.cc"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: 172.64.149.209
+  port: 443
+  udp: true
+  type: vless
+  uuid: bafacd98-136a-4530-838d-4e5c51838dac
+  network: ws
+  tls: true
+  servername: juzi8186.qea.ccwu.cc
+  client-fingerprint: firefox
+  ws-opts:
+    path: "/discuss/f/juzibaipiao?ed=2560"
+    headers:
+      Host: juzi8186.qea.ccwu.cc
 - name: "🇨🇦 Canada  Unsorted 3cf8"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 23.162.200.198
@@ -5826,21 +5756,6 @@ proxies:
     path: "/fp=randomized"
     headers:
       Host: fuckingfangbinxing.cnmfangbinxing-n.workers.dev
-- name: "🇨🇦 Canada  Unsorted 500c | SNI - rAviDdD.paGEs.DEv"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 2083
-  udp: true
-  type: vless
-  uuid: 6a719f2b-b629-462d-975a-9c0daa3edb75
-  network: ws
-  tls: true
-  servername: rAviDdD.paGEs.DEv
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/QDHqawq0xGrFP7Pa/MTU4LjE4MC4xMi4xMTc=?ed=2560"
-    headers:
-      Host: raviddd.pages.dev
 - name: "🇨🇦 Canada  Unsorted 50d0"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: wing2452.nyc.mn
@@ -5888,6 +5803,15 @@ proxies:
     path: /
     headers:
       Host: fragrant-recipe-09f4.wopecuyubak61.workers.dev
+- name: "🇨🇦 Canada  Unsorted 5475"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: mfa.gov.ua
+  port: 443
+  udp: true
+  type: trojan
+  password: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63
+  tls: true
+  sni: cloudflare-proxy-1jk.pages.dev
 - name: "🇨🇦 Canada  Unsorted 575d"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: netv.amirshee9090.workers.dev
@@ -5955,6 +5879,21 @@ proxies:
     path: "/sni.111000.dynv6.net/?ed=2560"
     headers:
       Host: sany.tara132.workers.dev
+- name: "🇨🇦 Canada  Unsorted 5bb7 | SNI - juzi8186.qea.ccwu.cc"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: mfa.gov.ua
+  port: 443
+  udp: true
+  type: vless
+  uuid: bafacd98-136a-4530-838d-4e5c51838dac
+  network: ws
+  tls: true
+  servername: juzi8186.qea.ccwu.cc
+  client-fingerprint: firefox
+  ws-opts:
+    path: "/f/members/category/juzibaipiao?ed=2560"
+    headers:
+      Host: juzi8186.qea.ccwu.cc
 - name: "🇨🇦 Canada  Unsorted 5bd9"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: vip.yaml7.ggff.net
@@ -6109,6 +6048,21 @@ proxies:
     path: /
     headers:
       Host: tt.andishehparenting.com
+- name: "🇨🇦 Canada  Unsorted 69a0 | SNI - juzi8186.qea.ccwu.cc"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: 104.18.33.45
+  port: 443
+  udp: true
+  type: vless
+  uuid: bafacd98-136a-4530-838d-4e5c51838dac
+  network: ws
+  tls: true
+  servername: juzi8186.qea.ccwu.cc
+  client-fingerprint: firefox
+  ws-opts:
+    path: "/info/readme/items/juzibaipiao?ed=2560"
+    headers:
+      Host: juzi8186.qea.ccwu.cc
 - name: "🇨🇦 Canada  Unsorted 6ab5"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: ciallo-egb.pages.dev
@@ -6158,21 +6112,6 @@ proxies:
     path: "/?ed=2560"
     headers:
       Host: daluan.eu.org
-- name: "🇨🇦 Canada  Unsorted 6f0d | SNI - Bpb241.gaNijoV670.WOrkers.Dev."
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 2053
-  udp: true
-  type: vless
-  uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
-  network: ws
-  tls: true
-  servername: Bpb241.gaNijoV670.WOrkers.Dev.
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/3PvwrvEqporAUTYq/MTQ0LjI0LjI0My4yMDc?ed=2053"
-    headers:
-      Host: BpB241.gaNIJoV670.WOrkErs.dev.
 - name: "🇨🇦 Canada  Unsorted 7092"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 172.66.44.211
@@ -6202,20 +6141,6 @@ proxies:
     path: /products
     headers:
       Host: pagescm.freen8.de5.net
-- name: "🇨🇦 Canada  Unsorted 71a2 #2"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 2052
-  udp: true
-  type: vless
-  uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed"
-    headers:
-      Host: parking-nfchbwa1-v2.parking-1ab.workers.dev
 - name: "🇨🇦 Canada  Unsorted 72ce | SNI - S4-f45.pAGeS.DeV"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: s4-f45.pages.dev
@@ -6648,21 +6573,6 @@ proxies:
     path: ''
     headers:
       Host: vip.yaml7.ggff.net
-- name: "🇨🇦 Canada  Unsorted 8b37 | SNI - ss.2026.accesscam.org"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: 104.17.185.207
-  port: 443
-  udp: true
-  type: vless
-  uuid: 695b11c7-6bec-927c-f1ea-f13683c557d6
-  network: ws
-  tls: true
-  servername: ss.2026.accesscam.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/proxyip=sjc.o00o.ooo"
-    headers:
-      Host: ss.2026.accesscam.org
 - name: "🇨🇦 Canada  Unsorted 8b77 | SNI - cho.chonon.sbs"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 104.16.250.22
@@ -6674,21 +6584,6 @@ proxies:
   tls: true
   servername: cho.chonon.sbs
   client-fingerprint: chrome
-- name: "🇨🇦 Canada  Unsorted 8be0 | SNI - juzi8186.qea.ccwu.cc"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: 172.67.70.92
-  port: 443
-  udp: true
-  type: vless
-  uuid: bafacd98-136a-4530-838d-4e5c51838dac
-  network: ws
-  tls: true
-  servername: juzi8186.qea.ccwu.cc
-  client-fingerprint: firefox
-  ws-opts:
-    path: "/buy/ads/juzibaipiao?ed=2560"
-    headers:
-      Host: juzi8186.qea.ccwu.cc
 - name: "🇨🇦 Canada  Unsorted 8c07"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 104.26.3.125
@@ -6733,21 +6628,6 @@ proxies:
     path: "/?ed=2560"
     headers:
       Host: daluan.eu.org
-- name: "🇨🇦 Canada  Unsorted 8f8a | SNI - powered-by-surena.user68f797c2f3e1b.workers.dev"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 443
-  udp: true
-  type: vless
-  uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63
-  network: ws
-  tls: true
-  servername: powered-by-surena.user68f797c2f3e1b.workers.dev
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed"
-    headers:
-      Host: powered-by-surena.user68f797c2f3e1b.workers.dev
 - name: "🇨🇦 Canada  Unsorted 8fda | SNI - 3-7v4.pages.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 104.18.38.47
@@ -6763,21 +6643,6 @@ proxies:
     path: /
     headers:
       Host: 3-7v4.pages.dev
-- name: "🇨🇦 Canada  Unsorted 8ffe | SNI - aio.zxcore.biz.id"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 443
-  udp: true
-  type: vless
-  uuid: da78f96e-01d3-4289-9d0b-fbbe3f0a5472
-  network: ws
-  tls: true
-  servername: aio.zxcore.biz.id
-  client-fingerprint: chrome
-  ws-opts:
-    path: /aioproxybot/124.153.168.248-50001
-    headers:
-      Host: aio.zxcore.biz.id
 - name: "🇨🇦 Canada  Unsorted 9095"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 172.64.149.54
@@ -6897,6 +6762,21 @@ proxies:
     path: /44.209.52.7-443
     headers:
       Host: blackshadow.dpdns.org
+- name: "🇨🇦 Canada  Unsorted 970d | SNI - 1-aym.pages.dev"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: 172.64.149.209
+  port: 443
+  udp: true
+  type: vless
+  uuid: ce069292-c8bf-40dd-a6b1-87818a1e64e9
+  network: ws
+  tls: true
+  servername: 1-aym.pages.dev
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: 1-aym.pages.dev
 - name: "🇨🇦 Canada  Unsorted 9981"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: www.speedtest.net
@@ -6998,6 +6878,15 @@ proxies:
     path: /
     headers:
       Host: vip.yaml7.ggff.net
+- name: "🇨🇦 Canada  Unsorted 9ed9"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: www.multiplydose.com
+  port: 443
+  udp: true
+  type: trojan
+  password: humanity
+  tls: true
+  sni: www.multiplydose.com
 - name: "🇨🇦 Canada  Unsorted 9fc8"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: jquery.com
@@ -7036,6 +6925,21 @@ proxies:
     path: /fast
     headers:
       Host: hio-awx.pages.dev
+- name: "🇨🇦 Canada  Unsorted a201 | SNI - juzi8186.qea.ccwu.cc"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: cf2.danfeng.eu.org
+  port: 8443
+  udp: true
+  type: vless
+  uuid: bafacd98-136a-4530-838d-4e5c51838dac
+  network: ws
+  tls: true
+  servername: juzi8186.qea.ccwu.cc
+  client-fingerprint: firefox
+  ws-opts:
+    path: /feedback/acg/juzibaipiao
+    headers:
+      Host: juzi8186.qea.ccwu.cc
 - name: "🇨🇦 Canada  Unsorted a2bf | SNI - qyi.fqjd663.ggff.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: www.optimizely.com
@@ -7065,6 +6969,21 @@ proxies:
     path: "/?ed=2048"
     headers:
       Host: lively-brook-c471.nedena3319.workers.dev
+- name: "🇨🇦 Canada  Unsorted a36e | SNI - hhlfy.twiladaphne.ndjp.net"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: dx.mmhh.eu.cc
+  port: 443
+  udp: true
+  type: vless
+  uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b
+  network: ws
+  tls: true
+  servername: hhlfy.twiladaphne.ndjp.net
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/fp=random"
+    headers:
+      Host: hhlfy.twiladaphne.ndjp.net
 - name: "🇨🇦 Canada  Unsorted a429 | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: www.whatismyip.net
@@ -7172,21 +7091,6 @@ proxies:
   password: humanity
   tls: true
   sni: www.gossipglove.com
-- name: "🇨🇦 Canada  Unsorted ab90 | SNI - index.0x15.workers.DEV"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 2083
-  udp: true
-  type: vless
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  network: ws
-  tls: true
-  servername: index.0x15.workers.DEV
-  client-fingerprint: chrome
-  ws-opts:
-    path: /9quSDGMroCZkFeWzTk
-    headers:
-      Host: index.0x15.workers.dev
 - name: "🇨🇦 Canada  Unsorted acb3"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 172.64.146.43
@@ -7506,20 +7410,21 @@ proxies:
     path: ''
     headers:
       Host: chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev
-- name: "🇨🇦 Canada  Unsorted c24e"
+- name: "🇨🇦 Canada  Unsorted c291 | SNI - 3-bio.pages.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 80
+  server: mfa.gov.ua
+  port: 443
   udp: true
   type: vless
-  uuid: 787b3724-16c8-4e58-a038-2b8013cdc6d9
+  uuid: ce069292-c8bf-40dd-a6b1-87818a1e64e9
   network: ws
-  tls: false
+  tls: true
+  servername: 3-bio.pages.dev
   client-fingerprint: chrome
   ws-opts:
-    path: "/eyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560"
+    path: ''
     headers:
-      Host: c3linogp4x20x5acoguup217nstesdu1.nobodyface4b13.workers.dev
+      Host: 3-bio.pages.dev
 - name: "🇨🇦 Canada  Unsorted c69c | SNI - sni.111000.indevs.in"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 172.64.149.54
@@ -7922,21 +7827,6 @@ proxies:
     path: "/CmtD3y72juVnvSxU?ed=2560"
     headers:
       Host: o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev
-- name: "🇨🇦 Canada  Unsorted e9f2 | SNI - 1-aym.pages.dev"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: tajikistan.mfa.gov.ua
-  port: 443
-  udp: true
-  type: vless
-  uuid: ce069292-c8bf-40dd-a6b1-87818a1e64e9
-  network: ws
-  tls: true
-  servername: 1-aym.pages.dev
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: 1-aym.pages.dev
 - name: "🇨🇦 Canada  Unsorted ea0a"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 104.18.12.229
@@ -7951,17 +7841,6 @@ proxies:
     path: ''
     headers:
       Host: square-frost-8d11.9660004.workers.dev
-- name: "🇨🇦 Canada  Unsorted ea22"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 8443
-  udp: true
-  type: vmess
-  uuid: 60441548-b68e-43b2-8191-e3b884be4b3c
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: true
 - name: "🇨🇦 Canada  Unsorted eb57 | SNI - juzi8186.qea.ccwu.cc"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 162.159.36.5
@@ -8019,21 +7898,6 @@ proxies:
     path: "/%252F"
     headers:
       Host: CiallO-eGb.pAGEs.Dev
-- name: "🇨🇦 Canada  Unsorted efe3 | SNI - cf.cfvip.lol"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 443
-  udp: true
-  type: vless
-  uuid: 93f0761d-4393-4b43-a523-e812fa0b7e83
-  network: ws
-  tls: true
-  servername: cf.cfvip.lol
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/pyip=47.251.95.178"
-    headers:
-      Host: cf.cfvip.lol
 - name: "🇨🇦 Canada  Unsorted f14a"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 104.21.7.133
@@ -8206,21 +8070,6 @@ proxies:
     path: "/fp=randomized"
     headers:
       Host: fuckingfangbinxing.cnmfangbinxing-n.workers.dev
-- name: "🇨🇦 Canada  Unsorted fb23 | SNI - sni.111000.indevs.in"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: chatgpt.com
-  port: 2053
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: true
-  servername: sni.111000.indevs.in
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560"
-    headers:
-      Host: sni.111000.indevs.in
 - name: "🇨🇦 Canada  Unsorted fbb1 | SNI - juzi.qea.ccwu.cc"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: cnamefuckxxs.yuchen.icu
@@ -13099,6 +12948,21 @@ proxies:
     path: /
     headers:
       Host: chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev
+- name: "🇨🇦 Canada 🇬🇧 United Kingdom c2d0 | SNI - 002.Inc-ElectROcElL-001-002.WoRKERS.DEV"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: 172.67.164.152
+  port: 443
+  udp: true
+  type: vless
+  uuid: 36a857e4-f3d4-43aa-8b90-d7da849da989
+  network: ws
+  tls: true
+  servername: 002.Inc-ElectROcElL-001-002.WoRKERS.DEV
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
+    headers:
+      Host: 002.inc-electrocell-001-002.workers.dev
 - name: "🇨🇦 Canada 🇭🇰 Hong Kong 9ff5"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 104.16.250.22
@@ -13142,21 +13006,6 @@ proxies:
     path: /
     headers:
       Host: PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev
-- name: "🇨🇦 Canada 🇳🇱 Netherlands 73b6 | SNI - H7-83W.pAgeS.deV"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: 172.66.44.118
-  port: 443
-  udp: true
-  type: vless
-  uuid: 0f4d41cf-0be1-4fcc-ac41-53b843ba0752
-  network: ws
-  tls: true
-  servername: H7-83W.pAgeS.deV
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: H7-83W.pAgeS.deV
 - name: "🇨🇦 Canada 🇳🇱 Netherlands c29f | SNI - ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 188.114.98.0
@@ -13181,6 +13030,21 @@ proxies:
   password: "8r<[9'l6hAO#8ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇨🇦 Canada 🇸🇬 Singapore ce64 | SNI - sni.111000.dynv6.net"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: 104.17.101.139
+  port: 443
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: true
+  servername: sni.111000.dynv6.net
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?proxyip=ip.111000.de5.net%3A443"
+    headers:
+      Host: sni.111000.dynv6.net
 - name: "🇨🇦 Canada 🇸🇬 Singapore ecfb | SNI - sni.111000.dynv6.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 104.18.13.149
@@ -13564,6 +13428,20 @@ proxies:
     path: /ws
     headers:
       Host: itx-server.digital
+- name: "🇨🇭 Switzerland 🇺🇸 United States e694 | SNI - cloud.globaledgenet.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CH.png
+  server: cloud.globaledgenet.com
+  port: 443
+  udp: true
+  type: vless
+  uuid: bc9639fa-6600-43ff-9a43-eb34ad192810
+  network: tcp
+  tls: true
+  servername: cloud.globaledgenet.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: rRGPedMea32_bsWFx_fxQPy-50TOF6KbBAmYL2rkmQ4
 - name: "🇨🇳 China 36c3 | SNI - babayaga-6i7.pages.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CN.png
   server: 43.169.19.179
@@ -13823,6 +13701,21 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: CmKaRa0TecpFSyn7OK6UTPPuWJ7ji2OwsaOBuUtSKGM
+    short-id: "7a3f9e2b1c8d4f6a"
+- name: "🇩🇪 Germany  Unsorted 0823 | SNI - fl-s3.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: fl-s3.ru
+  port: 443
+  udp: true
+  type: vless
+  uuid: 41d1527e-526b-436c-a84c-d70dc91f0648
+  network: tcp
+  tls: true
+  servername: fl-s3.ru
+  client-fingerprint: edge
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 0e7XhRGhWbMQVvqu4ELdx5G0uSocM_En9iSmKVWM5C4
     short-id: "7a3f9e2b1c8d4f6a"
 - name: "🇩🇪 Germany  Unsorted 23d0 [CIDR]"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
@@ -14195,36 +14088,6 @@ proxies:
     path: ''
     headers:
       Host: sni.111000.indevs.in
-- name: "🇩🇪 Germany 648f | SNI - max.ru"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
-  server: 158.160.124.151
-  port: 5443
-  udp: true
-  type: vless
-  uuid: 364417c0-ae53-49fa-a08d-b420c1c0bce6
-  network: tcp
-  tls: true
-  servername: max.ru
-  client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: JzkvJatMiVUi4p8lbtcrTvLMKDb4f-ellCO8ethiozE
-    short-id: "baa2f130ca790592"
-- name: "🇩🇪 Germany 7b01 | SNI - ads.x5.ru"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
-  server: 158.160.33.78
-  port: 5443
-  udp: true
-  type: vless
-  uuid: b7c72a6c-0ad0-4107-916c-0a0553495b14
-  network: tcp
-  tls: true
-  servername: ads.x5.ru
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: 6aRT_qG0ES5Hn8khTO3sTYqbdjpAf58pEMsBQHwXoWQ
-    short-id: "e22b3d0d3d8d820b"
 - name: "🇩🇪 Germany a3b4 | SNI - socks5.revil-time3.workers.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
   server: 104.18.34.21
@@ -18658,6 +18521,111 @@ proxies:
     path: "/?ed=2560&https://t.me/WangCai2🇨🇳"
     headers:
       Host: sni.latonyamadeline.ndjp.net
+- name: "🇩🇪 Germany 🇩🇪 Germany 69e2"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 164.92.177.103
+  port: 8443
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇩🇪 Germany 🇩🇪 Germany 6adb"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 57.129.47.17
+  port: 8443
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇩🇪 Germany 🇩🇪 Germany 6b40"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 49.13.154.236
+  port: 8443
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇩🇪 Germany 🇩🇪 Germany 6b8f | SNI - deu549.worldbypass.org"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 93.94.51.101
+  port: 443
+  udp: true
+  type: vless
+  uuid: 405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8
+  network: tcp
+  tls: true
+  servername: deu549.worldbypass.org
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+- name: "🇩🇪 Germany 🇩🇪 Germany 6ba7 | SNI - sni.111000.dns.army"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 193.124.203.152
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: true
+  servername: sni.111000.dns.army
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/WangCai2🇨🇳"
+    headers:
+      Host: sni.111000.dns.army
+- name: "🇩🇪 Germany 🇩🇪 Germany 6c13"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 161.35.207.2
+  port: 2087
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇩🇪 Germany 🇩🇪 Germany 6d8f"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 167.99.247.93
+  port: 8443
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇩🇪 Germany 🇩🇪 Germany 6e30"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 45.11.24.55
+  port: 8443
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇩🇪 Germany 🇩🇪 Germany 6ec8 | SNI - sni.111000.v6.navy"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 91.107.171.251
+  port: 443
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: true
+  servername: sni.111000.v6.navy
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&Telegram🇨🇳 @WangCai2"
+    headers:
+      Host: sni.111000.v6.navy
+- name: "🇩🇪 Germany 🇩🇪 Germany 6f14"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 91.228.154.170
+  port: 2053
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
 proxy-groups:
 - name: PROXY
   type: select
@@ -18693,7 +18661,6 @@ proxy-groups:
   - " Unsorted 1003 | SNI - gogo10.kmj.qzz.io"
   - " Unsorted 1083"
   - " Unsorted 10d4 | SNI - sni.111000.v6.army"
-  - " Unsorted 1252 | SNI - 2-1ng.pages.dev"
   - " Unsorted 1280 | SNI - hetz.x-smm.com"
   - " Unsorted 12bc | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 12e2 | SNI - cdn-alman3.arfilter2.blog"
@@ -18711,6 +18678,7 @@ proxy-groups:
   - " Unsorted 196f"
   - " Unsorted 19d1"
   - " Unsorted 19fc | SNI - filter.elitesilver002.workers.dev"
+  - " Unsorted 1a39"
   - " Unsorted 1ae5 | SNI - sni.111000.v6.rocks"
   - " Unsorted 1b15 | SNI - whatsapp.com"
   - " Unsorted 1bab"
@@ -18721,7 +18689,6 @@ proxy-groups:
   - " Unsorted 1e60 | SNI - juzi8186.qea.ccwu.cc"
   - " Unsorted 1e8c | SNI - hetz.x-smm.com"
   - " Unsorted 1ff2"
-  - " Unsorted 2115"
   - " Unsorted 2197 | SNI - pavosilene.qzz.io"
   - " Unsorted 21e7 | SNI - babayaga-6i7.pages.dev"
   - " Unsorted 2259 | SNI - sni.jpmj.dev"
@@ -18749,7 +18716,6 @@ proxy-groups:
   - " Unsorted 3a16 | SNI - 8j3f7HD37h.PaGES.dEV"
   - " Unsorted 3a2d | SNI - sni.111000.v6.army"
   - " Unsorted 3b2d"
-  - " Unsorted 3cac | SNI - juzi8186.qea.ccwu.cc"
   - " Unsorted 3d3a"
   - " Unsorted 3ea5 | SNI - sni.111000.indevs.in"
   - " Unsorted 4183"
@@ -18760,12 +18726,14 @@ proxy-groups:
   - " Unsorted 48a4"
   - " Unsorted 4996 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 4ad7 | SNI - sni.111000.indevs.in"
+  - " Unsorted 4cb4 | SNI - sni.111000.v6.rocks"
   - " Unsorted 4d39 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 4df7 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 4e9b | SNI - cloudflare.com"
   - " Unsorted 4f53 | SNI - cho.chonon.sbs"
   - " Unsorted 507a"
   - " Unsorted 513b | SNI - sni.111000.de5.net"
+  - " Unsorted 51e9 [CIDR]"
   - " Unsorted 528d | SNI - sni.111000.indevs.in"
   - " Unsorted 5309 | SNI - 8p3cfl0ripm.zjde5.de5.net"
   - " Unsorted 55d0 | SNI - sni.111000.indevs.in"
@@ -18773,13 +18741,11 @@ proxy-groups:
   - " Unsorted 5728 | SNI - fr.monkeyisland.xyz"
   - " Unsorted 579f | SNI - stackoverflow.com"
   - " Unsorted 5961 | SNI - sni.111000.v6.navy"
-  - " Unsorted 59ae [CIDR]"
   - " Unsorted 59ca | SNI - 638990351320529492.prius-amshz.info"
   - " Unsorted 59fa"
   - " Unsorted 5a26"
   - " Unsorted 5ad1 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 5b73 | SNI - sni.111000.indevs.in"
-  - " Unsorted 5be4"
   - " Unsorted 5c70 | SNI - sni.111000.v6.navy"
   - " Unsorted 5cee | SNI - 639004042094863199.legacy-amsit.info"
   - " Unsorted 5efc | SNI - r4fnviw9jl4i4rx.zjde5.de5.net"
@@ -18796,11 +18762,10 @@ proxy-groups:
   - " Unsorted 65bd"
   - " Unsorted 664f"
   - " Unsorted 66d5 | SNI - afrcloud22.mmv.kr"
-  - " Unsorted 672c [CIDR]"
   - " Unsorted 67eb"
   - " Unsorted 687a | SNI - yopk.pages.dev"
   - " Unsorted 68cb | SNI - hetz.x-smm.com"
-  - " Unsorted 69a0 | SNI - juzi8186.qea.ccwu.cc"
+  - " Unsorted 694c [CIDR]"
   - " Unsorted 6b3a"
   - " Unsorted 6d08"
   - " Unsorted 6d31"
@@ -18809,10 +18774,8 @@ proxy-groups:
   - " Unsorted 6e7a | SNI - babayaga-6i7.pages.dev"
   - " Unsorted 6fc6 | SNI - ashley.kosmolet.xyz"
   - " Unsorted 6fde | SNI - my.oversecure.pro"
-  - " Unsorted 6ffa"
   - " Unsorted 70cc | SNI - sni.111000.indevs.in"
   - " Unsorted 71e8"
-  - " Unsorted 7387 | SNI - ads.x5.ru"
   - " Unsorted 7492 | SNI - sni.111000.indevs.in"
   - " Unsorted 74b3 | SNI - ghj.ae1autumn.cc.cd"
   - " Unsorted 75ba | SNI - gogo4.kmj.qzz.io"
@@ -18825,10 +18788,10 @@ proxy-groups:
   - " Unsorted 7a1b"
   - " Unsorted 7a97"
   - " Unsorted 7baa"
+  - " Unsorted 7c80 | SNI - qyi.fqjd663.ggff.net"
   - " Unsorted 7d55 | SNI - sni.111000.indevs.in"
   - " Unsorted 7e38"
   - " Unsorted 8272"
-  - " Unsorted 8345 [CIDR]"
   - " Unsorted 8372 | SNI - hetz.x-smm.com"
   - " Unsorted 83d4 | SNI - terazhedi.info"
   - " Unsorted 86be | SNI - afrcloud22.mmv.kr"
@@ -18838,6 +18801,8 @@ proxy-groups:
   - " Unsorted 899e"
   - " Unsorted 8b00"
   - " Unsorted 8b07 | SNI - hetz.x-smm.com"
+  - " Unsorted 8b37 | SNI - ss.2026.accesscam.org"
+  - " Unsorted 8be0 | SNI - juzi8186.qea.ccwu.cc"
   - " Unsorted 8c0a"
   - " Unsorted 8c3c"
   - " Unsorted 8cea"
@@ -18851,7 +18816,6 @@ proxy-groups:
   - " Unsorted 9408 | SNI - sni.111000.v6.navy"
   - " Unsorted 959b | SNI - sni.jpmj.dev"
   - " Unsorted 968c | SNI - ovhwuxian.pai50288.uk"
-  - " Unsorted 970d | SNI - 1-aym.pages.dev"
   - " Unsorted 9715 | SNI - pa-7oa.pages.dev"
   - " Unsorted 9792 | SNI - api-maps.yandex.ru"
   - " Unsorted 9986"
@@ -18975,10 +18939,8 @@ proxy-groups:
   - " Unsorted f45d | SNI - sni.111000.cc.cd"
   - " Unsorted f4c3"
   - " Unsorted f573 | SNI - sub.sesrsa.com"
-  - " Unsorted f608 [CIDR]"
   - " Unsorted f64c | SNI - looazjoijji.global.ssl.fastly.net"
   - " Unsorted f6cd | SNI - www.google.com"
-  - " Unsorted f75a"
   - " Unsorted f794 | SNI - gaosir.unfeeling.sbs"
   - " Unsorted f877 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted f95e"
@@ -18987,15 +18949,17 @@ proxy-groups:
   - " Unsorted fb4c | SNI - api-maps.yandex.ru"
   - " Unsorted fc21 | SNI - juzi8186.qea.ccwu.cc"
   - " Unsorted fd41"
+  - " Unsorted fd93"
   - " Unsorted fecf"
   - " Unsorted fef8 | SNI - full.app-browser.org"
   - "🇮🇷 Iran  Unsorted 0917"
-  - "🇮🇷 Iran  Unsorted 1a39"
   - "🇮🇷 Iran  Unsorted 26b8"
+  - "🇮🇷 Iran  Unsorted 5be4"
   - "🇮🇷 Iran  Unsorted 9d07"
   - "🇮🇷 Iran  Unsorted f790"
   - "🇮🇷 Iran  Unsorted f878"
   - "🇸🇨 Seychelles  Unsorted 040f"
+  - "🇸🇨 Seychelles  Unsorted 6ffa"
   - "🇸🇨 Seychelles  Unsorted 9276"
   - "🇸🇨 Seychelles  Unsorted f340"
   - "🇦🇪 United Arab Emirates 1911 | SNI - 1-aym.pages.dev"
@@ -19017,7 +18981,6 @@ proxy-groups:
   - "🇦🇹 Austria e7bf | SNI - sni.111000.dns.army"
   - "🇦🇹 Austria 🇦🇹 Austria 2c16 | SNI - chat.deepseek.com"
   - "🇦🇹 Austria 🇦🇹 Austria 3961 | SNI - at.ws.dznn.net"
-  - "🇦🇹 Austria 🇦🇹 Austria 62da | SNI - srv152.towersflowerss.com"
   - "🇦🇹 Austria 🇦🇹 Austria 6a67 | SNI - chat.deepseek.com"
   - "🇦🇹 Austria 🇦🇹 Austria 9613 | SNI - austria.denditop.site"
   - "🇦🇹 Austria 🇦🇹 Austria b7ea | SNI - austria.denditop.site"
@@ -19049,14 +19012,15 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 0e7b | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 0e93 | SNI - H7-83W.pAgeS.deV"
   - "🇨🇦 Canada  Unsorted 0eb6 | SNI - V2RayGuLF11.V2RAyGulf11.WorKERS.Dev"
+  - "🇨🇦 Canada  Unsorted 0f23 | SNI - 1-axj.pages.dev"
   - "🇨🇦 Canada  Unsorted 120c | SNI - lively-brook-c471.nedena3319.workers.dev"
   - "🇨🇦 Canada  Unsorted 1216"
+  - "🇨🇦 Canada  Unsorted 1252 | SNI - 2-1ng.pages.dev"
   - "🇨🇦 Canada  Unsorted 12be | SNI - 3-93f.pages.dev"
   - "🇨🇦 Canada  Unsorted 1392 | SNI - juzi.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 1480"
   - "🇨🇦 Canada  Unsorted 177f | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted 17ac | SNI - juzi8186.qea.ccwu.cc"
-  - "🇨🇦 Canada  Unsorted 1843 | SNI - sni.111000.dynv6.net"
   - "🇨🇦 Canada  Unsorted 189f | SNI - sany.tara132.workers.dev"
   - "🇨🇦 Canada  Unsorted 1903 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 194c"
@@ -19065,14 +19029,12 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 1cea | SNI - paRMis-1Tk63J.PArMiS.WoRkeRs.DeV"
   - "🇨🇦 Canada  Unsorted 1e3c | SNI - hscraft.top"
   - "🇨🇦 Canada  Unsorted 210e"
+  - "🇨🇦 Canada  Unsorted 2115"
   - "🇨🇦 Canada  Unsorted 22b1 | SNI - snippets.kkii.eu.org"
   - "🇨🇦 Canada  Unsorted 2460"
-  - "🇨🇦 Canada  Unsorted 2483 | SNI - index.0x15.workers.DEV"
   - "🇨🇦 Canada  Unsorted 251d | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 259e | SNI - qyi.fqjd663.ggff.net"
-  - "🇨🇦 Canada  Unsorted 26b7 | SNI - 026.elEctrOCELLCo-cF-026.wORKERs.deV"
   - "🇨🇦 Canada  Unsorted 26fb | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
-  - "🇨🇦 Canada  Unsorted 275c"
   - "🇨🇦 Canada  Unsorted 2766"
   - "🇨🇦 Canada  Unsorted 2777"
   - "🇨🇦 Canada  Unsorted 283d"
@@ -19088,7 +19050,6 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 2fc2 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 3066 | SNI - restless-dew-894b.amirhost4.workers.dev"
   - "🇨🇦 Canada  Unsorted 30f9"
-  - "🇨🇦 Canada  Unsorted 3149 | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted 35d0"
   - "🇨🇦 Canada  Unsorted 3617"
   - "🇨🇦 Canada  Unsorted 3777 | SNI - powered-by-surena.user68f797c2f3e1b.workers.dev"
@@ -19096,6 +19057,7 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 388e | SNI - 3-2h8.pages.dev"
   - "🇨🇦 Canada  Unsorted 39f4"
   - "🇨🇦 Canada  Unsorted 3c6c"
+  - "🇨🇦 Canada  Unsorted 3cac | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 3cf8"
   - "🇨🇦 Canada  Unsorted 3d6b"
   - "🇨🇦 Canada  Unsorted 3e7a"
@@ -19113,16 +19075,17 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 4eba | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
   - "🇨🇦 Canada  Unsorted 4ed2"
   - "🇨🇦 Canada  Unsorted 4f7a | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
-  - "🇨🇦 Canada  Unsorted 500c | SNI - rAviDdD.paGEs.DEv"
   - "🇨🇦 Canada  Unsorted 50d0"
   - "🇨🇦 Canada  Unsorted 528f"
   - "🇨🇦 Canada  Unsorted 5369 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 53bc"
+  - "🇨🇦 Canada  Unsorted 5475"
   - "🇨🇦 Canada  Unsorted 575d"
   - "🇨🇦 Canada  Unsorted 5771 | SNI - white-snowflake-e65e.queenmahsan1.workers.dev"
   - "🇨🇦 Canada  Unsorted 5773"
   - "🇨🇦 Canada  Unsorted 593c"
   - "🇨🇦 Canada  Unsorted 59d0 | SNI - sany.tara132.workers.dev"
+  - "🇨🇦 Canada  Unsorted 5bb7 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 5bd9"
   - "🇨🇦 Canada  Unsorted 5d5f | SNI - daluan.eu.org"
   - "🇨🇦 Canada  Unsorted 5f71 | SNI - 2-eox.pages.dev"
@@ -19135,14 +19098,13 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 67fb"
   - "🇨🇦 Canada  Unsorted 6839"
   - "🇨🇦 Canada  Unsorted 6999"
+  - "🇨🇦 Canada  Unsorted 69a0 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 6ab5"
   - "🇨🇦 Canada  Unsorted 6ac6"
   - "🇨🇦 Canada  Unsorted 6b35 | SNI - cho.chonon.sbs"
   - "🇨🇦 Canada  Unsorted 6d25 | SNI - daluan.eu.org"
-  - "🇨🇦 Canada  Unsorted 6f0d | SNI - Bpb241.gaNijoV670.WOrkers.Dev."
   - "🇨🇦 Canada  Unsorted 7092"
   - "🇨🇦 Canada  Unsorted 7112 | SNI - pagescm.freen8.de5.net"
-  - "🇨🇦 Canada  Unsorted 71a2 #2"
   - "🇨🇦 Canada  Unsorted 72ce | SNI - S4-f45.pAGeS.DeV"
   - "🇨🇦 Canada  Unsorted 73fc"
   - "🇨🇦 Canada  Unsorted 744b"
@@ -19174,15 +19136,11 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 8849"
   - "🇨🇦 Canada  Unsorted 88ec | SNI - nuclear.us.kg"
   - "🇨🇦 Canada  Unsorted 8ab9"
-  - "🇨🇦 Canada  Unsorted 8b37 | SNI - ss.2026.accesscam.org"
   - "🇨🇦 Canada  Unsorted 8b77 | SNI - cho.chonon.sbs"
-  - "🇨🇦 Canada  Unsorted 8be0 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 8c07"
   - "🇨🇦 Canada  Unsorted 8d21 | SNI - gddy.hhlfy.de5.net"
   - "🇨🇦 Canada  Unsorted 8e6a | SNI - daluan.eu.org"
-  - "🇨🇦 Canada  Unsorted 8f8a | SNI - powered-by-surena.user68f797c2f3e1b.workers.dev"
   - "🇨🇦 Canada  Unsorted 8fda | SNI - 3-7v4.pages.dev"
-  - "🇨🇦 Canada  Unsorted 8ffe | SNI - aio.zxcore.biz.id"
   - "🇨🇦 Canada  Unsorted 9095"
   - "🇨🇦 Canada  Unsorted 922b | SNI - E1-F55.pAgeS.dEV"
   - "🇨🇦 Canada  Unsorted 924e | SNI - qyi.fqjd663.ggff.net"
@@ -19191,6 +19149,7 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 9551 | SNI - muddy-math-c1fc.tmpnriqueau89.workers.dev"
   - "🇨🇦 Canada  Unsorted 956f | SNI - ts-13.pages.dev"
   - "🇨🇦 Canada  Unsorted 96cf | SNI - blackshadow.dpdns.org"
+  - "🇨🇦 Canada  Unsorted 970d | SNI - 1-aym.pages.dev"
   - "🇨🇦 Canada  Unsorted 9981"
   - "🇨🇦 Canada  Unsorted 99ae"
   - "🇨🇦 Canada  Unsorted 99f5 | SNI - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev"
@@ -19198,11 +19157,14 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 9cf6 | SNI - cf.cfvip.lol"
   - "🇨🇦 Canada  Unsorted 9d6c | SNI - pagescm.freen22.cc.cd"
   - "🇨🇦 Canada  Unsorted 9d70"
+  - "🇨🇦 Canada  Unsorted 9ed9"
   - "🇨🇦 Canada  Unsorted 9fc8"
   - "🇨🇦 Canada  Unsorted a06d"
   - "🇨🇦 Canada  Unsorted a112 | SNI - hio-awx.pages.dev"
+  - "🇨🇦 Canada  Unsorted a201 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted a2bf | SNI - qyi.fqjd663.ggff.net"
   - "🇨🇦 Canada  Unsorted a312"
+  - "🇨🇦 Canada  Unsorted a36e | SNI - hhlfy.twiladaphne.ndjp.net"
   - "🇨🇦 Canada  Unsorted a429 | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
   - "🇨🇦 Canada  Unsorted a438"
   - "🇨🇦 Canada  Unsorted a518"
@@ -19211,7 +19173,6 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted aa6c | SNI - ipv4.yasharteam.com"
   - "🇨🇦 Canada  Unsorted aa7a | SNI - pagescm.freen3.de5.net"
   - "🇨🇦 Canada  Unsorted ab60"
-  - "🇨🇦 Canada  Unsorted ab90 | SNI - index.0x15.workers.DEV"
   - "🇨🇦 Canada  Unsorted acb3"
   - "🇨🇦 Canada  Unsorted ad2e"
   - "🇨🇦 Canada  Unsorted ad87"
@@ -19235,7 +19196,7 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted c0ae"
   - "🇨🇦 Canada  Unsorted c15f | SNI - sany.tara132.workers.dev"
   - "🇨🇦 Canada  Unsorted c1d0"
-  - "🇨🇦 Canada  Unsorted c24e"
+  - "🇨🇦 Canada  Unsorted c291 | SNI - 3-bio.pages.dev"
   - "🇨🇦 Canada  Unsorted c69c | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted c8e9"
   - "🇨🇦 Canada  Unsorted cd03 | SNI - hetz.x-smm.com"
@@ -19266,14 +19227,11 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted e716 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted e80d"
   - "🇨🇦 Canada  Unsorted e932 | SNI - O94yv7LIF0-AnXisD9EFEhVVS7mxN6Bh.Z-UlE-iKA-D-E-ne-k-e.wORkers.dEv"
-  - "🇨🇦 Canada  Unsorted e9f2 | SNI - 1-aym.pages.dev"
   - "🇨🇦 Canada  Unsorted ea0a"
-  - "🇨🇦 Canada  Unsorted ea22"
   - "🇨🇦 Canada  Unsorted eb57 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted eba4"
   - "🇨🇦 Canada  Unsorted ee80"
   - "🇨🇦 Canada  Unsorted ef91"
-  - "🇨🇦 Canada  Unsorted efe3 | SNI - cf.cfvip.lol"
   - "🇨🇦 Canada  Unsorted f14a"
   - "🇨🇦 Canada  Unsorted f1c5 | SNI - lively-brook-c471.nedena3319.workers.dev"
   - "🇨🇦 Canada  Unsorted f4c7"
@@ -19287,7 +19245,6 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted f8e7"
   - "🇨🇦 Canada  Unsorted f93c | SNI - y6-3cj.PAgES.DEV"
   - "🇨🇦 Canada  Unsorted f975 | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
-  - "🇨🇦 Canada  Unsorted fb23 | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted fbb1 | SNI - juzi.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted fbe4"
   - "🇨🇦 Canada  Unsorted fc50"
@@ -19656,12 +19613,13 @@ proxy-groups:
   - "🇨🇦 Canada 🇫🇮 Finland 6a4e"
   - "🇨🇦 Canada 🇫🇷 France a505"
   - "🇨🇦 Canada 🇫🇷 France f897"
+  - "🇨🇦 Canada 🇬🇧 United Kingdom c2d0 | SNI - 002.Inc-ElectROcElL-001-002.WoRKERS.DEV"
   - "🇨🇦 Canada 🇭🇰 Hong Kong 9ff5"
   - "🇨🇦 Canada 🇳🇱 Netherlands 3332"
   - "🇨🇦 Canada 🇳🇱 Netherlands 6d0a | SNI - PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev"
-  - "🇨🇦 Canada 🇳🇱 Netherlands 73b6 | SNI - H7-83W.pAgeS.deV"
   - "🇨🇦 Canada 🇳🇱 Netherlands c29f | SNI - ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV"
   - "🇨🇦 Canada 🇳🇱 Netherlands fb6a"
+  - "🇨🇦 Canada 🇸🇬 Singapore ce64 | SNI - sni.111000.dynv6.net"
   - "🇨🇦 Canada 🇸🇬 Singapore ecfb | SNI - sni.111000.dynv6.net"
   - "🇨🇦 Canada 🇺🇸 United States 1275"
   - "🇨🇦 Canada 🇺🇸 United States 50fe"
@@ -19689,6 +19647,7 @@ proxy-groups:
   - "🇨🇭 Switzerland 🇨🇭 Switzerland ece5 | SNI - itx-server.digital [CIDR]"
   - "🇨🇭 Switzerland 🇨🇭 Switzerland f553 | SNI - www.booking.com"
   - "🇨🇭 Switzerland 🇨🇭 Switzerland fdd5 | SNI - itx-server.digital"
+  - "🇨🇭 Switzerland 🇺🇸 United States e694 | SNI - cloud.globaledgenet.com"
   - "🇨🇳 China 36c3 | SNI - babayaga-6i7.pages.dev"
   - "🇨🇳 China 69f3"
   - "🇨🇳 China 🇨🇳 China 79db | SNI - www.icloud.com"
@@ -19708,6 +19667,7 @@ proxy-groups:
   - "🇨🇿 Czechia 🇨🇿 Czechia ca67 | SNI - cz.rumost.top"
   - "🇨🇿 Czechia 🇱🇻 Latvia f4ae | SNI - ozone.ru"
   - "🇩🇪 Germany  Unsorted 080c | SNI - de-s3.ru"
+  - "🇩🇪 Germany  Unsorted 0823 | SNI - fl-s3.ru"
   - "🇩🇪 Germany  Unsorted 23d0 [CIDR]"
   - "🇩🇪 Germany  Unsorted 2421"
   - "🇩🇪 Germany  Unsorted 3058 | SNI - de1.persik.host"
@@ -19739,8 +19699,6 @@ proxy-groups:
   - "🇩🇪 Germany 2321 | SNI - e1-f55.pages.dev"
   - "🇩🇪 Germany 2f9c"
   - "🇩🇪 Germany 639e | SNI - sni.111000.indevs.in"
-  - "🇩🇪 Germany 648f | SNI - max.ru"
-  - "🇩🇪 Germany 7b01 | SNI - ads.x5.ru"
   - "🇩🇪 Germany a3b4 | SNI - socks5.revil-time3.workers.dev"
   - "🇩🇪 Germany c43b | SNI - Usa.cORreCtCOsETTe.WOrKeRS.DeV"
   - "🇩🇪 Germany ef86 | SNI - chat.deepseek.com"
@@ -20171,30 +20129,40 @@ proxy-groups:
   - "🇩🇪 Germany 🇩🇪 Germany 68f6"
   - "🇩🇪 Germany 🇩🇪 Germany 6931"
   - "🇩🇪 Germany 🇩🇪 Germany 694e | SNI - sni.latonyamadeline.ndjp.net"
+  - "🇩🇪 Germany 🇩🇪 Germany 69e2"
+  - "🇩🇪 Germany 🇩🇪 Germany 6adb"
+  - "🇩🇪 Germany 🇩🇪 Germany 6b40"
+  - "🇩🇪 Germany 🇩🇪 Germany 6b8f | SNI - deu549.worldbypass.org"
+  - "🇩🇪 Germany 🇩🇪 Germany 6ba7 | SNI - sni.111000.dns.army"
+  - "🇩🇪 Germany 🇩🇪 Germany 6c13"
+  - "🇩🇪 Germany 🇩🇪 Germany 6d8f"
+  - "🇩🇪 Germany 🇩🇪 Germany 6e30"
+  - "🇩🇪 Germany 🇩🇪 Germany 6ec8 | SNI - sni.111000.v6.navy"
+  - "🇩🇪 Germany 🇩🇪 Germany 6f14"
 - name: 🌍 Continents
   type: select
   proxies:
+  - 🇦🇱 Albania (6)
+  - 🇦🇹 Austria (10)
+  - 🇧🇪 Belgium (3)
+  - 🇧🇬 Bulgaria (3)
+  - 🇨🇭 Switzerland (21)
+  - 🇨🇿 Czechia (7)
+  - 🇩🇪 Germany (473)
+  - 🇦🇺 Australia (6)
   - 🇦🇪 United Arab Emirates (3)
   - 🇦🇲 Armenia (3)
   - 🇨🇳 China (3)
   - 🇨🇾 Cyprus (8)
   - 🇧🇷 Brazil (2)
-  - 🇨🇦 Canada (634)
-  - 🇦🇱 Albania (6)
-  - 🇦🇹 Austria (11)
-  - 🇧🇪 Belgium (3)
-  - 🇧🇬 Bulgaria (3)
-  - 🇨🇭 Switzerland (20)
-  - 🇨🇿 Czechia (7)
-  - 🇩🇪 Germany (464)
-  - 🇦🇺 Australia (6)
+  - 🇨🇦 Canada (629)
 - name: 🛠️ Protocols
   type: select
   proxies:
-  - 🛠️ TROJAN (452)
-  - 🛠️ VLESS (1020)
-  - 🛠️ VMESS (28)
-- name: 🇨🇦 Canada (634)
+  - 🛠️ TROJAN (459)
+  - 🛠️ VLESS (1015)
+  - 🛠️ VMESS (26)
+- name: 🇨🇦 Canada (629)
   type: select
   proxies:
   - "🇨🇦 Canada  Unsorted 0012"
@@ -20211,14 +20179,15 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 0e7b | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 0e93 | SNI - H7-83W.pAgeS.deV"
   - "🇨🇦 Canada  Unsorted 0eb6 | SNI - V2RayGuLF11.V2RAyGulf11.WorKERS.Dev"
+  - "🇨🇦 Canada  Unsorted 0f23 | SNI - 1-axj.pages.dev"
   - "🇨🇦 Canada  Unsorted 120c | SNI - lively-brook-c471.nedena3319.workers.dev"
   - "🇨🇦 Canada  Unsorted 1216"
+  - "🇨🇦 Canada  Unsorted 1252 | SNI - 2-1ng.pages.dev"
   - "🇨🇦 Canada  Unsorted 12be | SNI - 3-93f.pages.dev"
   - "🇨🇦 Canada  Unsorted 1392 | SNI - juzi.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 1480"
   - "🇨🇦 Canada  Unsorted 177f | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted 17ac | SNI - juzi8186.qea.ccwu.cc"
-  - "🇨🇦 Canada  Unsorted 1843 | SNI - sni.111000.dynv6.net"
   - "🇨🇦 Canada  Unsorted 189f | SNI - sany.tara132.workers.dev"
   - "🇨🇦 Canada  Unsorted 1903 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 194c"
@@ -20227,14 +20196,12 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 1cea | SNI - paRMis-1Tk63J.PArMiS.WoRkeRs.DeV"
   - "🇨🇦 Canada  Unsorted 1e3c | SNI - hscraft.top"
   - "🇨🇦 Canada  Unsorted 210e"
+  - "🇨🇦 Canada  Unsorted 2115"
   - "🇨🇦 Canada  Unsorted 22b1 | SNI - snippets.kkii.eu.org"
   - "🇨🇦 Canada  Unsorted 2460"
-  - "🇨🇦 Canada  Unsorted 2483 | SNI - index.0x15.workers.DEV"
   - "🇨🇦 Canada  Unsorted 251d | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 259e | SNI - qyi.fqjd663.ggff.net"
-  - "🇨🇦 Canada  Unsorted 26b7 | SNI - 026.elEctrOCELLCo-cF-026.wORKERs.deV"
   - "🇨🇦 Canada  Unsorted 26fb | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
-  - "🇨🇦 Canada  Unsorted 275c"
   - "🇨🇦 Canada  Unsorted 2766"
   - "🇨🇦 Canada  Unsorted 2777"
   - "🇨🇦 Canada  Unsorted 283d"
@@ -20250,7 +20217,6 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 2fc2 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 3066 | SNI - restless-dew-894b.amirhost4.workers.dev"
   - "🇨🇦 Canada  Unsorted 30f9"
-  - "🇨🇦 Canada  Unsorted 3149 | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted 35d0"
   - "🇨🇦 Canada  Unsorted 3617"
   - "🇨🇦 Canada  Unsorted 3777 | SNI - powered-by-surena.user68f797c2f3e1b.workers.dev"
@@ -20258,6 +20224,7 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 388e | SNI - 3-2h8.pages.dev"
   - "🇨🇦 Canada  Unsorted 39f4"
   - "🇨🇦 Canada  Unsorted 3c6c"
+  - "🇨🇦 Canada  Unsorted 3cac | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 3cf8"
   - "🇨🇦 Canada  Unsorted 3d6b"
   - "🇨🇦 Canada  Unsorted 3e7a"
@@ -20275,16 +20242,17 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 4eba | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
   - "🇨🇦 Canada  Unsorted 4ed2"
   - "🇨🇦 Canada  Unsorted 4f7a | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
-  - "🇨🇦 Canada  Unsorted 500c | SNI - rAviDdD.paGEs.DEv"
   - "🇨🇦 Canada  Unsorted 50d0"
   - "🇨🇦 Canada  Unsorted 528f"
   - "🇨🇦 Canada  Unsorted 5369 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 53bc"
+  - "🇨🇦 Canada  Unsorted 5475"
   - "🇨🇦 Canada  Unsorted 575d"
   - "🇨🇦 Canada  Unsorted 5771 | SNI - white-snowflake-e65e.queenmahsan1.workers.dev"
   - "🇨🇦 Canada  Unsorted 5773"
   - "🇨🇦 Canada  Unsorted 593c"
   - "🇨🇦 Canada  Unsorted 59d0 | SNI - sany.tara132.workers.dev"
+  - "🇨🇦 Canada  Unsorted 5bb7 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 5bd9"
   - "🇨🇦 Canada  Unsorted 5d5f | SNI - daluan.eu.org"
   - "🇨🇦 Canada  Unsorted 5f71 | SNI - 2-eox.pages.dev"
@@ -20297,14 +20265,13 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 67fb"
   - "🇨🇦 Canada  Unsorted 6839"
   - "🇨🇦 Canada  Unsorted 6999"
+  - "🇨🇦 Canada  Unsorted 69a0 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 6ab5"
   - "🇨🇦 Canada  Unsorted 6ac6"
   - "🇨🇦 Canada  Unsorted 6b35 | SNI - cho.chonon.sbs"
   - "🇨🇦 Canada  Unsorted 6d25 | SNI - daluan.eu.org"
-  - "🇨🇦 Canada  Unsorted 6f0d | SNI - Bpb241.gaNijoV670.WOrkers.Dev."
   - "🇨🇦 Canada  Unsorted 7092"
   - "🇨🇦 Canada  Unsorted 7112 | SNI - pagescm.freen8.de5.net"
-  - "🇨🇦 Canada  Unsorted 71a2 #2"
   - "🇨🇦 Canada  Unsorted 72ce | SNI - S4-f45.pAGeS.DeV"
   - "🇨🇦 Canada  Unsorted 73fc"
   - "🇨🇦 Canada  Unsorted 744b"
@@ -20336,15 +20303,11 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 8849"
   - "🇨🇦 Canada  Unsorted 88ec | SNI - nuclear.us.kg"
   - "🇨🇦 Canada  Unsorted 8ab9"
-  - "🇨🇦 Canada  Unsorted 8b37 | SNI - ss.2026.accesscam.org"
   - "🇨🇦 Canada  Unsorted 8b77 | SNI - cho.chonon.sbs"
-  - "🇨🇦 Canada  Unsorted 8be0 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 8c07"
   - "🇨🇦 Canada  Unsorted 8d21 | SNI - gddy.hhlfy.de5.net"
   - "🇨🇦 Canada  Unsorted 8e6a | SNI - daluan.eu.org"
-  - "🇨🇦 Canada  Unsorted 8f8a | SNI - powered-by-surena.user68f797c2f3e1b.workers.dev"
   - "🇨🇦 Canada  Unsorted 8fda | SNI - 3-7v4.pages.dev"
-  - "🇨🇦 Canada  Unsorted 8ffe | SNI - aio.zxcore.biz.id"
   - "🇨🇦 Canada  Unsorted 9095"
   - "🇨🇦 Canada  Unsorted 922b | SNI - E1-F55.pAgeS.dEV"
   - "🇨🇦 Canada  Unsorted 924e | SNI - qyi.fqjd663.ggff.net"
@@ -20353,6 +20316,7 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 9551 | SNI - muddy-math-c1fc.tmpnriqueau89.workers.dev"
   - "🇨🇦 Canada  Unsorted 956f | SNI - ts-13.pages.dev"
   - "🇨🇦 Canada  Unsorted 96cf | SNI - blackshadow.dpdns.org"
+  - "🇨🇦 Canada  Unsorted 970d | SNI - 1-aym.pages.dev"
   - "🇨🇦 Canada  Unsorted 9981"
   - "🇨🇦 Canada  Unsorted 99ae"
   - "🇨🇦 Canada  Unsorted 99f5 | SNI - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev"
@@ -20360,11 +20324,14 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 9cf6 | SNI - cf.cfvip.lol"
   - "🇨🇦 Canada  Unsorted 9d6c | SNI - pagescm.freen22.cc.cd"
   - "🇨🇦 Canada  Unsorted 9d70"
+  - "🇨🇦 Canada  Unsorted 9ed9"
   - "🇨🇦 Canada  Unsorted 9fc8"
   - "🇨🇦 Canada  Unsorted a06d"
   - "🇨🇦 Canada  Unsorted a112 | SNI - hio-awx.pages.dev"
+  - "🇨🇦 Canada  Unsorted a201 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted a2bf | SNI - qyi.fqjd663.ggff.net"
   - "🇨🇦 Canada  Unsorted a312"
+  - "🇨🇦 Canada  Unsorted a36e | SNI - hhlfy.twiladaphne.ndjp.net"
   - "🇨🇦 Canada  Unsorted a429 | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
   - "🇨🇦 Canada  Unsorted a438"
   - "🇨🇦 Canada  Unsorted a518"
@@ -20373,7 +20340,6 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted aa6c | SNI - ipv4.yasharteam.com"
   - "🇨🇦 Canada  Unsorted aa7a | SNI - pagescm.freen3.de5.net"
   - "🇨🇦 Canada  Unsorted ab60"
-  - "🇨🇦 Canada  Unsorted ab90 | SNI - index.0x15.workers.DEV"
   - "🇨🇦 Canada  Unsorted acb3"
   - "🇨🇦 Canada  Unsorted ad2e"
   - "🇨🇦 Canada  Unsorted ad87"
@@ -20397,7 +20363,7 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted c0ae"
   - "🇨🇦 Canada  Unsorted c15f | SNI - sany.tara132.workers.dev"
   - "🇨🇦 Canada  Unsorted c1d0"
-  - "🇨🇦 Canada  Unsorted c24e"
+  - "🇨🇦 Canada  Unsorted c291 | SNI - 3-bio.pages.dev"
   - "🇨🇦 Canada  Unsorted c69c | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted c8e9"
   - "🇨🇦 Canada  Unsorted cd03 | SNI - hetz.x-smm.com"
@@ -20428,14 +20394,11 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted e716 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted e80d"
   - "🇨🇦 Canada  Unsorted e932 | SNI - O94yv7LIF0-AnXisD9EFEhVVS7mxN6Bh.Z-UlE-iKA-D-E-ne-k-e.wORkers.dEv"
-  - "🇨🇦 Canada  Unsorted e9f2 | SNI - 1-aym.pages.dev"
   - "🇨🇦 Canada  Unsorted ea0a"
-  - "🇨🇦 Canada  Unsorted ea22"
   - "🇨🇦 Canada  Unsorted eb57 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted eba4"
   - "🇨🇦 Canada  Unsorted ee80"
   - "🇨🇦 Canada  Unsorted ef91"
-  - "🇨🇦 Canada  Unsorted efe3 | SNI - cf.cfvip.lol"
   - "🇨🇦 Canada  Unsorted f14a"
   - "🇨🇦 Canada  Unsorted f1c5 | SNI - lively-brook-c471.nedena3319.workers.dev"
   - "🇨🇦 Canada  Unsorted f4c7"
@@ -20449,7 +20412,6 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted f8e7"
   - "🇨🇦 Canada  Unsorted f93c | SNI - y6-3cj.PAgES.DEV"
   - "🇨🇦 Canada  Unsorted f975 | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
-  - "🇨🇦 Canada  Unsorted fb23 | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted fbb1 | SNI - juzi.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted fbe4"
   - "🇨🇦 Canada  Unsorted fc50"
@@ -20818,12 +20780,13 @@ proxy-groups:
   - "🇨🇦 Canada 🇫🇮 Finland 6a4e"
   - "🇨🇦 Canada 🇫🇷 France a505"
   - "🇨🇦 Canada 🇫🇷 France f897"
+  - "🇨🇦 Canada 🇬🇧 United Kingdom c2d0 | SNI - 002.Inc-ElectROcElL-001-002.WoRKERS.DEV"
   - "🇨🇦 Canada 🇭🇰 Hong Kong 9ff5"
   - "🇨🇦 Canada 🇳🇱 Netherlands 3332"
   - "🇨🇦 Canada 🇳🇱 Netherlands 6d0a | SNI - PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev"
-  - "🇨🇦 Canada 🇳🇱 Netherlands 73b6 | SNI - H7-83W.pAgeS.deV"
   - "🇨🇦 Canada 🇳🇱 Netherlands c29f | SNI - ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV"
   - "🇨🇦 Canada 🇳🇱 Netherlands fb6a"
+  - "🇨🇦 Canada 🇸🇬 Singapore ce64 | SNI - sni.111000.dynv6.net"
   - "🇨🇦 Canada 🇸🇬 Singapore ecfb | SNI - sni.111000.dynv6.net"
   - "🇨🇦 Canada 🇺🇸 United States 1275"
   - "🇨🇦 Canada 🇺🇸 United States 50fe"
@@ -20831,10 +20794,11 @@ proxy-groups:
   - "🇨🇦 Canada 🇺🇸 United States 9ed3 | SNI - hio-awx.pages.dev"
   - "🇨🇦 Canada 🇺🇸 United States e45b | SNI - uin-ape.pages.dev"
   - "🇨🇦 Canada 🇻🇳 Vietnam d807 | SNI - sd5488ghf26dfsae.another-appleid.ccwu.cc"
-- name: 🇩🇪 Germany (464)
+- name: 🇩🇪 Germany (473)
   type: select
   proxies:
   - "🇩🇪 Germany  Unsorted 080c | SNI - de-s3.ru"
+  - "🇩🇪 Germany  Unsorted 0823 | SNI - fl-s3.ru"
   - "🇩🇪 Germany  Unsorted 23d0 [CIDR]"
   - "🇩🇪 Germany  Unsorted 2421"
   - "🇩🇪 Germany  Unsorted 3058 | SNI - de1.persik.host"
@@ -20866,8 +20830,6 @@ proxy-groups:
   - "🇩🇪 Germany 2321 | SNI - e1-f55.pages.dev"
   - "🇩🇪 Germany 2f9c"
   - "🇩🇪 Germany 639e | SNI - sni.111000.indevs.in"
-  - "🇩🇪 Germany 648f | SNI - max.ru"
-  - "🇩🇪 Germany 7b01 | SNI - ads.x5.ru"
   - "🇩🇪 Germany a3b4 | SNI - socks5.revil-time3.workers.dev"
   - "🇩🇪 Germany c43b | SNI - Usa.cORreCtCOsETTe.WOrKeRS.DeV"
   - "🇩🇪 Germany ef86 | SNI - chat.deepseek.com"
@@ -21298,7 +21260,17 @@ proxy-groups:
   - "🇩🇪 Germany 🇩🇪 Germany 68f6"
   - "🇩🇪 Germany 🇩🇪 Germany 6931"
   - "🇩🇪 Germany 🇩🇪 Germany 694e | SNI - sni.latonyamadeline.ndjp.net"
-- name: 📦 Unsorted (327)
+  - "🇩🇪 Germany 🇩🇪 Germany 69e2"
+  - "🇩🇪 Germany 🇩🇪 Germany 6adb"
+  - "🇩🇪 Germany 🇩🇪 Germany 6b40"
+  - "🇩🇪 Germany 🇩🇪 Germany 6b8f | SNI - deu549.worldbypass.org"
+  - "🇩🇪 Germany 🇩🇪 Germany 6ba7 | SNI - sni.111000.dns.army"
+  - "🇩🇪 Germany 🇩🇪 Germany 6c13"
+  - "🇩🇪 Germany 🇩🇪 Germany 6d8f"
+  - "🇩🇪 Germany 🇩🇪 Germany 6e30"
+  - "🇩🇪 Germany 🇩🇪 Germany 6ec8 | SNI - sni.111000.v6.navy"
+  - "🇩🇪 Germany 🇩🇪 Germany 6f14"
+- name: 📦 Unsorted (323)
   type: select
   proxies:
   - " Unsorted 00b7"
@@ -21323,7 +21295,6 @@ proxy-groups:
   - " Unsorted 1003 | SNI - gogo10.kmj.qzz.io"
   - " Unsorted 1083"
   - " Unsorted 10d4 | SNI - sni.111000.v6.army"
-  - " Unsorted 1252 | SNI - 2-1ng.pages.dev"
   - " Unsorted 1280 | SNI - hetz.x-smm.com"
   - " Unsorted 12bc | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 12e2 | SNI - cdn-alman3.arfilter2.blog"
@@ -21341,6 +21312,7 @@ proxy-groups:
   - " Unsorted 196f"
   - " Unsorted 19d1"
   - " Unsorted 19fc | SNI - filter.elitesilver002.workers.dev"
+  - " Unsorted 1a39"
   - " Unsorted 1ae5 | SNI - sni.111000.v6.rocks"
   - " Unsorted 1b15 | SNI - whatsapp.com"
   - " Unsorted 1bab"
@@ -21351,7 +21323,6 @@ proxy-groups:
   - " Unsorted 1e60 | SNI - juzi8186.qea.ccwu.cc"
   - " Unsorted 1e8c | SNI - hetz.x-smm.com"
   - " Unsorted 1ff2"
-  - " Unsorted 2115"
   - " Unsorted 2197 | SNI - pavosilene.qzz.io"
   - " Unsorted 21e7 | SNI - babayaga-6i7.pages.dev"
   - " Unsorted 2259 | SNI - sni.jpmj.dev"
@@ -21379,7 +21350,6 @@ proxy-groups:
   - " Unsorted 3a16 | SNI - 8j3f7HD37h.PaGES.dEV"
   - " Unsorted 3a2d | SNI - sni.111000.v6.army"
   - " Unsorted 3b2d"
-  - " Unsorted 3cac | SNI - juzi8186.qea.ccwu.cc"
   - " Unsorted 3d3a"
   - " Unsorted 3ea5 | SNI - sni.111000.indevs.in"
   - " Unsorted 4183"
@@ -21390,12 +21360,14 @@ proxy-groups:
   - " Unsorted 48a4"
   - " Unsorted 4996 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 4ad7 | SNI - sni.111000.indevs.in"
+  - " Unsorted 4cb4 | SNI - sni.111000.v6.rocks"
   - " Unsorted 4d39 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 4df7 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 4e9b | SNI - cloudflare.com"
   - " Unsorted 4f53 | SNI - cho.chonon.sbs"
   - " Unsorted 507a"
   - " Unsorted 513b | SNI - sni.111000.de5.net"
+  - " Unsorted 51e9 [CIDR]"
   - " Unsorted 528d | SNI - sni.111000.indevs.in"
   - " Unsorted 5309 | SNI - 8p3cfl0ripm.zjde5.de5.net"
   - " Unsorted 55d0 | SNI - sni.111000.indevs.in"
@@ -21403,13 +21375,11 @@ proxy-groups:
   - " Unsorted 5728 | SNI - fr.monkeyisland.xyz"
   - " Unsorted 579f | SNI - stackoverflow.com"
   - " Unsorted 5961 | SNI - sni.111000.v6.navy"
-  - " Unsorted 59ae [CIDR]"
   - " Unsorted 59ca | SNI - 638990351320529492.prius-amshz.info"
   - " Unsorted 59fa"
   - " Unsorted 5a26"
   - " Unsorted 5ad1 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 5b73 | SNI - sni.111000.indevs.in"
-  - " Unsorted 5be4"
   - " Unsorted 5c70 | SNI - sni.111000.v6.navy"
   - " Unsorted 5cee | SNI - 639004042094863199.legacy-amsit.info"
   - " Unsorted 5efc | SNI - r4fnviw9jl4i4rx.zjde5.de5.net"
@@ -21426,11 +21396,10 @@ proxy-groups:
   - " Unsorted 65bd"
   - " Unsorted 664f"
   - " Unsorted 66d5 | SNI - afrcloud22.mmv.kr"
-  - " Unsorted 672c [CIDR]"
   - " Unsorted 67eb"
   - " Unsorted 687a | SNI - yopk.pages.dev"
   - " Unsorted 68cb | SNI - hetz.x-smm.com"
-  - " Unsorted 69a0 | SNI - juzi8186.qea.ccwu.cc"
+  - " Unsorted 694c [CIDR]"
   - " Unsorted 6b3a"
   - " Unsorted 6d08"
   - " Unsorted 6d31"
@@ -21439,10 +21408,8 @@ proxy-groups:
   - " Unsorted 6e7a | SNI - babayaga-6i7.pages.dev"
   - " Unsorted 6fc6 | SNI - ashley.kosmolet.xyz"
   - " Unsorted 6fde | SNI - my.oversecure.pro"
-  - " Unsorted 6ffa"
   - " Unsorted 70cc | SNI - sni.111000.indevs.in"
   - " Unsorted 71e8"
-  - " Unsorted 7387 | SNI - ads.x5.ru"
   - " Unsorted 7492 | SNI - sni.111000.indevs.in"
   - " Unsorted 74b3 | SNI - ghj.ae1autumn.cc.cd"
   - " Unsorted 75ba | SNI - gogo4.kmj.qzz.io"
@@ -21455,10 +21422,10 @@ proxy-groups:
   - " Unsorted 7a1b"
   - " Unsorted 7a97"
   - " Unsorted 7baa"
+  - " Unsorted 7c80 | SNI - qyi.fqjd663.ggff.net"
   - " Unsorted 7d55 | SNI - sni.111000.indevs.in"
   - " Unsorted 7e38"
   - " Unsorted 8272"
-  - " Unsorted 8345 [CIDR]"
   - " Unsorted 8372 | SNI - hetz.x-smm.com"
   - " Unsorted 83d4 | SNI - terazhedi.info"
   - " Unsorted 86be | SNI - afrcloud22.mmv.kr"
@@ -21468,6 +21435,8 @@ proxy-groups:
   - " Unsorted 899e"
   - " Unsorted 8b00"
   - " Unsorted 8b07 | SNI - hetz.x-smm.com"
+  - " Unsorted 8b37 | SNI - ss.2026.accesscam.org"
+  - " Unsorted 8be0 | SNI - juzi8186.qea.ccwu.cc"
   - " Unsorted 8c0a"
   - " Unsorted 8c3c"
   - " Unsorted 8cea"
@@ -21481,7 +21450,6 @@ proxy-groups:
   - " Unsorted 9408 | SNI - sni.111000.v6.navy"
   - " Unsorted 959b | SNI - sni.jpmj.dev"
   - " Unsorted 968c | SNI - ovhwuxian.pai50288.uk"
-  - " Unsorted 970d | SNI - 1-aym.pages.dev"
   - " Unsorted 9715 | SNI - pa-7oa.pages.dev"
   - " Unsorted 9792 | SNI - api-maps.yandex.ru"
   - " Unsorted 9986"
@@ -21605,10 +21573,8 @@ proxy-groups:
   - " Unsorted f45d | SNI - sni.111000.cc.cd"
   - " Unsorted f4c3"
   - " Unsorted f573 | SNI - sub.sesrsa.com"
-  - " Unsorted f608 [CIDR]"
   - " Unsorted f64c | SNI - looazjoijji.global.ssl.fastly.net"
   - " Unsorted f6cd | SNI - www.google.com"
-  - " Unsorted f75a"
   - " Unsorted f794 | SNI - gaosir.unfeeling.sbs"
   - " Unsorted f877 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted f95e"
@@ -21617,18 +21583,20 @@ proxy-groups:
   - " Unsorted fb4c | SNI - api-maps.yandex.ru"
   - " Unsorted fc21 | SNI - juzi8186.qea.ccwu.cc"
   - " Unsorted fd41"
+  - " Unsorted fd93"
   - " Unsorted fecf"
   - " Unsorted fef8 | SNI - full.app-browser.org"
   - "🇮🇷 Iran  Unsorted 0917"
-  - "🇮🇷 Iran  Unsorted 1a39"
   - "🇮🇷 Iran  Unsorted 26b8"
+  - "🇮🇷 Iran  Unsorted 5be4"
   - "🇮🇷 Iran  Unsorted 9d07"
   - "🇮🇷 Iran  Unsorted f790"
   - "🇮🇷 Iran  Unsorted f878"
   - "🇸🇨 Seychelles  Unsorted 040f"
+  - "🇸🇨 Seychelles  Unsorted 6ffa"
   - "🇸🇨 Seychelles  Unsorted 9276"
   - "🇸🇨 Seychelles  Unsorted f340"
-- name: 🇨🇭 Switzerland (20)
+- name: 🇨🇭 Switzerland (21)
   type: select
   proxies:
   - "🇨🇭 Switzerland  Unsorted 01f2 | SNI - sw1tzerl4nd.gxcore.net"
@@ -21651,7 +21619,8 @@ proxy-groups:
   - "🇨🇭 Switzerland 🇨🇭 Switzerland ece5 | SNI - itx-server.digital [CIDR]"
   - "🇨🇭 Switzerland 🇨🇭 Switzerland f553 | SNI - www.booking.com"
   - "🇨🇭 Switzerland 🇨🇭 Switzerland fdd5 | SNI - itx-server.digital"
-- name: 🇦🇹 Austria (11)
+  - "🇨🇭 Switzerland 🇺🇸 United States e694 | SNI - cloud.globaledgenet.com"
+- name: 🇦🇹 Austria (10)
   type: select
   proxies:
   - "🇦🇹 Austria  Unsorted 1393 | SNI - www.cloudflare.com"
@@ -21661,7 +21630,6 @@ proxy-groups:
   - "🇦🇹 Austria e7bf | SNI - sni.111000.dns.army"
   - "🇦🇹 Austria 🇦🇹 Austria 2c16 | SNI - chat.deepseek.com"
   - "🇦🇹 Austria 🇦🇹 Austria 3961 | SNI - at.ws.dznn.net"
-  - "🇦🇹 Austria 🇦🇹 Austria 62da | SNI - srv152.towersflowerss.com"
   - "🇦🇹 Austria 🇦🇹 Austria 6a67 | SNI - chat.deepseek.com"
   - "🇦🇹 Austria 🇦🇹 Austria 9613 | SNI - austria.denditop.site"
   - "🇦🇹 Austria 🇦🇹 Austria b7ea | SNI - austria.denditop.site"
@@ -21743,7 +21711,7 @@ proxy-groups:
   type: select
   proxies:
   - 🇧🇷 Brazil (2)
-  - 🇨🇦 Canada (634)
+  - 🇨🇦 Canada (629)
 - name: 🌏 Asia (4)
   type: select
   proxies:
@@ -21755,23 +21723,22 @@ proxy-groups:
   type: select
   proxies:
   - 🇦🇱 Albania (6)
-  - 🇦🇹 Austria (11)
+  - 🇦🇹 Austria (10)
   - 🇧🇪 Belgium (3)
   - 🇧🇬 Bulgaria (3)
-  - 🇨🇭 Switzerland (20)
+  - 🇨🇭 Switzerland (21)
   - 🇨🇿 Czechia (7)
-  - 🇩🇪 Germany (464)
+  - 🇩🇪 Germany (473)
 - name: 🏝️ Oceania (1)
   type: select
   proxies:
   - 🇦🇺 Australia (6)
-- name: 🛠️ TROJAN (452)
+- name: 🛠️ TROJAN (459)
   type: select
   proxies:
-  - " Unsorted 59ae [CIDR]"
-  - " Unsorted 672c [CIDR]"
-  - " Unsorted 8345 [CIDR]"
-  - " Unsorted f608 [CIDR]"
+  - " Unsorted 51e9 [CIDR]"
+  - " Unsorted 694c [CIDR]"
+  - " Unsorted fd93"
   - "🇮🇷 Iran  Unsorted f878"
   - "🇸🇨 Seychelles  Unsorted f340"
   - "🇦🇱 Albania 🇦🇱 Albania 3da8"
@@ -21780,13 +21747,13 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 07df"
   - "🇨🇦 Canada  Unsorted 1480"
   - "🇨🇦 Canada  Unsorted 194c"
-  - "🇨🇦 Canada  Unsorted 275c"
   - "🇨🇦 Canada  Unsorted 3617"
   - "🇨🇦 Canada  Unsorted 37d7"
   - "🇨🇦 Canada  Unsorted 3c6c"
   - "🇨🇦 Canada  Unsorted 474c"
   - "🇨🇦 Canada  Unsorted 50d0"
   - "🇨🇦 Canada  Unsorted 528f"
+  - "🇨🇦 Canada  Unsorted 5475"
   - "🇨🇦 Canada  Unsorted 5773"
   - "🇨🇦 Canada  Unsorted 66ef"
   - "🇨🇦 Canada  Unsorted 67a2"
@@ -21795,6 +21762,7 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 77a6"
   - "🇨🇦 Canada  Unsorted 81e1"
   - "🇨🇦 Canada  Unsorted 8849"
+  - "🇨🇦 Canada  Unsorted 9ed9"
   - "🇨🇦 Canada  Unsorted 9fc8"
   - "🇨🇦 Canada  Unsorted a438"
   - "🇨🇦 Canada  Unsorted ab60"
@@ -22220,7 +22188,14 @@ proxy-groups:
   - "🇩🇪 Germany 🇩🇪 Germany 68f3"
   - "🇩🇪 Germany 🇩🇪 Germany 68f6"
   - "🇩🇪 Germany 🇩🇪 Germany 6931"
-- name: 🛠️ VLESS (1020)
+  - "🇩🇪 Germany 🇩🇪 Germany 69e2"
+  - "🇩🇪 Germany 🇩🇪 Germany 6adb"
+  - "🇩🇪 Germany 🇩🇪 Germany 6b40"
+  - "🇩🇪 Germany 🇩🇪 Germany 6c13"
+  - "🇩🇪 Germany 🇩🇪 Germany 6d8f"
+  - "🇩🇪 Germany 🇩🇪 Germany 6e30"
+  - "🇩🇪 Germany 🇩🇪 Germany 6f14"
+- name: 🛠️ VLESS (1015)
   type: select
   proxies:
   - " Unsorted 00b7"
@@ -22245,7 +22220,6 @@ proxy-groups:
   - " Unsorted 1003 | SNI - gogo10.kmj.qzz.io"
   - " Unsorted 1083"
   - " Unsorted 10d4 | SNI - sni.111000.v6.army"
-  - " Unsorted 1252 | SNI - 2-1ng.pages.dev"
   - " Unsorted 1280 | SNI - hetz.x-smm.com"
   - " Unsorted 12bc | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 12e2 | SNI - cdn-alman3.arfilter2.blog"
@@ -22263,6 +22237,7 @@ proxy-groups:
   - " Unsorted 196f"
   - " Unsorted 19d1"
   - " Unsorted 19fc | SNI - filter.elitesilver002.workers.dev"
+  - " Unsorted 1a39"
   - " Unsorted 1ae5 | SNI - sni.111000.v6.rocks"
   - " Unsorted 1b15 | SNI - whatsapp.com"
   - " Unsorted 1bab"
@@ -22273,7 +22248,6 @@ proxy-groups:
   - " Unsorted 1e60 | SNI - juzi8186.qea.ccwu.cc"
   - " Unsorted 1e8c | SNI - hetz.x-smm.com"
   - " Unsorted 1ff2"
-  - " Unsorted 2115"
   - " Unsorted 2197 | SNI - pavosilene.qzz.io"
   - " Unsorted 21e7 | SNI - babayaga-6i7.pages.dev"
   - " Unsorted 2259 | SNI - sni.jpmj.dev"
@@ -22301,7 +22275,6 @@ proxy-groups:
   - " Unsorted 3a16 | SNI - 8j3f7HD37h.PaGES.dEV"
   - " Unsorted 3a2d | SNI - sni.111000.v6.army"
   - " Unsorted 3b2d"
-  - " Unsorted 3cac | SNI - juzi8186.qea.ccwu.cc"
   - " Unsorted 3d3a"
   - " Unsorted 3ea5 | SNI - sni.111000.indevs.in"
   - " Unsorted 4183"
@@ -22312,6 +22285,7 @@ proxy-groups:
   - " Unsorted 48a4"
   - " Unsorted 4996 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 4ad7 | SNI - sni.111000.indevs.in"
+  - " Unsorted 4cb4 | SNI - sni.111000.v6.rocks"
   - " Unsorted 4d39 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 4df7 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 4e9b | SNI - cloudflare.com"
@@ -22330,7 +22304,6 @@ proxy-groups:
   - " Unsorted 5a26"
   - " Unsorted 5ad1 | SNI - sni.latonyamadeline.ndjp.net"
   - " Unsorted 5b73 | SNI - sni.111000.indevs.in"
-  - " Unsorted 5be4"
   - " Unsorted 5c70 | SNI - sni.111000.v6.navy"
   - " Unsorted 5cee | SNI - 639004042094863199.legacy-amsit.info"
   - " Unsorted 5efc | SNI - r4fnviw9jl4i4rx.zjde5.de5.net"
@@ -22350,7 +22323,6 @@ proxy-groups:
   - " Unsorted 67eb"
   - " Unsorted 687a | SNI - yopk.pages.dev"
   - " Unsorted 68cb | SNI - hetz.x-smm.com"
-  - " Unsorted 69a0 | SNI - juzi8186.qea.ccwu.cc"
   - " Unsorted 6b3a"
   - " Unsorted 6d08"
   - " Unsorted 6d31"
@@ -22359,10 +22331,8 @@ proxy-groups:
   - " Unsorted 6e7a | SNI - babayaga-6i7.pages.dev"
   - " Unsorted 6fc6 | SNI - ashley.kosmolet.xyz"
   - " Unsorted 6fde | SNI - my.oversecure.pro"
-  - " Unsorted 6ffa"
   - " Unsorted 70cc | SNI - sni.111000.indevs.in"
   - " Unsorted 71e8"
-  - " Unsorted 7387 | SNI - ads.x5.ru"
   - " Unsorted 7492 | SNI - sni.111000.indevs.in"
   - " Unsorted 74b3 | SNI - ghj.ae1autumn.cc.cd"
   - " Unsorted 75ba | SNI - gogo4.kmj.qzz.io"
@@ -22375,6 +22345,7 @@ proxy-groups:
   - " Unsorted 7a1b"
   - " Unsorted 7a97"
   - " Unsorted 7baa"
+  - " Unsorted 7c80 | SNI - qyi.fqjd663.ggff.net"
   - " Unsorted 7d55 | SNI - sni.111000.indevs.in"
   - " Unsorted 7e38"
   - " Unsorted 8272"
@@ -22387,6 +22358,8 @@ proxy-groups:
   - " Unsorted 899e"
   - " Unsorted 8b00"
   - " Unsorted 8b07 | SNI - hetz.x-smm.com"
+  - " Unsorted 8b37 | SNI - ss.2026.accesscam.org"
+  - " Unsorted 8be0 | SNI - juzi8186.qea.ccwu.cc"
   - " Unsorted 8c0a"
   - " Unsorted 8c3c"
   - " Unsorted 8cea"
@@ -22400,7 +22373,6 @@ proxy-groups:
   - " Unsorted 9408 | SNI - sni.111000.v6.navy"
   - " Unsorted 959b | SNI - sni.jpmj.dev"
   - " Unsorted 968c | SNI - ovhwuxian.pai50288.uk"
-  - " Unsorted 970d | SNI - 1-aym.pages.dev"
   - " Unsorted 9715 | SNI - pa-7oa.pages.dev"
   - " Unsorted 9792 | SNI - api-maps.yandex.ru"
   - " Unsorted 9986"
@@ -22537,11 +22509,12 @@ proxy-groups:
   - " Unsorted fecf"
   - " Unsorted fef8 | SNI - full.app-browser.org"
   - "🇮🇷 Iran  Unsorted 0917"
-  - "🇮🇷 Iran  Unsorted 1a39"
   - "🇮🇷 Iran  Unsorted 26b8"
+  - "🇮🇷 Iran  Unsorted 5be4"
   - "🇮🇷 Iran  Unsorted 9d07"
   - "🇮🇷 Iran  Unsorted f790"
   - "🇸🇨 Seychelles  Unsorted 040f"
+  - "🇸🇨 Seychelles  Unsorted 6ffa"
   - "🇸🇨 Seychelles  Unsorted 9276"
   - "🇦🇪 United Arab Emirates 1911 | SNI - 1-aym.pages.dev"
   - "🇦🇪 United Arab Emirates 8757 | SNI - cdn.tracker.yandex.net"
@@ -22560,7 +22533,6 @@ proxy-groups:
   - "🇦🇹 Austria e7bf | SNI - sni.111000.dns.army"
   - "🇦🇹 Austria 🇦🇹 Austria 2c16 | SNI - chat.deepseek.com"
   - "🇦🇹 Austria 🇦🇹 Austria 3961 | SNI - at.ws.dznn.net"
-  - "🇦🇹 Austria 🇦🇹 Austria 62da | SNI - srv152.towersflowerss.com"
   - "🇦🇹 Austria 🇦🇹 Austria 6a67 | SNI - chat.deepseek.com"
   - "🇦🇹 Austria 🇦🇹 Austria 9613 | SNI - austria.denditop.site"
   - "🇦🇹 Austria 🇦🇹 Austria b7ea | SNI - austria.denditop.site"
@@ -22587,12 +22559,13 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 0e7b | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 0e93 | SNI - H7-83W.pAgeS.deV"
   - "🇨🇦 Canada  Unsorted 0eb6 | SNI - V2RayGuLF11.V2RAyGulf11.WorKERS.Dev"
+  - "🇨🇦 Canada  Unsorted 0f23 | SNI - 1-axj.pages.dev"
   - "🇨🇦 Canada  Unsorted 120c | SNI - lively-brook-c471.nedena3319.workers.dev"
+  - "🇨🇦 Canada  Unsorted 1252 | SNI - 2-1ng.pages.dev"
   - "🇨🇦 Canada  Unsorted 12be | SNI - 3-93f.pages.dev"
   - "🇨🇦 Canada  Unsorted 1392 | SNI - juzi.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 177f | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted 17ac | SNI - juzi8186.qea.ccwu.cc"
-  - "🇨🇦 Canada  Unsorted 1843 | SNI - sni.111000.dynv6.net"
   - "🇨🇦 Canada  Unsorted 189f | SNI - sany.tara132.workers.dev"
   - "🇨🇦 Canada  Unsorted 1903 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 1b53 | SNI - y6-3cj.PAgES.DEV"
@@ -22600,12 +22573,11 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 1cea | SNI - paRMis-1Tk63J.PArMiS.WoRkeRs.DeV"
   - "🇨🇦 Canada  Unsorted 1e3c | SNI - hscraft.top"
   - "🇨🇦 Canada  Unsorted 210e"
+  - "🇨🇦 Canada  Unsorted 2115"
   - "🇨🇦 Canada  Unsorted 22b1 | SNI - snippets.kkii.eu.org"
   - "🇨🇦 Canada  Unsorted 2460"
-  - "🇨🇦 Canada  Unsorted 2483 | SNI - index.0x15.workers.DEV"
   - "🇨🇦 Canada  Unsorted 251d | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 259e | SNI - qyi.fqjd663.ggff.net"
-  - "🇨🇦 Canada  Unsorted 26b7 | SNI - 026.elEctrOCELLCo-cF-026.wORKERs.deV"
   - "🇨🇦 Canada  Unsorted 26fb | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
   - "🇨🇦 Canada  Unsorted 2766"
   - "🇨🇦 Canada  Unsorted 2777"
@@ -22622,11 +22594,11 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 2fc2 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 3066 | SNI - restless-dew-894b.amirhost4.workers.dev"
   - "🇨🇦 Canada  Unsorted 30f9"
-  - "🇨🇦 Canada  Unsorted 3149 | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted 35d0"
   - "🇨🇦 Canada  Unsorted 3777 | SNI - powered-by-surena.user68f797c2f3e1b.workers.dev"
   - "🇨🇦 Canada  Unsorted 388e | SNI - 3-2h8.pages.dev"
   - "🇨🇦 Canada  Unsorted 39f4"
+  - "🇨🇦 Canada  Unsorted 3cac | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 3d6b"
   - "🇨🇦 Canada  Unsorted 3e7a"
   - "🇨🇦 Canada  Unsorted 3f03"
@@ -22642,13 +22614,13 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 4eba | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
   - "🇨🇦 Canada  Unsorted 4ed2"
   - "🇨🇦 Canada  Unsorted 4f7a | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
-  - "🇨🇦 Canada  Unsorted 500c | SNI - rAviDdD.paGEs.DEv"
   - "🇨🇦 Canada  Unsorted 5369 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 53bc"
   - "🇨🇦 Canada  Unsorted 575d"
   - "🇨🇦 Canada  Unsorted 5771 | SNI - white-snowflake-e65e.queenmahsan1.workers.dev"
   - "🇨🇦 Canada  Unsorted 593c"
   - "🇨🇦 Canada  Unsorted 59d0 | SNI - sany.tara132.workers.dev"
+  - "🇨🇦 Canada  Unsorted 5bb7 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 5bd9"
   - "🇨🇦 Canada  Unsorted 5d5f | SNI - daluan.eu.org"
   - "🇨🇦 Canada  Unsorted 5f71 | SNI - 2-eox.pages.dev"
@@ -22657,13 +22629,12 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 6784 | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
   - "🇨🇦 Canada  Unsorted 6839"
   - "🇨🇦 Canada  Unsorted 6999"
+  - "🇨🇦 Canada  Unsorted 69a0 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 6ab5"
   - "🇨🇦 Canada  Unsorted 6b35 | SNI - cho.chonon.sbs"
   - "🇨🇦 Canada  Unsorted 6d25 | SNI - daluan.eu.org"
-  - "🇨🇦 Canada  Unsorted 6f0d | SNI - Bpb241.gaNijoV670.WOrkers.Dev."
   - "🇨🇦 Canada  Unsorted 7092"
   - "🇨🇦 Canada  Unsorted 7112 | SNI - pagescm.freen8.de5.net"
-  - "🇨🇦 Canada  Unsorted 71a2 #2"
   - "🇨🇦 Canada  Unsorted 72ce | SNI - S4-f45.pAGeS.DeV"
   - "🇨🇦 Canada  Unsorted 73fc"
   - "🇨🇦 Canada  Unsorted 744b"
@@ -22692,15 +22663,11 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 8660 | SNI - labeller.neonime83.workers.dev"
   - "🇨🇦 Canada  Unsorted 88ec | SNI - nuclear.us.kg"
   - "🇨🇦 Canada  Unsorted 8ab9"
-  - "🇨🇦 Canada  Unsorted 8b37 | SNI - ss.2026.accesscam.org"
   - "🇨🇦 Canada  Unsorted 8b77 | SNI - cho.chonon.sbs"
-  - "🇨🇦 Canada  Unsorted 8be0 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted 8c07"
   - "🇨🇦 Canada  Unsorted 8d21 | SNI - gddy.hhlfy.de5.net"
   - "🇨🇦 Canada  Unsorted 8e6a | SNI - daluan.eu.org"
-  - "🇨🇦 Canada  Unsorted 8f8a | SNI - powered-by-surena.user68f797c2f3e1b.workers.dev"
   - "🇨🇦 Canada  Unsorted 8fda | SNI - 3-7v4.pages.dev"
-  - "🇨🇦 Canada  Unsorted 8ffe | SNI - aio.zxcore.biz.id"
   - "🇨🇦 Canada  Unsorted 9095"
   - "🇨🇦 Canada  Unsorted 922b | SNI - E1-F55.pAgeS.dEV"
   - "🇨🇦 Canada  Unsorted 924e | SNI - qyi.fqjd663.ggff.net"
@@ -22709,6 +22676,7 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 9551 | SNI - muddy-math-c1fc.tmpnriqueau89.workers.dev"
   - "🇨🇦 Canada  Unsorted 956f | SNI - ts-13.pages.dev"
   - "🇨🇦 Canada  Unsorted 96cf | SNI - blackshadow.dpdns.org"
+  - "🇨🇦 Canada  Unsorted 970d | SNI - 1-aym.pages.dev"
   - "🇨🇦 Canada  Unsorted 9981"
   - "🇨🇦 Canada  Unsorted 99ae"
   - "🇨🇦 Canada  Unsorted 99f5 | SNI - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev"
@@ -22718,15 +22686,16 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 9d70"
   - "🇨🇦 Canada  Unsorted a06d"
   - "🇨🇦 Canada  Unsorted a112 | SNI - hio-awx.pages.dev"
+  - "🇨🇦 Canada  Unsorted a201 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted a2bf | SNI - qyi.fqjd663.ggff.net"
   - "🇨🇦 Canada  Unsorted a312"
+  - "🇨🇦 Canada  Unsorted a36e | SNI - hhlfy.twiladaphne.ndjp.net"
   - "🇨🇦 Canada  Unsorted a429 | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
   - "🇨🇦 Canada  Unsorted a518"
   - "🇨🇦 Canada  Unsorted a992 | SNI - qyi.fqjd663.ggff.net"
   - "🇨🇦 Canada  Unsorted a9cb | SNI - juzi.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted aa6c | SNI - ipv4.yasharteam.com"
   - "🇨🇦 Canada  Unsorted aa7a | SNI - pagescm.freen3.de5.net"
-  - "🇨🇦 Canada  Unsorted ab90 | SNI - index.0x15.workers.DEV"
   - "🇨🇦 Canada  Unsorted acb3"
   - "🇨🇦 Canada  Unsorted ad2e"
   - "🇨🇦 Canada  Unsorted ae11"
@@ -22747,7 +22716,7 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted c0ae"
   - "🇨🇦 Canada  Unsorted c15f | SNI - sany.tara132.workers.dev"
   - "🇨🇦 Canada  Unsorted c1d0"
-  - "🇨🇦 Canada  Unsorted c24e"
+  - "🇨🇦 Canada  Unsorted c291 | SNI - 3-bio.pages.dev"
   - "🇨🇦 Canada  Unsorted c69c | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted c8e9"
   - "🇨🇦 Canada  Unsorted cd03 | SNI - hetz.x-smm.com"
@@ -22773,13 +22742,11 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted e6af | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted e716 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted e932 | SNI - O94yv7LIF0-AnXisD9EFEhVVS7mxN6Bh.Z-UlE-iKA-D-E-ne-k-e.wORkers.dEv"
-  - "🇨🇦 Canada  Unsorted e9f2 | SNI - 1-aym.pages.dev"
   - "🇨🇦 Canada  Unsorted ea0a"
   - "🇨🇦 Canada  Unsorted eb57 | SNI - juzi8186.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted eba4"
   - "🇨🇦 Canada  Unsorted ee80"
   - "🇨🇦 Canada  Unsorted ef91"
-  - "🇨🇦 Canada  Unsorted efe3 | SNI - cf.cfvip.lol"
   - "🇨🇦 Canada  Unsorted f14a"
   - "🇨🇦 Canada  Unsorted f1c5 | SNI - lively-brook-c471.nedena3319.workers.dev"
   - "🇨🇦 Canada  Unsorted f4c7"
@@ -22790,7 +22757,6 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted f8e7"
   - "🇨🇦 Canada  Unsorted f93c | SNI - y6-3cj.PAgES.DEV"
   - "🇨🇦 Canada  Unsorted f975 | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev"
-  - "🇨🇦 Canada  Unsorted fb23 | SNI - sni.111000.indevs.in"
   - "🇨🇦 Canada  Unsorted fbb1 | SNI - juzi.qea.ccwu.cc"
   - "🇨🇦 Canada  Unsorted fc50"
   - "🇨🇦 Canada  Unsorted fc76 | SNI - telegram.vpnazadie.store"
@@ -23082,11 +23048,12 @@ proxy-groups:
   - "🇨🇦 Canada 🇫🇮 Finland 6a4e"
   - "🇨🇦 Canada 🇫🇷 France a505"
   - "🇨🇦 Canada 🇫🇷 France f897"
+  - "🇨🇦 Canada 🇬🇧 United Kingdom c2d0 | SNI - 002.Inc-ElectROcElL-001-002.WoRKERS.DEV"
   - "🇨🇦 Canada 🇭🇰 Hong Kong 9ff5"
   - "🇨🇦 Canada 🇳🇱 Netherlands 3332"
   - "🇨🇦 Canada 🇳🇱 Netherlands 6d0a | SNI - PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev"
-  - "🇨🇦 Canada 🇳🇱 Netherlands 73b6 | SNI - H7-83W.pAgeS.deV"
   - "🇨🇦 Canada 🇳🇱 Netherlands c29f | SNI - ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV"
+  - "🇨🇦 Canada 🇸🇬 Singapore ce64 | SNI - sni.111000.dynv6.net"
   - "🇨🇦 Canada 🇸🇬 Singapore ecfb | SNI - sni.111000.dynv6.net"
   - "🇨🇦 Canada 🇺🇸 United States 1275"
   - "🇨🇦 Canada 🇺🇸 United States 50fe"
@@ -23114,6 +23081,7 @@ proxy-groups:
   - "🇨🇭 Switzerland 🇨🇭 Switzerland ece5 | SNI - itx-server.digital [CIDR]"
   - "🇨🇭 Switzerland 🇨🇭 Switzerland f553 | SNI - www.booking.com"
   - "🇨🇭 Switzerland 🇨🇭 Switzerland fdd5 | SNI - itx-server.digital"
+  - "🇨🇭 Switzerland 🇺🇸 United States e694 | SNI - cloud.globaledgenet.com"
   - "🇨🇳 China 36c3 | SNI - babayaga-6i7.pages.dev"
   - "🇨🇳 China 69f3"
   - "🇨🇳 China 🇨🇳 China 79db | SNI - www.icloud.com"
@@ -23132,6 +23100,7 @@ proxy-groups:
   - "🇨🇿 Czechia 🇨🇿 Czechia ca67 | SNI - cz.rumost.top"
   - "🇨🇿 Czechia 🇱🇻 Latvia f4ae | SNI - ozone.ru"
   - "🇩🇪 Germany  Unsorted 080c | SNI - de-s3.ru"
+  - "🇩🇪 Germany  Unsorted 0823 | SNI - fl-s3.ru"
   - "🇩🇪 Germany  Unsorted 3058 | SNI - de1.persik.host"
   - "🇩🇪 Germany  Unsorted 59d0 | SNI - sni.111000.v6.navy"
   - "🇩🇪 Germany  Unsorted 5dd6 | SNI - sni.111000.indevs.in"
@@ -23146,8 +23115,6 @@ proxy-groups:
   - "🇩🇪 Germany 2321 | SNI - e1-f55.pages.dev"
   - "🇩🇪 Germany 2f9c"
   - "🇩🇪 Germany 639e | SNI - sni.111000.indevs.in"
-  - "🇩🇪 Germany 648f | SNI - max.ru"
-  - "🇩🇪 Germany 7b01 | SNI - ads.x5.ru"
   - "🇩🇪 Germany a3b4 | SNI - socks5.revil-time3.workers.dev"
   - "🇩🇪 Germany c43b | SNI - Usa.cORreCtCOsETTe.WOrKeRS.DeV"
   - "🇩🇪 Germany ef86 | SNI - chat.deepseek.com"
@@ -23243,10 +23210,12 @@ proxy-groups:
   - "🇩🇪 Germany 🇩🇪 Germany 6773 | SNI - sni.111000.indevs.in"
   - "🇩🇪 Germany 🇩🇪 Germany 68a3 | SNI - game-de.great-server-list.co.uk"
   - "🇩🇪 Germany 🇩🇪 Germany 694e | SNI - sni.latonyamadeline.ndjp.net"
-- name: 🛠️ VMESS (28)
+  - "🇩🇪 Germany 🇩🇪 Germany 6b8f | SNI - deu549.worldbypass.org"
+  - "🇩🇪 Germany 🇩🇪 Germany 6ba7 | SNI - sni.111000.dns.army"
+  - "🇩🇪 Germany 🇩🇪 Germany 6ec8 | SNI - sni.111000.v6.navy"
+- name: 🛠️ VMESS (26)
   type: select
   proxies:
-  - " Unsorted f75a"
   - "🇦🇺 Australia ce25"
   - "🇧🇷 Brazil  Unsorted 027e"
   - "🇨🇦 Canada  Unsorted 009d"
@@ -23254,7 +23223,6 @@ proxy-groups:
   - "🇨🇦 Canada  Unsorted 3cf8"
   - "🇨🇦 Canada  Unsorted 6596"
   - "🇨🇦 Canada  Unsorted bce1"
-  - "🇨🇦 Canada  Unsorted ea22"
   - "🇨🇦 Canada 🇨🇦 Canada 5801"
   - "🇩🇪 Germany  Unsorted 2421"
   - "🇩🇪 Germany  Unsorted 634e"
