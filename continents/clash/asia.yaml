@@ -241,7 +241,7 @@ proxies:
   password: how8JSc5DuJbiH5Du6sVtel5OJiMz3UTu0/6CRY/Se4=
   sni: apps.apple.com
   skip-cert-verify: true
-- name: "🇰🇿 Kazakhstan 0347 | SNI - id.vk.ru"
+- name: "🇰🇿 Kazakhstan 0347 | SNI - www.id.vk.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KZ.png
   server: 109.73.205.73
   port: 9880
@@ -250,7 +250,7 @@ proxies:
   uuid: 5a631312-d31a-4626-9eb4-d3f191a407d1
   network: tcp
   tls: true
-  servername: id.vk.ru
+  servername: www.id.vk.ru
   client-fingerprint: random
   flow: xtls-rprx-vision
   reality-opts:
@@ -372,24 +372,6 @@ proxies:
     public-key: sOx7AkBNtLuAdWCzqYPxjOErfqI5CeDzbJleGJqp8WU
   grpc-opts:
     grpc-service-name: bucket-ru-2.extravpn.io
-- name: "🇸🇬 Singapore 2a94 | SNI - apple.com"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
-  server: vpn-sg.spend.tg
-  port: 8443
-  udp: true
-  type: vless
-  uuid: eacdf9f8-2543-46f3-9436-ed4458fe0ad1
-  network: ws
-  tls: true
-  servername: apple.com
-  client-fingerprint: qq
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ
-  ws-opts:
-    path: /
-    headers:
-      {}
 - name: "🇸🇬 Singapore 6674"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
   server: 172.237.90.117
@@ -461,7 +443,22 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg
-    short-id: "19aa22f681923dc8"
+    short-id: "0a6ba2716a409da6"
+- name: "🇹🇷 Turkey 2960 | SNI - sun9-37.userapi.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TR.png
+  server: tr.vz-or.com
+  port: 443
+  udp: true
+  type: vless
+  uuid: fea742aa-02db-4cc7-9612-45fb9be1ec8a
+  network: tcp
+  tls: true
+  servername: sun9-37.userapi.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE
+    short-id: "abbcd128"
 - name: "🇹🇷 Turkey 30a4"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TR.png
   server: tr1.datatowers.net
@@ -472,21 +469,6 @@ proxies:
   network: tcp
   tls: false
   client-fingerprint: chrome
-- name: "🇹🇷 Turkey 3a50 | SNI - bazar.palkaservices.xyz"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TR.png
-  server: bazar.palkaservices.xyz
-  port: 443
-  udp: true
-  type: vless
-  uuid: 7ac9c688-27ce-4832-a70d-9cebdd8f4f88
-  network: tcp
-  tls: true
-  servername: bazar.palkaservices.xyz
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: XGN5Hvo3UM1UyeHuEILxrXZc3-VpbV610xGV-whtGQM
-    short-id: "f8bdfc8252074299"
 - name: "🇹🇷 Turkey 5fd6 | SNI - api.cvs-a.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TR.png
   server: mid.cvs-a.com
@@ -502,20 +484,6 @@ proxies:
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
     short-id: "bb55683efa59799d"
-- name: "🇹🇷 Turkey 6d4b | SNI - eh.vk.com"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TR.png
-  server: node-turk2.rmp-inc.top
-  port: 443
-  udp: true
-  type: vless
-  uuid: 9ccbf816-1e5a-4c43-8ec6-bb47dc9b2968
-  network: tcp
-  tls: true
-  servername: eh.vk.com
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: 19Z9Syrik36ltvmS01HL2hsxcPCjlEF16wXWOozJHTU
 - name: "🇹🇷 Turkey 9775 | SNI - max.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TR.png
   server: 91.219.227.203
@@ -574,6 +542,36 @@ proxies:
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
     short-id: "bb55683efa59799d"
+- name: "🇹🇷 Turkey e11f | SNI - sun9-37.userapi.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TR.png
+  server: tr.vz-or.com
+  port: 443
+  udp: true
+  type: vless
+  uuid: aec6fb38-01c8-43fd-b353-e870d4baf0fb
+  network: tcp
+  tls: true
+  servername: sun9-37.userapi.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE
+    short-id: "abbcd128"
+- name: "🇹🇷 Turkey e1df | SNI - sun9-37.userapi.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TR.png
+  server: tr.vz-or.com
+  port: 443
+  udp: true
+  type: vless
+  uuid: 7e73e243-f81e-47c0-8e30-cc2d008a171c
+  network: tcp
+  tls: true
+  servername: sun9-37.userapi.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE
+    short-id: "abbcd128"
 - name: "🇹🇼 Taiwan 4987 | SNI - www.python.org"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TW.png
   server: tw1.344233.cc
