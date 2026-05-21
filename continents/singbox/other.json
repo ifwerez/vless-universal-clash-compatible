@@ -118,8 +118,10 @@
         " Unsorted 9123",
         " Unsorted 917c | SNI - io.ozone.ru",
         " Unsorted 92ed",
+        " Unsorted 9374 | SNI - top4182166920.mwscdn.ru",
         " Unsorted 9381",
         " Unsorted 953f",
+        " Unsorted 957e | SNI - api-maps.yandex.ru",
         " Unsorted 9abc",
         " Unsorted 9cba",
         " Unsorted 9cef",
@@ -137,6 +139,7 @@
         " Unsorted b0ba",
         " Unsorted b17c",
         " Unsorted b1ef",
+        " Unsorted b7ab | SNI - api-maps.yandex.ru",
         " Unsorted bebf",
         " Unsorted bfa5",
         " Unsorted c05f",
@@ -1536,6 +1539,19 @@
       }
     },
     {
+      "type": "vless",
+      "tag": " Unsorted 9374 | SNI - top4182166920.mwscdn.ru",
+      "server": "185.242.19.249",
+      "server_port": 443,
+      "uuid": "91a3f712-c4e0-42a0-9475-bdd551a06e73",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "top4182166920.mwscdn.ru",
+        "insecure": false
+      }
+    },
+    {
       "type": "trojan",
       "tag": " Unsorted 9381",
       "server": "138.124.74.104",
@@ -1557,6 +1573,24 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": " Unsorted 957e | SNI - api-maps.yandex.ru",
+      "server": "185.14.46.108",
+      "server_port": 443,
+      "uuid": "1537d854-e09c-481c-b376-0d03fc44f33f",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "api-maps.yandex.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw",
+          "short_id": "6cc5290e6f0b47c3"
+        }
       }
     },
     {
@@ -1784,6 +1818,24 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": " Unsorted b7ab | SNI - api-maps.yandex.ru",
+      "server": "92.255.58.63",
+      "server_port": 443,
+      "uuid": "1537d854-e09c-481c-b376-0d03fc44f33f",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "api-maps.yandex.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw",
+          "short_id": "6cc5290e6f0b47c3"
+        }
       }
     },
     {
