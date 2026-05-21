@@ -36,11 +36,13 @@
         " Unsorted 1055",
         " Unsorted 1464",
         " Unsorted 1589",
+        " Unsorted 1932",
         " Unsorted 1d74",
         " Unsorted 1e3d",
         " Unsorted 2043",
         " Unsorted 23d0",
         " Unsorted 2615",
+        " Unsorted 26a8",
         " Unsorted 28c7",
         " Unsorted 2c5a",
         " Unsorted 2eb8",
@@ -63,12 +65,14 @@
         " Unsorted 59ae",
         " Unsorted 601d",
         " Unsorted 6332",
+        " Unsorted 6465",
         " Unsorted 672c",
         " Unsorted 68f5",
         " Unsorted 694c",
         " Unsorted 6a38",
         " Unsorted 6cde",
         " Unsorted 6dc2",
+        " Unsorted 6dcc",
         " Unsorted 7ada",
         " Unsorted 7e36",
         " Unsorted 7f74",
@@ -103,6 +107,7 @@
         " Unsorted d3fb",
         " Unsorted d54a",
         " Unsorted d797",
+        " Unsorted d90c",
         " Unsorted d92a",
         " Unsorted dcb5",
         " Unsorted dd37",
@@ -119,8 +124,38 @@
         " Unsorted fae6",
         " Unsorted fe49",
         " Unsorted fea4",
+        "🇦🇱 Albania 3da8",
+        "🇧🇷 Brazil 0a40",
+        "🇨🇳 China 2a3d",
+        "🇩🇪 Germany 2649",
+        "🇩🇪 Germany 7db1",
+        "🇩🇪 Germany 83a2",
         "🇩🇪 Germany e635",
-        "🇬🇧 United Kingdom 4ce6"
+        "🇫🇮 Finland 110d",
+        "🇫🇷 France 0870",
+        "🇫🇷 France 45e4",
+        "🇬🇧 United Kingdom 3798",
+        "🇬🇧 United Kingdom 4ce6",
+        "🇯🇵 Japan 6659",
+        "🇯🇵 Japan ab6f",
+        "🇯🇵 Japan b8b2",
+        "🇯🇵 Japan e5b6",
+        "🇰🇷 South Korea 1750",
+        "🇰🇷 South Korea 4b42",
+        "🇰🇷 South Korea 6b5d",
+        "🇰🇷 South Korea e5de",
+        "🇰🇷 South Korea efb5",
+        "🇰🇷 South Korea fff5",
+        "🇱🇻 Latvia 27c4",
+        "🇱🇻 Latvia 7500",
+        "🇱🇻 Latvia d2ce",
+        "🇳🇱 Netherlands 4ec6",
+        "🇷🇺 Russia 193f",
+        "🇸🇪 Sweden 5156",
+        "🇸🇪 Sweden 5b91",
+        "🇸🇪 Sweden 7954",
+        "🇺🇸 United States 9fe6",
+        "🇺🇸 United States c0d3"
       ]
     },
     {
@@ -261,6 +296,18 @@
     },
     {
       "type": "trojan",
+      "tag": " Unsorted 1932",
+      "server": "tttyder.wsone.icu",
+      "server_port": 443,
+      "password": "M7v%w11Se*",
+      "tls": {
+        "enabled": true,
+        "server_name": "tttyder.wsone.icu",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": " Unsorted 1d74",
       "server": "212.34.151.109",
       "server_port": 2053,
@@ -316,6 +363,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": " Unsorted 26a8",
+      "server": "yespaintstudio.rav-kraski.ru",
+      "server_port": 50824,
+      "password": "7aXwJPnpAJ",
+      "tls": {
+        "enabled": true,
+        "server_name": "🔒",
         "insecure": false
       }
     },
@@ -585,6 +644,18 @@
     },
     {
       "type": "trojan",
+      "tag": " Unsorted 6465",
+      "server": "bb.bejkn.cn",
+      "server_port": 6463,
+      "password": "BxceQaOe",
+      "tls": {
+        "enabled": true,
+        "server_name": "t.me/ripaojiedian",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": " Unsorted 672c",
       "server": "5.255.113.38",
       "server_port": 8443,
@@ -652,6 +723,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": " Unsorted 6dcc",
+      "server": "hyfuuf6.wsone.icu",
+      "server_port": 443,
+      "password": "M7v%w11Se*",
+      "tls": {
+        "enabled": true,
+        "server_name": "hyfuuf6.wsone.icu",
         "insecure": false
       }
     },
@@ -1065,6 +1148,18 @@
     },
     {
       "type": "trojan",
+      "tag": " Unsorted d90c",
+      "server": "hl-freedom-1.undef.network",
+      "server_port": 443,
+      "password": "JaFKnqNcvnBT63t3rquidGsln",
+      "tls": {
+        "enabled": true,
+        "server_name": "HL-FREEDOM-1.UNDEF.NETWORK",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": " Unsorted d92a",
       "server": "31.58.171.7",
       "server_port": 8443,
@@ -1257,6 +1352,78 @@
     },
     {
       "type": "trojan",
+      "tag": "🇦🇱 Albania 3da8",
+      "server": "78.159.131.12",
+      "server_port": 28259,
+      "password": "MeaDiUmPlkWbZJ2BON8tz",
+      "tls": {
+        "enabled": true,
+        "server_name": "🔒",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇧🇷 Brazil 0a40",
+      "server": "45.82.245.37",
+      "server_port": 4443,
+      "password": "strong-secret-pass-777",
+      "tls": {
+        "enabled": true,
+        "server_name": "45.82.245.37",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇳 China 2a3d",
+      "server": "54.46.53.9",
+      "server_port": 2702,
+      "password": "BxceQaOe",
+      "tls": {
+        "enabled": true,
+        "server_name": "t.me/ripaojiedian",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 Germany 2649",
+      "server": "51.102.92.172",
+      "server_port": 22222,
+      "password": "telegram-id-privatevpns",
+      "tls": {
+        "enabled": true,
+        "server_name": "trojan.burgerip.co.uk",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 Germany 7db1",
+      "server": "51.102.92.172",
+      "server_port": 22223,
+      "password": "telegram-id-directvpn",
+      "tls": {
+        "enabled": true,
+        "server_name": "trojan.burgerip.co.uk",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 Germany 83a2",
+      "server": "51.75.86.196",
+      "server_port": 55646,
+      "password": "03mpolj39zyewzufal2r",
+      "tls": {
+        "enabled": true,
+        "server_name": "51.75.86.196",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇩🇪 Germany e635",
       "server": "151.242.43.77",
       "server_port": 8443,
@@ -1269,6 +1436,54 @@
     },
     {
       "type": "trojan",
+      "tag": "🇫🇮 Finland 110d",
+      "server": "45.12.146.179",
+      "server_port": 4443,
+      "password": "strong-secret-pass-777",
+      "tls": {
+        "enabled": true,
+        "server_name": "45.12.146.179",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 France 0870",
+      "server": "35.180.151.19",
+      "server_port": 22222,
+      "password": "telegram-id-privatevpns",
+      "tls": {
+        "enabled": true,
+        "server_name": "trojan.burgerip.co.uk",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 France 45e4",
+      "server": "35.180.151.19",
+      "server_port": 22223,
+      "password": "telegram-id-directvpn",
+      "tls": {
+        "enabled": true,
+        "server_name": "trojan.burgerip.co.uk",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 3798",
+      "server": "94.131.122.254",
+      "server_port": 443,
+      "password": "mJVGfrOkZGnMywJD2uwmuXgOQ",
+      "tls": {
+        "enabled": true,
+        "server_name": "HL-FREEDOM-2.UNDEF.NETWORK",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇬🇧 United Kingdom 4ce6",
       "server": "213.171.26.104",
       "server_port": 8443,
@@ -1276,6 +1491,246 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 Japan 6659",
+      "server": "116.80.80.121",
+      "server_port": 443,
+      "password": "BxceQaOe",
+      "tls": {
+        "enabled": true,
+        "server_name": "t.me/ripaojiedian",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 Japan ab6f",
+      "server": "116.80.61.236",
+      "server_port": 443,
+      "password": "BxceQaOe",
+      "tls": {
+        "enabled": true,
+        "server_name": "t.me/ripaojiedian",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 Japan b8b2",
+      "server": "116.80.61.224",
+      "server_port": 443,
+      "password": "BxceQaOe",
+      "tls": {
+        "enabled": true,
+        "server_name": "t.me/ripaojiedian",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 Japan e5b6",
+      "server": "45.12.134.57",
+      "server_port": 4443,
+      "password": "strong-secret-pass-777",
+      "tls": {
+        "enabled": true,
+        "server_name": "45.12.134.57",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇰🇷 South Korea 1750",
+      "server": "121.132.124.22",
+      "server_port": 15000,
+      "password": "GKHWMe2R4qwNcNxu6l3KMkdd",
+      "tls": {
+        "enabled": true,
+        "server_name": "vpn1.rnmcnm.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇰🇷 South Korea 4b42",
+      "server": "125.141.32.222",
+      "server_port": 11371,
+      "password": "GKHWMe2R4qwNcNxu6l3KMkdd",
+      "tls": {
+        "enabled": true,
+        "server_name": "vpn1.rnmcnm.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇰🇷 South Korea 6b5d",
+      "server": "221.158.4.230",
+      "server_port": 18853,
+      "password": "GKHWMe2R4qwNcNxu6l3KMkdd",
+      "tls": {
+        "enabled": true,
+        "server_name": "vpn1.rnmcnm.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇰🇷 South Korea e5de",
+      "server": "221.149.34.13",
+      "server_port": 10909,
+      "password": "GKHWMe2R4qwNcNxu6l3KMkdd",
+      "tls": {
+        "enabled": true,
+        "server_name": "vpn1.rnmcnm.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇰🇷 South Korea efb5",
+      "server": "121.180.171.43",
+      "server_port": 11310,
+      "password": "GKHWMe2R4qwNcNxu6l3KMkdd",
+      "tls": {
+        "enabled": true,
+        "server_name": "vpn1.rnmcnm.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇰🇷 South Korea fff5",
+      "server": "121.179.212.16",
+      "server_port": 10001,
+      "password": "GKHWMe2R4qwNcNxu6l3KMkdd",
+      "tls": {
+        "enabled": true,
+        "server_name": "vpn1.rnmcnm.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇱🇻 Latvia 27c4",
+      "server": "138.124.182.202",
+      "server_port": 56338,
+      "password": "0FMrl2zi9o",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.intel.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇱🇻 Latvia 7500",
+      "server": "103.231.73.181",
+      "server_port": 4443,
+      "password": "strong-secret-pass-777",
+      "tls": {
+        "enabled": true,
+        "server_name": "103.231.73.181",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇱🇻 Latvia d2ce",
+      "server": "138.124.182.202",
+      "server_port": 18941,
+      "password": "neUFnWP2ZZ",
+      "tls": {
+        "enabled": true,
+        "server_name": "138.124.182.202",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 4ec6",
+      "server": "91.210.108.201",
+      "server_port": 443,
+      "password": "JaFKnqNcvnBT63t3rquidGsln",
+      "tls": {
+        "enabled": true,
+        "server_name": "HL-FREEDOM-1.UNDEF.NETWORK",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇷🇺 Russia 193f",
+      "server": "51.250.87.19",
+      "server_port": 9443,
+      "password": "f8a6ccdaf2f8474b8287a43757951293",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇪 Sweden 5156",
+      "server": "193.168.197.76",
+      "server_port": 33922,
+      "password": "CQDy1GUDxA",
+      "tls": {
+        "enabled": true,
+        "server_name": "193.168.197.76",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇪 Sweden 5b91",
+      "server": "150.241.65.18",
+      "server_port": 50824,
+      "password": "7aXwJPnpAJ",
+      "tls": {
+        "enabled": true,
+        "server_name": "yespaintstudio.rav-kraski.ru",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇪 Sweden 7954",
+      "server": "193.168.197.76",
+      "server_port": 39425,
+      "password": "lpfAiPjB00",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.amazon.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 United States 9fe6",
+      "server": "208.83.232.190",
+      "server_port": 443,
+      "password": "d30ab83dbde4480082048fb315bedebd",
+      "tls": {
+        "enabled": true,
+        "server_name": "208.83.232.190",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 United States c0d3",
+      "server": "64.94.95.118",
+      "server_port": 57142,
+      "password": "kkzh2prsyr2ik47as615",
+      "tls": {
+        "enabled": true,
+        "server_name": "64.94.95.118",
         "insecure": false
       }
     }
