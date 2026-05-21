@@ -25,6 +25,20 @@ tun:
   auto-route: true
   auto-detect-interface: true
 proxies:
+- name: " Unsorted 00fd | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net"
+  server: 103.133.240.115
+  port: 17416
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: rolaqoubhqt.bpd67081tsq.ddns-ip.net
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: rolaqoubhqt.bpd67081tsq.ddns-ip.net
 - name: " Unsorted 014d"
   server: 193.164.155.226
   port: 8443
@@ -127,6 +141,20 @@ proxies:
   reality-opts:
     public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
     short-id: "25b19ab8cfd78fe5"
+- name: " Unsorted 0dda | SNI - oia8or7k8rs5.zrf.xx.kg"
+  server: 83.147.216.223
+  port: 4433
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: oia8or7k8rs5.zrf.xx.kg
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: oia8or7k8rs5.zrf.xx.kg
 - name: " Unsorted 0f04"
   server: 31.58.171.111
   port: 2053
@@ -296,6 +324,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 1ecc | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io"
+  server: 213.179.69.150
+  port: 35130
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: adv2m5gy-wrhiahph85c.ovtc.qzz.io
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: adv2m5gy-wrhiahph85c.ovtc.qzz.io
 - name: " Unsorted 1f62 | SNI - ads.x5.ru"
   server: bs.trustnet.sbs
   port: 443
@@ -309,6 +351,19 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 4fkc7NTbrWKSBTpZHGE2jjQXVtrao1tQQ989zilyPUw
+- name: " Unsorted 1fbb"
+  server: 160.153.138.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: vms.lifetime04.workers.dev
 - name: " Unsorted 1fdd"
   server: 193.222.62.67
   port: 8443
@@ -510,6 +565,19 @@ proxies:
   reality-opts:
     public-key: sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg
     short-id: "844352756c1fabba"
+- name: " Unsorted 30cd"
+  server: 89.116.180.40
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: vms.lifetime09.workers.dev
 - name: " Unsorted 30d4 | SNI - cdp.x5.ru"
   server: 84.201.168.220
   port: 443
@@ -584,6 +652,19 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 3a6e"
+  server: 154.194.12.40
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime35.workers.dev
 - name: " Unsorted 3a8c"
   server: 89.110.119.231
   port: 8443
@@ -608,6 +689,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg"
+  server: 91.184.243.190
+  port: 4433
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: oia8or7k8rs5.zrf.xx.kg
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: oia8or7k8rs5.zrf.xx.kg
 - name: " Unsorted 4332"
   server: 212.192.217.100
   port: 8443
@@ -777,6 +872,19 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
+- name: " Unsorted 5778"
+  server: 154.194.12.50
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime35.workers.dev
 - name: " Unsorted 578a | SNI - ads.x5.ru"
   server: 87.228.101.202
   port: 5443
@@ -969,6 +1077,19 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 6ce4"
+  server: 50.62.198.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime39.workers.dev
 - name: " Unsorted 6dc2"
   server: 109.120.156.122
   port: 8443
@@ -1053,6 +1174,19 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
+- name: " Unsorted 7aae"
+  server: 45.85.119.40
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime56.workers.dev
 - name: " Unsorted 7ada"
   server: 151.242.43.44
   port: 2053
@@ -1083,6 +1217,20 @@ proxies:
   password: 162534
   tls: true
   sni: cchh2.pages.dev
+- name: " Unsorted 7cf5 | SNI - r8wez3psbuhgs6lgju.sate.qzz.io"
+  server: 64.188.106.174
+  port: 4433
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: r8wez3psbuhgs6lgju.sate.qzz.io
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: r8wez3psbuhgs6lgju.sate.qzz.io
 - name: " Unsorted 7d50 | SNI - api-maps.yandex.ru"
   server: moon2.realm-of-ultramar.ru
   port: 443
@@ -1097,6 +1245,19 @@ proxies:
   reality-opts:
     public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
     short-id: "6cc5290e6f0b47c3"
+- name: " Unsorted 7d83"
+  server: 31.12.75.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: vms.lifetime21.workers.dev
 - name: " Unsorted 7f74"
   server: 89.110.65.5
   port: 8443
@@ -1375,6 +1536,46 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 9eca"
+  server: 185.148.107.40
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime55.workers.dev
+- name: " Unsorted 9f1c | SNI - cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev"
+  server: www.csgo.net
+  port: 2095
+  udp: true
+  type: vless
+  uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
+  network: ws
+  tls: false
+  servername: cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/fp=randomized"
+    headers:
+      Host: cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev
+- name: " Unsorted a02f"
+  server: 31.12.75.50
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime21.workers.dev
 - name: " Unsorted a2b1"
   server: 31.128.37.116
   port: 8443
@@ -1511,6 +1712,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted abf4 | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net"
+  server: 149.129.36.200
+  port: 25006
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
 - name: " Unsorted b0ba"
   server: 46.21.82.168
   port: 2053
@@ -1573,6 +1788,19 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted bfa5"
+  server: 72.167.243.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      Host: vms.lifetime55.workers.dev
 - name: " Unsorted bfd9 | SNI - cdp.x5.ru"
   server: 84.201.136.5
   port: 443
@@ -1624,6 +1852,19 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted c367"
+  server: 103.116.7.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: vms.lifetime35.workers.dev
 - name: " Unsorted c3db"
   server: 195.200.16.192
   port: 2053
@@ -1632,6 +1873,19 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted c554"
+  server: 185.193.30.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      Host: vms.lifetime09.workers.dev
 - name: " Unsorted c727"
   server: 109.71.240.207
   port: 8443
@@ -1745,6 +1999,20 @@ proxies:
   reality-opts:
     public-key: DK98HQGIBGOFbAqKggMXduwYNjlKfOBiARKfO8wEeXk
     short-id: "0fb689ad101948ba"
+- name: " Unsorted d78e | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net"
+  server: 91.186.217.158
+  port: 441
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristi"
+    headers:
+      Host: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
 - name: " Unsorted d797"
   server: 193.164.155.226
   port: 2053
@@ -1979,6 +2247,20 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
+- name: " Unsorted ee5b | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 45.41.207.154
+  port: 443
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=firefox"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
 - name: " Unsorted efc7"
   server: 77.238.255.142
   port: 8443
@@ -1987,6 +2269,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted f088 | SNI - oia8or7k8rs5.zrf.xx.kg"
+  server: 91.184.240.106
+  port: 433
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: oia8or7k8rs5.zrf.xx.kg
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: oia8or7k8rs5.zrf.xx.kg
 - name: " Unsorted f1cb"
   server: 77.221.158.36
   port: 8443
@@ -2021,6 +2317,19 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted f787"
+  server: 45.85.118.50
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime55.workers.dev
 - name: " Unsorted f9e8 | SNI - ads.x5.ru"
   server: 178.250.243.142
   port: 443
@@ -2034,6 +2343,20 @@ proxies:
   reality-opts:
     public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
     short-id: "25b19ab8cfd78fe5"
+- name: " Unsorted fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io"
+  server: 8.211.161.124
+  port: 25809
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: adv2m5gy-wrhiahph85c.ovtc.qzz.io
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: adv2m5gy-wrhiahph85c.ovtc.qzz.io
 - name: " Unsorted fe49"
   server: 104.167.196.91
   port: 2053
@@ -2518,21 +2841,6 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: agsQSpidbSZMSzm4t1Bhe57wSta_CTcUktkB7GQ9YBM
-- name: "🇨🇾 Cyprus 9f1c | SNI - cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CY.png
-  server: www.csgo.net
-  port: 2095
-  udp: true
-  type: vless
-  uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-  network: ws
-  tls: false
-  servername: cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/fp=randomized"
-    headers:
-      Host: cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev
 - name: "🇨🇿 Czechia 3e79 | SNI - sun6-21.userapi.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CZ.png
   server: 217.16.20.38
@@ -3017,21 +3325,6 @@ proxies:
   reality-opts:
     public-key: YnT2UJbXooiJNwq0YAILlBNubfEIT4hz560q5r3nHSg
     short-id: "ad844ecf706b8302"
-- name: "🇩🇪 Germany 1ecc | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
-  server: 213.179.69.150
-  port: 35130
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: adv2m5gy-wrhiahph85c.ovtc.qzz.io
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: adv2m5gy-wrhiahph85c.ovtc.qzz.io
 - name: "🇩🇪 Germany 244b | SNI - smartcaptcha.yandexcloud.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
   server: 51.250.47.193
@@ -4069,21 +4362,6 @@ proxies:
   reality-opts:
     public-key: V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ
     short-id: "abcd"
-- name: "🇩🇪 Germany 7cf5 | SNI - r8wez3psbuhgs6lgju.sate.qzz.io [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
-  server: 64.188.106.174
-  port: 4433
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: r8wez3psbuhgs6lgju.sate.qzz.io
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: r8wez3psbuhgs6lgju.sate.qzz.io
 - name: "🇩🇪 Germany 7dcb | SNI - ads.x5.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
   server: 130.193.41.117
@@ -5091,21 +5369,6 @@ proxies:
   reality-opts:
     public-key: YnT2UJbXooiJNwq0YAILlBNubfEIT4hz560q5r3nHSg
     short-id: "ad844ecf706b8302"
-- name: "🇩🇪 Germany d78e | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
-  server: 91.186.217.158
-  port: 441
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristi"
-    headers:
-      Host: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
 - name: "🇩🇪 Germany d88e | SNI - sni.my111000.tech"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
   server: 45.67.215.191
@@ -5695,21 +5958,6 @@ proxies:
   reality-opts:
     public-key: VH-4z1TvkJLyH9cgwdrhvMevxr3PltSBnMk43X6pi2U
     short-id: "086007"
-- name: "🇫🇮 Finland 0dda | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
-  server: 83.147.216.223
-  port: 4433
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: oia8or7k8rs5.zrf.xx.kg
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: oia8or7k8rs5.zrf.xx.kg
 - name: "🇫🇮 Finland 0f84 | SNI - mail.skm62.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
   server: 193.33.133.186
@@ -5906,21 +6154,6 @@ proxies:
   reality-opts:
     public-key: 9YcV-gA7iaXFnI0HXQa624OIqm4zxO_U2eMCWXQAiCQ
     short-id: "8375b32501373f41"
-- name: "🇫🇮 Finland 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
-  server: 91.184.243.190
-  port: 4433
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: oia8or7k8rs5.zrf.xx.kg
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: oia8or7k8rs5.zrf.xx.kg
 - name: "🇫🇮 Finland 41fa | SNI - eh.vk.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
   server: 91.219.227.203
@@ -7155,20 +7388,6 @@ proxies:
     short-id: "6ba85179e30d4fc3"
   grpc-opts:
     grpc-service-name: xyz
-- name: "🇬🇧 United Kingdom 7aae [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GB.png
-  server: 45.85.119.40
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime56.workers.dev
 - name: "🇬🇧 United Kingdom 7b19 | SNI - velikobcxc.30x.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GB.png
   server: velikobcxc.30x.ru
@@ -7255,20 +7474,6 @@ proxies:
     path: "/sequre/ws?ed=2560"
     headers:
       Host: 194.58.41.88.fwqfw783rg2dad.website
-- name: "🇬🇧 United Kingdom c554 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GB.png
-  server: 185.193.30.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: ''
-    headers:
-      Host: vms.lifetime09.workers.dev
 - name: "🇬🇧 United Kingdom c8b7"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GB.png
   server: srv191.towersflowerss.com
@@ -7297,20 +7502,6 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4
-- name: "🇬🇧 United Kingdom f787 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GB.png
-  server: 45.85.118.50
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime55.workers.dev
 - name: "🇬🇧 United Kingdom f890 | SNI - bucket-ru-2.extravpn.io"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GB.png
   server: 5.178.85.238
@@ -7544,36 +7735,6 @@ proxies:
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
     short-id: "bb55683efa59799d"
-- name: "🇯🇵 Japan fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/JP.png
-  server: 8.211.161.124
-  port: 25809
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: adv2m5gy-wrhiahph85c.ovtc.qzz.io
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: adv2m5gy-wrhiahph85c.ovtc.qzz.io
-- name: "🇰🇷 South Korea 00fd | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KR.png
-  server: 103.133.240.115
-  port: 17416
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: rolaqoubhqt.bpd67081tsq.ddns-ip.net
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: rolaqoubhqt.bpd67081tsq.ddns-ip.net
 - name: "🇰🇷 South Korea 4c25"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KR.png
   server: 47.80.6.141
@@ -10434,20 +10595,6 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
-- name: "🇳🇱 Netherlands 9eca [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
-  server: 185.148.107.40
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime55.workers.dev
 - name: "🇳🇱 Netherlands 9f93 | SNI - wl-6-5.nodes.ac"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
   server: 51.250.33.25
@@ -13233,20 +13380,6 @@ proxies:
   reality-opts:
     public-key: 9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg
     short-id: "19aa22f681923dc8"
-- name: "🇷🇺 Russia 7d83 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/RU.png
-  server: 31.12.75.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560"
-    headers:
-      Host: vms.lifetime21.workers.dev
 - name: "🇷🇺 Russia 7d84 | SNI - api-maps.yandex.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/RU.png
   server: 84.201.170.183
@@ -13408,20 +13541,6 @@ proxies:
   reality-opts:
     public-key: DeEdSHsdeIxPCMh5lqON8lEIgwelE6OyZzPpdqN-DDs
     short-id: "b2a6e3d42f05c3d1"
-- name: "🇷🇺 Russia a02f [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/RU.png
-  server: 31.12.75.50
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime21.workers.dev
 - name: "🇷🇺 Russia a137"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/RU.png
   server: 51.250.106.80
@@ -14215,49 +14334,6 @@ proxies:
   reality-opts:
     public-key: 6NHx7OBkTEppAb58ke8XhLDoBrutczt_JPUWP_h9DRE
     short-id: "a9c4f17e3b62d8"
-- name: "🇸🇪 Sweden f088 | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SE.png
-  server: 91.184.240.106
-  port: 433
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: oia8or7k8rs5.zrf.xx.kg
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: oia8or7k8rs5.zrf.xx.kg
-- name: "🇸🇬 Singapore 3a6e [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
-  server: 154.194.12.40
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime35.workers.dev
-- name: "🇸🇬 Singapore 5778 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
-  server: 154.194.12.50
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime35.workers.dev
 - name: "🇸🇬 Singapore 8a63"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
   server: 141.193.213.21
@@ -14286,21 +14362,6 @@ proxies:
     path: "/@Tech_Sonic"
     headers:
       Host: free-server.techsonic.ggff.net
-- name: "🇸🇬 Singapore abf4 | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
-  server: 149.129.36.200
-  port: 25006
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
 - name: "🇸🇬 Singapore bc9a | SNI - api-maps.yandex.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
   server: 194.55.239.191
@@ -14518,20 +14579,6 @@ proxies:
   reality-opts:
     public-key: 2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE
     short-id: "04d59340"
-- name: "🇺🇦 Ukraine 30cd [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/UA.png
-  server: 89.116.180.40
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560"
-    headers:
-      Host: vms.lifetime09.workers.dev
 - name: "🇺🇸 United States 087c | SNI - ads.x5.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 178.250.243.142
@@ -14546,20 +14593,6 @@ proxies:
   reality-opts:
     public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
     short-id: "25b19ab8cfd78fe5"
-- name: "🇺🇸 United States 1fbb [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 160.153.138.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: vms.lifetime04.workers.dev
 - name: "🇺🇸 United States 23b1 | SNI - ussun.api.dznn.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: ussun.api.dznn.net
@@ -14707,20 +14740,6 @@ proxies:
     public-key: bL3667MRr_X2BxjBlzNblnbDI-2OTfgohyTRbQ8suBc
   grpc-opts:
     grpc-service-name: grpc
-- name: "🇺🇸 United States 6ce4 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 50.62.198.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime39.workers.dev
 - name: "🇺🇸 United States 71e9 | SNI - listwhite.cc"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: autobus.api.dznn.net
@@ -14833,34 +14852,6 @@ proxies:
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
     short-id: "bb55683efa59799d"
-- name: "🇺🇸 United States bfa5 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 72.167.243.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: ''
-    headers:
-      Host: vms.lifetime55.workers.dev
-- name: "🇺🇸 United States c367 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 103.116.7.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: vms.lifetime35.workers.dev
 - name: "🇺🇸 United States ca6b | SNI - stats.vk-portal.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 45.8.157.20
@@ -14932,21 +14923,6 @@ proxies:
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
     short-id: "35a84908e9cfa95c"
-- name: "🇺🇸 United States ee5b | SNI - t39sed.gateway-api.sh21.eu.org [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 45.41.207.154
-  port: 443
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=firefox"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
 - name: "🇺🇸 United States f413 | SNI - sso.passport.yandex.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 95.163.211.240
@@ -14988,6 +14964,7 @@ proxy-groups:
   interval: 300
   tolerance: 50
   proxies:
+  - " Unsorted 00fd | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net"
   - " Unsorted 014d"
   - " Unsorted 02e0 | SNI - cdp.x5.ru"
   - " Unsorted 052a"
@@ -14998,6 +14975,7 @@ proxy-groups:
   - " Unsorted 08b3"
   - " Unsorted 0a52"
   - " Unsorted 0d10 | SNI - ads.x5.ru"
+  - " Unsorted 0dda | SNI - oia8or7k8rs5.zrf.xx.kg"
   - " Unsorted 0f04"
   - " Unsorted 0ff3"
   - " Unsorted 1055"
@@ -15013,7 +14991,9 @@ proxy-groups:
   - " Unsorted 1d74"
   - " Unsorted 1e25 | SNI - cdp.x5.ru"
   - " Unsorted 1e3d"
+  - " Unsorted 1ecc | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io"
   - " Unsorted 1f62 | SNI - ads.x5.ru"
+  - " Unsorted 1fbb"
   - " Unsorted 1fdd"
   - " Unsorted 2043"
   - " Unsorted 23d0"
@@ -15031,6 +15011,7 @@ proxy-groups:
   - " Unsorted 2ef2 | SNI - ads.x5.ru"
   - " Unsorted 3088"
   - " Unsorted 30a6 | SNI - ads.x5.ru"
+  - " Unsorted 30cd"
   - " Unsorted 30d4 | SNI - cdp.x5.ru"
   - " Unsorted 3358"
   - " Unsorted 336f"
@@ -15038,9 +15019,11 @@ proxy-groups:
   - " Unsorted 3813 | SNI - et.seaspirit.dpdns.org"
   - " Unsorted 3882"
   - " Unsorted 39bc"
+  - " Unsorted 3a6e"
   - " Unsorted 3a8c"
   - " Unsorted 3bdd"
   - " Unsorted 3d80"
+  - " Unsorted 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg"
   - " Unsorted 4332"
   - " Unsorted 435f"
   - " Unsorted 45a6"
@@ -15057,6 +15040,7 @@ proxy-groups:
   - " Unsorted 56ad"
   - " Unsorted 56d3"
   - " Unsorted 575f | SNI - www.bing.com"
+  - " Unsorted 5778"
   - " Unsorted 578a | SNI - ads.x5.ru"
   - " Unsorted 58c2 | SNI - finite-node.rtxconfigz.com"
   - " Unsorted 5923"
@@ -15075,6 +15059,7 @@ proxy-groups:
   - " Unsorted 694c"
   - " Unsorted 6a38"
   - " Unsorted 6cde"
+  - " Unsorted 6ce4"
   - " Unsorted 6dc2"
   - " Unsorted 6f6d"
   - " Unsorted 7095 | SNI - cdp.x5.ru"
@@ -15082,10 +15067,13 @@ proxy-groups:
   - " Unsorted 7387 | SNI - ads.x5.ru"
   - " Unsorted 7632 | SNI - max.ru"
   - " Unsorted 7824 | SNI - cdp.x5.ru"
+  - " Unsorted 7aae"
   - " Unsorted 7ada"
   - " Unsorted 7c29 | SNI - cdp.x5.ru"
   - " Unsorted 7cbe"
+  - " Unsorted 7cf5 | SNI - r8wez3psbuhgs6lgju.sate.qzz.io"
   - " Unsorted 7d50 | SNI - api-maps.yandex.ru"
+  - " Unsorted 7d83"
   - " Unsorted 7f74"
   - " Unsorted 7f8f | SNI - max.ru"
   - " Unsorted 8281"
@@ -15112,6 +15100,9 @@ proxy-groups:
   - " Unsorted 9cba"
   - " Unsorted 9cef"
   - " Unsorted 9eb7"
+  - " Unsorted 9eca"
+  - " Unsorted 9f1c | SNI - cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev"
+  - " Unsorted a02f"
   - " Unsorted a2b1"
   - " Unsorted a2cc"
   - " Unsorted a316"
@@ -15126,6 +15117,7 @@ proxy-groups:
   - " Unsorted a7ff | SNI - api-maps.yandex.ru"
   - " Unsorted a935"
   - " Unsorted abdf"
+  - " Unsorted abf4 | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net"
   - " Unsorted b0ba"
   - " Unsorted b17c"
   - " Unsorted b1ef"
@@ -15133,12 +15125,15 @@ proxy-groups:
   - " Unsorted b70a | SNI - cdp.x5.ru"
   - " Unsorted bb51"
   - " Unsorted bebf"
+  - " Unsorted bfa5"
   - " Unsorted bfd9 | SNI - cdp.x5.ru"
   - " Unsorted c05f"
   - " Unsorted c160"
   - " Unsorted c2c0 | SNI - ads.x5.ru"
   - " Unsorted c355"
+  - " Unsorted c367"
   - " Unsorted c3db"
+  - " Unsorted c554"
   - " Unsorted c727"
   - " Unsorted c86d"
   - " Unsorted c98d"
@@ -15151,6 +15146,7 @@ proxy-groups:
   - " Unsorted d3fb"
   - " Unsorted d54a"
   - " Unsorted d58b | SNI - cdp.x5.ru"
+  - " Unsorted d78e | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net"
   - " Unsorted d797"
   - " Unsorted d8d0"
   - " Unsorted d92a"
@@ -15175,12 +15171,16 @@ proxy-groups:
   - " Unsorted ec9d"
   - " Unsorted ed5d | SNI - max.ru"
   - " Unsorted ede1 | SNI - cdp.x5.ru"
+  - " Unsorted ee5b | SNI - t39sed.gateway-api.sh21.eu.org"
   - " Unsorted efc7"
+  - " Unsorted f088 | SNI - oia8or7k8rs5.zrf.xx.kg"
   - " Unsorted f1cb"
   - " Unsorted f485 | SNI - obhod.riotvpn.eu"
   - " Unsorted f4df"
   - " Unsorted f5d5"
+  - " Unsorted f787"
   - " Unsorted f9e8 | SNI - ads.x5.ru"
+  - " Unsorted fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io"
   - " Unsorted fe49"
   - " Unsorted fe79 | SNI - max.ru"
   - " Unsorted fea4"
@@ -15215,7 +15215,6 @@ proxy-groups:
   - "🇨🇭 Switzerland fdd5 | SNI - itx-server.digital"
   - "🇨🇭 Switzerland fdda | SNI - bucket-ru-1.extravpn.io"
   - "🇨🇳 China fa0a | SNI - ch.jugploer.icu"
-  - "🇨🇾 Cyprus 9f1c | SNI - cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev [geo]"
   - "🇨🇿 Czechia 3e79 | SNI - sun6-21.userapi.com"
   - "🇨🇿 Czechia 968b | SNI - www.io.ozone.ru"
   - "🇨🇿 Czechia b9fd | SNI - sun6-21.userapi.com"
@@ -15249,7 +15248,6 @@ proxy-groups:
   - "🇩🇪 Germany 1a91 | SNI - max.ru"
   - "🇩🇪 Germany 1d1b | SNI - try.astrafic.ru"
   - "🇩🇪 Germany 1e9d | SNI - api-maps.yandex.ru"
-  - "🇩🇪 Germany 1ecc | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io [geo]"
   - "🇩🇪 Germany 244b | SNI - smartcaptcha.yandexcloud.net"
   - "🇩🇪 Germany 24c4 | SNI - yandex.ru"
   - "🇩🇪 Germany 25fe | SNI - ads.x5.ru"
@@ -15320,7 +15318,6 @@ proxy-groups:
   - "🇩🇪 Germany 7baa | SNI - bucket-ru-6.extravpn.io"
   - "🇩🇪 Germany 7c30 | SNI - yandex.ru"
   - "🇩🇪 Germany 7c45 | SNI - www.icloud.com"
-  - "🇩🇪 Germany 7cf5 | SNI - r8wez3psbuhgs6lgju.sate.qzz.io [geo]"
   - "🇩🇪 Germany 7dcb | SNI - ads.x5.ru"
   - "🇩🇪 Germany 7dea | SNI - ads.x5.ru"
   - "🇩🇪 Germany 7e7d | SNI - smartcaptcha.yandexcloud.net"
@@ -15389,7 +15386,6 @@ proxy-groups:
   - "🇩🇪 Germany d5f4 | SNI - yandex.ru"
   - "🇩🇪 Germany d690 | SNI - yandex.ru"
   - "🇩🇪 Germany d69f | SNI - api-maps.yandex.ru"
-  - "🇩🇪 Germany d78e | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net [geo]"
   - "🇩🇪 Germany d88e | SNI - sni.my111000.tech"
   - "🇩🇪 Germany d912 | SNI - sun6-21.userapi.com"
   - "🇩🇪 Germany d952 | SNI - eh.vk.com"
@@ -15430,7 +15426,6 @@ proxy-groups:
   - "🇫🇮 Finland 0162 | SNI - ads.x5.ru"
   - "🇫🇮 Finland 0184 | SNI - ads.x5.ru"
   - "🇫🇮 Finland 0813 | SNI - github.com"
-  - "🇫🇮 Finland 0dda | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
   - "🇫🇮 Finland 0f84 | SNI - mail.skm62.ru"
   - "🇫🇮 Finland 11a3 | SNI - colorlib.com"
   - "🇫🇮 Finland 18d0 | SNI - cnctrucks.ru"
@@ -15444,7 +15439,6 @@ proxy-groups:
   - "🇫🇮 Finland 3607 | SNI - chat.deepseek.com"
   - "🇫🇮 Finland 370a | SNI - fishsea.api.dznn.net"
   - "🇫🇮 Finland 3793 | SNI - mail.skm62.ru"
-  - "🇫🇮 Finland 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
   - "🇫🇮 Finland 41fa | SNI - eh.vk.com"
   - "🇫🇮 Finland 438d | SNI - ru-fin.rumost.top"
   - "🇫🇮 Finland 4b08 | SNI - fi.jugploer.icu"
@@ -15529,17 +15523,14 @@ proxy-groups:
   - "🇬🇧 United Kingdom 6484 | SNI - 38baa6ad9ff6c29c.itx-server.digital"
   - "🇬🇧 United Kingdom 735a | SNI - bucket-ru-6.extravpn.io"
   - "🇬🇧 United Kingdom 7426 | SNI - colorlib.com"
-  - "🇬🇧 United Kingdom 7aae [geo]"
   - "🇬🇧 United Kingdom 7b19 | SNI - velikobcxc.30x.ru"
   - "🇬🇧 United Kingdom 920e | SNI - ads.x5.ru"
   - "🇬🇧 United Kingdom 99a5 | SNI - bucket-ru-5.extravpn.io"
   - "🇬🇧 United Kingdom a838 | SNI - top78220950.mwscdn.ru"
   - "🇬🇧 United Kingdom aec3 | SNI - sso.passport.yandex.ru"
   - "🇬🇧 United Kingdom bea0 | SNI - 194.58.41.88.fwqfw783rg2dad.website"
-  - "🇬🇧 United Kingdom c554 [geo]"
   - "🇬🇧 United Kingdom c8b7"
   - "🇬🇧 United Kingdom dc42 | SNI - io.ozone.ru"
-  - "🇬🇧 United Kingdom f787 [geo]"
   - "🇬🇧 United Kingdom f890 | SNI - bucket-ru-2.extravpn.io"
   - "🇬🇧 United Kingdom fc05 | SNI - bucket-ru-1.extravpn.io"
   - "🇭🇰 Hong Kong 1606 | SNI - cz.rumost.top"
@@ -15556,8 +15547,6 @@ proxy-groups:
   - "🇯🇵 Japan 3c39 | SNI - jp.jugploer.icu"
   - "🇯🇵 Japan ae07 | SNI - www.microsoft.com"
   - "🇯🇵 Japan aff5 | SNI - api.cvs-a.com"
-  - "🇯🇵 Japan fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io [geo]"
-  - "🇰🇷 South Korea 00fd | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net [geo]"
   - "🇰🇷 South Korea 4c25"
   - "🇰🇿 Kazakhstan 0347 | SNI - www.id.vk.ru"
   - "🇰🇿 Kazakhstan 0a91 | SNI - panel.cvs-a.com"
@@ -15750,7 +15739,6 @@ proxy-groups:
   - "🇳🇱 Netherlands 9b9c | SNI - wl-6-2.nodes.ac"
   - "🇳🇱 Netherlands 9ddc | SNI - bucket-ru-1.extravpn.io"
   - "🇳🇱 Netherlands 9e9d | SNI - cdp.x5.ru"
-  - "🇳🇱 Netherlands 9eca [geo]"
   - "🇳🇱 Netherlands 9f93 | SNI - wl-6-5.nodes.ac"
   - "🇳🇱 Netherlands a1d3 | SNI - ads.x5.ru"
   - "🇳🇱 Netherlands a1ee | SNI - stats.vk-portal.net"
@@ -15939,7 +15927,6 @@ proxy-groups:
   - "🇷🇺 Russia 76ce | SNI - ads.x5.ru"
   - "🇷🇺 Russia 790f | SNI - ads.x5.ru"
   - "🇷🇺 Russia 7bf4 | SNI - eh.vk.com"
-  - "🇷🇺 Russia 7d83 [geo]"
   - "🇷🇺 Russia 7d84 | SNI - api-maps.yandex.ru"
   - "🇷🇺 Russia 8158 | SNI - max.ru"
   - "🇷🇺 Russia 8252"
@@ -15951,7 +15938,6 @@ proxy-groups:
   - "🇷🇺 Russia 9c12 | SNI - russnod.chickenkiller.com"
   - "🇷🇺 Russia 9c59 | SNI - 5post-gate.x5.ru"
   - "🇷🇺 Russia 9e66 | SNI - m.vk.com"
-  - "🇷🇺 Russia a02f [geo]"
   - "🇷🇺 Russia a137"
   - "🇷🇺 Russia a686 | SNI - rruu.persik.host"
   - "🇷🇺 Russia a81c | SNI - api-maps.yandex.ru"
@@ -16007,12 +15993,8 @@ proxy-groups:
   - "🇸🇪 Sweden e2ae | SNI - swe.trustnetx.sbs"
   - "🇸🇪 Sweden e818 | SNI - ads.x5.ru"
   - "🇸🇪 Sweden ea5d | SNI - ads.x5.ru"
-  - "🇸🇪 Sweden f088 | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
-  - "🇸🇬 Singapore 3a6e [geo]"
-  - "🇸🇬 Singapore 5778 [geo]"
   - "🇸🇬 Singapore 8a63"
   - "🇸🇬 Singapore 9b0f"
-  - "🇸🇬 Singapore abf4 | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net [geo]"
   - "🇸🇬 Singapore bc9a | SNI - api-maps.yandex.ru"
   - "🇹🇷 Turkey 02f0 | SNI - max.ru"
   - "🇹🇷 Turkey 0c2d | SNI - tr-in.api.dznn.net"
@@ -16028,9 +16010,7 @@ proxy-groups:
   - "🇹🇼 Taiwan 4987 | SNI - www.python.org"
   - "🇹🇼 Taiwan 9860 | SNI - www.python.org"
   - "🇹🇼 Taiwan 9c5f | SNI - www.python.org"
-  - "🇺🇦 Ukraine 30cd [geo]"
   - "🇺🇸 United States 087c | SNI - ads.x5.ru"
-  - "🇺🇸 United States 1fbb [geo]"
   - "🇺🇸 United States 23b1 | SNI - ussun.api.dznn.net"
   - "🇺🇸 United States 2e60 | SNI - ads.x5.ru"
   - "🇺🇸 United States 339b | SNI - www.apple.com"
@@ -16041,7 +16021,6 @@ proxy-groups:
   - "🇺🇸 United States 4b9d | SNI - sun6-21.userapi.com"
   - "🇺🇸 United States 4c1b | SNI - us-in.api.dznn.net"
   - "🇺🇸 United States 5aec | SNI - talas.realm-of-ultramar.ru"
-  - "🇺🇸 United States 6ce4 [geo]"
   - "🇺🇸 United States 71e9 | SNI - listwhite.cc"
   - "🇺🇸 United States 7ae2"
   - "🇺🇸 United States 8698 | SNI - ads.x5.ru"
@@ -16050,29 +16029,26 @@ proxy-groups:
   - "🇺🇸 United States a70e"
   - "🇺🇸 United States ae70 | SNI - de6.x3vpn.ru"
   - "🇺🇸 United States b153 | SNI - panel.cvs-a.com"
-  - "🇺🇸 United States bfa5 [geo]"
-  - "🇺🇸 United States c367 [geo]"
   - "🇺🇸 United States ca6b | SNI - stats.vk-portal.net"
   - "🇺🇸 United States cdd4 | SNI - usa.xtrustnet.sbs"
   - "🇺🇸 United States cfe8 | SNI - n11.com"
   - "🇺🇸 United States d8e4 | SNI - sun6-21.userapi.com"
   - "🇺🇸 United States dfce | SNI - sun6-21.userapi.com"
-  - "🇺🇸 United States ee5b | SNI - t39sed.gateway-api.sh21.eu.org [geo]"
   - "🇺🇸 United States f413 | SNI - sso.passport.yandex.ru"
   - "🇺🇸 United States f826 | SNI - sso.passport.yandex.ru"
 - name: 🌍 Continents
   type: select
   proxies:
   - 🌎 Americas (3)
-  - 🌏 Asia (12)
-  - 🌍 Europe (23)
+  - 🌏 Asia (11)
+  - 🌍 Europe (22)
 - name: 🛠️ Protocols
   type: select
   proxies:
   - 🛠️ HYSTERIA2 (2)
   - 🛠️ TROJAN (115)
   - 🛠️ VLESS (955)
-- name: 🇳🇱 Netherlands (289)
+- name: 🇳🇱 Netherlands (288)
   type: select
   proxies:
   - "🇳🇱 Netherlands 00d6 | SNI - cdp.x5.ru"
@@ -16245,7 +16221,6 @@ proxy-groups:
   - "🇳🇱 Netherlands 9b9c | SNI - wl-6-2.nodes.ac"
   - "🇳🇱 Netherlands 9ddc | SNI - bucket-ru-1.extravpn.io"
   - "🇳🇱 Netherlands 9e9d | SNI - cdp.x5.ru"
-  - "🇳🇱 Netherlands 9eca [geo]"
   - "🇳🇱 Netherlands 9f93 | SNI - wl-6-5.nodes.ac"
   - "🇳🇱 Netherlands a1d3 | SNI - ads.x5.ru"
   - "🇳🇱 Netherlands a1ee | SNI - stats.vk-portal.net"
@@ -16364,9 +16339,10 @@ proxy-groups:
   - "🇳🇱 Netherlands fd93 | SNI - cdp.x5.ru"
   - "🇳🇱 Netherlands fda7 | SNI - wl-3-1.legendary-vpn.com"
   - "🇳🇱 Netherlands ff41 | SNI - wl-4-1.legendary.ac"
-- name: 📦 Unsorted (197)
+- name: 📦 Unsorted (221)
   type: select
   proxies:
+  - " Unsorted 00fd | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net"
   - " Unsorted 014d"
   - " Unsorted 02e0 | SNI - cdp.x5.ru"
   - " Unsorted 052a"
@@ -16377,6 +16353,7 @@ proxy-groups:
   - " Unsorted 08b3"
   - " Unsorted 0a52"
   - " Unsorted 0d10 | SNI - ads.x5.ru"
+  - " Unsorted 0dda | SNI - oia8or7k8rs5.zrf.xx.kg"
   - " Unsorted 0f04"
   - " Unsorted 0ff3"
   - " Unsorted 1055"
@@ -16392,7 +16369,9 @@ proxy-groups:
   - " Unsorted 1d74"
   - " Unsorted 1e25 | SNI - cdp.x5.ru"
   - " Unsorted 1e3d"
+  - " Unsorted 1ecc | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io"
   - " Unsorted 1f62 | SNI - ads.x5.ru"
+  - " Unsorted 1fbb"
   - " Unsorted 1fdd"
   - " Unsorted 2043"
   - " Unsorted 23d0"
@@ -16410,6 +16389,7 @@ proxy-groups:
   - " Unsorted 2ef2 | SNI - ads.x5.ru"
   - " Unsorted 3088"
   - " Unsorted 30a6 | SNI - ads.x5.ru"
+  - " Unsorted 30cd"
   - " Unsorted 30d4 | SNI - cdp.x5.ru"
   - " Unsorted 3358"
   - " Unsorted 336f"
@@ -16417,9 +16397,11 @@ proxy-groups:
   - " Unsorted 3813 | SNI - et.seaspirit.dpdns.org"
   - " Unsorted 3882"
   - " Unsorted 39bc"
+  - " Unsorted 3a6e"
   - " Unsorted 3a8c"
   - " Unsorted 3bdd"
   - " Unsorted 3d80"
+  - " Unsorted 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg"
   - " Unsorted 4332"
   - " Unsorted 435f"
   - " Unsorted 45a6"
@@ -16436,6 +16418,7 @@ proxy-groups:
   - " Unsorted 56ad"
   - " Unsorted 56d3"
   - " Unsorted 575f | SNI - www.bing.com"
+  - " Unsorted 5778"
   - " Unsorted 578a | SNI - ads.x5.ru"
   - " Unsorted 58c2 | SNI - finite-node.rtxconfigz.com"
   - " Unsorted 5923"
@@ -16454,6 +16437,7 @@ proxy-groups:
   - " Unsorted 694c"
   - " Unsorted 6a38"
   - " Unsorted 6cde"
+  - " Unsorted 6ce4"
   - " Unsorted 6dc2"
   - " Unsorted 6f6d"
   - " Unsorted 7095 | SNI - cdp.x5.ru"
@@ -16461,10 +16445,13 @@ proxy-groups:
   - " Unsorted 7387 | SNI - ads.x5.ru"
   - " Unsorted 7632 | SNI - max.ru"
   - " Unsorted 7824 | SNI - cdp.x5.ru"
+  - " Unsorted 7aae"
   - " Unsorted 7ada"
   - " Unsorted 7c29 | SNI - cdp.x5.ru"
   - " Unsorted 7cbe"
+  - " Unsorted 7cf5 | SNI - r8wez3psbuhgs6lgju.sate.qzz.io"
   - " Unsorted 7d50 | SNI - api-maps.yandex.ru"
+  - " Unsorted 7d83"
   - " Unsorted 7f74"
   - " Unsorted 7f8f | SNI - max.ru"
   - " Unsorted 8281"
@@ -16491,6 +16478,9 @@ proxy-groups:
   - " Unsorted 9cba"
   - " Unsorted 9cef"
   - " Unsorted 9eb7"
+  - " Unsorted 9eca"
+  - " Unsorted 9f1c | SNI - cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev"
+  - " Unsorted a02f"
   - " Unsorted a2b1"
   - " Unsorted a2cc"
   - " Unsorted a316"
@@ -16505,6 +16495,7 @@ proxy-groups:
   - " Unsorted a7ff | SNI - api-maps.yandex.ru"
   - " Unsorted a935"
   - " Unsorted abdf"
+  - " Unsorted abf4 | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net"
   - " Unsorted b0ba"
   - " Unsorted b17c"
   - " Unsorted b1ef"
@@ -16512,12 +16503,15 @@ proxy-groups:
   - " Unsorted b70a | SNI - cdp.x5.ru"
   - " Unsorted bb51"
   - " Unsorted bebf"
+  - " Unsorted bfa5"
   - " Unsorted bfd9 | SNI - cdp.x5.ru"
   - " Unsorted c05f"
   - " Unsorted c160"
   - " Unsorted c2c0 | SNI - ads.x5.ru"
   - " Unsorted c355"
+  - " Unsorted c367"
   - " Unsorted c3db"
+  - " Unsorted c554"
   - " Unsorted c727"
   - " Unsorted c86d"
   - " Unsorted c98d"
@@ -16530,6 +16524,7 @@ proxy-groups:
   - " Unsorted d3fb"
   - " Unsorted d54a"
   - " Unsorted d58b | SNI - cdp.x5.ru"
+  - " Unsorted d78e | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net"
   - " Unsorted d797"
   - " Unsorted d8d0"
   - " Unsorted d92a"
@@ -16554,17 +16549,21 @@ proxy-groups:
   - " Unsorted ec9d"
   - " Unsorted ed5d | SNI - max.ru"
   - " Unsorted ede1 | SNI - cdp.x5.ru"
+  - " Unsorted ee5b | SNI - t39sed.gateway-api.sh21.eu.org"
   - " Unsorted efc7"
+  - " Unsorted f088 | SNI - oia8or7k8rs5.zrf.xx.kg"
   - " Unsorted f1cb"
   - " Unsorted f485 | SNI - obhod.riotvpn.eu"
   - " Unsorted f4df"
   - " Unsorted f5d5"
+  - " Unsorted f787"
   - " Unsorted f9e8 | SNI - ads.x5.ru"
+  - " Unsorted fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io"
   - " Unsorted fe49"
   - " Unsorted fe79 | SNI - max.ru"
   - " Unsorted fea4"
   - " Unsorted fead | SNI - api-maps.yandex.ru"
-- name: 🇩🇪 Germany (195)
+- name: 🇩🇪 Germany (192)
   type: select
   proxies:
   - "🇩🇪 Germany 009f | SNI - max.ru"
@@ -16595,7 +16594,6 @@ proxy-groups:
   - "🇩🇪 Germany 1a91 | SNI - max.ru"
   - "🇩🇪 Germany 1d1b | SNI - try.astrafic.ru"
   - "🇩🇪 Germany 1e9d | SNI - api-maps.yandex.ru"
-  - "🇩🇪 Germany 1ecc | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io [geo]"
   - "🇩🇪 Germany 244b | SNI - smartcaptcha.yandexcloud.net"
   - "🇩🇪 Germany 24c4 | SNI - yandex.ru"
   - "🇩🇪 Germany 25fe | SNI - ads.x5.ru"
@@ -16666,7 +16664,6 @@ proxy-groups:
   - "🇩🇪 Germany 7baa | SNI - bucket-ru-6.extravpn.io"
   - "🇩🇪 Germany 7c30 | SNI - yandex.ru"
   - "🇩🇪 Germany 7c45 | SNI - www.icloud.com"
-  - "🇩🇪 Germany 7cf5 | SNI - r8wez3psbuhgs6lgju.sate.qzz.io [geo]"
   - "🇩🇪 Germany 7dcb | SNI - ads.x5.ru"
   - "🇩🇪 Germany 7dea | SNI - ads.x5.ru"
   - "🇩🇪 Germany 7e7d | SNI - smartcaptcha.yandexcloud.net"
@@ -16735,7 +16732,6 @@ proxy-groups:
   - "🇩🇪 Germany d5f4 | SNI - yandex.ru"
   - "🇩🇪 Germany d690 | SNI - yandex.ru"
   - "🇩🇪 Germany d69f | SNI - api-maps.yandex.ru"
-  - "🇩🇪 Germany d78e | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net [geo]"
   - "🇩🇪 Germany d88e | SNI - sni.my111000.tech"
   - "🇩🇪 Germany d912 | SNI - sun6-21.userapi.com"
   - "🇩🇪 Germany d952 | SNI - eh.vk.com"
@@ -16762,7 +16758,7 @@ proxy-groups:
   - "🇩🇪 Germany fb30 | SNI - max.ru"
   - "🇩🇪 Germany fee9 | SNI - node-ru1.vpnconnection.tech"
   - "🇩🇪 Germany ff69 | SNI - de1-nv.jugploer.icu"
-- name: 🇷🇺 Russia (75)
+- name: 🇷🇺 Russia (73)
   type: select
   proxies:
   - "🇷🇺 Russia 0042 | SNI - hostoff.net"
@@ -16800,7 +16796,6 @@ proxy-groups:
   - "🇷🇺 Russia 76ce | SNI - ads.x5.ru"
   - "🇷🇺 Russia 790f | SNI - ads.x5.ru"
   - "🇷🇺 Russia 7bf4 | SNI - eh.vk.com"
-  - "🇷🇺 Russia 7d83 [geo]"
   - "🇷🇺 Russia 7d84 | SNI - api-maps.yandex.ru"
   - "🇷🇺 Russia 8158 | SNI - max.ru"
   - "🇷🇺 Russia 8252"
@@ -16812,7 +16807,6 @@ proxy-groups:
   - "🇷🇺 Russia 9c12 | SNI - russnod.chickenkiller.com"
   - "🇷🇺 Russia 9c59 | SNI - 5post-gate.x5.ru"
   - "🇷🇺 Russia 9e66 | SNI - m.vk.com"
-  - "🇷🇺 Russia a02f [geo]"
   - "🇷🇺 Russia a137"
   - "🇷🇺 Russia a686 | SNI - rruu.persik.host"
   - "🇷🇺 Russia a81c | SNI - api-maps.yandex.ru"
@@ -16840,14 +16834,13 @@ proxy-groups:
   - "🇷🇺 Russia fb75"
   - "🇷🇺 Russia fb9c | SNI - super.bestcats-video.online"
   - "🇷🇺 Russia fd4c"
-- name: 🇫🇮 Finland (56)
+- name: 🇫🇮 Finland (54)
   type: select
   proxies:
   - "🇫🇮 Finland 0113 | SNI - fin.xtrustnet.sbs"
   - "🇫🇮 Finland 0162 | SNI - ads.x5.ru"
   - "🇫🇮 Finland 0184 | SNI - ads.x5.ru"
   - "🇫🇮 Finland 0813 | SNI - github.com"
-  - "🇫🇮 Finland 0dda | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
   - "🇫🇮 Finland 0f84 | SNI - mail.skm62.ru"
   - "🇫🇮 Finland 11a3 | SNI - colorlib.com"
   - "🇫🇮 Finland 18d0 | SNI - cnctrucks.ru"
@@ -16861,7 +16854,6 @@ proxy-groups:
   - "🇫🇮 Finland 3607 | SNI - chat.deepseek.com"
   - "🇫🇮 Finland 370a | SNI - fishsea.api.dznn.net"
   - "🇫🇮 Finland 3793 | SNI - mail.skm62.ru"
-  - "🇫🇮 Finland 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
   - "🇫🇮 Finland 41fa | SNI - eh.vk.com"
   - "🇫🇮 Finland 438d | SNI - ru-fin.rumost.top"
   - "🇫🇮 Finland 4b08 | SNI - fi.jugploer.icu"
@@ -16974,41 +16966,7 @@ proxy-groups:
   - "🇵🇱 Poland e913 | SNI - pl2.cvs-a.com"
   - "🇵🇱 Poland eb13 | SNI - m.ok.ru"
   - "🇵🇱 Poland ef17 | SNI - pl-in.api.dznn.net"
-- name: 🇺🇸 United States (31)
-  type: select
-  proxies:
-  - "🇺🇸 United States 087c | SNI - ads.x5.ru"
-  - "🇺🇸 United States 1fbb [geo]"
-  - "🇺🇸 United States 23b1 | SNI - ussun.api.dznn.net"
-  - "🇺🇸 United States 2e60 | SNI - ads.x5.ru"
-  - "🇺🇸 United States 339b | SNI - www.apple.com"
-  - "🇺🇸 United States 345c | SNI - us.nodes.rocketnetwork.ru"
-  - "🇺🇸 United States 3901 | SNI - us1.cvs-a.com"
-  - "🇺🇸 United States 4203 | SNI - 194.58.41.88.fwqfw783rg2dad.website"
-  - "🇺🇸 United States 4a07 | SNI - yt-tv.xtrustnet.sbs"
-  - "🇺🇸 United States 4b9d | SNI - sun6-21.userapi.com"
-  - "🇺🇸 United States 4c1b | SNI - us-in.api.dznn.net"
-  - "🇺🇸 United States 5aec | SNI - talas.realm-of-ultramar.ru"
-  - "🇺🇸 United States 6ce4 [geo]"
-  - "🇺🇸 United States 71e9 | SNI - listwhite.cc"
-  - "🇺🇸 United States 7ae2"
-  - "🇺🇸 United States 8698 | SNI - ads.x5.ru"
-  - "🇺🇸 United States 8c75 | SNI - usa1.jugploer.icu"
-  - "🇺🇸 United States 9374 | SNI - top4182166920.mwscdn.ru"
-  - "🇺🇸 United States a70e"
-  - "🇺🇸 United States ae70 | SNI - de6.x3vpn.ru"
-  - "🇺🇸 United States b153 | SNI - panel.cvs-a.com"
-  - "🇺🇸 United States bfa5 [geo]"
-  - "🇺🇸 United States c367 [geo]"
-  - "🇺🇸 United States ca6b | SNI - stats.vk-portal.net"
-  - "🇺🇸 United States cdd4 | SNI - usa.xtrustnet.sbs"
-  - "🇺🇸 United States cfe8 | SNI - n11.com"
-  - "🇺🇸 United States d8e4 | SNI - sun6-21.userapi.com"
-  - "🇺🇸 United States dfce | SNI - sun6-21.userapi.com"
-  - "🇺🇸 United States ee5b | SNI - t39sed.gateway-api.sh21.eu.org [geo]"
-  - "🇺🇸 United States f413 | SNI - sso.passport.yandex.ru"
-  - "🇺🇸 United States f826 | SNI - sso.passport.yandex.ru"
-- name: 🇸🇪 Sweden (29)
+- name: 🇸🇪 Sweden (28)
   type: select
   proxies:
   - "🇸🇪 Sweden 0258 | SNI - ads.x5.ru"
@@ -17039,8 +16997,36 @@ proxy-groups:
   - "🇸🇪 Sweden e2ae | SNI - swe.trustnetx.sbs"
   - "🇸🇪 Sweden e818 | SNI - ads.x5.ru"
   - "🇸🇪 Sweden ea5d | SNI - ads.x5.ru"
-  - "🇸🇪 Sweden f088 | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
-- name: 🇬🇧 United Kingdom (24)
+- name: 🇺🇸 United States (26)
+  type: select
+  proxies:
+  - "🇺🇸 United States 087c | SNI - ads.x5.ru"
+  - "🇺🇸 United States 23b1 | SNI - ussun.api.dznn.net"
+  - "🇺🇸 United States 2e60 | SNI - ads.x5.ru"
+  - "🇺🇸 United States 339b | SNI - www.apple.com"
+  - "🇺🇸 United States 345c | SNI - us.nodes.rocketnetwork.ru"
+  - "🇺🇸 United States 3901 | SNI - us1.cvs-a.com"
+  - "🇺🇸 United States 4203 | SNI - 194.58.41.88.fwqfw783rg2dad.website"
+  - "🇺🇸 United States 4a07 | SNI - yt-tv.xtrustnet.sbs"
+  - "🇺🇸 United States 4b9d | SNI - sun6-21.userapi.com"
+  - "🇺🇸 United States 4c1b | SNI - us-in.api.dznn.net"
+  - "🇺🇸 United States 5aec | SNI - talas.realm-of-ultramar.ru"
+  - "🇺🇸 United States 71e9 | SNI - listwhite.cc"
+  - "🇺🇸 United States 7ae2"
+  - "🇺🇸 United States 8698 | SNI - ads.x5.ru"
+  - "🇺🇸 United States 8c75 | SNI - usa1.jugploer.icu"
+  - "🇺🇸 United States 9374 | SNI - top4182166920.mwscdn.ru"
+  - "🇺🇸 United States a70e"
+  - "🇺🇸 United States ae70 | SNI - de6.x3vpn.ru"
+  - "🇺🇸 United States b153 | SNI - panel.cvs-a.com"
+  - "🇺🇸 United States ca6b | SNI - stats.vk-portal.net"
+  - "🇺🇸 United States cdd4 | SNI - usa.xtrustnet.sbs"
+  - "🇺🇸 United States cfe8 | SNI - n11.com"
+  - "🇺🇸 United States d8e4 | SNI - sun6-21.userapi.com"
+  - "🇺🇸 United States dfce | SNI - sun6-21.userapi.com"
+  - "🇺🇸 United States f413 | SNI - sso.passport.yandex.ru"
+  - "🇺🇸 United States f826 | SNI - sso.passport.yandex.ru"
+- name: 🇬🇧 United Kingdom (21)
   type: select
   proxies:
   - "🇬🇧 United Kingdom 001d"
@@ -17054,17 +17040,14 @@ proxy-groups:
   - "🇬🇧 United Kingdom 6484 | SNI - 38baa6ad9ff6c29c.itx-server.digital"
   - "🇬🇧 United Kingdom 735a | SNI - bucket-ru-6.extravpn.io"
   - "🇬🇧 United Kingdom 7426 | SNI - colorlib.com"
-  - "🇬🇧 United Kingdom 7aae [geo]"
   - "🇬🇧 United Kingdom 7b19 | SNI - velikobcxc.30x.ru"
   - "🇬🇧 United Kingdom 920e | SNI - ads.x5.ru"
   - "🇬🇧 United Kingdom 99a5 | SNI - bucket-ru-5.extravpn.io"
   - "🇬🇧 United Kingdom a838 | SNI - top78220950.mwscdn.ru"
   - "🇬🇧 United Kingdom aec3 | SNI - sso.passport.yandex.ru"
   - "🇬🇧 United Kingdom bea0 | SNI - 194.58.41.88.fwqfw783rg2dad.website"
-  - "🇬🇧 United Kingdom c554 [geo]"
   - "🇬🇧 United Kingdom c8b7"
   - "🇬🇧 United Kingdom dc42 | SNI - io.ozone.ru"
-  - "🇬🇧 United Kingdom f787 [geo]"
   - "🇬🇧 United Kingdom f890 | SNI - bucket-ru-2.extravpn.io"
   - "🇬🇧 United Kingdom fc05 | SNI - bucket-ru-1.extravpn.io"
 - name: 🇨🇭 Switzerland (12)
@@ -17141,15 +17124,6 @@ proxy-groups:
   - "🇮🇩 Indonesia 66bb | SNI - max.ru"
   - "🇮🇩 Indonesia 8deb | SNI - ads.x5.ru"
   - "🇮🇩 Indonesia c703 | SNI - ads.x5.ru"
-- name: 🇸🇬 Singapore (6)
-  type: select
-  proxies:
-  - "🇸🇬 Singapore 3a6e [geo]"
-  - "🇸🇬 Singapore 5778 [geo]"
-  - "🇸🇬 Singapore 8a63"
-  - "🇸🇬 Singapore 9b0f"
-  - "🇸🇬 Singapore abf4 | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net [geo]"
-  - "🇸🇬 Singapore bc9a | SNI - api-maps.yandex.ru"
 - name: 🇨🇿 Czechia (5)
   type: select
   proxies:
@@ -17166,13 +17140,6 @@ proxy-groups:
   - "🇱🇹 Lithuania 6e48 | SNI - lit.rumost.top"
   - "🇱🇹 Lithuania 97b4"
   - "🇱🇹 Lithuania 9b7b | SNI - ads.x5.ru"
-- name: 🇯🇵 Japan (4)
-  type: select
-  proxies:
-  - "🇯🇵 Japan 3c39 | SNI - jp.jugploer.icu"
-  - "🇯🇵 Japan ae07 | SNI - www.microsoft.com"
-  - "🇯🇵 Japan aff5 | SNI - api.cvs-a.com"
-  - "🇯🇵 Japan fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io [geo]"
 - name: 🇱🇻 Latvia (4)
   type: select
   proxies:
@@ -17192,6 +17159,18 @@ proxy-groups:
   - "🇪🇸 Spain 5f6c | SNI - es1.cvs-a.com"
   - "🇪🇸 Spain 7768 | SNI - panel.cvs-a.com"
   - "🇪🇸 Spain 958f | SNI - id.vk.ru"
+- name: 🇯🇵 Japan (3)
+  type: select
+  proxies:
+  - "🇯🇵 Japan 3c39 | SNI - jp.jugploer.icu"
+  - "🇯🇵 Japan ae07 | SNI - www.microsoft.com"
+  - "🇯🇵 Japan aff5 | SNI - api.cvs-a.com"
+- name: 🇸🇬 Singapore (3)
+  type: select
+  proxies:
+  - "🇸🇬 Singapore 8a63"
+  - "🇸🇬 Singapore 9b0f"
+  - "🇸🇬 Singapore bc9a | SNI - api-maps.yandex.ru"
 - name: 🇹🇼 Taiwan (3)
   type: select
   proxies:
@@ -17203,11 +17182,6 @@ proxy-groups:
   proxies:
   - "🇭🇰 Hong Kong 1606 | SNI - cz.rumost.top"
   - "🇭🇰 Hong Kong 5540 | SNI - google.com"
-- name: 🇰🇷 South Korea (2)
-  type: select
-  proxies:
-  - "🇰🇷 South Korea 00fd | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net [geo]"
-  - "🇰🇷 South Korea 4c25"
 - name: 🇲🇩 Moldova (2)
   type: select
   proxies:
@@ -17237,10 +17211,6 @@ proxy-groups:
   type: select
   proxies:
   - "🇨🇳 China fa0a | SNI - ch.jugploer.icu"
-- name: 🇨🇾 Cyprus (1)
-  type: select
-  proxies:
-  - "🇨🇾 Cyprus 9f1c | SNI - cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev [geo]"
 - name: 🇮🇳 India (1)
   type: select
   proxies:
@@ -17249,6 +17219,10 @@ proxy-groups:
   type: select
   proxies:
   - "🇮🇹 Italy 3ac7 | SNI - www.id.vk.ru"
+- name: 🇰🇷 South Korea (1)
+  type: select
+  proxies:
+  - "🇰🇷 South Korea 4c25"
 - name: 🇳🇴 Norway (1)
   type: select
   proxies:
@@ -17257,32 +17231,27 @@ proxy-groups:
   type: select
   proxies:
   - "🇷🇸 Serbia 7e51 | SNI - www.io.ozone.ru"
-- name: 🇺🇦 Ukraine (1)
-  type: select
-  proxies:
-  - "🇺🇦 Ukraine 30cd [geo]"
 - name: 🌎 Americas (3)
   type: select
   proxies:
   - 🇧🇷 Brazil (1)
   - 🇨🇦 Canada (1)
-  - 🇺🇸 United States (31)
-- name: 🌏 Asia (12)
+  - 🇺🇸 United States (26)
+- name: 🌏 Asia (11)
   type: select
   proxies:
   - 🇦🇲 Armenia (1)
   - 🇨🇳 China (1)
-  - 🇨🇾 Cyprus (1)
   - 🇭🇰 Hong Kong (2)
   - 🇮🇩 Indonesia (7)
   - 🇮🇳 India (1)
-  - 🇯🇵 Japan (4)
-  - 🇰🇷 South Korea (2)
+  - 🇯🇵 Japan (3)
+  - 🇰🇷 South Korea (1)
   - 🇰🇿 Kazakhstan (10)
-  - 🇸🇬 Singapore (6)
+  - 🇸🇬 Singapore (3)
   - 🇹🇷 Turkey (11)
   - 🇹🇼 Taiwan (3)
-- name: 🌍 Europe (23)
+- name: 🌍 Europe (22)
   type: select
   proxies:
   - 🇦🇱 Albania (1)
@@ -17291,23 +17260,22 @@ proxy-groups:
   - 🇧🇬 Bulgaria (3)
   - 🇨🇭 Switzerland (12)
   - 🇨🇿 Czechia (5)
-  - 🇩🇪 Germany (195)
+  - 🇩🇪 Germany (192)
   - 🇪🇪 Estonia (7)
   - 🇪🇸 Spain (3)
-  - 🇫🇮 Finland (56)
+  - 🇫🇮 Finland (54)
   - 🇫🇷 France (36)
-  - 🇬🇧 United Kingdom (24)
+  - 🇬🇧 United Kingdom (21)
   - 🇮🇹 Italy (1)
   - 🇱🇹 Lithuania (5)
   - 🇱🇻 Latvia (4)
   - 🇲🇩 Moldova (2)
-  - 🇳🇱 Netherlands (289)
+  - 🇳🇱 Netherlands (288)
   - 🇳🇴 Norway (1)
   - 🇵🇱 Poland (33)
   - 🇷🇸 Serbia (1)
-  - 🇷🇺 Russia (75)
-  - 🇸🇪 Sweden (29)
-  - 🇺🇦 Ukraine (1)
+  - 🇷🇺 Russia (73)
+  - 🇸🇪 Sweden (28)
 - name: 🛠️ HYSTERIA2 (2)
   type: select
   proxies:
@@ -17434,10 +17402,12 @@ proxy-groups:
 - name: 🛠️ VLESS (955)
   type: select
   proxies:
+  - " Unsorted 00fd | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net"
   - " Unsorted 02e0 | SNI - cdp.x5.ru"
   - " Unsorted 06a3 | SNI - cdp.x5.ru"
   - " Unsorted 06c1"
   - " Unsorted 0d10 | SNI - ads.x5.ru"
+  - " Unsorted 0dda | SNI - oia8or7k8rs5.zrf.xx.kg"
   - " Unsorted 109b | SNI - travel.yandex.ru"
   - " Unsorted 141a | SNI - cdp.x5.ru"
   - " Unsorted 19eb | SNI - cdp.x5.ru"
@@ -17446,7 +17416,9 @@ proxy-groups:
   - " Unsorted 1caf | SNI - cdp.x5.ru"
   - " Unsorted 1cdb | SNI - dl.k8s.io"
   - " Unsorted 1e25 | SNI - cdp.x5.ru"
+  - " Unsorted 1ecc | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io"
   - " Unsorted 1f62 | SNI - ads.x5.ru"
+  - " Unsorted 1fbb"
   - " Unsorted 24f5 | SNI - www.tesla.com"
   - " Unsorted 29f5 | SNI - cdp.x5.ru"
   - " Unsorted 2a45 | SNI - max.ru"
@@ -17458,9 +17430,12 @@ proxy-groups:
   - " Unsorted 2ef2 | SNI - ads.x5.ru"
   - " Unsorted 3088"
   - " Unsorted 30a6 | SNI - ads.x5.ru"
+  - " Unsorted 30cd"
   - " Unsorted 30d4 | SNI - cdp.x5.ru"
   - " Unsorted 3762 | SNI - finite-node.rtxconfigz.com"
   - " Unsorted 3813 | SNI - et.seaspirit.dpdns.org"
+  - " Unsorted 3a6e"
+  - " Unsorted 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg"
   - " Unsorted 45ff | SNI - sn1.skylee5.cloudns.ch"
   - " Unsorted 46af | SNI - cdp.x5.ru"
   - " Unsorted 483f | SNI - finite-node.rtxconfigz.com"
@@ -17468,6 +17443,7 @@ proxy-groups:
   - " Unsorted 4986 | SNI - cdp.x5.ru"
   - " Unsorted 52cd | SNI - cdp.x5.ru"
   - " Unsorted 575f | SNI - www.bing.com"
+  - " Unsorted 5778"
   - " Unsorted 578a | SNI - ads.x5.ru"
   - " Unsorted 58c2 | SNI - finite-node.rtxconfigz.com"
   - " Unsorted 5b38 | SNI - cdp.x5.ru"
@@ -17476,13 +17452,17 @@ proxy-groups:
   - " Unsorted 6187 | SNI - api-maps.yandex.ru"
   - " Unsorted 6238 | SNI - cdp.x5.ru"
   - " Unsorted 67a6 | SNI - cdp.x5.ru"
+  - " Unsorted 6ce4"
   - " Unsorted 7095 | SNI - cdp.x5.ru"
   - " Unsorted 7199 | SNI - github.com"
   - " Unsorted 7387 | SNI - ads.x5.ru"
   - " Unsorted 7632 | SNI - max.ru"
   - " Unsorted 7824 | SNI - cdp.x5.ru"
+  - " Unsorted 7aae"
   - " Unsorted 7c29 | SNI - cdp.x5.ru"
+  - " Unsorted 7cf5 | SNI - r8wez3psbuhgs6lgju.sate.qzz.io"
   - " Unsorted 7d50 | SNI - api-maps.yandex.ru"
+  - " Unsorted 7d83"
   - " Unsorted 7f8f | SNI - max.ru"
   - " Unsorted 86ae | SNI - ads.x5.ru"
   - " Unsorted 883c | SNI - et.seaspirit.dpdns.org"
@@ -17495,16 +17475,24 @@ proxy-groups:
   - " Unsorted 917c | SNI - io.ozone.ru"
   - " Unsorted 938d | SNI - cdp.x5.ru"
   - " Unsorted 989b | SNI - cdp.x5.ru"
+  - " Unsorted 9eca"
+  - " Unsorted 9f1c | SNI - cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev"
+  - " Unsorted a02f"
   - " Unsorted a572 | SNI - api-maps.yandex.ru"
   - " Unsorted a619 | SNI - ads.x5.ru"
   - " Unsorted a660 | SNI - cdp.x5.ru"
   - " Unsorted a7ff | SNI - api-maps.yandex.ru"
+  - " Unsorted abf4 | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net"
   - " Unsorted b70a | SNI - cdp.x5.ru"
+  - " Unsorted bfa5"
   - " Unsorted bfd9 | SNI - cdp.x5.ru"
   - " Unsorted c2c0 | SNI - ads.x5.ru"
+  - " Unsorted c367"
+  - " Unsorted c554"
   - " Unsorted ccea | SNI - cdp.x5.ru"
   - " Unsorted d20f | SNI - ads.x5.ru"
   - " Unsorted d58b | SNI - cdp.x5.ru"
+  - " Unsorted d78e | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net"
   - " Unsorted e13b | SNI - cdp.x5.ru"
   - " Unsorted e28d | SNI - cdp.x5.ru"
   - " Unsorted e2b2 | SNI - et.seaspirit.dpdns.org"
@@ -17512,8 +17500,12 @@ proxy-groups:
   - " Unsorted e41b | SNI - max.ru"
   - " Unsorted ed5d | SNI - max.ru"
   - " Unsorted ede1 | SNI - cdp.x5.ru"
+  - " Unsorted ee5b | SNI - t39sed.gateway-api.sh21.eu.org"
+  - " Unsorted f088 | SNI - oia8or7k8rs5.zrf.xx.kg"
   - " Unsorted f485 | SNI - obhod.riotvpn.eu"
+  - " Unsorted f787"
   - " Unsorted f9e8 | SNI - ads.x5.ru"
+  - " Unsorted fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io"
   - " Unsorted fe79 | SNI - max.ru"
   - " Unsorted fead | SNI - api-maps.yandex.ru"
   - "🇦🇱 Albania 767b | SNI - alb.rumost.top"
@@ -17546,7 +17538,6 @@ proxy-groups:
   - "🇨🇭 Switzerland fdd5 | SNI - itx-server.digital"
   - "🇨🇭 Switzerland fdda | SNI - bucket-ru-1.extravpn.io"
   - "🇨🇳 China fa0a | SNI - ch.jugploer.icu"
-  - "🇨🇾 Cyprus 9f1c | SNI - cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev [geo]"
   - "🇨🇿 Czechia 3e79 | SNI - sun6-21.userapi.com"
   - "🇨🇿 Czechia 968b | SNI - www.io.ozone.ru"
   - "🇨🇿 Czechia b9fd | SNI - sun6-21.userapi.com"
@@ -17580,7 +17571,6 @@ proxy-groups:
   - "🇩🇪 Germany 1a91 | SNI - max.ru"
   - "🇩🇪 Germany 1d1b | SNI - try.astrafic.ru"
   - "🇩🇪 Germany 1e9d | SNI - api-maps.yandex.ru"
-  - "🇩🇪 Germany 1ecc | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io [geo]"
   - "🇩🇪 Germany 244b | SNI - smartcaptcha.yandexcloud.net"
   - "🇩🇪 Germany 24c4 | SNI - yandex.ru"
   - "🇩🇪 Germany 25fe | SNI - ads.x5.ru"
@@ -17651,7 +17641,6 @@ proxy-groups:
   - "🇩🇪 Germany 7baa | SNI - bucket-ru-6.extravpn.io"
   - "🇩🇪 Germany 7c30 | SNI - yandex.ru"
   - "🇩🇪 Germany 7c45 | SNI - www.icloud.com"
-  - "🇩🇪 Germany 7cf5 | SNI - r8wez3psbuhgs6lgju.sate.qzz.io [geo]"
   - "🇩🇪 Germany 7dcb | SNI - ads.x5.ru"
   - "🇩🇪 Germany 7dea | SNI - ads.x5.ru"
   - "🇩🇪 Germany 7e7d | SNI - smartcaptcha.yandexcloud.net"
@@ -17720,7 +17709,6 @@ proxy-groups:
   - "🇩🇪 Germany d5f4 | SNI - yandex.ru"
   - "🇩🇪 Germany d690 | SNI - yandex.ru"
   - "🇩🇪 Germany d69f | SNI - api-maps.yandex.ru"
-  - "🇩🇪 Germany d78e | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net [geo]"
   - "🇩🇪 Germany d88e | SNI - sni.my111000.tech"
   - "🇩🇪 Germany d912 | SNI - sun6-21.userapi.com"
   - "🇩🇪 Germany d952 | SNI - eh.vk.com"
@@ -17761,7 +17749,6 @@ proxy-groups:
   - "🇫🇮 Finland 0162 | SNI - ads.x5.ru"
   - "🇫🇮 Finland 0184 | SNI - ads.x5.ru"
   - "🇫🇮 Finland 0813 | SNI - github.com"
-  - "🇫🇮 Finland 0dda | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
   - "🇫🇮 Finland 0f84 | SNI - mail.skm62.ru"
   - "🇫🇮 Finland 11a3 | SNI - colorlib.com"
   - "🇫🇮 Finland 18d0 | SNI - cnctrucks.ru"
@@ -17775,7 +17762,6 @@ proxy-groups:
   - "🇫🇮 Finland 3607 | SNI - chat.deepseek.com"
   - "🇫🇮 Finland 370a | SNI - fishsea.api.dznn.net"
   - "🇫🇮 Finland 3793 | SNI - mail.skm62.ru"
-  - "🇫🇮 Finland 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
   - "🇫🇮 Finland 41fa | SNI - eh.vk.com"
   - "🇫🇮 Finland 438d | SNI - ru-fin.rumost.top"
   - "🇫🇮 Finland 4b08 | SNI - fi.jugploer.icu"
@@ -17860,17 +17846,14 @@ proxy-groups:
   - "🇬🇧 United Kingdom 6484 | SNI - 38baa6ad9ff6c29c.itx-server.digital"
   - "🇬🇧 United Kingdom 735a | SNI - bucket-ru-6.extravpn.io"
   - "🇬🇧 United Kingdom 7426 | SNI - colorlib.com"
-  - "🇬🇧 United Kingdom 7aae [geo]"
   - "🇬🇧 United Kingdom 7b19 | SNI - velikobcxc.30x.ru"
   - "🇬🇧 United Kingdom 920e | SNI - ads.x5.ru"
   - "🇬🇧 United Kingdom 99a5 | SNI - bucket-ru-5.extravpn.io"
   - "🇬🇧 United Kingdom a838 | SNI - top78220950.mwscdn.ru"
   - "🇬🇧 United Kingdom aec3 | SNI - sso.passport.yandex.ru"
   - "🇬🇧 United Kingdom bea0 | SNI - 194.58.41.88.fwqfw783rg2dad.website"
-  - "🇬🇧 United Kingdom c554 [geo]"
   - "🇬🇧 United Kingdom c8b7"
   - "🇬🇧 United Kingdom dc42 | SNI - io.ozone.ru"
-  - "🇬🇧 United Kingdom f787 [geo]"
   - "🇬🇧 United Kingdom f890 | SNI - bucket-ru-2.extravpn.io"
   - "🇬🇧 United Kingdom fc05 | SNI - bucket-ru-1.extravpn.io"
   - "🇭🇰 Hong Kong 1606 | SNI - cz.rumost.top"
@@ -17887,8 +17870,6 @@ proxy-groups:
   - "🇯🇵 Japan 3c39 | SNI - jp.jugploer.icu"
   - "🇯🇵 Japan ae07 | SNI - www.microsoft.com"
   - "🇯🇵 Japan aff5 | SNI - api.cvs-a.com"
-  - "🇯🇵 Japan fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io [geo]"
-  - "🇰🇷 South Korea 00fd | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net [geo]"
   - "🇰🇿 Kazakhstan 0347 | SNI - www.id.vk.ru"
   - "🇰🇿 Kazakhstan 0a91 | SNI - panel.cvs-a.com"
   - "🇰🇿 Kazakhstan 2a1b | SNI - kz2-in.api.dznn.net"
@@ -18080,7 +18061,6 @@ proxy-groups:
   - "🇳🇱 Netherlands 9b9c | SNI - wl-6-2.nodes.ac"
   - "🇳🇱 Netherlands 9ddc | SNI - bucket-ru-1.extravpn.io"
   - "🇳🇱 Netherlands 9e9d | SNI - cdp.x5.ru"
-  - "🇳🇱 Netherlands 9eca [geo]"
   - "🇳🇱 Netherlands 9f93 | SNI - wl-6-5.nodes.ac"
   - "🇳🇱 Netherlands a1d3 | SNI - ads.x5.ru"
   - "🇳🇱 Netherlands a1ee | SNI - stats.vk-portal.net"
@@ -18269,7 +18249,6 @@ proxy-groups:
   - "🇷🇺 Russia 76ce | SNI - ads.x5.ru"
   - "🇷🇺 Russia 790f | SNI - ads.x5.ru"
   - "🇷🇺 Russia 7bf4 | SNI - eh.vk.com"
-  - "🇷🇺 Russia 7d83 [geo]"
   - "🇷🇺 Russia 7d84 | SNI - api-maps.yandex.ru"
   - "🇷🇺 Russia 8158 | SNI - max.ru"
   - "🇷🇺 Russia 8252"
@@ -18281,7 +18260,6 @@ proxy-groups:
   - "🇷🇺 Russia 9c12 | SNI - russnod.chickenkiller.com"
   - "🇷🇺 Russia 9c59 | SNI - 5post-gate.x5.ru"
   - "🇷🇺 Russia 9e66 | SNI - m.vk.com"
-  - "🇷🇺 Russia a02f [geo]"
   - "🇷🇺 Russia a137"
   - "🇷🇺 Russia a686 | SNI - rruu.persik.host"
   - "🇷🇺 Russia a81c | SNI - api-maps.yandex.ru"
@@ -18336,12 +18314,8 @@ proxy-groups:
   - "🇸🇪 Sweden e2ae | SNI - swe.trustnetx.sbs"
   - "🇸🇪 Sweden e818 | SNI - ads.x5.ru"
   - "🇸🇪 Sweden ea5d | SNI - ads.x5.ru"
-  - "🇸🇪 Sweden f088 | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
-  - "🇸🇬 Singapore 3a6e [geo]"
-  - "🇸🇬 Singapore 5778 [geo]"
   - "🇸🇬 Singapore 8a63"
   - "🇸🇬 Singapore 9b0f"
-  - "🇸🇬 Singapore abf4 | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net [geo]"
   - "🇸🇬 Singapore bc9a | SNI - api-maps.yandex.ru"
   - "🇹🇷 Turkey 02f0 | SNI - max.ru"
   - "🇹🇷 Turkey 0c2d | SNI - tr-in.api.dznn.net"
@@ -18357,9 +18331,7 @@ proxy-groups:
   - "🇹🇼 Taiwan 4987 | SNI - www.python.org"
   - "🇹🇼 Taiwan 9860 | SNI - www.python.org"
   - "🇹🇼 Taiwan 9c5f | SNI - www.python.org"
-  - "🇺🇦 Ukraine 30cd [geo]"
   - "🇺🇸 United States 087c | SNI - ads.x5.ru"
-  - "🇺🇸 United States 1fbb [geo]"
   - "🇺🇸 United States 23b1 | SNI - ussun.api.dznn.net"
   - "🇺🇸 United States 2e60 | SNI - ads.x5.ru"
   - "🇺🇸 United States 339b | SNI - www.apple.com"
@@ -18370,7 +18342,6 @@ proxy-groups:
   - "🇺🇸 United States 4b9d | SNI - sun6-21.userapi.com"
   - "🇺🇸 United States 4c1b | SNI - us-in.api.dznn.net"
   - "🇺🇸 United States 5aec | SNI - talas.realm-of-ultramar.ru"
-  - "🇺🇸 United States 6ce4 [geo]"
   - "🇺🇸 United States 71e9 | SNI - listwhite.cc"
   - "🇺🇸 United States 7ae2"
   - "🇺🇸 United States 8698 | SNI - ads.x5.ru"
@@ -18379,14 +18350,11 @@ proxy-groups:
   - "🇺🇸 United States a70e"
   - "🇺🇸 United States ae70 | SNI - de6.x3vpn.ru"
   - "🇺🇸 United States b153 | SNI - panel.cvs-a.com"
-  - "🇺🇸 United States bfa5 [geo]"
-  - "🇺🇸 United States c367 [geo]"
   - "🇺🇸 United States ca6b | SNI - stats.vk-portal.net"
   - "🇺🇸 United States cdd4 | SNI - usa.xtrustnet.sbs"
   - "🇺🇸 United States cfe8 | SNI - n11.com"
   - "🇺🇸 United States d8e4 | SNI - sun6-21.userapi.com"
   - "🇺🇸 United States dfce | SNI - sun6-21.userapi.com"
-  - "🇺🇸 United States ee5b | SNI - t39sed.gateway-api.sh21.eu.org [geo]"
   - "🇺🇸 United States f413 | SNI - sso.passport.yandex.ru"
   - "🇺🇸 United States f826 | SNI - sso.passport.yandex.ru"
 rules:
