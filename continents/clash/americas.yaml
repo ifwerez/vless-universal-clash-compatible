@@ -25,6 +25,14 @@ tun:
   auto-route: true
   auto-detect-interface: true
 proxies:
+- name: "🇧🇷 Brazil 0a40"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BR.png
+  server: 45.82.245.37
+  port: 4443
+  udp: true
+  type: trojan
+  password: strong-secret-pass-777
+  tls: true
 - name: "🇧🇷 Brazil 2f4b | SNI - api.cvs-a.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BR.png
   server: mid.cvs-a.com
@@ -40,6 +48,147 @@ proxies:
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
     short-id: "bb55683efa59799d"
+- name: "🇨🇦 Canada a522 | SNI - www.sony.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: 35.182.252.92
+  port: 51072
+  udp: true
+  type: vless
+  uuid: b6b2c827-4ac1-4e2c-af28-dfa7edbfeb81
+  network: tcp
+  tls: true
+  servername: www.sony.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 5KJ1tLErCUEfqxc3IsnY_49p_gWe0mPB8eXJ3MLucgU
+    short-id: "0675732ab101"
+- name: "🇨🇦 Canada c2ee | SNI - www.tesla.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: 15.223.121.250
+  port: 41087
+  udp: true
+  type: vless
+  uuid: 57d94cf7-ca36-4c2a-bec5-90cf38588cda
+  network: tcp
+  tls: true
+  servername: www.tesla.com
+  client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: aoGL5vNnsEuKoBXQFXyHTxjvcdAn3SxT4qUgV6aJxnw
+    short-id: "190d259bbd40d4c3"
+- name: "🇺🇸 United States 0243 | SNI - fuck.rkn"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 15.204.97.219
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "🇺🇸 United States 065c | SNI - www.spotify.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 45.88.78.89
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 07c7b9c6-387b-5e38-86e9-c29d3436d177
+  network: tcp
+  tls: true
+  servername: www.spotify.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: k-vQOS0BRMLybmbbgXA73BH0sXMvPOKc9ESzaxYY4RA
+    short-id: "6e49074f"
+- name: "🇺🇸 United States 0901 | SNI - fuck.rkn"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 15.204.97.197
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "🇺🇸 United States 0df7 | SNI - usvless.yydzx.xyz"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 104.250.239.8
+  port: 17195
+  udp: true
+  type: vless
+  uuid: 2219a1b1-9290-4ac5-94fd-6cfc1fb25280
+  network: tcp
+  tls: true
+  servername: usvless.yydzx.xyz
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+- name: "🇺🇸 United States 0f6c | SNI - www.microsoft.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 132.226.85.167
+  port: 443
+  udp: true
+  type: vless
+  uuid: e43dd231-7c75-4606-80ec-50fbb8335ce7
+  network: tcp
+  tls: true
+  servername: www.microsoft.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 3ik9ws7ATJ5dKDY2Fofv9y7_vpFYsTqgOJRxiQKwA3A
+    short-id: "7b233a973c94ca0a"
+- name: "🇺🇸 United States 118f | SNI - ohio1.ap221.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 100.23.55.30
+  port: 443
+  udp: true
+  type: vless
+  uuid: 3a1d7c1d-09c6-4c81-8e11-75dd4ab1ac07
+  network: tcp
+  tls: true
+  servername: ohio1.ap221.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+- name: "🇺🇸 United States 1478 | SNI - www.apple.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 82.38.63.246
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 89f8f53c-2ec5-11f1-bffe-46c4782ac1a7
+  network: tcp
+  tls: true
+  servername: www.apple.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc
+    short-id: "cafe01234567"
+- name: "🇺🇸 United States 1cb2 | SNI - ohio.ap221.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 100.23.55.30
+  port: 443
+  udp: true
+  type: vless
+  uuid: 79b78774-0ccd-4792-aa2d-189887dd987f
+  network: tcp
+  tls: true
+  servername: ohio.ap221.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
 - name: "🇺🇸 United States 23b1 | SNI - ussun.api.dznn.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: ussun.api.dznn.net
@@ -55,6 +204,65 @@ proxies:
   reality-opts:
     public-key: 9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg
     short-id: "0a6ba2716a409da6"
+- name: "🇺🇸 United States 2490 | SNI - ads.x5.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: us.musicperec.ru
+  port: 443
+  udp: true
+  type: vless
+  uuid: 2d281503-7a0a-0021-8934-4c94585c87b1
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
+    short-id: "0a4b7c3d"
+- name: "🇺🇸 United States 24f5 | SNI - www.tesla.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 2.26.116.183
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 02ca6335-4c91-412c-956f-f7f9e5630b6c
+  network: tcp
+  tls: true
+  servername: www.tesla.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 7EP54JvAk7mD5mC-y_5C9SxGOHH6BGxuN9vOEpyL9n4
+    short-id: "11b6287a47dc"
+- name: "🇺🇸 United States 2611 | SNI - eh.vk.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 195.26.250.121
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 30748ba4-ac51-48fb-b624-19c21ac4c31a
+  network: tcp
+  tls: true
+  servername: eh.vk.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4
+    short-id: "b3a1cc510a2001c6"
+- name: "🇺🇸 United States 2ebb | SNI - www.microsoft.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 67.102.180.16
+  port: 443
+  udp: true
+  type: vless
+  uuid: b831381d-6324-4d53-ad4f-8cda48b30811
+  network: tcp
+  tls: true
+  servername: www.microsoft.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 3j9h81MFAlsEOQ4K1ey1XD0tz1aEVNaMGMoMjQwif1w
+    short-id: "16"
 - name: "🇺🇸 United States 339b | SNI - www.apple.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 94.26.249.65
@@ -69,6 +277,34 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4
+- name: "🇺🇸 United States 37dc | SNI - www.cloudflare.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 137.184.218.169
+  port: 36925
+  udp: true
+  type: vless
+  uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67
+  network: tcp
+  tls: true
+  servername: www.cloudflare.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0
+- name: "🇺🇸 United States 386e | SNI - visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 64.23.143.23
+  port: 34045
+  udp: true
+  type: vless
+  uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
+  network: tcp
+  tls: true
+  servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
+    short-id: "e8ab71d0"
 - name: "🇺🇸 United States 3901 | SNI - us1.cvs-a.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: us1.cvs-a.com
@@ -84,6 +320,111 @@ proxies:
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
     short-id: "bb55683efa59799d"
+- name: "🇺🇸 United States 3ce2 | SNI - fuck.rkn"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 15.204.97.214
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "🇺🇸 United States 3d3e | SNI - us.skysafe.online"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: us.skysafe.online
+  port: 443
+  udp: true
+  type: vless
+  uuid: 0e3a9376-1bf0-4b9e-a328-f28083bf6c34
+  network: tcp
+  tls: true
+  servername: us.skysafe.online
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc
+    short-id: "fb38c1c83009e1"
+- name: "🇺🇸 United States 3e01 | SNI - www.deepl.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 2.26.3.239
+  port: 443
+  udp: true
+  type: vless
+  uuid: 2001daf3-5c56-4bef-8ea6-8dd0493c5a4c
+  network: tcp
+  tls: true
+  servername: www.deepl.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU
+    short-id: "c4fb372c78b32874"
+- name: "🇺🇸 United States 3e37 | SNI - adminvps.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 2.26.90.84
+  port: 443
+  udp: true
+  type: vless
+  uuid: e502ee54-8e2a-5452-a3ca-3d192e8710fb
+  network: grpc
+  tls: true
+  servername: adminvps.ru
+  client-fingerprint: qq
+  reality-opts:
+    public-key: PdpC_vd6QYOgFb-p-1X5LcwvkW4Go8HlVyyzX_uVL0I
+    short-id: "ae99cc80bf3da3de"
+  grpc-opts:
+    grpc-service-name: xraygrpc
+- name: "🇺🇸 United States 3ee1 | SNI - yandex.net"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 38.114.103.54
+  port: 8443
+  udp: true
+  type: vless
+  uuid: b27ab9aa-a525-4deb-a1fd-6d16c9614612
+  network: tcp
+  tls: true
+  servername: yandex.net
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: "6ba85179e30d4fc2"
+- name: "🇺🇸 United States 3f4e | SNI - rutube.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 23.133.88.73
+  port: 9443
+  udp: true
+  type: vless
+  uuid: 2001daf3-5c56-4bef-8ea6-8dd0493c5a4c
+  network: tcp
+  tls: true
+  servername: rutube.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU
+- name: "🇺🇸 United States 40fb | SNI - www.apple.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 82.38.63.246
+  port: 8443
+  udp: true
+  type: vless
+  uuid: ca05976a-2dea-11f1-9ec5-baabcd4be2cd
+  network: tcp
+  tls: true
+  servername: www.apple.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc
+    short-id: "cafe01234567"
 - name: "🇺🇸 United States 4203 | SNI - 194.58.41.88.fwqfw783rg2dad.website"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 194.58.41.88.fwqfw783rg2dad.website
@@ -99,6 +440,21 @@ proxies:
     path: "/sequre/ws?ed=2560"
     headers:
       {}
+- name: "🇺🇸 United States 4a06 | SNI - time.is"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 185.184.70.120
+  port: 443
+  udp: true
+  type: vless
+  uuid: 145adeb9-279d-4c1d-a97c-93fe28ca071e
+  network: tcp
+  tls: true
+  servername: time.is
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: KUD5RiuqMRrhOoN6X2FcXpYZfoN_7z8BcviSBlyxOBw
+    short-id: "cbd8f4"
 - name: "🇺🇸 United States 4a07 | SNI - yt-tv.xtrustnet.sbs"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: yt-tv.xtrustnet.sbs
@@ -143,6 +499,66 @@ proxies:
   reality-opts:
     public-key: 9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg
     short-id: "0a6ba2716a409da6"
+- name: "🇺🇸 United States 4de8 | SNI - adminvps.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 2.26.90.84
+  port: 443
+  udp: true
+  type: vless
+  uuid: 33cd4eed-ea41-5553-b12e-78fcb1b95db8
+  network: grpc
+  tls: true
+  servername: adminvps.ru
+  client-fingerprint: qq
+  reality-opts:
+    public-key: PdpC_vd6QYOgFb-p-1X5LcwvkW4Go8HlVyyzX_uVL0I
+    short-id: "ae99cc80bf3da3de"
+  grpc-opts:
+    grpc-service-name: xraygrpc
+- name: "🇺🇸 United States 4e62 | SNI - Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 159.89.87.21
+  port: 28190
+  udp: true
+  type: vless
+  uuid: 14c80e0e-f7ce-4991-94fc-99a1db4a9b1e
+  network: tcp
+  tls: true
+  servername: Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno
+- name: "🇺🇸 United States 5747 | SNI - ads.x5.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: us.musicperec.ru
+  port: 443
+  udp: true
+  type: vless
+  uuid: ec9e7b71-72b6-0021-8549-2efb1b21a502
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
+    short-id: "6e3f0a5b"
+- name: "🇺🇸 United States 586c | SNI - www.icloud.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 44.242.50.106
+  port: 36895
+  udp: true
+  type: vless
+  uuid: 5c875449-ae7d-46f8-b919-5a29f271dfce
+  network: tcp
+  tls: true
+  servername: www.icloud.com
+  client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: SKJQzoN8Lh8kqrDEyKzevbHHmfRhKe8XmzBxPYXF2A4
+    short-id: "5a585c3e894bf074"
 - name: "🇺🇸 United States 5aec | SNI - talas.realm-of-ultramar.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: talas.realm-of-ultramar.ru
@@ -173,6 +589,95 @@ proxies:
     public-key: sOx7AkBNtLuAdWCzqYPxjOErfqI5CeDzbJleGJqp8WU
   grpc-opts:
     grpc-service-name: bucket-ru-2.extravpn.io
+- name: "🇺🇸 United States 5f1f | SNI - usa.spectrumproxy.shop"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: usa.spectrumproxy.shop
+  port: 443
+  udp: true
+  type: vless
+  uuid: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
+  network: tcp
+  tls: true
+  servername: usa.spectrumproxy.shop
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: XtQ3m_8a_LWCiVVEKu7cZxvJCdKnjShteUAtZ3EOlko
+    short-id: "2a6f8c4d1e9a"
+- name: "🇺🇸 United States 6225 | SNI - fuck.rkn"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 15.204.97.195
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "🇺🇸 United States 624b | SNI - www.cloudflare.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 38.54.104.230
+  port: 443
+  udp: true
+  type: vless
+  uuid: 9be451e0-10a1-4344-a282-cdae536b98d3
+  network: tcp
+  tls: true
+  servername: www.cloudflare.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: nAEubzfxjDBY00k_13U-GNjviSXosEaJ5dpwnmGV90Y
+- name: "🇺🇸 United States 6532 | SNI - download.windowsupdate.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 216.23.108.4
+  port: 55307
+  udp: true
+  type: vless
+  uuid: 9c5d1bf0-d58b-4001-9e7c-0c1fa314068c
+  network: tcp
+  tls: true
+  servername: download.windowsupdate.com
+  client-fingerprint: ios
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 7BS-JUFgYVaWrwwyDSiVq_YDoG36w8cRd4U8HvEg-F0
+    short-id: "4bcbc85d"
+- name: "🇺🇸 United States 6ba5 | SNI - www.deepl.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 2.26.3.148
+  port: 443
+  udp: true
+  type: vless
+  uuid: d511e429-e32b-46a7-ac07-a0fffa9b634c
+  network: tcp
+  tls: true
+  servername: www.deepl.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU
+    short-id: "1a"
+- name: "🇺🇸 United States 6daa | SNI - cloudflare.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: us.gryaz-vpn.com
+  port: 19131
+  udp: true
+  type: vless
+  uuid: 3275a667-4a67-4d43-b0ba-54da2d1145dd
+  network: raw
+  tls: true
+  servername: cloudflare.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: yxRy8t-W5pCOglMeGNTeen8vQPK1SG0sM49vL6GLpjo
+    short-id: "0a8a84dcb5"
 - name: "🇺🇸 United States 71e9 | SNI - listwhite.cc"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: autobus.api.dznn.net
@@ -231,6 +736,34 @@ proxies:
   reality-opts:
     public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw
     short-id: "7dbf7d3233971d5c"
+- name: "🇺🇸 United States 85ff | SNI - us.great-server-list.co.uk"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: us.love-list-server.com
+  port: 443
+  udp: true
+  type: vless
+  uuid: a77198e2-9cf7-44c7-a97f-319f6f0e5b07
+  network: tcp
+  tls: true
+  servername: us.great-server-list.co.uk
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+- name: "🇺🇸 United States 8640 | SNI - adminvps.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 2.26.90.84
+  port: 443
+  udp: true
+  type: vless
+  uuid: 33cd4eed-ea41-5452-b12e-78fcb1b95db8
+  network: grpc
+  tls: true
+  servername: adminvps.ru
+  client-fingerprint: qq
+  reality-opts:
+    public-key: PdpC_vd6QYOgFb-p-1X5LcwvkW4Go8HlVyyzX_uVL0I
+    short-id: "ae99cc80bf3da3de"
+  grpc-opts:
+    grpc-service-name: xraygrpc
 - name: "🇺🇸 United States 8c75 | SNI - usa1.jugploer.icu"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: usa1.jugploer.icu
@@ -245,6 +778,30 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: Hnf0rsS2jGwkYlpF4Yywc0jfEC4b96a-rREvrIz_4xM
+- name: "🇺🇸 United States 8cd4 | SNI - www.amazon.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 47.251.25.74
+  port: 443
+  udp: true
+  type: vless
+  uuid: 18805ff3-b420-45de-af18-93be14024ae8
+  network: tcp
+  tls: true
+  servername: www.amazon.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8
+- name: "🇺🇸 United States 90ed"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 38.55.146.153
+  port: 13000
+  udp: true
+  type: vless
+  uuid: b852270a-1283-4ea8-8a2f-5bae8e644a3e
+  network: tcp
+  tls: false
+  client-fingerprint: chrome
 - name: "🇺🇸 United States 95cf | SNI - sso.passport.yandex.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 95.163.211.237
@@ -259,6 +816,43 @@ proxies:
   reality-opts:
     public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw
     short-id: "7dbf7d3233971d5c"
+- name: "🇺🇸 United States 965e | SNI - www.cloudflare.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 47.253.226.114
+  port: 443
+  udp: true
+  type: vless
+  uuid: 055a1ce8-2a16-4a0d-a2c2-22826c9b2413
+  network: tcp
+  tls: true
+  servername: www.cloudflare.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc
+- name: "🇺🇸 United States 9dba | SNI - navi.bankrate.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 174.136.205.68
+  port: 443
+  udp: true
+  type: vless
+  uuid: cc0c5ff2-00b5-4dcb-8811-076c637911c4
+  network: tcp
+  tls: true
+  servername: navi.bankrate.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
+    short-id: "2da72ce6"
+- name: "🇺🇸 United States 9fe6"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 208.83.232.190
+  port: 443
+  udp: true
+  type: trojan
+  password: d30ab83dbde4480082048fb315bedebd
+  tls: true
+  sni: 208.83.232.190
 - name: "🇺🇸 United States a70e"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: dd.zazazuza.ru
@@ -273,6 +867,37 @@ proxies:
     path: /
     headers:
       {}
+- name: "🇺🇸 United States a8d6 | SNI - adminvps.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 2.26.90.84
+  port: 443
+  udp: true
+  type: vless
+  uuid: 33cd4eed-ea41-4c56-b12e-78fcb1b95db8
+  network: grpc
+  tls: true
+  servername: adminvps.ru
+  client-fingerprint: qq
+  reality-opts:
+    public-key: PdpC_vd6QYOgFb-p-1X5LcwvkW4Go8HlVyyzX_uVL0I
+    short-id: "ae99cc80bf3da3de"
+  grpc-opts:
+    grpc-service-name: xraygrpc
+- name: "🇺🇸 United States aa37 | SNI - fuck.rkn"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 15.204.97.216
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
 - name: "🇺🇸 United States ae70 | SNI - de6.x3vpn.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 45.8.157.20
@@ -303,6 +928,44 @@ proxies:
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
     short-id: "bb55683efa59799d"
+- name: "🇺🇸 United States b7af | SNI - usa.ascella.network"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: usa.ascella.network
+  port: 443
+  udp: true
+  type: vless
+  uuid: 6be0517b-add4-4540-ba6a-b88e95587d84
+  network: tcp
+  tls: true
+  servername: usa.ascella.network
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: moEptBPJzCjPAXFmzdAshavhdrnzkt5ljaCY3I3rzU0
+- name: "🇺🇸 United States c0d3"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 64.94.95.118
+  port: 57142
+  udp: true
+  type: trojan
+  password: kkzh2prsyr2ik47as615
+  tls: true
+  sni: 64.94.95.118
+- name: "🇺🇸 United States c185 | SNI - xapi.ozon.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 185.68.244.41
+  port: 443
+  udp: true
+  type: vless
+  uuid: 30f5b380-5b9e-4d42-a50c-508a2a8cb2f6
+  network: tcp
+  tls: true
+  servername: xapi.ozon.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4
+    short-id: "433065"
 - name: "🇺🇸 United States ca6b | SNI - stats.vk-portal.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 45.8.157.20
@@ -330,21 +993,81 @@ proxies:
   servername: usa.xtrustnet.sbs
   client-fingerprint: firefox
   flow: xtls-rprx-vision
-- name: "🇺🇸 United States cfe8 | SNI - n11.com"
+- name: "🇺🇸 United States cdfd | SNI - sha.helper-internet.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 144.31.12.194
+  server: 152.53.80.40
   port: 443
   udp: true
   type: vless
-  uuid: 30f5b380-5b9e-4d42-a50c-508a2a8cb2f6
-  network: tcp
+  uuid: e6567a1e-260f-4b0e-8de3-e2e12f90e854
+  network: raw
   tls: true
-  servername: n11.com
+  servername: sha.helper-internet.com
   client-fingerprint: chrome
   flow: xtls-rprx-vision
   reality-opts:
-    public-key: O60JwuL4PInkkwUGmKuzNdc0VjpJU8BCaWuWM3QeDGg
-    short-id: "5d28ea4c"
+    public-key: W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE
+    short-id: "ff776ff77be48b88"
+- name: "🇺🇸 United States d1ad | SNI - fuck.rkn"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 15.204.97.206
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "🇺🇸 United States d200 | SNI - www.deepl.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 144.31.207.111
+  port: 443
+  udp: true
+  type: vless
+  uuid: 2001daf3-5c56-4bef-8ea6-8dd0493c5a4c
+  network: tcp
+  tls: true
+  servername: www.deepl.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU
+    short-id: "67ccfc02"
+- name: "🇺🇸 United States d341 | SNI - fuck.rkn"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 15.204.97.198
+  port: 23576
+  udp: true
+  type: vless
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+  network: tcp
+  tls: true
+  servername: fuck.rkn
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: "01"
+- name: "🇺🇸 United States d892 | SNI - www.icloud.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 154.21.91.91
+  port: 15623
+  udp: true
+  type: vless
+  uuid: 78dca3dc-8134-4e65-a08b-ba34ba228cdd
+  network: tcp
+  tls: true
+  servername: www.icloud.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: x_BonebeDcNGX4eoog2P-p7_kzQhB0-OHJw5l1lbUCs
+    short-id: "3f000000"
 - name: "🇺🇸 United States d8e4 | SNI - sun6-21.userapi.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: de1-nv.jugploer.icu
@@ -359,6 +1082,21 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 9k3mM_ZrMDDbd7i0ynyl7u1ZU2dqWcG_SHtm_Mk6xyY
+- name: "🇺🇸 United States dc16 | SNI - www.icloud.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 192.204.45.241
+  port: 24479
+  udp: true
+  type: vless
+  uuid: fe85e12e-8820-416d-90f5-f93b5274da01
+  network: tcp
+  tls: true
+  servername: www.icloud.com
+  client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: jiZqt7Fm9MnXnLD25PuZ2Z1N1j5OKGVyRLPJqa1LSQw
+    short-id: "da62ee6c8126787f"
 - name: "🇺🇸 United States dfce | SNI - sun6-21.userapi.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 82.38.171.63
@@ -374,6 +1112,51 @@ proxies:
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
     short-id: "35a84908e9cfa95c"
+- name: "🇺🇸 United States e4d7 | SNI - ozon.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 195.26.250.121
+  port: 8443
+  udp: true
+  type: vless
+  uuid: 072baf2f-574e-4939-8b20-ccd89c17fefb
+  network: tcp
+  tls: true
+  servername: ozon.ru
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4
+    short-id: "b3a1cc510a2001c6"
+- name: "🇺🇸 United States ef14 | SNI - adminvps.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 2.26.90.84
+  port: 443
+  udp: true
+  type: vless
+  uuid: e502ee54-8e2a-5553-a3ca-3d192e8710fb
+  network: grpc
+  tls: true
+  servername: adminvps.ru
+  client-fingerprint: qq
+  reality-opts:
+    public-key: PdpC_vd6QYOgFb-p-1X5LcwvkW4Go8HlVyyzX_uVL0I
+    short-id: "ae99cc80bf3da3de"
+  grpc-opts:
+    grpc-service-name: xraygrpc
+- name: "🇺🇸 United States f230 | SNI - www.icloud.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 156.229.161.107
+  port: 10001
+  udp: true
+  type: vless
+  uuid: 9c79aceb-4649-44ea-9698-b5e9ecf6d6da
+  network: tcp
+  tls: true
+  servername: www.icloud.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4
+    short-id: "fb2c6678"
 - name: "🇺🇸 United States f321 | SNI - max.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 91.219.227.203
@@ -388,6 +1171,80 @@ proxies:
   reality-opts:
     public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw
     short-id: "7dbf7d3233971d5c"
+- name: "🇺🇸 United States f4ef | SNI - www.paypal.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 147.182.212.232
+  port: 56565
+  udp: true
+  type: vless
+  uuid: 7b188eea-b08f-42c2-bac7-d3b0e74218b8
+  network: tcp
+  tls: true
+  servername: www.paypal.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY
+- name: "🇺🇸 United States f5cb | SNI - www.microsoft.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 2.27.7.116
+  port: 80
+  udp: true
+  type: vless
+  uuid: c65aa5b2-7e97-0920-8ee2-a5dafdc3c53c
+  network: tcp
+  tls: true
+  servername: www.microsoft.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 4iWZChsH0rnqtn89xiB1evDLkFjmgh-3WYjx8cknZC0
+    short-id: "a8b9c0d1e2f34567"
+- name: "🇺🇸 United States fad2 | SNI - download.windowsupdate.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 216.23.108.4
+  port: 55305
+  udp: true
+  type: vless
+  uuid: 9c5d1bf0-d58b-4001-9e7c-0c1fa314068c
+  network: raw
+  tls: true
+  servername: download.windowsupdate.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 7BS-JUFgYVaWrwwyDSiVq_YDoG36w8cRd4U8HvEg-F0
+    short-id: "4bcbc85d"
+- name: "🇺🇸 United States fc91 | SNI - download.windowsupdate.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 216.23.108.4
+  port: 55301
+  udp: true
+  type: vless
+  uuid: 9c5d1bf0-d58b-4001-9e7c-0c1fa314068c
+  network: tcp
+  tls: true
+  servername: download.windowsupdate.com
+  client-fingerprint: qq
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 7BS-JUFgYVaWrwwyDSiVq_YDoG36w8cRd4U8HvEg-F0
+    short-id: "4bcbc85d"
+- name: "🇺🇸 United States ffd1 | SNI - apple.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 38.14.232.220
+  port: 26951
+  udp: true
+  type: vless
+  uuid: 19ca6e1e-f021-4d90-984e-9ee9d89b5115
+  network: tcp
+  tls: true
+  servername: apple.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: FsGyaNhXeIRd78L6RQ-818iiGEEgEH9fAwJNrpkTHlE
+    short-id: "8efda308375a26"
 rules:
 - GEOSITE,category-ads-all,REJECT
 - GEOSITE,cn,DIRECT
