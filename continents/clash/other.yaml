@@ -119,6 +119,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 14a1 | SNI - cdp.x5.ru"
+  server: 51.250.102.69
+  port: 443
+  udp: true
+  type: vless
+  uuid: ac17913b-fe96-4b72-a65e-70483316016d
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 1589"
   server: 157.22.182.229
   port: 8443
@@ -296,6 +310,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 34b2 | SNI - cdp.x5.ru"
+  server: 84.201.168.186
+  port: 443
+  udp: true
+  type: vless
+  uuid: ac17913b-fe96-4b72-a65e-70483316016d
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 3882"
   server: 193.164.155.186
   port: 8443
@@ -352,6 +380,20 @@ proxies:
   password: 8r%3C%5B9%27l6hAO%238ZQi
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: " Unsorted 42ce | SNI - cdp.x5.ru"
+  server: 51.250.97.18
+  port: 443
+  udp: true
+  type: vless
+  uuid: ac17913b-fe96-4b72-a65e-70483316016d
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 4332"
   server: 212.192.217.100
   port: 8443
@@ -427,6 +469,20 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
+- name: " Unsorted 57b8 | SNI - cdp.x5.ru"
+  server: 51.250.17.80
+  port: 443
+  udp: true
+  type: vless
+  uuid: ac17913b-fe96-4b72-a65e-70483316016d
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 5923"
   server: 185.65.202.101
   port: 2053
@@ -621,6 +677,20 @@ proxies:
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
     short-id: "35a84908e9cfa95c"
+- name: " Unsorted 812b | SNI - cdp.x5.ru"
+  server: 84.201.168.220
+  port: 443
+  udp: true
+  type: vless
+  uuid: ac17913b-fe96-4b72-a65e-70483316016d
+  network: tcp
+  tls: true
+  servername: cdp.x5.ru
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: "8ec792bfd725be8a"
 - name: " Unsorted 8281"
   server: 31.58.171.102
   port: 2053
