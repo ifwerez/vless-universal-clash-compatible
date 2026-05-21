@@ -8,6 +8,8 @@ auto-generated proxy configurations
 - https://etoneya.best/1 [offline, 0 proxies]
 - https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt [online, 335 proxies]
 - https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt [online, 94 proxies]
+- 8f5c4a1faeb5 [online, 311 proxies]
+- 8f5c4a1faeb5 [offline, 0 proxies]
 
 ## formats
 
@@ -84,5 +86,5 @@ you can add new proxy source URLs via a pull request:
 
 new sources are automatically merged on the next update cycle.
 
-last updated: 2026-05-21 07:18:14
+last updated: 2026-05-21 07:24:44
 proxies: 1020
