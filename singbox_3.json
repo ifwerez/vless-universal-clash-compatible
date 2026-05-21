@@ -25,6 +25,51 @@
       "type": "selector",
       "tag": "proxy",
       "outbounds": [
+        "🇬🇧 United Kingdom 84d4",
+        "🇬🇧 United Kingdom 8669",
+        "🇬🇧 United Kingdom 866f",
+        "🇬🇧 United Kingdom 8691",
+        "🇬🇧 United Kingdom 880c",
+        "🇬🇧 United Kingdom 885a",
+        "🇬🇧 United Kingdom 88e8",
+        "🇬🇧 United Kingdom 8994",
+        "🇬🇧 United Kingdom 8a0a | SNI: sni.111000.v6.rocks",
+        "🇬🇧 United Kingdom 8a4f",
+        "🇬🇧 United Kingdom 8a6c",
+        "🇬🇧 United Kingdom 8b93",
+        "🇬🇧 United Kingdom 8c29",
+        "🇬🇧 United Kingdom 8cd2",
+        "🇬🇧 United Kingdom 8f2e | SNI: sni.111000.v6.rocks",
+        "🇬🇧 United Kingdom 8f44 | SNI: sni.111000.indevs.in",
+        "🇬🇧 United Kingdom 8fe4",
+        "🇬🇧 United Kingdom 9123",
+        "🇬🇧 United Kingdom 916d",
+        "🇬🇧 United Kingdom 9283",
+        "🇬🇧 United Kingdom 9385 | SNI: sni.111000.indevs.in",
+        "🇬🇧 United Kingdom 93f2",
+        "🇬🇧 United Kingdom 942c | SNI: sni.111000.v6.rocks",
+        "🇬🇧 United Kingdom 9568",
+        "🇬🇧 United Kingdom 95c1",
+        "🇬🇧 United Kingdom 965a",
+        "🇬🇧 United Kingdom 9678",
+        "🇬🇧 United Kingdom 98f4 | SNI: sni.111000.indevs.in",
+        "🇬🇧 United Kingdom 9911 | SNI: p2.hdlowstream.com",
+        "🇬🇧 United Kingdom 99fb",
+        "🇬🇧 United Kingdom 9c16",
+        "🇬🇧 United Kingdom 9c1f",
+        "🇬🇧 United Kingdom 9c3a",
+        "🇬🇧 United Kingdom 9c42",
+        "🇬🇧 United Kingdom 9f32 | SNI: de6.x3vpn.ru",
+        "🇬🇧 United Kingdom 9fba",
+        "🇬🇧 United Kingdom a126",
+        "🇬🇧 United Kingdom a15f",
+        "🇬🇧 United Kingdom a243 | SNI: uk1.fromblancwithlove.com",
+        "🇬🇧 United Kingdom a2da",
+        "🇬🇧 United Kingdom a3d8",
+        "🇬🇧 United Kingdom a697",
+        "🇬🇧 United Kingdom a808",
+        "🇬🇧 United Kingdom a81e",
+        "🇬🇧 United Kingdom a9c8",
         "🇬🇧 United Kingdom ab47",
         "🇬🇧 United Kingdom ae24",
         "🇬🇧 United Kingdom aea2",
@@ -60,7 +105,6 @@
         "🇬🇧 United Kingdom ce72",
         "🇬🇧 United Kingdom d12d | SNI: apple.com",
         "🇬🇧 United Kingdom d139",
-        "🇬🇧 United Kingdom d1a6 | SNI: rAyAn-007.mAxImA.DpDnS.OrG",
         "🇬🇧 United Kingdom d2a0",
         "🇬🇧 United Kingdom d2c3",
         "🇬🇧 United Kingdom d31a",
@@ -92,7 +136,6 @@
         "🇬🇧 United Kingdom ee60",
         "🇬🇧 United Kingdom ef82",
         "🇬🇧 United Kingdom f0f6",
-        "🇬🇧 United Kingdom f15f | SNI: 2026.hhhhh.eu.org",
         "🇬🇧 United Kingdom f269",
         "🇬🇧 United Kingdom f26f",
         "🇬🇧 United Kingdom f379",
@@ -108,6 +151,7 @@
         "🇬🇧 United Kingdom fa8b",
         "🇬🇧 United Kingdom fae3 | SNI: sni.111000.dns.army",
         "🇬🇧 United Kingdom fb34",
+        "🇬🇧 United Kingdom fb4c | SNI: p4.hdlowstream.com",
         "🇬🇧 United Kingdom fc10",
         "🇬🇧 United Kingdom fcb8 | SNI: london.ap221.com",
         "🇬🇧 United Kingdom fd0b",
@@ -131,6 +175,7 @@
         "🇭🇰 Hong Kong 1d33 | SNI: sni.111000.dns.army",
         "🇭🇰 Hong Kong 1de1",
         "🇭🇰 Hong Kong 2176",
+        "🇭🇰 Hong Kong 293d | SNI: vpn2.rnmcnm.com",
         "🇭🇰 Hong Kong 2c31",
         "🇭🇰 Hong Kong 2dbb",
         "🇭🇰 Hong Kong 2f10 | SNI: babayaga-6i7.pages.dev",
@@ -147,7 +192,6 @@
         "🇭🇰 Hong Kong 5b98 | SNI: babayaga-6i7.pages.dev",
         "🇭🇰 Hong Kong 6143",
         "🇭🇰 Hong Kong 6152 | SNI: babayaga-6i7.pages.dev",
-        "🇭🇰 Hong Kong 61f1 | SNI: babayaga-6i7.pages.dev",
         "🇭🇰 Hong Kong 62f0",
         "🇭🇰 Hong Kong 6465",
         "🇭🇰 Hong Kong 6797 | SNI: babayaga-6i7.pages.dev",
@@ -160,8 +204,8 @@
         "🇭🇰 Hong Kong 7e1a",
         "🇭🇰 Hong Kong 85e3 | SNI: sni.111000.v6.rocks",
         "🇭🇰 Hong Kong 8a75 | SNI: babayaga-6i7.pages.dev",
-        "🇭🇰 Hong Kong 907c",
         "🇭🇰 Hong Kong 95f9",
+        "🇭🇰 Hong Kong 9d54",
         "🇭🇰 Hong Kong 9ea9",
         "🇭🇰 Hong Kong a44d | SNI: sn1.skylee5.cloudns.ch",
         "🇭🇰 Hong Kong a5fd | SNI: 3-85q.pages.dev",
@@ -196,6 +240,7 @@
         "🇭🇰 Hong Kong e9d1 | SNI: hk.ap221.com",
         "🇭🇰 Hong Kong f07e | SNI: www.vk.ru",
         "🇭🇰 Hong Kong f141",
+        "🇭🇰 Hong Kong f15f | SNI: 2026.hhhhh.eu.org",
         "🇭🇰 Hong Kong f625 | SNI: babayaga-6i7.pages.dev",
         "🇭🇰 Hong Kong f6cb",
         "🇭🇰 Hong Kong f75a",
@@ -238,7 +283,8 @@
         "🇮🇹 Italy d14f",
         "🇮🇹 Italy dfbc",
         "🇮🇹 Italy eb48",
-        "🇯🇵 Japan 01e6",
+        "[OpenRay] 🇯🇵 JP-2552",
+        "[OpenRay] 🇯🇵 JP-2633",
         "🇯🇵 Japan 021a",
         "🇯🇵 Japan 0384 | SNI: sni.111000.v6.army",
         "🇯🇵 Japan 0f51",
@@ -252,13 +298,13 @@
         "🇯🇵 Japan 2705 | SNI: sni.111000.indevs.in",
         "🇯🇵 Japan 285d",
         "🇯🇵 Japan 2d4e | SNI: lmy.node-cache-01.sh21.eu.org",
-        "🇯🇵 Japan 33ed",
-        "🇯🇵 Japan 352c",
+        "🇯🇵 Japan 357a",
         "🇯🇵 Japan 3a34 | SNI: sni.111000.indevs.in",
         "🇯🇵 Japan 3d34 | SNI: sni.jpmj.dev",
         "🇯🇵 Japan 3d55",
         "🇯🇵 Japan 3dd0 | SNI: sni.jpmj.dev",
         "🇯🇵 Japan 3f42 | SNI: 49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org",
+        "🇯🇵 Japan 4181 | SNI: dcsrzh.ccwu.cc",
         "🇯🇵 Japan 42d2 | SNI: www.icloud.com",
         "🇯🇵 Japan 43a1 | SNI: sni.111000.v6.rocks",
         "🇯🇵 Japan 4404 | SNI: www.cloudflare.com",
@@ -276,7 +322,6 @@
         "🇯🇵 Japan 56c7 | SNI: babayaga-6i7.pages.dev",
         "🇯🇵 Japan 5cdc",
         "🇯🇵 Japan 5e6d | SNI: 3-2ll.pages.dev",
-        "🇯🇵 Japan 62ec",
         "🇯🇵 Japan 6385",
         "🇯🇵 Japan 65ab | SNI: babayaga-6i7.pages.dev",
         "🇯🇵 Japan 66c3",
@@ -306,7 +351,6 @@
         "🇯🇵 Japan a6ab",
         "🇯🇵 Japan aced",
         "🇯🇵 Japan ad83",
-        "🇯🇵 Japan b1be",
         "🇯🇵 Japan b211 | SNI: 2026.hhhhh.eu.org",
         "🇯🇵 Japan b219 | SNI: rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me",
         "🇯🇵 Japan b31f",
@@ -321,6 +365,7 @@
         "🇯🇵 Japan c0c5",
         "🇯🇵 Japan c2c0",
         "🇯🇵 Japan c3ea | SNI: sni.jpmj.dev",
+        "🇯🇵 Japan c6c0 | SNI: sni.111000.v6.army",
         "🇯🇵 Japan c781",
         "🇯🇵 Japan cb62",
         "🇯🇵 Japan cdaa",
@@ -361,12 +406,12 @@
         "🇰🇷 South Korea 4dba | SNI: 49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org",
         "🇰🇷 South Korea 505a | SNI: nn9jdg-k7yewrrk.acg.xx.kg",
         "🇰🇷 South Korea 5112",
-        "🇰🇷 South Korea 51b6 | SNI: sni.111000.v6.army",
         "🇰🇷 South Korea 550a",
         "🇰🇷 South Korea 56e9 | SNI: 3-7gj.pages.dev",
         "🇰🇷 South Korea 5ad5 | SNI: 2-1ng.pages.dev",
         "🇰🇷 South Korea 673d | SNI: babayaga-6i7.pages.dev",
         "🇰🇷 South Korea 67bc | SNI: sni.jpmj.dev",
+        "🇰🇷 South Korea 6829 | SNI: sni.111000.v6.army",
         "🇰🇷 South Korea 6b5d",
         "🇰🇷 South Korea 6b6b",
         "🇰🇷 South Korea 6d8b",
@@ -377,7 +422,6 @@
         "🇰🇷 South Korea 8073 | SNI: sni.111000.indevs.in",
         "🇰🇷 South Korea 8b0f | SNI: addons.mozilla.org",
         "🇰🇷 South Korea 8f2d",
-        "🇰🇷 South Korea 90f5 | SNI: powered-by-surena.user68f797c2f3e1b.workers.dev",
         "🇰🇷 South Korea 917b | SNI: sni.111000.indevs.in",
         "🇰🇷 South Korea a30e | SNI: sni.111000.v6.army",
         "🇰🇷 South Korea a6ac | SNI: babayaga-6i7.pages.dev",
@@ -461,7 +505,6 @@
         "🇱🇻 Latvia 8d6a",
         "🇱🇻 Latvia 9072",
         "🇱🇻 Latvia 92e2",
-        "🇱🇻 Latvia 9408 | SNI: sni.111000.v6.navy",
         "🇱🇻 Latvia 9739",
         "🇱🇻 Latvia 987f | SNI: sni.111000.dns.army",
         "🇱🇻 Latvia 9c3e",
@@ -488,7 +531,6 @@
         "🇲🇩 Moldova 0b05 | SNI: serv-ne-3.whit3.net",
         "🇲🇩 Moldova a39e | SNI: sun6-20.userapi.com",
         "🇲🇩 Moldova c527 | SNI: yandex.ru",
-        "🇲🇩 Moldova c79a | SNI: yandex.ru",
         "🇲🇩 Moldova cac8 | SNI: serv-ne-4.whit3.net",
         "🇲🇽 Mexico 44bd | SNI: mx.great-server-list.co.uk",
         "🇲🇽 Mexico a0db",
@@ -757,7 +799,6 @@
         "🇳🇱 Netherlands 2bac",
         "🇳🇱 Netherlands 2bb3",
         "🇳🇱 Netherlands 2c00",
-        "🇳🇱 Netherlands 2c13 | SNI: fr-3.spectrum.vu",
         "🇳🇱 Netherlands 2c78",
         "🇳🇱 Netherlands 2ca7",
         "🇳🇱 Netherlands 2d39",
@@ -797,13 +838,13 @@
         "🇳🇱 Netherlands 3371 | SNI: sni.111000.dns.army",
         "🇳🇱 Netherlands 338c",
         "🇳🇱 Netherlands 33ac",
+        "🇳🇱 Netherlands 344d | SNI: sni.111000.v6.army",
         "🇳🇱 Netherlands 3497",
         "🇳🇱 Netherlands 34c5",
         "🇳🇱 Netherlands 351f | SNI: sni.111000.dns.army",
         "🇳🇱 Netherlands 3554",
         "🇳🇱 Netherlands 35bc",
         "🇳🇱 Netherlands 35bd",
-        "🇳🇱 Netherlands 35c3",
         "🇳🇱 Netherlands 3693",
         "🇳🇱 Netherlands 36a5",
         "🇳🇱 Netherlands 36bc",
@@ -926,7 +967,6 @@
         "🇳🇱 Netherlands 4e1a",
         "🇳🇱 Netherlands 4e46",
         "🇳🇱 Netherlands 4e4a | SNI: sni.111000.dns.army",
-        "🇳🇱 Netherlands 4eb2",
         "🇳🇱 Netherlands 4ec5 [CIDR]",
         "🇳🇱 Netherlands 4ec6",
         "🇳🇱 Netherlands 4ee0",
@@ -952,6 +992,7 @@
         "🇳🇱 Netherlands 54dc",
         "🇳🇱 Netherlands 54f2",
         "🇳🇱 Netherlands 54ff",
+        "🇳🇱 Netherlands 555d | SNI: serv-ne-4.whit3.net",
         "🇳🇱 Netherlands 556d",
         "🇳🇱 Netherlands 559c",
         "🇳🇱 Netherlands 55a8",
@@ -1071,7 +1112,6 @@
         "🇳🇱 Netherlands 6bb8 | SNI: s220.okgfwbackxyz.xyz",
         "🇳🇱 Netherlands 6c38",
         "🇳🇱 Netherlands 6c3f",
-        "🇳🇱 Netherlands 6c88 | SNI: yandex.by [CIDR]",
         "🇳🇱 Netherlands 6c8e",
         "🇳🇱 Netherlands 6cde [CIDR]",
         "🇳🇱 Netherlands 6cf2",
@@ -1311,7 +1351,6 @@
         "🇳🇱 Netherlands 9fa9",
         "🇳🇱 Netherlands a062",
         "🇳🇱 Netherlands a06d",
-        "🇳🇱 Netherlands a06d | SNI: colorlib.com [CIDR]",
         "🇳🇱 Netherlands a0b5 | SNI: nl1.kickvpn.ru",
         "🇳🇱 Netherlands a0bc",
         "🇳🇱 Netherlands a0f4 | SNI: sni.111000.dns.army",
@@ -1485,51 +1524,626 @@
         "🇳🇱 Netherlands c1ef",
         "🇳🇱 Netherlands c22c",
         "🇳🇱 Netherlands c245",
-        "🇳🇱 Netherlands c33b",
-        "🇳🇱 Netherlands c355",
-        "🇳🇱 Netherlands c363 | SNI: sni.111000.dns.army",
-        "🇳🇱 Netherlands c3db [CIDR]",
-        "🇳🇱 Netherlands c409 | SNI: www.deepl.com",
-        "🇳🇱 Netherlands c476",
-        "🇳🇱 Netherlands c4c5",
-        "🇳🇱 Netherlands c4ff",
-        "🇳🇱 Netherlands c501",
-        "🇳🇱 Netherlands c591",
-        "🇳🇱 Netherlands c598",
-        "🇳🇱 Netherlands c5ad",
-        "🇳🇱 Netherlands c5b9",
-        "🇳🇱 Netherlands c5fa",
-        "🇳🇱 Netherlands c642",
-        "🇳🇱 Netherlands c6af",
-        "🇳🇱 Netherlands c6d5 | SNI: sni.111000.dns.army",
-        "🇳🇱 Netherlands c708",
-        "🇳🇱 Netherlands c733",
-        "🇳🇱 Netherlands c780",
-        "🇳🇱 Netherlands c7a9",
-        "🇳🇱 Netherlands c7b1",
-        "🇳🇱 Netherlands c7e9",
-        "🇳🇱 Netherlands c7f8",
-        "🇳🇱 Netherlands c7ff",
-        "🇳🇱 Netherlands c826",
-        "🇳🇱 Netherlands c871",
-        "🇳🇱 Netherlands c88f",
-        "🇳🇱 Netherlands c8f6 | SNI: fuck.rkn",
-        "🇳🇱 Netherlands c8fa",
-        "🇳🇱 Netherlands c8ff",
-        "🇳🇱 Netherlands c9ac",
-        "🇳🇱 Netherlands c9e6",
-        "🇳🇱 Netherlands ca3c",
-        "🇳🇱 Netherlands ca5f",
-        "🇳🇱 Netherlands ca65",
-        "🇳🇱 Netherlands cabd",
-        "🇳🇱 Netherlands caec",
-        "🇳🇱 Netherlands cb04",
-        "🇳🇱 Netherlands cb94"
+        "🇳🇱 Netherlands c33b"
       ]
     },
     {
       "type": "direct",
       "tag": "direct"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 84d4",
+      "server": "68.183.42.143",
+      "server_port": 2083,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 8669",
+      "server": "139.59.190.23",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 866f",
+      "server": "143.110.161.220",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 8691",
+      "server": "46.101.77.41",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 880c",
+      "server": "138.68.131.25",
+      "server_port": 2083,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 885a",
+      "server": "185.156.19.30",
+      "server_port": 8880,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳",
+        "headers": {
+          "Host": "vms.lifetime57.workers.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 88e8",
+      "server": "102.177.189.30",
+      "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "",
+        "headers": {
+          "Host": "vms.lifetime29.workers.dev"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 8994",
+      "server": "138.68.131.25",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 8a0a | SNI: sni.111000.v6.rocks",
+      "server": "161.35.47.237",
+      "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.v6.rocks",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&https://t.me/WangCai2🇨🇳",
+        "headers": {
+          "Host": "sni.111000.v6.rocks"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 8a4f",
+      "server": "134.209.27.216",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 8a6c",
+      "server": "138.68.131.25",
+      "server_port": 2087,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 8b93",
+      "server": "144.126.230.21",
+      "server_port": 2087,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 8c29",
+      "server": "46.101.81.245",
+      "server_port": 2083,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 8cd2",
+      "server": "138.68.131.25",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 8f2e | SNI: sni.111000.v6.rocks",
+      "server": "165.227.238.126",
+      "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.v6.rocks",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&https://t.me/WangCai2🇨🇳",
+        "headers": {
+          "Host": "sni.111000.v6.rocks"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 8f44 | SNI: sni.111000.indevs.in",
+      "server": "2.56.179.89",
+      "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.indevs.in",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&Telegram🇨🇳 @WangCai2",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 8fe4",
+      "server": "167.172.60.77",
+      "server_port": 2087,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 9123",
+      "server": "68.183.42.143",
+      "server_port": 2096,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 916d",
+      "server": "178.62.93.76",
+      "server_port": 2096,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 9283",
+      "server": "159.65.81.97",
+      "server_port": 2087,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 9385 | SNI: sni.111000.indevs.in",
+      "server": "158.220.88.180",
+      "server_port": 8443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.indevs.in",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&Telegram🇨🇳@WangCai2",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 93f2",
+      "server": "va01.bestservern11etwork.ir",
+      "server_port": 2096,
+      "uuid": "ade831db-e4b3-4524-b495-9533a75d11a4",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "va01.bestservern11etwork.ir",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw",
+          "short_id": "b7b70c104ad267b8"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 942c | SNI: sni.111000.v6.rocks",
+      "server": "138.68.131.253",
+      "server_port": 2053,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.v6.rocks",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&https://t.me/WangCai2🇨🇳",
+        "headers": {
+          "Host": "sni.111000.v6.rocks"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 9568",
+      "server": "178.128.38.173",
+      "server_port": 2096,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 95c1",
+      "server": "178.128.172.70",
+      "server_port": 2087,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 965a",
+      "server": "178.128.34.102",
+      "server_port": 2083,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 9678",
+      "server": "uk1.fromblancwithlove.com",
+      "server_port": 8443,
+      "uuid": "394f6981-a782-4779-9a85-e6cf22935d93",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "uk1.fromblancwithlove.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 98f4 | SNI: sni.111000.indevs.in",
+      "server": "134.209.30.166",
+      "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.indevs.in",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 9911 | SNI: p2.hdlowstream.com",
+      "server": "p2.hdlowstream.com",
+      "server_port": 443,
+      "uuid": "1a17fbd6-a54f-456c-8e71-5282893e2b69",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "p2.hdlowstream.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM",
+          "short_id": "93ed7d916252d203"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 99fb",
+      "server": "68.168.31.227",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 9c16",
+      "server": "188.166.150.159",
+      "server_port": 2096,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 9c1f",
+      "server": "134.209.176.127",
+      "server_port": 2083,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 9c3a",
+      "server": "134.209.186.163",
+      "server_port": 2096,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 9c42",
+      "server": "185.156.19.40",
+      "server_port": 8880,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳",
+        "headers": {
+          "Host": "vms.lifetime57.workers.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom 9f32 | SNI: de6.x3vpn.ru",
+      "server": "82.38.171.63",
+      "server_port": 2036,
+      "uuid": "b58448a9-5eb3-570c-8241-4ea9d88ff5ea",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "de6.x3vpn.ru",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom 9fba",
+      "server": "134.209.176.127",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom a126",
+      "server": "178.128.172.70",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom a15f",
+      "server": "46.101.77.41",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom a243 | SNI: uk1.fromblancwithlove.com",
+      "server": "152.233.28.198",
+      "server_port": 8443,
+      "uuid": "394f6981-a782-4779-9a85-e6cf22935d93",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "uk1.fromblancwithlove.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇬🇧 United Kingdom a2da",
+      "server": "149.102.154.144",
+      "server_port": 80,
+      "uuid": "6b2d86e5-df05-4511-a79f-82d53ce99b36",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom a3d8",
+      "server": "143.110.163.137",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom a697",
+      "server": "134.209.186.163",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom a808",
+      "server": "134.209.176.127",
+      "server_port": 2087,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom a81e",
+      "server": "139.59.183.33",
+      "server_port": 2096,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 United Kingdom a9c8",
+      "server": "138.68.178.185",
+      "server_port": 2096,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
     },
     {
       "type": "trojan",
@@ -1983,26 +2597,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇬🇧 United Kingdom d1a6 | SNI: rAyAn-007.mAxImA.DpDnS.OrG",
-      "server": "162.159.152.4",
-      "server_port": 443,
-      "uuid": "f2a73750-3087-48ff-a763-1348c15dce68",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "rAyAn-007.mAxImA.DpDnS.OrG",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "rAyAn-007.mAxImA.DpDnS.OrG"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇬🇧 United Kingdom d2a0",
       "server": "185.162.230.30",
       "server_port": 8880,
@@ -2413,26 +3007,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "🇬🇧 United Kingdom f15f | SNI: 2026.hhhhh.eu.org",
-      "server": "222.167.202.23",
-      "server_port": 7443,
-      "uuid": "06ef598c-1555-4887-b3f9-08214a2f6792",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "2026.hhhhh.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/222.167.202.23:7443",
-        "headers": {
-          "Host": "2026.hhhhh.eu.org"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": "🇬🇧 United Kingdom f269",
       "server": "143.110.163.137",
@@ -2642,6 +3216,24 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇬🇧 United Kingdom fb4c | SNI: p4.hdlowstream.com",
+      "server": "p4.hdlowstream.com",
+      "server_port": 443,
+      "uuid": "1a17fbd6-a54f-456c-8e71-5282893e2b69",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "p4.hdlowstream.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM",
+          "short_id": "93ed7d916252d203"
+        }
       }
     },
     {
@@ -2959,6 +3551,24 @@
       "alter_id": 0
     },
     {
+      "type": "vless",
+      "tag": "🇭🇰 Hong Kong 293d | SNI: vpn2.rnmcnm.com",
+      "server": "59.9.104.98",
+      "server_port": 18979,
+      "uuid": "b2b62085-f202-4c49-9f19-a44676a3d76d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "vpn2.rnmcnm.com",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/ray",
+        "headers": {}
+      }
+    },
+    {
       "type": "vmess",
       "tag": "🇭🇰 Hong Kong 2c31",
       "server": "27.122.57.43",
@@ -3194,26 +3804,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "🇭🇰 Hong Kong 61f1 | SNI: babayaga-6i7.pages.dev",
-      "server": "96.9.228.241",
-      "server_port": 443,
-      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "babayaga-6i7.pages.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&Telegram🇨🇳@WangCai2",
-        "headers": {
-          "Host": "babayaga-6i7.pages.dev"
-        }
-      }
-    },
-    {
       "type": "vmess",
       "tag": "🇭🇰 Hong Kong 62f0",
       "server": "8.210.121.88",
@@ -3403,21 +3993,24 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇰 Hong Kong 907c",
-      "server": "103.143.238.196",
-      "server_port": 21879,
-      "uuid": "1e1a6b3b-14b2-4ae4-9aa9-880ba5dff6fa",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
       "tag": "🇭🇰 Hong Kong 95f9",
       "server": "27.122.57.43",
       "server_port": 11638,
       "uuid": "1f2d0b2b-e214-4fc1-92cc-1c230be78d7c",
       "security": "auto",
       "alter_id": 0
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇰 Hong Kong 9d54",
+      "server": "43.168.16.112",
+      "server_port": 443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
     },
     {
       "type": "vmess",
@@ -3879,6 +4472,26 @@
       "uuid": "1f2d0b2b-e214-4fc1-92cc-1c230be78d7c",
       "security": "auto",
       "alter_id": 0
+    },
+    {
+      "type": "vless",
+      "tag": "🇭🇰 Hong Kong f15f | SNI: 2026.hhhhh.eu.org",
+      "server": "222.167.202.23",
+      "server_port": 7443,
+      "uuid": "06ef598c-1555-4887-b3f9-08214a2f6792",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "2026.hhhhh.eu.org",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/222.167.202.23:7443",
+        "headers": {
+          "Host": "2026.hhhhh.eu.org"
+        }
+      }
     },
     {
       "type": "vless",
@@ -4465,16 +5078,21 @@
       "packet_encoding": "xudp"
     },
     {
-      "type": "trojan",
-      "tag": "🇯🇵 Japan 01e6",
-      "server": "142.91.108.54",
-      "server_port": 443,
-      "password": "162534",
-      "tls": {
-        "enabled": true,
-        "server_name": "cchh2.pages.dev",
-        "insecure": false
-      }
+      "type": "vmess",
+      "tag": "[OpenRay] 🇯🇵 JP-2552",
+      "server": "47.74.8.80",
+      "server_port": 29583,
+      "uuid": "a3de462b-0276-4003-8f34-536b0f9d340c",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "ss",
+      "tag": "[OpenRay] 🇯🇵 JP-2633",
+      "server": "103.106.228.177",
+      "server_port": 31348,
+      "password": "WTZvNByN7m2ZAlp0B1YVCQdaehZsfnSL33hBOZWsZDDjN0GK",
+      "method": "chacha20-ietf-poly1305"
     },
     {
       "type": "vmess",
@@ -4682,8 +5300,8 @@
     },
     {
       "type": "trojan",
-      "tag": "🇯🇵 Japan 33ed",
-      "server": "64.176.36.61",
+      "tag": "🇯🇵 Japan 357a",
+      "server": "167.179.76.8",
       "server_port": 443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -4691,15 +5309,6 @@
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       }
-    },
-    {
-      "type": "vmess",
-      "tag": "🇯🇵 Japan 352c",
-      "server": "47.74.8.80",
-      "server_port": 29583,
-      "uuid": "a3de462b-0276-4003-8f34-536b0f9d340c",
-      "security": "auto",
-      "alter_id": 0
     },
     {
       "type": "vless",
@@ -4787,6 +5396,26 @@
         "path": "/@Marisa_kristifp=chrome",
         "headers": {
           "Host": "49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Japan 4181 | SNI: dcsrzh.ccwu.cc",
+      "server": "172.104.113.18",
+      "server_port": 74,
+      "uuid": "73bcd72f-9545-4cb8-8daf-7d004501880d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "dcsrzh.ccwu.cc",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560",
+        "headers": {
+          "Host": "dcsrzh.ccwu.cc"
         }
       }
     },
@@ -5070,15 +5699,6 @@
           "Host": "3-2ll.pages.dev"
         }
       }
-    },
-    {
-      "type": "vmess",
-      "tag": "🇯🇵 Japan 62ec",
-      "server": "47.74.8.80",
-      "server_port": 29583,
-      "uuid": "1f2d0b2b-e214-4fc1-92cc-1c230be78d7c",
-      "security": "auto",
-      "alter_id": 0
     },
     {
       "type": "vmess",
@@ -5506,18 +6126,6 @@
       "alter_id": 0
     },
     {
-      "type": "trojan",
-      "tag": "🇯🇵 Japan b1be",
-      "server": "64.110.104.30",
-      "server_port": 443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
       "type": "vless",
       "tag": "🇯🇵 Japan b211 | SNI: 2026.hhhhh.eu.org",
       "server": "210.156.180.102",
@@ -5706,6 +6314,26 @@
         "path": "/?ed=2560&Telegram🇨🇳 @WangCai2",
         "headers": {
           "Host": "sni.jpmj.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Japan c6c0 | SNI: sni.111000.v6.army",
+      "server": "8.216.5.125",
+      "server_port": 2096,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.v6.army",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560",
+        "headers": {
+          "Host": "sni.111000.v6.army"
         }
       }
     },
@@ -6342,26 +6970,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "🇰🇷 South Korea 51b6 | SNI: sni.111000.v6.army",
-      "server": "121.175.77.73",
-      "server_port": 10333,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.v6.army",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560",
-        "headers": {
-          "Host": "sni.111000.v6.army"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": "🇰🇷 South Korea 550a",
       "server": "220.122.102.26",
@@ -6448,6 +7056,26 @@
         "path": "/?ed=2560&Telegram🇨🇳@WangCai2",
         "headers": {
           "Host": "sni.jpmj.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇰🇷 South Korea 6829 | SNI: sni.111000.v6.army",
+      "server": "59.31.107.42",
+      "server_port": 13720,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.v6.army",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560",
+        "headers": {
+          "Host": "sni.111000.v6.army"
         }
       }
     },
@@ -6597,26 +7225,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇰🇷 South Korea 90f5 | SNI: powered-by-surena.user68f797c2f3e1b.workers.dev",
-      "server": "172.64.52.178",
-      "server_port": 443,
-      "uuid": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "powered-by-surena.user68f797c2f3e1b.workers.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "powered-by-surena.user68f797c2f3e1b.workers.dev"
-        }
       }
     },
     {
@@ -7940,26 +8548,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "🇱🇻 Latvia 9408 | SNI: sni.111000.v6.navy",
-      "server": "5.34.209.231",
-      "server_port": 443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.v6.navy",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "sni.111000.v6.navy"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": "🇱🇻 Latvia 9739",
       "server": "91.218.143.126",
@@ -8369,23 +8957,6 @@
       "server": "193.233.246.221",
       "server_port": 443,
       "uuid": "aa10ea81-d274-4be9-b264-c87a856cddc9",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "yandex.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇲🇩 Moldova c79a | SNI: yandex.ru",
-      "server": "193.233.246.221",
-      "server_port": 443,
-      "uuid": "216b8f6c-8a0b-4f0b-8ba2-2dc4227609a5",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
@@ -11946,24 +12517,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "🇳🇱 Netherlands 2c13 | SNI: fr-3.spectrum.vu",
-      "server": "fr-3.spectrum.vu",
-      "server_port": 443,
-      "uuid": "76713d07-5a6b-49c2-abd8-bc450a2fa7fc",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "fr-3.spectrum.vu",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "2svOLO__UhUX1zYXLN1b151clRPI0LeoZ2wxBzDyxgE",
-          "short_id": "5b4e1a7d3c0f"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": "🇳🇱 Netherlands 2c78",
       "server": "212.34.135.97",
@@ -12468,6 +13021,26 @@
       }
     },
     {
+      "type": "vless",
+      "tag": "🇳🇱 Netherlands 344d | SNI: sni.111000.v6.army",
+      "server": "151.242.69.214",
+      "server_port": 2053,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.v6.army",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560",
+        "headers": {
+          "Host": "sni.111000.v6.army"
+        }
+      }
+    },
+    {
       "type": "trojan",
       "tag": "🇳🇱 Netherlands 3497",
       "server": "188.166.43.158",
@@ -12540,18 +13113,6 @@
       "tag": "🇳🇱 Netherlands 35bd",
       "server": "217.144.102.66",
       "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands 35c3",
-      "server": "194.164.34.222",
-      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -14181,24 +14742,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "🇳🇱 Netherlands 4eb2",
-      "server": "nl-race.connfull.org",
-      "server_port": 443,
-      "uuid": "0ce9c947-467f-49ea-9749-077229bf361d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "nl-race.connfull.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/ws",
-        "headers": {}
-      }
-    },
-    {
       "type": "trojan",
       "tag": "🇳🇱 Netherlands 4ec5 [CIDR]",
       "server": "46.149.78.144",
@@ -14526,6 +15069,24 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇱 Netherlands 555d | SNI: serv-ne-4.whit3.net",
+      "server": "109.176.207.202",
+      "server_port": 10444,
+      "uuid": "49f3fec2-1a21-481e-ae65-7c32ae262582",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "serv-ne-4.whit3.net",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4",
+          "short_id": "378086fbdb7c61cd"
+        }
       }
     },
     {
@@ -16063,24 +16624,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇱 Netherlands 6c88 | SNI: yandex.by [CIDR]",
-      "server": "a.l-itx.info",
-      "server_port": 443,
-      "uuid": "7ad4c072-db9e-4e79-a5e1-5ec2c00ee524",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "yandex.by",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA",
-          "short_id": "6ba85179e30d4fc3"
-        }
       }
     },
     {
@@ -19201,24 +19744,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇳🇱 Netherlands a06d | SNI: colorlib.com [CIDR]",
-      "server": "a.l-itx.info",
-      "server_port": 7443,
-      "uuid": "7ad4c072-db9e-4e79-a5e1-5ec2c00ee524",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "colorlib.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA",
-          "short_id": "6ba85179e30d4fc3"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇳🇱 Netherlands a0b5 | SNI: nl1.kickvpn.ru",
       "server": "130.12.242.182",
       "server_port": 443,
@@ -21551,502 +22076,6 @@
       "tag": "🇳🇱 Netherlands c33b",
       "server": "95.85.59.228",
       "server_port": 2096,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c355",
-      "server": "62.84.98.74",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇱 Netherlands c363 | SNI: sni.111000.dns.army",
-      "server": "193.42.110.120",
-      "server_port": 8443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.dns.army",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&https://t.me/WangCai2🇨🇳",
-        "headers": {
-          "Host": "sni.111000.dns.army"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c3db [CIDR]",
-      "server": "195.200.16.192",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇱 Netherlands c409 | SNI: www.deepl.com",
-      "server": "2.27.40.63",
-      "server_port": 443,
-      "uuid": "ae8ddd8e-00af-48e5-bd57-05074a1bbffb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.deepl.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU",
-          "short_id": "c4fb372c78b32874"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c476",
-      "server": "77.105.138.126",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c4c5",
-      "server": "195.123.216.125",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c4ff",
-      "server": "188.166.52.52",
-      "server_port": 2087,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c501",
-      "server": "161.35.155.59",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c591",
-      "server": "134.209.205.250",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c598",
-      "server": "164.92.147.213",
-      "server_port": 2083,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c5ad",
-      "server": "192.81.220.113",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c5b9",
-      "server": "159.65.193.47",
-      "server_port": 2083,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c5fa",
-      "server": "188.226.154.178",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c642",
-      "server": "167.99.40.165",
-      "server_port": 2096,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c6af",
-      "server": "64.227.67.161",
-      "server_port": 2096,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇱 Netherlands c6d5 | SNI: sni.111000.dns.army",
-      "server": "95.85.44.26",
-      "server_port": 443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.dns.army",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3=",
-        "headers": {
-          "Host": "sni.111000.dns.army"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c708",
-      "server": "188.166.103.240",
-      "server_port": 2087,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c733",
-      "server": "167.71.65.205",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c780",
-      "server": "64.227.67.161",
-      "server_port": 2083,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c7a9",
-      "server": "167.99.214.123",
-      "server_port": 2083,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c7b1",
-      "server": "134.209.202.86",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c7e9",
-      "server": "104.248.202.10",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c7f8",
-      "server": "89.110.112.8",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c7ff",
-      "server": "185.14.184.90",
-      "server_port": 2083,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c826",
-      "server": "188.166.75.64",
-      "server_port": 2087,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c871",
-      "server": "178.62.228.15",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c88f",
-      "server": "89.110.112.8",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇱 Netherlands c8f6 | SNI: fuck.rkn",
-      "server": "51.158.206.19",
-      "server_port": 23576,
-      "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "fuck.rkn",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-          "short_id": "01"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c8fa",
-      "server": "89.110.112.211",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c8ff",
-      "server": "146.190.234.20",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c9ac",
-      "server": "209.38.103.169",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands c9e6",
-      "server": "159.65.199.247",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands ca3c",
-      "server": "188.227.86.123",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands ca5f",
-      "server": "159.65.196.52",
-      "server_port": 2087,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands ca65",
-      "server": "89.110.111.27",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands cabd",
-      "server": "103.54.18.22",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands caec",
-      "server": "185.18.52.77",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands cb04",
-      "server": "147.45.170.176",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands cb94",
-      "server": "167.71.2.98",
-      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
