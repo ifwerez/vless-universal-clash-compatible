@@ -14890,6 +14890,21 @@ proxies:
   network: tcp
   tls: false
   client-fingerprint: chrome
+- name: "🇸🇪 Sweden 72de | SNI - ads.x5.ru"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SE.png
+  server: 194.55.239.181
+  port: 9443
+  udp: true
+  type: vless
+  uuid: b4bcdea0-7272-42d9-9df2-2001a55282d6
+  network: tcp
+  tls: true
+  servername: ads.x5.ru
+  client-fingerprint: qq
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic
+    short-id: "abbcd128"
 - name: "🇸🇪 Sweden 7431"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SE.png
   server: 78.40.116.25
@@ -15755,21 +15770,6 @@ proxies:
   reality-opts:
     public-key: 6NHx7OBkTEppAb58ke8XhLDoBrutczt_JPUWP_h9DRE
     short-id: "a9c4f17e3b62d8"
-- name: "🇸🇪 Sweden — #621"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SE.png
-  server: 194.55.239.181
-  port: 9443
-  udp: true
-  type: vless
-  uuid: b4bcdea0-7272-42d9-9df2-2001a55282d6
-  network: tcp
-  tls: true
-  servername: ads.x5.ru
-  client-fingerprint: qq
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic
-    short-id: "abbcd128"
 - name: "🇸🇬 Singapore 02b5 | SNI - babayaga-6i7.pages.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
   server: 167.71.199.136
@@ -19175,6 +19175,7 @@ proxy-groups:
   - "🇸🇪 Sweden 6702 | SNI - www.deepl.com"
   - "🇸🇪 Sweden 6ac3 | SNI - sni.111000.dns.army"
   - "🇸🇪 Sweden 71e2"
+  - "🇸🇪 Sweden 72de | SNI - ads.x5.ru"
   - "🇸🇪 Sweden 7431"
   - "🇸🇪 Sweden 75e2"
   - "🇸🇪 Sweden 76eb"
@@ -19245,7 +19246,6 @@ proxy-groups:
   - "🇸🇪 Sweden fa39 | SNI - babayaga-6i7.pages.dev"
   - "🇸🇪 Sweden faeb | SNI - www.blocket.se"
   - "🇸🇪 Sweden fed8 | SNI - ads.x5.ru"
-  - "🇸🇪 Sweden — #621"
   - "🇸🇬 Singapore 02b5 | SNI - babayaga-6i7.pages.dev"
   - "🇸🇬 Singapore 04e6 | SNI - sni.jpmj.dev"
   - "🇸🇬 Singapore 05c4 | SNI - sn1.skylee5.cloudns.ch"
@@ -19410,13 +19410,13 @@ proxy-groups:
   - 🇷🇺 Russia (349)
   - 🇸🇪 Sweden (121)
   - 🇸🇰 Slovakia (1)
-  - 🇳🇿 New Zealand (1)
   - 🇵🇭 Philippines (1)
   - 🇸🇦 Saudi Arabia (2)
   - 🇸🇬 Singapore (105)
   - 🇹🇭 Thailand (9)
   - 🇹🇷 Turkey (29)
   - 🇹🇼 Taiwan (9)
+  - 🇳🇿 New Zealand (1)
 - name: 🛠️ Protocols
   type: select
   proxies:
@@ -20617,6 +20617,7 @@ proxy-groups:
   - "🇸🇪 Sweden 6702 | SNI - www.deepl.com"
   - "🇸🇪 Sweden 6ac3 | SNI - sni.111000.dns.army"
   - "🇸🇪 Sweden 71e2"
+  - "🇸🇪 Sweden 72de | SNI - ads.x5.ru"
   - "🇸🇪 Sweden 7431"
   - "🇸🇪 Sweden 75e2"
   - "🇸🇪 Sweden 76eb"
@@ -20687,7 +20688,6 @@ proxy-groups:
   - "🇸🇪 Sweden fa39 | SNI - babayaga-6i7.pages.dev"
   - "🇸🇪 Sweden faeb | SNI - www.blocket.se"
   - "🇸🇪 Sweden fed8 | SNI - ads.x5.ru"
-  - "🇸🇪 Sweden — #621"
 - name: 🇸🇬 Singapore (105)
   type: select
   proxies:
@@ -22326,6 +22326,7 @@ proxy-groups:
   - "🇸🇪 Sweden 6702 | SNI - www.deepl.com"
   - "🇸🇪 Sweden 6ac3 | SNI - sni.111000.dns.army"
   - "🇸🇪 Sweden 71e2"
+  - "🇸🇪 Sweden 72de | SNI - ads.x5.ru"
   - "🇸🇪 Sweden 82dc | SNI - sni.111000.v6.rocks"
   - "🇸🇪 Sweden 85b8 | SNI - rutube.ru"
   - "🇸🇪 Sweden 8665 | SNI - www.sony.com"
@@ -22367,7 +22368,6 @@ proxy-groups:
   - "🇸🇪 Sweden fa39 | SNI - babayaga-6i7.pages.dev"
   - "🇸🇪 Sweden faeb | SNI - www.blocket.se"
   - "🇸🇪 Sweden fed8 | SNI - ads.x5.ru"
-  - "🇸🇪 Sweden — #621"
   - "🇸🇬 Singapore 02b5 | SNI - babayaga-6i7.pages.dev"
   - "🇸🇬 Singapore 04e6 | SNI - sni.jpmj.dev"
   - "🇸🇬 Singapore 05c4 | SNI - sn1.skylee5.cloudns.ch"
