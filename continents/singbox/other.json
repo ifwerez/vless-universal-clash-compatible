@@ -25,11 +25,10 @@
       "type": "selector",
       "tag": "proxy",
       "outbounds": [
-        " Unsorted 00d6 | SNI - cdp.x5.ru",
         " Unsorted 00fd | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net",
         " Unsorted 014d",
         " Unsorted 061c",
-        " Unsorted 0733",
+        " Unsorted 06a1",
         " Unsorted 08b3",
         " Unsorted 0dda | SNI - oia8or7k8rs5.zrf.xx.kg",
         " Unsorted 0e4e",
@@ -46,14 +45,11 @@
         " Unsorted 1ecc | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io",
         " Unsorted 1f62 | SNI - ads.x5.ru",
         " Unsorted 1fbb",
-        " Unsorted 1fdb | SNI - cdp.x5.ru",
         " Unsorted 1fdd",
-        " Unsorted 20da | SNI - cdp.x5.ru",
-        " Unsorted 2161 | SNI - cdp.x5.ru",
         " Unsorted 23d0",
         " Unsorted 24f5 | SNI - www.tesla.com",
         " Unsorted 2615",
-        " Unsorted 28c7",
+        " Unsorted 26d1",
         " Unsorted 2a45 | SNI - max.ru",
         " Unsorted 2bfa | SNI - travel.yandex.ru",
         " Unsorted 2c5a",
@@ -63,82 +59,64 @@
         " Unsorted 2eb8",
         " Unsorted 30cd",
         " Unsorted 3358",
-        " Unsorted 336f",
-        " Unsorted 33c7 | SNI - cdp.x5.ru",
-        " Unsorted 3469 | SNI - cdp.x5.ru",
         " Unsorted 3762 | SNI - finite-node.rtxconfigz.com",
         " Unsorted 3813 | SNI - et.seaspirit.dpdns.org",
+        " Unsorted 3882",
         " Unsorted 39bc",
         " Unsorted 3a6e",
-        " Unsorted 3a8c",
         " Unsorted 3bdd",
-        " Unsorted 3d80",
+        " Unsorted 3c5e",
+        " Unsorted 3dc6",
         " Unsorted 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg",
         " Unsorted 4332",
-        " Unsorted 45a6",
+        " Unsorted 44ce",
         " Unsorted 45ff | SNI - sn1.skylee5.cloudns.ch",
+        " Unsorted 4721",
         " Unsorted 483f | SNI - finite-node.rtxconfigz.com",
-        " Unsorted 4e99",
+        " Unsorted 4ce6",
         " Unsorted 4ec5",
-        " Unsorted 4eda | SNI - cdp.x5.ru",
         " Unsorted 51e9",
-        " Unsorted 55fc | SNI - cdp.x5.ru",
-        " Unsorted 56ad",
         " Unsorted 56d3",
         " Unsorted 575f | SNI - www.bing.com",
         " Unsorted 5778",
         " Unsorted 58c2 | SNI - finite-node.rtxconfigz.com",
         " Unsorted 5923",
-        " Unsorted 594d | SNI - cdp.x5.ru",
         " Unsorted 5964",
-        " Unsorted 59ae",
-        " Unsorted 5b20 | SNI - api-maps.yandex.ru",
         " Unsorted 5c27 | SNI - travel.yandex.ru",
-        " Unsorted 5e5b | SNI - cdp.x5.ru",
         " Unsorted 601d",
-        " Unsorted 64fb | SNI - cdp.x5.ru",
+        " Unsorted 6332",
+        " Unsorted 665f",
         " Unsorted 672c",
-        " Unsorted 676b | SNI - cdp.x5.ru",
         " Unsorted 68f5",
-        " Unsorted 691d | SNI - cdp.x5.ru",
-        " Unsorted 694c",
         " Unsorted 6a38",
         " Unsorted 6add",
-        " Unsorted 6cde",
         " Unsorted 6ce4",
-        " Unsorted 6dc2",
         " Unsorted 6f0f",
         " Unsorted 6f6d",
         " Unsorted 7199 | SNI - github.com",
-        " Unsorted 723a | SNI - api-maps.yandex.ru",
         " Unsorted 7387 | SNI - ads.x5.ru",
         " Unsorted 7632 | SNI - max.ru",
         " Unsorted 7aae",
-        " Unsorted 7ada",
         " Unsorted 7cbe",
         " Unsorted 7cf5 | SNI - r8wez3psbuhgs6lgju.sate.qzz.io",
         " Unsorted 7d50 | SNI - api-maps.yandex.ru",
-        " Unsorted 7d78 | SNI - cdp.x5.ru",
         " Unsorted 7d83",
-        " Unsorted 7e36",
         " Unsorted 7f74",
         " Unsorted 7f8f | SNI - max.ru",
         " Unsorted 8281",
-        " Unsorted 8636",
+        " Unsorted 8320",
+        " Unsorted 8345",
         " Unsorted 883c | SNI - et.seaspirit.dpdns.org",
-        " Unsorted 8ada",
-        " Unsorted 8b43 | SNI - cdp.x5.ru",
         " Unsorted 8c37",
         " Unsorted 8c5b | SNI - moon1.realm-of-ultramar.ru",
         " Unsorted 8d91 | SNI - w1ws.listwhite.cc",
-        " Unsorted 8e9d | SNI - cdp.x5.ru",
+        " Unsorted 8f49",
         " Unsorted 8f4e",
         " Unsorted 9123",
         " Unsorted 917c | SNI - io.ozone.ru",
+        " Unsorted 923d",
         " Unsorted 92ed",
-        " Unsorted 9381",
         " Unsorted 953f",
-        " Unsorted 957e | SNI - api-maps.yandex.ru",
         " Unsorted 9abc",
         " Unsorted 9cba",
         " Unsorted 9cef",
@@ -146,61 +124,49 @@
         " Unsorted 9eca",
         " Unsorted 9f1c | SNI - cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev",
         " Unsorted a02f",
-        " Unsorted a2cc",
+        " Unsorted a316",
         " Unsorted a407",
         " Unsorted a572 | SNI - api-maps.yandex.ru",
         " Unsorted a61a",
+        " Unsorted a63b",
         " Unsorted a67b",
-        " Unsorted a7ef | SNI - cdp.x5.ru",
-        " Unsorted ab11 | SNI - cdp.x5.ru",
+        " Unsorted a935",
         " Unsorted abdf",
         " Unsorted abf4 | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net",
-        " Unsorted b0ba",
-        " Unsorted b17c",
         " Unsorted b1ef",
-        " Unsorted b7ab | SNI - api-maps.yandex.ru",
+        " Unsorted b2f1",
+        " Unsorted bb51",
         " Unsorted bebf",
         " Unsorted bfa5",
-        " Unsorted c05f",
         " Unsorted c160",
-        " Unsorted c2bd | SNI - cdp.x5.ru",
         " Unsorted c355",
         " Unsorted c367",
-        " Unsorted c3db",
         " Unsorted c554",
         " Unsorted c86d",
-        " Unsorted c924",
         " Unsorted ca65",
+        " Unsorted cc1d",
         " Unsorted d0c7",
         " Unsorted d0ee",
-        " Unsorted d197 | SNI - cdp.x5.ru",
         " Unsorted d3fb",
+        " Unsorted d616",
         " Unsorted d78e | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net",
         " Unsorted d797",
-        " Unsorted d8d0",
-        " Unsorted d92a",
         " Unsorted dae5",
         " Unsorted dcb5",
         " Unsorted dd37",
-        " Unsorted dfd3",
-        " Unsorted dfed",
         " Unsorted e2b2 | SNI - et.seaspirit.dpdns.org",
         " Unsorted e41b | SNI - max.ru",
         " Unsorted e41c",
         " Unsorted e6f4",
         " Unsorted e76a",
-        " Unsorted ea18 | SNI - cdp.x5.ru",
+        " Unsorted e8eb",
         " Unsorted ed5d | SNI - max.ru",
-        " Unsorted edb8 | SNI - cdp.x5.ru",
         " Unsorted ee5b | SNI - t39sed.gateway-api.sh21.eu.org",
-        " Unsorted efc7",
         " Unsorted f088 | SNI - oia8or7k8rs5.zrf.xx.kg",
-        " Unsorted f41f | SNI - cdp.x5.ru",
-        " Unsorted f4d8 | SNI - top2197697635.mwscdn.ru",
+        " Unsorted f1cb",
+        " Unsorted f4df",
         " Unsorted f5d5",
-        " Unsorted f608",
         " Unsorted f787",
-        " Unsorted f805 | SNI - cdp.x5.ru",
         " Unsorted fae6",
         " Unsorted fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io",
         " Unsorted fe49",
@@ -211,24 +177,6 @@
     {
       "type": "direct",
       "tag": "direct"
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 00d6 | SNI - cdp.x5.ru",
-      "server": "51.250.24.222",
-      "server_port": 443,
-      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
     },
     {
       "type": "vless",
@@ -276,8 +224,8 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted 0733",
-      "server": "93.183.88.9",
+      "tag": " Unsorted 06a1",
+      "server": "193.47.60.37",
       "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -523,24 +471,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted 1fdb | SNI - cdp.x5.ru",
-      "server": "51.250.17.80",
-      "server_port": 443,
-      "uuid": "b59608d6-2385-4441-9a74-6ea2bd3fa74d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": " Unsorted 1fdd",
       "server": "193.222.62.67",
@@ -550,42 +480,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 20da | SNI - cdp.x5.ru",
-      "server": "84.201.136.5",
-      "server_port": 443,
-      "uuid": "b59608d6-2385-4441-9a74-6ea2bd3fa74d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 2161 | SNI - cdp.x5.ru",
-      "server": "51.250.108.162",
-      "server_port": 443,
-      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
       }
     },
     {
@@ -632,8 +526,8 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted 28c7",
-      "server": "45.12.146.59",
+      "tag": " Unsorted 26d1",
+      "server": "89.110.125.232",
       "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -788,54 +682,6 @@
       }
     },
     {
-      "type": "trojan",
-      "tag": " Unsorted 336f",
-      "server": "77.238.255.142",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 33c7 | SNI - cdp.x5.ru",
-      "server": "51.250.24.222",
-      "server_port": 443,
-      "uuid": "b59608d6-2385-4441-9a74-6ea2bd3fa74d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 3469 | SNI - cdp.x5.ru",
-      "server": "84.201.136.5",
-      "server_port": 443,
-      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
       "type": "vless",
       "tag": " Unsorted 3762 | SNI - finite-node.rtxconfigz.com",
       "server": "finite-node.rtxconfigz.com",
@@ -877,6 +723,18 @@
     },
     {
       "type": "trojan",
+      "tag": " Unsorted 3882",
+      "server": "193.164.155.186",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": " Unsorted 39bc",
       "server": "91.84.107.167",
       "server_port": 8443,
@@ -904,18 +762,6 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted 3a8c",
-      "server": "89.110.119.231",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
       "tag": " Unsorted 3bdd",
       "server": "45.38.143.62",
       "server_port": 8443,
@@ -928,8 +774,20 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted 3d80",
-      "server": "89.110.82.19",
+      "tag": " Unsorted 3c5e",
+      "server": "31.56.197.90",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": " Unsorted 3dc6",
+      "server": "62.84.98.74",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -972,8 +830,8 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted 45a6",
-      "server": "89.110.119.10",
+      "tag": " Unsorted 44ce",
+      "server": "185.79.138.12",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -1003,6 +861,18 @@
       }
     },
     {
+      "type": "trojan",
+      "tag": " Unsorted 4721",
+      "server": "80.74.28.213",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
       "type": "vless",
       "tag": " Unsorted 483f | SNI - finite-node.rtxconfigz.com",
       "server": "finite-node.rtxconfigz.com",
@@ -1024,9 +894,9 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted 4e99",
-      "server": "85.193.90.131",
-      "server_port": 2053,
+      "tag": " Unsorted 4ce6",
+      "server": "213.171.26.104",
+      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -1047,57 +917,9 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted 4eda | SNI - cdp.x5.ru",
-      "server": "51.250.17.80",
-      "server_port": 443,
-      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": " Unsorted 51e9",
       "server": "77.110.104.41",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 55fc | SNI - cdp.x5.ru",
-      "server": "51.250.106.87",
-      "server_port": 443,
-      "uuid": "b59608d6-2385-4441-9a74-6ea2bd3fa74d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": " Unsorted 56ad",
-      "server": "31.58.171.152",
       "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -1183,24 +1005,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted 594d | SNI - cdp.x5.ru",
-      "server": "158.160.136.203",
-      "server_port": 443,
-      "uuid": "b59608d6-2385-4441-9a74-6ea2bd3fa74d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": " Unsorted 5964",
       "server": "212.192.8.178",
@@ -1210,36 +1014,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": " Unsorted 59ae",
-      "server": "5.255.118.107",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 5b20 | SNI - api-maps.yandex.ru",
-      "server": "92.255.58.63",
-      "server_port": 443,
-      "uuid": "8e1b4d34-8c80-4586-a5b0-0501179d0607",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "api-maps.yandex.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw",
-          "short_id": "6cc5290e6f0b47c3"
-        }
       }
     },
     {
@@ -1261,24 +1035,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted 5e5b | SNI - cdp.x5.ru",
-      "server": "51.250.106.87",
-      "server_port": 443,
-      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": " Unsorted 601d",
       "server": "138.124.89.189",
@@ -1291,21 +1047,27 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted 64fb | SNI - cdp.x5.ru",
-      "server": "51.250.97.18",
-      "server_port": 443,
-      "uuid": "b59608d6-2385-4441-9a74-6ea2bd3fa74d",
-      "packet_encoding": "xudp",
+      "type": "trojan",
+      "tag": " Unsorted 6332",
+      "server": "152.53.147.108",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": " Unsorted 665f",
+      "server": "195.200.19.244",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
       }
     },
     {
@@ -1321,58 +1083,10 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted 676b | SNI - cdp.x5.ru",
-      "server": "51.250.108.162",
-      "server_port": 443,
-      "uuid": "b59608d6-2385-4441-9a74-6ea2bd3fa74d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": " Unsorted 68f5",
       "server": "79.137.199.237",
       "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 691d | SNI - cdp.x5.ru",
-      "server": "51.250.102.69",
-      "server_port": 443,
-      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": " Unsorted 694c",
-      "server": "185.79.138.12",
-      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -1405,18 +1119,6 @@
       }
     },
     {
-      "type": "trojan",
-      "tag": " Unsorted 6cde",
-      "server": "85.155.98.71",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
       "type": "vless",
       "tag": " Unsorted 6ce4",
       "server": "50.62.198.30",
@@ -1429,18 +1131,6 @@
         "headers": {
           "Host": "vms.lifetime39.workers.dev"
         }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": " Unsorted 6dc2",
-      "server": "109.120.156.122",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
       }
     },
     {
@@ -1482,24 +1172,6 @@
           "enabled": true,
           "public_key": "VH-4z1TvkJLyH9cgwdrhvMevxr3PltSBnMk43X6pi2U",
           "short_id": "086007"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 723a | SNI - api-maps.yandex.ru",
-      "server": "185.14.46.108",
-      "server_port": 443,
-      "uuid": "8e1b4d34-8c80-4586-a5b0-0501179d0607",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "api-maps.yandex.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw",
-          "short_id": "6cc5290e6f0b47c3"
         }
       }
     },
@@ -1555,18 +1227,6 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted 7ada",
-      "server": "151.242.43.44",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
       "tag": " Unsorted 7cbe",
       "server": "84.32.49.95",
       "server_port": 8443,
@@ -1617,24 +1277,6 @@
     },
     {
       "type": "vless",
-      "tag": " Unsorted 7d78 | SNI - cdp.x5.ru",
-      "server": "158.160.130.173",
-      "server_port": 443,
-      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": " Unsorted 7d83",
       "server": "31.12.75.30",
       "server_port": 8880,
@@ -1646,18 +1288,6 @@
         "headers": {
           "Host": "vms.lifetime21.workers.dev"
         }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": " Unsorted 7e36",
-      "server": "89.110.108.206",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
       }
     },
     {
@@ -1704,9 +1334,21 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted 8636",
-      "server": "93.183.88.9",
+      "tag": " Unsorted 8320",
+      "server": "195.200.19.244",
       "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": " Unsorted 8345",
+      "server": "5.255.115.185",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -1731,39 +1373,6 @@
         "path": "/",
         "headers": {
           "Host": "et.seaspirit.dpdns.org"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 8ada",
-      "server": "support.zoom.us",
-      "server_port": 80,
-      "uuid": "fac62eac-1eec-4260-a991-0cac2f8745a3",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/@Tech_Sonic",
-        "headers": {
-          "Host": "free-server.techsonic.ggff.net"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 8b43 | SNI - cdp.x5.ru",
-      "server": "84.201.168.186",
-      "server_port": 443,
-      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
         }
       }
     },
@@ -1817,21 +1426,15 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted 8e9d | SNI - cdp.x5.ru",
-      "server": "158.160.136.203",
-      "server_port": 443,
-      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
-      "packet_encoding": "xudp",
+      "type": "trojan",
+      "tag": " Unsorted 8f49",
+      "server": "212.34.146.6",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
       }
     },
     {
@@ -1878,9 +1481,9 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted 92ed",
-      "server": "77.221.157.251",
-      "server_port": 2087,
+      "tag": " Unsorted 923d",
+      "server": "31.56.197.181",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -1890,9 +1493,9 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted 9381",
-      "server": "138.124.74.104",
-      "server_port": 2053,
+      "tag": " Unsorted 92ed",
+      "server": "77.221.157.251",
+      "server_port": 2087,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -1910,24 +1513,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 957e | SNI - api-maps.yandex.ru",
-      "server": "185.14.46.108",
-      "server_port": 443,
-      "uuid": "1537d854-e09c-481c-b376-0d03fc44f33f",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "api-maps.yandex.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw",
-          "short_id": "6cc5290e6f0b47c3"
-        }
       }
     },
     {
@@ -2025,9 +1610,9 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted a2cc",
-      "server": "109.206.236.221",
-      "server_port": 8443,
+      "tag": " Unsorted a316",
+      "server": "31.56.197.90",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -2079,6 +1664,18 @@
     },
     {
       "type": "trojan",
+      "tag": " Unsorted a63b",
+      "server": "138.124.117.96",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": " Unsorted a67b",
       "server": "77.105.139.166",
       "server_port": 8443,
@@ -2090,39 +1687,15 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted a7ef | SNI - cdp.x5.ru",
-      "server": "158.160.130.173",
-      "server_port": 443,
-      "uuid": "b59608d6-2385-4441-9a74-6ea2bd3fa74d",
-      "packet_encoding": "xudp",
+      "type": "trojan",
+      "tag": " Unsorted a935",
+      "server": "109.248.168.196",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted ab11 | SNI - cdp.x5.ru",
-      "server": "51.250.97.18",
-      "server_port": 443,
-      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
       }
     },
     {
@@ -2159,30 +1732,6 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted b0ba",
-      "server": "46.21.82.168",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": " Unsorted b17c",
-      "server": "151.242.43.77",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
       "tag": " Unsorted b1ef",
       "server": "31.58.171.152",
       "server_port": 8443,
@@ -2194,21 +1743,27 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted b7ab | SNI - api-maps.yandex.ru",
-      "server": "92.255.58.63",
-      "server_port": 443,
-      "uuid": "1537d854-e09c-481c-b376-0d03fc44f33f",
-      "packet_encoding": "xudp",
+      "type": "trojan",
+      "tag": " Unsorted b2f1",
+      "server": "46.149.78.144",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
-        "server_name": "api-maps.yandex.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw",
-          "short_id": "6cc5290e6f0b47c3"
-        }
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": " Unsorted bb51",
+      "server": "155.103.71.153",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
       }
     },
     {
@@ -2240,18 +1795,6 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted c05f",
-      "server": "212.34.146.229",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
       "tag": " Unsorted c160",
       "server": "89.169.1.76",
       "server_port": 8443,
@@ -2260,24 +1803,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted c2bd | SNI - cdp.x5.ru",
-      "server": "84.201.168.186",
-      "server_port": 443,
-      "uuid": "b59608d6-2385-4441-9a74-6ea2bd3fa74d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
       }
     },
     {
@@ -2308,18 +1833,6 @@
       }
     },
     {
-      "type": "trojan",
-      "tag": " Unsorted c3db",
-      "server": "195.200.16.192",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
       "type": "vless",
       "tag": " Unsorted c554",
       "server": "185.193.30.30",
@@ -2347,24 +1860,21 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted c924",
-      "server": "support.zoom.us",
-      "server_port": 8080,
-      "uuid": "759700eb-59a9-4523-9b65-1fe196e00b99",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "finite-node.rtxconfigz.com"
-        }
+      "type": "trojan",
+      "tag": " Unsorted ca65",
+      "server": "89.110.111.27",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
       }
     },
     {
       "type": "trojan",
-      "tag": " Unsorted ca65",
-      "server": "89.110.111.27",
+      "tag": " Unsorted cc1d",
+      "server": "109.120.176.88",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -2398,27 +1908,21 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted d197 | SNI - cdp.x5.ru",
-      "server": "51.250.24.232",
-      "server_port": 443,
-      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
-      "packet_encoding": "xudp",
+      "type": "trojan",
+      "tag": " Unsorted d3fb",
+      "server": "185.65.202.101",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
       }
     },
     {
       "type": "trojan",
-      "tag": " Unsorted d3fb",
-      "server": "185.65.202.101",
+      "tag": " Unsorted d616",
+      "server": "212.34.146.6",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -2461,30 +1965,6 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted d8d0",
-      "server": "109.71.240.207",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": " Unsorted d92a",
-      "server": "31.58.171.7",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
       "tag": " Unsorted dae5",
       "server": "45.38.143.54",
       "server_port": 2053,
@@ -2511,30 +1991,6 @@
       "type": "trojan",
       "tag": " Unsorted dd37",
       "server": "150.241.74.98",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": " Unsorted dfd3",
-      "server": "5.188.118.92",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": " Unsorted dfed",
-      "server": "89.110.125.232",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -2618,21 +2074,15 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted ea18 | SNI - cdp.x5.ru",
-      "server": "51.250.102.69",
-      "server_port": 443,
-      "uuid": "b59608d6-2385-4441-9a74-6ea2bd3fa74d",
-      "packet_encoding": "xudp",
+      "type": "trojan",
+      "tag": " Unsorted e8eb",
+      "server": "77.221.157.251",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
       }
     },
     {
@@ -2650,24 +2100,6 @@
           "enabled": true,
           "public_key": "NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk",
           "short_id": "35a84908e9cfa95c"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted edb8 | SNI - cdp.x5.ru",
-      "server": "84.201.168.220",
-      "server_port": 443,
-      "uuid": "98b38327-bc9d-4b32-8b23-af9c3719b2db",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
         }
       }
     },
@@ -2692,18 +2124,6 @@
       }
     },
     {
-      "type": "trojan",
-      "tag": " Unsorted efc7",
-      "server": "77.238.255.142",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
       "type": "vless",
       "tag": " Unsorted f088 | SNI - oia8or7k8rs5.zrf.xx.kg",
       "server": "91.184.240.106",
@@ -2724,40 +2144,9 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted f41f | SNI - cdp.x5.ru",
-      "server": "84.201.168.220",
-      "server_port": 443,
-      "uuid": "b59608d6-2385-4441-9a74-6ea2bd3fa74d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted f4d8 | SNI - top2197697635.mwscdn.ru",
-      "server": "185.242.19.249",
-      "server_port": 443,
-      "uuid": "80cc3a78-8eb4-4a52-a09e-30cb9bd15458",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "top2197697635.mwscdn.ru",
-        "insecure": false
-      }
-    },
-    {
       "type": "trojan",
-      "tag": " Unsorted f5d5",
-      "server": "77.221.156.92",
+      "tag": " Unsorted f1cb",
+      "server": "77.221.158.36",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -2768,9 +2157,21 @@
     },
     {
       "type": "trojan",
-      "tag": " Unsorted f608",
-      "server": "193.164.155.186",
-      "server_port": 2053,
+      "tag": " Unsorted f4df",
+      "server": "217.114.7.17",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": " Unsorted f5d5",
+      "server": "77.221.156.92",
+      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -2790,24 +2191,6 @@
         "path": "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳",
         "headers": {
           "Host": "vms.lifetime55.workers.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted f805 | SNI - cdp.x5.ru",
-      "server": "51.250.24.232",
-      "server_port": 443,
-      "uuid": "b59608d6-2385-4441-9a74-6ea2bd3fa74d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdp.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
-          "short_id": "8ec792bfd725be8a"
         }
       }
     },
