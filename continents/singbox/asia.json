@@ -26,7 +26,6 @@
       "tag": "proxy",
       "outbounds": [
         "🇦🇪 United Arab Emirates 0d1b | SNI - ex.sue.x10.mx",
-        "🇦🇪 United Arab Emirates 11f5",
         "🇦🇪 United Arab Emirates 1911 | SNI - 1-aym.pages.dev",
         "🇦🇪 United Arab Emirates 61f2 | SNI - juzibaipiao.5112233.xyz",
         "🇦🇪 United Arab Emirates 8757 | SNI - cdn.tracker.yandex.net",
@@ -100,24 +99,20 @@
         "🇭🇰 Hong Kong 7600 | SNI - sni.111000.dns.army",
         "🇭🇰 Hong Kong 85e3 | SNI - sni.111000.v6.rocks",
         "🇭🇰 Hong Kong 8a75 | SNI - babayaga-6i7.pages.dev",
-        "🇭🇰 Hong Kong 8ac0",
         "🇭🇰 Hong Kong 907c",
         "🇭🇰 Hong Kong a44d | SNI - sn1.skylee5.cloudns.ch",
         "🇭🇰 Hong Kong a5fd | SNI - 3-85q.pages.dev",
         "🇭🇰 Hong Kong a716",
         "🇭🇰 Hong Kong a7db",
         "🇭🇰 Hong Kong aa09 | SNI - sni.111000.dns.army",
-        "🇭🇰 Hong Kong acb6",
         "🇭🇰 Hong Kong b17a | SNI - sni.111000.v6.rocks",
         "🇭🇰 Hong Kong b438",
-        "🇭🇰 Hong Kong b5ee",
         "🇭🇰 Hong Kong b6d7",
         "🇭🇰 Hong Kong b716",
         "🇭🇰 Hong Kong b847 | SNI - hk.ap221.com",
         "🇭🇰 Hong Kong ba5c",
         "🇭🇰 Hong Kong bd3f | SNI - ex.sue.x10.mx",
         "🇭🇰 Hong Kong be47 | SNI - sni.111000.dns.army",
-        "🇭🇰 Hong Kong c9bc",
         "🇭🇰 Hong Kong cf05",
         "🇭🇰 Hong Kong d023",
         "🇭🇰 Hong Kong d0cb",
@@ -127,11 +122,9 @@
         "🇭🇰 Hong Kong db0e | SNI - hk.ap221.com",
         "🇭🇰 Hong Kong e152",
         "🇭🇰 Hong Kong e217 | SNI - sn1.skylee5.cloudns.ch",
-        "🇭🇰 Hong Kong e552",
         "🇭🇰 Hong Kong e680",
         "🇭🇰 Hong Kong e8aa | SNI - jp.laoyoutiao.link",
         "🇭🇰 Hong Kong e9d1 | SNI - hk.ap221.com",
-        "🇭🇰 Hong Kong eb38",
         "🇭🇰 Hong Kong ee4c | SNI - cfed.tgzdyz2.top",
         "🇭🇰 Hong Kong f141",
         "🇭🇰 Hong Kong f15f | SNI - 2026.hhhhh.eu.org",
@@ -151,6 +144,7 @@
         "🇮🇳 India c013",
         "🇮🇳 India d08c",
         "🇮🇳 India dd24",
+        "🇯🇵 Japan 01e6",
         "🇯🇵 Japan 0384 | SNI - sni.111000.v6.army",
         "🇯🇵 Japan 049c",
         "🇯🇵 Japan 0bab",
@@ -161,7 +155,6 @@
         "🇯🇵 Japan 17e5 | SNI - yahoo.com",
         "🇯🇵 Japan 1c4a",
         "🇯🇵 Japan 1e28 | SNI - www.icloud.com",
-        "🇯🇵 Japan 232f | SNI - oia8or7k8rs5.zrf.xx.kg",
         "🇯🇵 Japan 260a | SNI - sni.111000.v6.army",
         "🇯🇵 Japan 2705 | SNI - sni.111000.indevs.in",
         "🇯🇵 Japan 33ed",
@@ -173,7 +166,6 @@
         "🇯🇵 Japan 3dd0 | SNI - sni.jpmj.dev",
         "🇯🇵 Japan 3f42 | SNI - 49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org",
         "🇯🇵 Japan 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg",
-        "🇯🇵 Japan 4135",
         "🇯🇵 Japan 42d2 | SNI - www.icloud.com",
         "🇯🇵 Japan 43a1 | SNI - sni.111000.v6.rocks",
         "🇯🇵 Japan 4404 | SNI - www.cloudflare.com",
@@ -202,7 +194,6 @@
         "🇯🇵 Japan 850a",
         "🇯🇵 Japan 85a4 | SNI - 49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org",
         "🇯🇵 Japan 8660 | SNI - 1-jk1.pages.dev",
-        "🇯🇵 Japan 874d",
         "🇯🇵 Japan 897a | SNI - 57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org",
         "🇯🇵 Japan 8b3c | SNI - babayaga-6i7.pages.dev",
         "🇯🇵 Japan 8bde | SNI - 1-aym.pages.dev",
@@ -210,16 +201,13 @@
         "🇯🇵 Japan 9064",
         "🇯🇵 Japan 9336 | SNI - jp1.fromblancwithlove.com",
         "🇯🇵 Japan 99cc | SNI - sni.111000.dns.army",
-        "🇯🇵 Japan 99e4 | SNI - sni.jpmj.dev",
         "🇯🇵 Japan 9b52",
-        "🇯🇵 Japan 9c28",
         "🇯🇵 Japan 9d54",
         "🇯🇵 Japan 9d57 | SNI - babayaga-6i7.pages.dev",
         "🇯🇵 Japan 9d8b",
         "🇯🇵 Japan a18c | SNI - juzibaipiao.5112233.xyz",
         "🇯🇵 Japan a56e",
         "🇯🇵 Japan a5f8 | SNI - sni.111000.indevs.in",
-        "🇯🇵 Japan ab6f",
         "🇯🇵 Japan aced",
         "🇯🇵 Japan ad83",
         "🇯🇵 Japan aff5 | SNI - api.cvs-a.com",
@@ -235,7 +223,6 @@
         "🇯🇵 Japan bf84 | SNI - 7xbq35vdydie5sgv.cctg.xx.kg",
         "🇯🇵 Japan c0c5",
         "🇯🇵 Japan c3ea | SNI - sni.jpmj.dev",
-        "🇯🇵 Japan c951",
         "🇯🇵 Japan cb62",
         "🇯🇵 Japan ce02",
         "🇯🇵 Japan cfdf | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net",
@@ -254,7 +241,6 @@
         "🇯🇵 Japan f819 | SNI - sni.111000.v6.army",
         "🇯🇵 Japan fa68 | SNI - tokyo.ap221.com",
         "🇯🇵 Japan fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io",
-        "🇯🇵 Japan ffc2",
         "🇰🇷 South Korea 062a | SNI - 9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com",
         "🇰🇷 South Korea 0649 | SNI - sni.111000.v6.rocks",
         "🇰🇷 South Korea 0a33 | SNI - 9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com",
@@ -316,7 +302,6 @@
         "🇰🇿 Kazakhstan 6a43 | SNI - 194.58.41.88.fwqfw783rg2dad.website",
         "🇰🇿 Kazakhstan 7537",
         "🇰🇿 Kazakhstan 8cee | SNI - juzibaipiao.5112233.xyz",
-        "🇰🇿 Kazakhstan 91b2",
         "🇰🇿 Kazakhstan 94c5 | SNI - google.com",
         "🇰🇿 Kazakhstan 94fb | SNI - kz.trustnet.sbs",
         "🇰🇿 Kazakhstan b03e | SNI - yahoo.com",
@@ -339,7 +324,6 @@
         "🇸🇬 Singapore 02b5 | SNI - babayaga-6i7.pages.dev",
         "🇸🇬 Singapore 05c4 | SNI - sn1.skylee5.cloudns.ch",
         "🇸🇬 Singapore 0b01",
-        "🇸🇬 Singapore 0ba7",
         "🇸🇬 Singapore 0d00 | SNI - babayaga-6i7.pages.dev",
         "🇸🇬 Singapore 0eae",
         "🇸🇬 Singapore 0ee8 | SNI - sn1.skylee5.cloudns.ch",
@@ -374,7 +358,6 @@
         "🇸🇬 Singapore 504f | SNI - sni.111000.indevs.in",
         "🇸🇬 Singapore 58c2 | SNI - finite-node.rtxconfigz.com",
         "🇸🇬 Singapore 615a | SNI - sni.111000.v6.navy",
-        "🇸🇬 Singapore 6195",
         "🇸🇬 Singapore 6412 | SNI - babayaga-6i7.pages.dev",
         "🇸🇬 Singapore 65fa | SNI - www.sony.com",
         "🇸🇬 Singapore 6641 | SNI - 49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org",
@@ -400,6 +383,7 @@
         "🇸🇬 Singapore 8ad5 | SNI - nisav2de2t0ai8p-hd0.misa.cc.cd",
         "🇸🇬 Singapore 8b2a",
         "🇸🇬 Singapore 8c04 | SNI - sni.111000.indevs.in",
+        "🇸🇬 Singapore 8fd4",
         "🇸🇬 Singapore 903a | SNI - babayaga-6i7.pages.dev",
         "🇸🇬 Singapore 9506",
         "🇸🇬 Singapore 95a2 | SNI - ex.sue.x10.mx",
@@ -431,11 +415,9 @@
         "🇸🇬 Singapore d581 | SNI - babayaga-6i7.pages.dev",
         "🇸🇬 Singapore d728 | SNI - sni.111000.dns.army",
         "🇸🇬 Singapore d931 | SNI - babayaga-6i7.pages.dev",
-        "🇸🇬 Singapore d9d0",
         "🇸🇬 Singapore dab8 | SNI - babayaga-6i7.pages.dev",
         "🇸🇬 Singapore dd13 | SNI - www.icloud.com",
         "🇸🇬 Singapore e1fd | SNI - sni.111000.v6.navy",
-        "🇸🇬 Singapore e382 | SNI - api-maps.yandex.ru",
         "🇸🇬 Singapore e52e | SNI - juzibaipiao.5112233.xyz",
         "🇸🇬 Singapore e53f | SNI - sni.111000.v6.rocks",
         "🇸🇬 Singapore e723 | SNI - babayaga-6i7.pages.dev",
@@ -446,10 +428,11 @@
         "🇸🇬 Singapore f377",
         "🇸🇬 Singapore f416 | SNI - node1.nanonet.host",
         "🇸🇬 Singapore f420 | SNI - babayaga-6i7.pages.dev",
-        "🇸🇬 Singapore f515 | SNI - api-maps.yandex.ru",
         "🇸🇬 Singapore f580 | SNI - 9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com",
+        "🇸🇬 Singapore fa22 | SNI - gogo.onetap.qzz.io",
         "🇸🇬 Singapore fb07 | SNI - nisav2de2t0ai8p-hd0.misa.cc.cd",
         "🇸🇬 Singapore fc04 | SNI - 1-brc.pages.dev",
+        "🇸🇬 Singapore ffc5 | SNI - api-maps.yandex.ru",
         "🇹🇭 Thailand 001e | SNI - api.digital-help-prd.autodesk.com",
         "🇹🇭 Thailand 209d",
         "🇹🇭 Thailand 44ef | SNI - api.digital-help-prd.autodesk.com",
@@ -461,10 +444,12 @@
         "🇹🇭 Thailand f71b",
         "🇹🇷 Turkey 0c2d | SNI - tr-in.api.dznn.net",
         "🇹🇷 Turkey 126d",
+        "🇹🇷 Turkey 1c84 | SNI - max.ru",
         "🇹🇷 Turkey 21b4 | SNI - ozon.ru",
         "🇹🇷 Turkey 2787",
         "🇹🇷 Turkey 28eb",
         "🇹🇷 Turkey 2960 | SNI - sun9-37.userapi.com",
+        "🇹🇷 Turkey 2c64 | SNI - max.ru",
         "🇹🇷 Turkey 30a4",
         "🇹🇷 Turkey 3d4d | SNI - data-tm189.netsnap.ir",
         "🇹🇷 Turkey 4800 | SNI - www.vk.com",
@@ -472,9 +457,7 @@
         "🇹🇷 Turkey 6313 | SNI - www.google.com",
         "🇹🇷 Turkey 653d",
         "🇹🇷 Turkey 68fc",
-        "🇹🇷 Turkey 6e10 | SNI - ads.x5.ru",
         "🇹🇷 Turkey 83af",
-        "🇹🇷 Turkey 8489 | SNI - sso.passport.yandex.ru",
         "🇹🇷 Turkey 84c4 | SNI - tr15sa.mrnafis.com",
         "🇹🇷 Turkey 8971 | SNI - sni.111000.dns.army",
         "🇹🇷 Turkey 949d | SNI - store.steampowered.com",
@@ -484,12 +467,11 @@
         "🇹🇷 Turkey ad4b",
         "🇹🇷 Turkey b218 | SNI - sni.111000.v6.rocks",
         "🇹🇷 Turkey b2b6",
-        "🇹🇷 Turkey bb51",
         "🇹🇷 Turkey bba3",
         "🇹🇷 Turkey bc5b | SNI - 194.58.41.88.fwqfw783rg2dad.website",
-        "🇹🇷 Turkey c573 | SNI - eh.vk.com",
         "🇹🇷 Turkey c9ff | SNI - tr1.cvs-a.com",
         "🇹🇷 Turkey cb1b",
+        "🇹🇷 Turkey cc23 | SNI - ads.x5.ru",
         "🇹🇷 Turkey d36f",
         "🇹🇷 Turkey d719",
         "🇹🇷 Turkey dbb9 | SNI - tr1.cvs-a.com",
@@ -540,15 +522,6 @@
           "Host": "ex.sue.x10.mx"
         }
       }
-    },
-    {
-      "type": "vmess",
-      "tag": "🇦🇪 United Arab Emirates 11f5",
-      "server": "dll.avaaaal.ir",
-      "server_port": 8443,
-      "uuid": "725f5fcd-721d-40a0-ba6b-3c7477633110",
-      "security": "auto",
-      "alter_id": 0
     },
     {
       "type": "vless",
@@ -1717,18 +1690,6 @@
       }
     },
     {
-      "type": "trojan",
-      "tag": "🇭🇰 Hong Kong 8ac0",
-      "server": "8.223.63.189",
-      "server_port": 443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
       "type": "vmess",
       "tag": "🇭🇰 Hong Kong 907c",
       "server": "103.143.238.196",
@@ -1816,18 +1777,6 @@
       }
     },
     {
-      "type": "trojan",
-      "tag": "🇭🇰 Hong Kong acb6",
-      "server": "219.76.13.177",
-      "server_port": 443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
       "type": "vless",
       "tag": "🇭🇰 Hong Kong b17a | SNI - sni.111000.v6.rocks",
       "server": "205.189.160.29",
@@ -1855,18 +1804,6 @@
       "uuid": "1375985e-334a-4c25-8f64-52a182bc8037",
       "security": "auto",
       "alter_id": 0
-    },
-    {
-      "type": "trojan",
-      "tag": "🇭🇰 Hong Kong b5ee",
-      "server": "8.223.63.150",
-      "server_port": 443,
-      "password": "8r%253C%255B9%2527l6hAO%25238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
     },
     {
       "type": "vmess",
@@ -1944,18 +1881,6 @@
         "headers": {
           "Host": "sni.111000.dns.army"
         }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇭🇰 Hong Kong c9bc",
-      "server": "192.131.142.161",
-      "server_port": 46639,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
       }
     },
     {
@@ -2086,18 +2011,6 @@
       }
     },
     {
-      "type": "trojan",
-      "tag": "🇭🇰 Hong Kong e552",
-      "server": "219.76.13.167",
-      "server_port": 443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
       "type": "vless",
       "tag": "🇭🇰 Hong Kong e680",
       "server": "8.217.231.146",
@@ -2135,18 +2048,6 @@
       "tls": {
         "enabled": true,
         "server_name": "hk.ap221.com",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇭🇰 Hong Kong eb38",
-      "server": "213.176.92.138",
-      "server_port": 443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       }
     },
@@ -2438,6 +2339,18 @@
       }
     },
     {
+      "type": "trojan",
+      "tag": "🇯🇵 Japan 01e6",
+      "server": "142.91.108.54",
+      "server_port": 443,
+      "password": "162534",
+      "tls": {
+        "enabled": true,
+        "server_name": "cchh2.pages.dev",
+        "insecure": false
+      }
+    },
+    {
       "type": "vless",
       "tag": "🇯🇵 Japan 0384 | SNI - sni.111000.v6.army",
       "server": "142.91.108.54",
@@ -2589,21 +2502,6 @@
         "reality": {
           "enabled": true,
           "public_key": "Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇯🇵 Japan 232f | SNI - oia8or7k8rs5.zrf.xx.kg",
-      "server": "148.135.95.206",
-      "server_port": 55652,
-      "uuid": "00000000-0000-4000-8000-000000000000",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/@Marisa_kristifp=chromesecurity=tls",
-        "headers": {
-          "Host": "oia8or7k8rs5.zrf.xx.kg"
         }
       }
     },
@@ -2790,18 +2688,6 @@
         "headers": {
           "Host": "oia8or7k8rs5.zrf.xx.kg"
         }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇯🇵 Japan 4135",
-      "server": "103.31.77.108",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
       }
     },
     {
@@ -3284,15 +3170,6 @@
       }
     },
     {
-      "type": "vmess",
-      "tag": "🇯🇵 Japan 874d",
-      "server": "103.127.243.66",
-      "server_port": 54291,
-      "uuid": "c5856e0b-5ca6-49bf-8525-d02af9c37cf5",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
       "type": "vless",
       "tag": "🇯🇵 Japan 897a | SNI - 57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org",
       "server": "140.238.33.0",
@@ -3408,26 +3285,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "🇯🇵 Japan 99e4 | SNI - sni.jpmj.dev",
-      "server": "64.110.104.30",
-      "server_port": 443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.jpmj.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&Telegram🇨🇳 @WangCai2",
-        "headers": {
-          "Host": "sni.jpmj.dev"
-        }
-      }
-    },
-    {
       "type": "vmess",
       "tag": "🇯🇵 Japan 9b52",
       "server": "47.91.19.32",
@@ -3435,15 +3292,6 @@
       "uuid": "a3de462b-0276-4003-8f34-536b0f9d340c",
       "security": "auto",
       "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "🇯🇵 Japan 9c28",
-      "server": "v35.hdacd.com",
-      "server_port": 30835,
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
-      "security": "auto",
-      "alter_id": 2
     },
     {
       "type": "trojan",
@@ -3536,18 +3384,6 @@
         "headers": {
           "Host": "sni.111000.indevs.in"
         }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇯🇵 Japan ab6f",
-      "server": "116.80.61.236",
-      "server_port": 443,
-      "password": "BxceQaOe",
-      "tls": {
-        "enabled": true,
-        "server_name": "t.me/ripaojiedian",
-        "insecure": false
       }
     },
     {
@@ -3769,18 +3605,6 @@
         "headers": {
           "Host": "sni.jpmj.dev"
         }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇯🇵 Japan c951",
-      "server": "103.125.216.22",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
       }
     },
     {
@@ -4076,18 +3900,6 @@
         "headers": {
           "Host": "adv2m5gy-wrhiahph85c.ovtc.qzz.io"
         }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇯🇵 Japan ffc2",
-      "server": "155.248.168.35",
-      "server_port": 18122,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
       }
     },
     {
@@ -5115,21 +4927,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇰🇿 Kazakhstan 91b2",
-      "server": "srv179.towersflowerss.com",
-      "server_port": 443,
-      "uuid": "b43a13be-150c-4a6a-8501-b71c1b6476fb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "srv179.towersflowerss.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇰🇿 Kazakhstan 94c5 | SNI - google.com",
       "server": "raff-vpn-kz-server1.ru",
       "server_port": 443,
@@ -5451,18 +5248,6 @@
       "type": "trojan",
       "tag": "🇸🇬 Singapore 0b01",
       "server": "188.166.247.45",
-      "server_port": 443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇸🇬 Singapore 0ba7",
-      "server": "209.97.163.209",
       "server_port": 443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -6102,18 +5887,6 @@
       }
     },
     {
-      "type": "trojan",
-      "tag": "🇸🇬 Singapore 6195",
-      "server": "27.50.48.253",
-      "server_port": 443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
       "type": "vless",
       "tag": "🇸🇬 Singapore 6412 | SNI - babayaga-6i7.pages.dev",
       "server": "83.229.121.78",
@@ -6570,6 +6343,18 @@
         "headers": {
           "Host": "sni.111000.indevs.in"
         }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇬 Singapore 8fd4",
+      "server": "172.64.152.23",
+      "server_port": 2096,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
       }
     },
     {
@@ -7133,18 +6918,6 @@
       }
     },
     {
-      "type": "trojan",
-      "tag": "🇸🇬 Singapore d9d0",
-      "server": "47.82.160.100",
-      "server_port": 443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
       "type": "vless",
       "tag": "🇸🇬 Singapore dab8 | SNI - babayaga-6i7.pages.dev",
       "server": "141.11.43.124",
@@ -7199,24 +6972,6 @@
         "path": "/?ed=2560&Telegram🇨🇳+@WangCai2",
         "headers": {
           "Host": "sni.111000.v6.navy"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇸🇬 Singapore e382 | SNI - api-maps.yandex.ru",
-      "server": "194.55.239.191",
-      "server_port": 443,
-      "uuid": "9ad7cd9a-0ee4-4a9b-b962-22f33a06ffef",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "api-maps.yandex.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE",
-          "short_id": "abbcd128"
         }
       }
     },
@@ -7402,24 +7157,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇸🇬 Singapore f515 | SNI - api-maps.yandex.ru",
-      "server": "194.55.239.222",
-      "server_port": 443,
-      "uuid": "88a90d16-5cbf-4334-8f9a-d95030cfb670",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "api-maps.yandex.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE",
-          "short_id": "abbcd128"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇸🇬 Singapore f580 | SNI - 9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com",
       "server": "47.237.100.54",
       "server_port": 59242,
@@ -7435,6 +7172,26 @@
         "path": "/@Marisa_kristifp=chrome",
         "headers": {
           "Host": "9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇸🇬 Singapore fa22 | SNI - gogo.onetap.qzz.io",
+      "server": "172.188.241.82",
+      "server_port": 443,
+      "uuid": "ce069292-c8bf-40dd-a6b1-87818a1e64e9",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "gogo.onetap.qzz.io",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "gogo.onetap.qzz.io"
         }
       }
     },
@@ -7475,6 +7232,24 @@
         "path": "/",
         "headers": {
           "Host": "1-brc.pages.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇸🇬 Singapore ffc5 | SNI - api-maps.yandex.ru",
+      "server": "194.55.239.191",
+      "server_port": 443,
+      "uuid": "ca55adec-6a4e-4403-888c-31e6c204b971",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "api-maps.yandex.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE",
+          "short_id": "abbcd128"
         }
       }
     },
@@ -7639,6 +7414,24 @@
     },
     {
       "type": "vless",
+      "tag": "🇹🇷 Turkey 1c84 | SNI - max.ru",
+      "server": "95.163.211.240",
+      "server_port": 7443,
+      "uuid": "0c3df692-c23c-4bc2-83b0-b69fad0481ee",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "max.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇹🇷 Turkey 21b4 | SNI - ozon.ru",
       "server": "62.60.233.178",
       "server_port": 52000,
@@ -7691,6 +7484,24 @@
           "enabled": true,
           "public_key": "RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE",
           "short_id": "abbcd128"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇹🇷 Turkey 2c64 | SNI - max.ru",
+      "server": "95.163.211.237",
+      "server_port": 7443,
+      "uuid": "0c3df692-c23c-4bc2-83b0-b69fad0481ee",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "max.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
         }
       }
     },
@@ -7795,24 +7606,6 @@
       "alter_id": 0
     },
     {
-      "type": "vless",
-      "tag": "🇹🇷 Turkey 6e10 | SNI - ads.x5.ru",
-      "server": "95.163.211.237",
-      "server_port": 7443,
-      "uuid": "54ea569c-6b90-4661-af07-e58cbffca731",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "ads.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        }
-      }
-    },
-    {
       "type": "vmess",
       "tag": "🇹🇷 Turkey 83af",
       "server": "snappfood.ir",
@@ -7820,24 +7613,6 @@
       "uuid": "6d658352-571f-4cb6-9205-d7c02331fa86",
       "security": "auto",
       "alter_id": 0
-    },
-    {
-      "type": "vless",
-      "tag": "🇹🇷 Turkey 8489 | SNI - sso.passport.yandex.ru",
-      "server": "95.163.211.240",
-      "server_port": 7443,
-      "uuid": "54ea569c-6b90-4661-af07-e58cbffca731",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sso.passport.yandex.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        }
-      }
     },
     {
       "type": "vless",
@@ -7987,18 +7762,6 @@
     },
     {
       "type": "trojan",
-      "tag": "🇹🇷 Turkey bb51",
-      "server": "155.103.71.153",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
       "tag": "🇹🇷 Turkey bba3",
       "server": "93.115.10.237",
       "server_port": 2053,
@@ -8029,24 +7792,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇹🇷 Turkey c573 | SNI - eh.vk.com",
-      "server": "91.219.227.203",
-      "server_port": 7443,
-      "uuid": "54ea569c-6b90-4661-af07-e58cbffca731",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "eh.vk.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
-          "short_id": "7dbf7d3233971d5c"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇹🇷 Turkey c9ff | SNI - tr1.cvs-a.com",
       "server": "tr1.cvs-a.com",
       "server_port": 443,
@@ -8073,6 +7818,24 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇹🇷 Turkey cc23 | SNI - ads.x5.ru",
+      "server": "91.219.227.203",
+      "server_port": 7443,
+      "uuid": "0c3df692-c23c-4bc2-83b0-b69fad0481ee",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        }
       }
     },
     {
