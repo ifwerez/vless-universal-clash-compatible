@@ -31,7 +31,6 @@
         "🇦🇺 Australia 71f3 | SNI - www.tesla.com",
         "🇦🇺 Australia 96af | SNI - yahoo.com",
         "🇦🇺 Australia b9ae | SNI - yahoo.com",
-        "🇳🇿 New Zealand 39b2",
         "🇳🇿 New Zealand 98af | SNI - tradingview.com"
       ]
     },
@@ -145,18 +144,6 @@
           "public_key": "5x6nErZvJp6uFYQ4VkOZSrnz4FWNRvYJqTfimjuBOCw",
           "short_id": "be125600cea6"
         }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇿 New Zealand 39b2",
-      "server": "45.15.140.128",
-      "server_port": 4443,
-      "password": "strong-secret-pass-777",
-      "tls": {
-        "enabled": true,
-        "server_name": "45.15.140.128",
-        "insecure": false
       }
     },
     {
