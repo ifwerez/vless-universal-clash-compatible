@@ -29,15 +29,10 @@
         "🇨🇳 China fa0a | SNI - ch.jugploer.icu",
         "🇭🇰 Hong Kong 1606 | SNI - cz.rumost.top",
         "🇭🇰 Hong Kong 5540 | SNI - google.com",
-        "🇮🇩 Indonesia 1f23 | SNI - max.ru",
-        "🇮🇩 Indonesia 47ae | SNI - ads.x5.ru",
-        "🇮🇩 Indonesia 66bb | SNI - ads.x5.ru",
-        "🇮🇩 Indonesia c703 | SNI - ads.x5.ru",
         "🇮🇳 India 0658 | SNI - api.cvs-a.com",
         "🇯🇵 Japan 3c39 | SNI - jp.jugploer.icu",
         "🇯🇵 Japan ae07 | SNI - www.microsoft.com",
         "🇯🇵 Japan aff5 | SNI - api.cvs-a.com",
-        "🇰🇷 South Korea 4c25",
         "🇰🇿 Kazakhstan 0347 | SNI - www.id.vk.ru",
         "🇰🇿 Kazakhstan 0a91 | SNI - panel.cvs-a.com",
         "🇰🇿 Kazakhstan 2a1b | SNI - kz2-in.api.dznn.net",
@@ -48,8 +43,6 @@
         "🇰🇿 Kazakhstan 94fb | SNI - kz.trustnet.sbs",
         "🇰🇿 Kazakhstan b762 | SNI - bucket-ru-5.extravpn.io",
         "🇰🇿 Kazakhstan d1e2 | SNI - www.google.com",
-        "🇸🇬 Singapore 1224 | SNI - partner.zoom.us",
-        "🇸🇬 Singapore 8a63",
         "🇸🇬 Singapore 9b0f",
         "🇸🇬 Singapore e856 | SNI - api-maps.yandex.ru",
         "🇹🇷 Turkey 0c2d | SNI - tr-in.api.dznn.net",
@@ -137,78 +130,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇮🇩 Indonesia 1f23 | SNI - max.ru",
-      "server": "51.250.45.194",
-      "server_port": 8443,
-      "uuid": "ee072301-4354-4163-afef-3b374e7e03e8",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "max.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04",
-          "short_id": "e57932a42872a362"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇮🇩 Indonesia 47ae | SNI - ads.x5.ru",
-      "server": "51.250.45.194",
-      "server_port": 443,
-      "uuid": "eeeb1d51-3242-4786-a996-882214debdc1",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "ads.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04",
-          "short_id": "c6ef72e4635d15a5"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇮🇩 Indonesia 66bb | SNI - ads.x5.ru",
-      "server": "51.250.45.194",
-      "server_port": 8443,
-      "uuid": "c016350c-60fa-40e9-8e1e-d6f63bcf8a60",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "ads.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04",
-          "short_id": "205748bc0f24a747"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇮🇩 Indonesia c703 | SNI - ads.x5.ru",
-      "server": "51.250.45.194",
-      "server_port": 8443,
-      "uuid": "eeeb1d51-3242-4786-a996-882214debdc1",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "ads.x5.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04",
-          "short_id": "c6ef72e4635d15a5"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇮🇳 India 0658 | SNI - api.cvs-a.com",
       "server": "mid.cvs-a.com",
       "server_port": 8893,
@@ -276,18 +197,6 @@
           "public_key": "vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY",
           "short_id": "bb55683efa59799d"
         }
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇰🇷 South Korea 4c25",
-      "server": "47.80.6.141",
-      "server_port": 443,
-      "password": "how8JSc5DuJbiH5Du6sVtel5OJiMz3UTu0/6CRY/Se4=",
-      "tls": {
-        "enabled": true,
-        "server_name": "apps.apple.com",
-        "insecure": true
       }
     },
     {
@@ -460,36 +369,6 @@
           "enabled": true,
           "public_key": "mVdzom1e9afBTvsad76ZEsyQh9xSCZPUKo7CPPLaZAc",
           "short_id": "196dad1410aa3891"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇸🇬 Singapore 1224 | SNI - partner.zoom.us",
-      "server": "partner.zoom.us",
-      "server_port": 80,
-      "uuid": "fac62eac-1eec-4260-a991-0cac2f8745a3",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/@Tech_Sonic",
-        "headers": {
-          "Host": "free-server.techsonic.ggff.net"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇸🇬 Singapore 8a63",
-      "server": "141.193.213.21",
-      "server_port": 80,
-      "uuid": "fac62eac-1eec-4260-a991-0cac2f8745a3",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/@Tech_Sonic",
-        "headers": {
-          "Host": "free-server.techsonic.ggff.net"
         }
       }
     },
