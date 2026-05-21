@@ -39,7 +39,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: XHnwfyEySdx57QT_8P_7vDVFzdLHO4tO9BQOsHxxlEk
-    short-id: "8810c789eea55c28"
+    short-id: 8810c789eea55c28
 - name: "🇦🇺 Australia 4cec | SNI - yahoo.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AU.png
   server: 54.252.231.115
@@ -54,22 +54,7 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: kPx16abMZD2x6dv7NW_hn1HSc2P8RsPptytcCT-neQs
-    short-id: "bd711c02c8dc9955"
-- name: "🇦🇺 Australia 5db8 | SNI - www.tesla.com"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AU.png
-  server: 54.253.37.164
-  port: 23951
-  udp: true
-  type: vless
-  uuid: 3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e
-  network: tcp
-  tls: true
-  servername: www.tesla.com
-  client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0
-    short-id: "8c4907b7884b31"
+    short-id: bd711c02c8dc9955
 - name: "🇦🇺 Australia 71f3 | SNI - www.tesla.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AU.png
   server: 3.106.214.88
@@ -84,22 +69,42 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: uAhNpK_fDxgKKNtYtUs2uB79V28pjFv1-Mh7D4PTaW8
-    short-id: "1b665f78655294"
-- name: "🇦🇺 Australia 96af | SNI - yahoo.com"
+    short-id: 1b665f78655294
+- name: "🇦🇺 Australia 7b84"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AU.png
-  server: 3.106.54.135
-  port: 57001
+  server: 162.159.60.173
+  port: 8880
   udp: true
   type: vless
-  uuid: 30ac5a8b-5022-43c0-b0c2-11b9a98a986e
+  uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
   network: tcp
+  tls: false
+  client-fingerprint: chrome
+- name: "🇦🇺 Australia b418"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AU.png
+  server: 192.65.217.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: vms.lifetime37.workers.dev
+- name: "🇦🇺 Australia b671"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AU.png
+  server: sy4.620720.xyz
+  port: 443
+  udp: true
+  type: vmess
+  uuid: 516d8a7a-3f0b-41d3-bad0-246116381516
+  cipher: auto
+  alterId: 0
+  network: ws
   tls: true
-  servername: yahoo.com
-  client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: aSK0B0bgRalAWw_5d7buTjy4dYLF2WGTZhUojypI618
-    short-id: "b2dd66706eb2"
 - name: "🇦🇺 Australia b9ae | SNI - yahoo.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AU.png
   server: 13.239.112.139
@@ -114,7 +119,43 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 5x6nErZvJp6uFYQ4VkOZSrnz4FWNRvYJqTfimjuBOCw
-    short-id: "be125600cea6"
+    short-id: be125600cea6
+- name: "🇦🇺 Australia ce25"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AU.png
+  server: 45.15.185.17
+  port: 80
+  udp: true
+  type: vmess
+  uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4
+  cipher: auto
+  alterId: 0
+  network: ws
+  tls: false
+- name: "🇦🇺 Australia ec93"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AU.png
+  server: 188.114.98.0
+  port: 443
+  udp: true
+  type: vless
+  uuid: f9912d4e-bb46-4934-bbfa-d933074f044c
+  network: tcp
+  tls: false
+  client-fingerprint: chrome
+- name: "🇳🇿 New Zealand 5320 | SNI - sni.jpmj.dev"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NZ.png
+  server: 114.129.43.238
+  port: 2096
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: true
+  servername: sni.jpmj.dev
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?Telegram🇨🇳@WangCai2="
+    headers:
+      Host: sni.jpmj.dev
 - name: "🇳🇿 New Zealand 98af | SNI - tradingview.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NZ.png
   server: 45.15.140.128
