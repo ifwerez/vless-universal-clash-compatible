@@ -25,216 +25,6 @@ tun:
   auto-route: true
   auto-detect-interface: true
 proxies:
-- name: "🇺🇸 United States  Unsorted 2eb8 [CIDR]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 138.124.60.93
-  port: 8443
-  udp: true
-  type: trojan
-  password: "8r%3C%5B9%27l6hAO%238ZQi"
-  tls: true
-  sni: Koma-YT.PAGeS.Dev
-- name: "🇺🇸 United States  Unsorted 3348"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 82.198.246.37
-  port: 180
-  udp: true
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-  cipher: auto
-  alterId: 0
-  network: tcp
-  tls: false
-- name: "🇺🇸 United States  Unsorted 345c | SNI - us.nodes.rocketnetwork.ru"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: us.nodes.rocketnetwork.ru
-  port: 443
-  udp: true
-  type: vless
-  uuid: 49a74c22-64e6-4799-aeb7-ae6f51bc1ddf
-  network: tcp
-  tls: true
-  servername: us.nodes.rocketnetwork.ru
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs
-    short-id: "428ef87fd47a3a32"
-- name: "🇺🇸 United States  Unsorted 371e | SNI - fuck.rkn"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 15.204.97.206
-  port: 443
-  udp: true
-  type: vless
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-  network: tcp
-  tls: true
-  servername: fuck.rkn
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: "01"
-- name: "🇺🇸 United States  Unsorted 40df | SNI - sni.my111000.tech"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 8.34.146.191
-  port: 443
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: true
-  servername: sni.my111000.tech
-  client-fingerprint: chrome
-  ws-opts:
-    path: "Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2/"
-    headers:
-      Host: sni.my111000.tech
-- name: "🇺🇸 United States  Unsorted 4565 | SNI - qyi.fqjd663.ggff.net"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: franklinandwillow.com
-  port: 2053
-  udp: true
-  type: vless
-  uuid: 8c4604ef-749c-4b56-adf1-7da405002a21
-  network: ws
-  tls: true
-  servername: qyi.fqjd663.ggff.net
-  client-fingerprint: randomized
-  ws-opts:
-    path: "/?ed=2048"
-    headers:
-      Host: qyi.fqjd663.ggff.net
-- name: "🇺🇸 United States  Unsorted 4c7e"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: support.zoom.us
-  port: 8080
-  udp: true
-  type: vless
-  uuid: d4951d91-23e0-4301-a1ea-5300e0b5ec67
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: /free.server.techsonic.me
-    headers:
-      Host: free.server.techsonic.me
-- name: "🇺🇸 United States  Unsorted 50f8"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 216.106.183.35
-  port: 22324
-  udp: true
-  type: vmess
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-  cipher: auto
-  alterId: 0
-  network: tcp
-  tls: false
-- name: "🇺🇸 United States  Unsorted 5475"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: mfa.gov.ua
-  port: 443
-  udp: true
-  type: trojan
-  password: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63
-  tls: true
-  sni: cloudflare-proxy-1jk.pages.dev
-- name: "🇺🇸 United States  Unsorted 56fa | SNI - api.xwhiteness.site"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: api.xwhiteness.site
-  port: 443
-  udp: true
-  type: vless
-  uuid: a2b2a4fb-7b34-472b-b4c0-e206fef1edfc
-  network: tcp
-  tls: true
-  servername: api.xwhiteness.site
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: O_9ei7ZOt11ZZGqQdW6AO2N06ikHfoRKSxW9aR5rLRo
-- name: "🇺🇸 United States  Unsorted 5aa4 | SNI - qyi.fqjd663.ggff.net"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 141.193.213.10
-  port: 443
-  udp: true
-  type: vless
-  uuid: 8c4604ef-749c-4b56-adf1-7da405002a21
-  network: ws
-  tls: true
-  servername: qyi.fqjd663.ggff.net
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: qyi.fqjd663.ggff.net
-- name: "🇺🇸 United States  Unsorted 5bb7 | SNI - juzi8186.qea.ccwu.cc"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: mfa.gov.ua
-  port: 443
-  udp: true
-  type: vless
-  uuid: bafacd98-136a-4530-838d-4e5c51838dac
-  network: ws
-  tls: true
-  servername: juzi8186.qea.ccwu.cc
-  client-fingerprint: firefox
-  ws-opts:
-    path: "/f/members/category/juzibaipiao?ed=2560"
-    headers:
-      Host: juzi8186.qea.ccwu.cc
-- name: "🇺🇸 United States  Unsorted 5cd7"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 67.209.184.142
-  port: 43474
-  udp: true
-  type: vmess
-  uuid: 8bd1fbf2-cef1-4e54-aa5b-ba7bde574dd9
-  cipher: auto
-  alterId: 0
-  network: tcp
-  tls: false
-- name: "🇺🇸 United States  Unsorted 5ef2 | SNI - qyi.fqjd663.ggff.net"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: fairfaxcountyeda.org
-  port: 2053
-  udp: true
-  type: vless
-  uuid: 8c4604ef-749c-4b56-adf1-7da405002a21
-  network: ws
-  tls: true
-  servername: qyi.fqjd663.ggff.net
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: qyi.fqjd663.ggff.net
-- name: "🇺🇸 United States  Unsorted 610c"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 67.220.72.237
-  port: 22324
-  udp: true
-  type: vmess
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-  cipher: auto
-  alterId: 0
-  network: tcp
-  tls: false
-- name: "🇺🇸 United States  Unsorted 68b4 | SNI - qyi.fqjd663.ggff.net"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: www.panel.com
-  port: 2053
-  udp: true
-  type: vless
-  uuid: 8c4604ef-749c-4b56-adf1-7da405002a21
-  network: ws
-  tls: true
-  servername: qyi.fqjd663.ggff.net
-  client-fingerprint: randomized
-  ws-opts:
-    path: "/?ed=2048"
-    headers:
-      Host: qyi.fqjd663.ggff.net
 - name: "🇺🇸 United States  Unsorted 6aab"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 107.172.75.141
@@ -337,6 +127,15 @@ proxies:
   alterId: 0
   network: tcp
   tls: false
+- name: "🇺🇸 United States  Unsorted 9ed9"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: www.multiplydose.com
+  port: 443
+  udp: true
+  type: trojan
+  password: humanity
+  tls: true
+  sni: www.multiplydose.com
 - name: "🇺🇸 United States  Unsorted a177 | SNI - qyi.fqjd663.ggff.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: www.bigcommerce.com
@@ -541,21 +340,6 @@ proxies:
   alterId: 0
   network: tcp
   tls: false
-- name: "🇺🇸 United States  Unsorted cfd2 | SNI - juzi8186.qea.ccwu.cc"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: cf8.danfeng.eu.org
-  port: 2096
-  udp: true
-  type: vless
-  uuid: bafacd98-136a-4530-838d-4e5c51838dac
-  network: ws
-  tls: true
-  servername: juzi8186.qea.ccwu.cc
-  client-fingerprint: firefox
-  ws-opts:
-    path: "/show/about/juzibaipiao?ed=2560"
-    headers:
-      Host: juzi8186.qea.ccwu.cc
 - name: "🇺🇸 United States  Unsorted d26c"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 82.198.246.97
@@ -621,15 +405,21 @@ proxies:
     short-id: "c7b99c"
   grpc-opts:
     grpc-service-name: uncoveredjack
-- name: "🇺🇸 United States  Unsorted e4d2"
+- name: "🇺🇸 United States  Unsorted ec24 | SNI - qyi.fqjd663.ggff.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: www.ignitelimit.com
-  port: 443
+  server: www.hivenet.com
+  port: 2053
   udp: true
-  type: trojan
-  password: humanity
+  type: vless
+  uuid: 8c4604ef-749c-4b56-adf1-7da405002a21
+  network: ws
   tls: true
-  sni: www.ignitelimit.com
+  servername: qyi.fqjd663.ggff.net
+  client-fingerprint: randomized
+  ws-opts:
+    path: "/?ed=2048"
+    headers:
+      Host: qyi.fqjd663.ggff.net
 - name: "🇺🇸 United States  Unsorted fe49 [CIDR]"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 104.167.196.91
@@ -654,6 +444,21 @@ proxies:
     path: /static/question/readme
     headers:
       Host: pagescm.freen36.cc.cd
+- name: "🇺🇸 United States 0f6c | SNI - www.microsoft.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 132.226.85.167
+  port: 443
+  udp: true
+  type: vless
+  uuid: e43dd231-7c75-4606-80ec-50fbb8335ce7
+  network: tcp
+  tls: true
+  servername: www.microsoft.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: 3ik9ws7ATJ5dKDY2Fofv9y7_vpFYsTqgOJRxiQKwA3A
+    short-id: "7b233a973c94ca0a"
 - name: "🇺🇸 United States 1ab1 | SNI - juzi.qea.ccwu.cc"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 104.25.252.37
@@ -732,20 +537,6 @@ proxies:
   password: r137979f
   tls: true
   sni: sheleqaz.emotionreza.workers.dev
-- name: "🇺🇸 United States 8cd4 | SNI - www.amazon.com"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 47.251.25.74
-  port: 443
-  udp: true
-  type: vless
-  uuid: 18805ff3-b420-45de-af18-93be14024ae8
-  network: tcp
-  tls: true
-  servername: www.amazon.com
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8
 - name: "🇺🇸 United States 9a66 | SNI - babayaga-6i7.pages.dev"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 38.244.31.27
@@ -1150,21 +941,6 @@ proxies:
     path: "/?ed=2560&Telegram🇨🇳@WangCai2"
     headers:
       Host: babayaga-6i7.pages.dev
-- name: "🇺🇸 United States 🇺🇸 United States 0f6c | SNI - www.microsoft.com"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 132.226.85.167
-  port: 443
-  udp: true
-  type: vless
-  uuid: e43dd231-7c75-4606-80ec-50fbb8335ce7
-  network: tcp
-  tls: true
-  servername: www.microsoft.com
-  client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  reality-opts:
-    public-key: 3ik9ws7ATJ5dKDY2Fofv9y7_vpFYsTqgOJRxiQKwA3A
-    short-id: "7b233a973c94ca0a"
 - name: "🇺🇸 United States 🇺🇸 United States 0fe0"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 8.6.112.0
@@ -3475,6 +3251,20 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇺🇸 United States 🇺🇸 United States 8cd4 | SNI - www.amazon.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 47.251.25.74
+  port: 443
+  udp: true
+  type: vless
+  uuid: 18805ff3-b420-45de-af18-93be14024ae8
+  network: tcp
+  tls: true
+  servername: www.amazon.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8
 - name: "🇺🇸 United States 🇺🇸 United States 8ece"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 198.12.144.50
@@ -5118,6 +4908,20 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇺🇸 United States 🇺🇸 United States e694 | SNI - cloud.globaledgenet.com"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: cloud.globaledgenet.com
+  port: 443
+  udp: true
+  type: vless
+  uuid: bc9639fa-6600-43ff-9a43-eb34ad192810
+  network: tcp
+  tls: true
+  servername: cloud.globaledgenet.com
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  reality-opts:
+    public-key: rRGPedMea32_bsWFx_fxQPy-50TOF6KbBAmYL2rkmQ4
 - name: "🇺🇸 United States 🇺🇸 United States e98b | SNI - sni.latonyamadeline.ndjp.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 77.110.124.132
@@ -5473,31 +5277,15 @@ proxy-groups:
 - name: PROXY
   type: select
   proxies:
-  - ⚡ Best Ping (447)
+  - ⚡ Best Ping (432)
   - 🌍 Continents
   - 🛠️ Protocols
-- name: ⚡ Best Ping (447)
+- name: ⚡ Best Ping (432)
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 50
   proxies:
-  - "🇺🇸 United States  Unsorted 2eb8 [CIDR]"
-  - "🇺🇸 United States  Unsorted 3348"
-  - "🇺🇸 United States  Unsorted 345c | SNI - us.nodes.rocketnetwork.ru"
-  - "🇺🇸 United States  Unsorted 371e | SNI - fuck.rkn"
-  - "🇺🇸 United States  Unsorted 40df | SNI - sni.my111000.tech"
-  - "🇺🇸 United States  Unsorted 4565 | SNI - qyi.fqjd663.ggff.net"
-  - "🇺🇸 United States  Unsorted 4c7e"
-  - "🇺🇸 United States  Unsorted 50f8"
-  - "🇺🇸 United States  Unsorted 5475"
-  - "🇺🇸 United States  Unsorted 56fa | SNI - api.xwhiteness.site"
-  - "🇺🇸 United States  Unsorted 5aa4 | SNI - qyi.fqjd663.ggff.net"
-  - "🇺🇸 United States  Unsorted 5bb7 | SNI - juzi8186.qea.ccwu.cc"
-  - "🇺🇸 United States  Unsorted 5cd7"
-  - "🇺🇸 United States  Unsorted 5ef2 | SNI - qyi.fqjd663.ggff.net"
-  - "🇺🇸 United States  Unsorted 610c"
-  - "🇺🇸 United States  Unsorted 68b4 | SNI - qyi.fqjd663.ggff.net"
   - "🇺🇸 United States  Unsorted 6aab"
   - "🇺🇸 United States  Unsorted 6de8"
   - "🇺🇸 United States  Unsorted 7c80 | SNI - qyi.fqjd663.ggff.net"
@@ -5506,6 +5294,7 @@ proxy-groups:
   - "🇺🇸 United States  Unsorted 8ada"
   - "🇺🇸 United States  Unsorted 9560"
   - "🇺🇸 United States  Unsorted 986d"
+  - "🇺🇸 United States  Unsorted 9ed9"
   - "🇺🇸 United States  Unsorted a177 | SNI - qyi.fqjd663.ggff.net"
   - "🇺🇸 United States  Unsorted a201 | SNI - juzi8186.qea.ccwu.cc"
   - "🇺🇸 United States  Unsorted a264"
@@ -5521,22 +5310,21 @@ proxy-groups:
   - "🇺🇸 United States  Unsorted c1e2"
   - "🇺🇸 United States  Unsorted c291 | SNI - 3-bio.pages.dev"
   - "🇺🇸 United States  Unsorted c65d"
-  - "🇺🇸 United States  Unsorted cfd2 | SNI - juzi8186.qea.ccwu.cc"
   - "🇺🇸 United States  Unsorted d26c"
   - "🇺🇸 United States  Unsorted d65c"
   - "🇺🇸 United States  Unsorted d7c4 | SNI - qyi.fqjd663.ggff.net"
   - "🇺🇸 United States  Unsorted d7ee | SNI - ohio.ap221.com"
   - "🇺🇸 United States  Unsorted da85 | SNI - github.com"
-  - "🇺🇸 United States  Unsorted e4d2"
+  - "🇺🇸 United States  Unsorted ec24 | SNI - qyi.fqjd663.ggff.net"
   - "🇺🇸 United States  Unsorted fe49 [CIDR]"
   - "🇺🇸 United States 0840 | SNI - pagescm.freen36.cc.cd"
+  - "🇺🇸 United States 0f6c | SNI - www.microsoft.com"
   - "🇺🇸 United States 1ab1 | SNI - juzi.qea.ccwu.cc"
   - "🇺🇸 United States 1c71"
   - "🇺🇸 United States 2cd3"
   - "🇺🇸 United States 53f4 | SNI - babayaga-6i7.pages.dev"
   - "🇺🇸 United States 62d1"
   - "🇺🇸 United States 773d"
-  - "🇺🇸 United States 8cd4 | SNI - www.amazon.com"
   - "🇺🇸 United States 9a66 | SNI - babayaga-6i7.pages.dev"
   - "🇺🇸 United States 9a7d | SNI - sni.my111000.tech"
   - "🇺🇸 United States b27b | SNI - momi.timoreyhaneh.workers.dev"
@@ -5569,7 +5357,6 @@ proxy-groups:
   - "🇺🇸 United States 🇺🇸 United States 0df7 | SNI - usvless.yydzx.xyz"
   - "🇺🇸 United States 🇺🇸 United States 0ef4"
   - "🇺🇸 United States 🇺🇸 United States 0f3f | SNI - babayaga-6i7.pages.dev"
-  - "🇺🇸 United States 🇺🇸 United States 0f6c | SNI - www.microsoft.com"
   - "🇺🇸 United States 🇺🇸 United States 0fe0"
   - "🇺🇸 United States 🇺🇸 United States 1029"
   - "🇺🇸 United States 🇺🇸 United States 103f | SNI - t39sed.gateway-api.sh21.eu.org"
@@ -5763,6 +5550,7 @@ proxy-groups:
   - "🇺🇸 United States 🇺🇸 United States 8c4b"
   - "🇺🇸 United States 🇺🇸 United States 8c75 | SNI - usa1.jugploer.icu"
   - "🇺🇸 United States 🇺🇸 United States 8cb2"
+  - "🇺🇸 United States 🇺🇸 United States 8cd4 | SNI - www.amazon.com"
   - "🇺🇸 United States 🇺🇸 United States 8ece"
   - "🇺🇸 United States 🇺🇸 United States 8f2a | SNI - ohio.ap221.com"
   - "🇺🇸 United States 🇺🇸 United States 8f51"
@@ -5902,6 +5690,7 @@ proxy-groups:
   - "🇺🇸 United States 🇺🇸 United States e4b5"
   - "🇺🇸 United States 🇺🇸 United States e50d"
   - "🇺🇸 United States 🇺🇸 United States e656"
+  - "🇺🇸 United States 🇺🇸 United States e694 | SNI - cloud.globaledgenet.com"
   - "🇺🇸 United States 🇺🇸 United States e98b | SNI - sni.latonyamadeline.ndjp.net"
   - "🇺🇸 United States 🇺🇸 United States e9c9"
   - "🇺🇸 United States 🇺🇸 United States eac6 | SNI - www.icloud.com"
@@ -5932,33 +5721,17 @@ proxy-groups:
 - name: 🌍 Continents
   type: select
   proxies:
-  - 🇺🇸 United States (446)
   - 🇻🇳 Vietnam (1)
+  - 🇺🇸 United States (431)
 - name: 🛠️ Protocols
   type: select
   proxies:
-  - 🛠️ TROJAN (177)
-  - 🛠️ VLESS (238)
-  - 🛠️ VMESS (32)
-- name: 🇺🇸 United States (446)
+  - 🛠️ TROJAN (175)
+  - 🛠️ VLESS (229)
+  - 🛠️ VMESS (28)
+- name: 🇺🇸 United States (431)
   type: select
   proxies:
-  - "🇺🇸 United States  Unsorted 2eb8 [CIDR]"
-  - "🇺🇸 United States  Unsorted 3348"
-  - "🇺🇸 United States  Unsorted 345c | SNI - us.nodes.rocketnetwork.ru"
-  - "🇺🇸 United States  Unsorted 371e | SNI - fuck.rkn"
-  - "🇺🇸 United States  Unsorted 40df | SNI - sni.my111000.tech"
-  - "🇺🇸 United States  Unsorted 4565 | SNI - qyi.fqjd663.ggff.net"
-  - "🇺🇸 United States  Unsorted 4c7e"
-  - "🇺🇸 United States  Unsorted 50f8"
-  - "🇺🇸 United States  Unsorted 5475"
-  - "🇺🇸 United States  Unsorted 56fa | SNI - api.xwhiteness.site"
-  - "🇺🇸 United States  Unsorted 5aa4 | SNI - qyi.fqjd663.ggff.net"
-  - "🇺🇸 United States  Unsorted 5bb7 | SNI - juzi8186.qea.ccwu.cc"
-  - "🇺🇸 United States  Unsorted 5cd7"
-  - "🇺🇸 United States  Unsorted 5ef2 | SNI - qyi.fqjd663.ggff.net"
-  - "🇺🇸 United States  Unsorted 610c"
-  - "🇺🇸 United States  Unsorted 68b4 | SNI - qyi.fqjd663.ggff.net"
   - "🇺🇸 United States  Unsorted 6aab"
   - "🇺🇸 United States  Unsorted 6de8"
   - "🇺🇸 United States  Unsorted 7c80 | SNI - qyi.fqjd663.ggff.net"
@@ -5967,6 +5740,7 @@ proxy-groups:
   - "🇺🇸 United States  Unsorted 8ada"
   - "🇺🇸 United States  Unsorted 9560"
   - "🇺🇸 United States  Unsorted 986d"
+  - "🇺🇸 United States  Unsorted 9ed9"
   - "🇺🇸 United States  Unsorted a177 | SNI - qyi.fqjd663.ggff.net"
   - "🇺🇸 United States  Unsorted a201 | SNI - juzi8186.qea.ccwu.cc"
   - "🇺🇸 United States  Unsorted a264"
@@ -5982,22 +5756,21 @@ proxy-groups:
   - "🇺🇸 United States  Unsorted c1e2"
   - "🇺🇸 United States  Unsorted c291 | SNI - 3-bio.pages.dev"
   - "🇺🇸 United States  Unsorted c65d"
-  - "🇺🇸 United States  Unsorted cfd2 | SNI - juzi8186.qea.ccwu.cc"
   - "🇺🇸 United States  Unsorted d26c"
   - "🇺🇸 United States  Unsorted d65c"
   - "🇺🇸 United States  Unsorted d7c4 | SNI - qyi.fqjd663.ggff.net"
   - "🇺🇸 United States  Unsorted d7ee | SNI - ohio.ap221.com"
   - "🇺🇸 United States  Unsorted da85 | SNI - github.com"
-  - "🇺🇸 United States  Unsorted e4d2"
+  - "🇺🇸 United States  Unsorted ec24 | SNI - qyi.fqjd663.ggff.net"
   - "🇺🇸 United States  Unsorted fe49 [CIDR]"
   - "🇺🇸 United States 0840 | SNI - pagescm.freen36.cc.cd"
+  - "🇺🇸 United States 0f6c | SNI - www.microsoft.com"
   - "🇺🇸 United States 1ab1 | SNI - juzi.qea.ccwu.cc"
   - "🇺🇸 United States 1c71"
   - "🇺🇸 United States 2cd3"
   - "🇺🇸 United States 53f4 | SNI - babayaga-6i7.pages.dev"
   - "🇺🇸 United States 62d1"
   - "🇺🇸 United States 773d"
-  - "🇺🇸 United States 8cd4 | SNI - www.amazon.com"
   - "🇺🇸 United States 9a66 | SNI - babayaga-6i7.pages.dev"
   - "🇺🇸 United States 9a7d | SNI - sni.my111000.tech"
   - "🇺🇸 United States b27b | SNI - momi.timoreyhaneh.workers.dev"
@@ -6030,7 +5803,6 @@ proxy-groups:
   - "🇺🇸 United States 🇺🇸 United States 0df7 | SNI - usvless.yydzx.xyz"
   - "🇺🇸 United States 🇺🇸 United States 0ef4"
   - "🇺🇸 United States 🇺🇸 United States 0f3f | SNI - babayaga-6i7.pages.dev"
-  - "🇺🇸 United States 🇺🇸 United States 0f6c | SNI - www.microsoft.com"
   - "🇺🇸 United States 🇺🇸 United States 0fe0"
   - "🇺🇸 United States 🇺🇸 United States 1029"
   - "🇺🇸 United States 🇺🇸 United States 103f | SNI - t39sed.gateway-api.sh21.eu.org"
@@ -6224,6 +5996,7 @@ proxy-groups:
   - "🇺🇸 United States 🇺🇸 United States 8c4b"
   - "🇺🇸 United States 🇺🇸 United States 8c75 | SNI - usa1.jugploer.icu"
   - "🇺🇸 United States 🇺🇸 United States 8cb2"
+  - "🇺🇸 United States 🇺🇸 United States 8cd4 | SNI - www.amazon.com"
   - "🇺🇸 United States 🇺🇸 United States 8ece"
   - "🇺🇸 United States 🇺🇸 United States 8f2a | SNI - ohio.ap221.com"
   - "🇺🇸 United States 🇺🇸 United States 8f51"
@@ -6363,6 +6136,7 @@ proxy-groups:
   - "🇺🇸 United States 🇺🇸 United States e4b5"
   - "🇺🇸 United States 🇺🇸 United States e50d"
   - "🇺🇸 United States 🇺🇸 United States e656"
+  - "🇺🇸 United States 🇺🇸 United States e694 | SNI - cloud.globaledgenet.com"
   - "🇺🇸 United States 🇺🇸 United States e98b | SNI - sni.latonyamadeline.ndjp.net"
   - "🇺🇸 United States 🇺🇸 United States e9c9"
   - "🇺🇸 United States 🇺🇸 United States eac6 | SNI - www.icloud.com"
@@ -6396,17 +6170,15 @@ proxy-groups:
 - name: 🌎 Americas (1)
   type: select
   proxies:
-  - 🇺🇸 United States (446)
+  - 🇺🇸 United States (431)
 - name: 🌏 Asia (1)
   type: select
   proxies:
   - 🇻🇳 Vietnam (1)
-- name: 🛠️ TROJAN (177)
+- name: 🛠️ TROJAN (175)
   type: select
   proxies:
-  - "🇺🇸 United States  Unsorted 2eb8 [CIDR]"
-  - "🇺🇸 United States  Unsorted 5475"
-  - "🇺🇸 United States  Unsorted e4d2"
+  - "🇺🇸 United States  Unsorted 9ed9"
   - "🇺🇸 United States  Unsorted fe49 [CIDR]"
   - "🇺🇸 United States 773d"
   - "🇺🇸 United States 🇺🇸 United States 0115"
@@ -6581,19 +6353,9 @@ proxy-groups:
   - "🇺🇸 United States 🇺🇸 United States f4db"
   - "🇺🇸 United States 🇺🇸 United States fe4a"
   - "🇺🇸 United States 🇺🇸 United States ff7e"
-- name: 🛠️ VLESS (238)
+- name: 🛠️ VLESS (229)
   type: select
   proxies:
-  - "🇺🇸 United States  Unsorted 345c | SNI - us.nodes.rocketnetwork.ru"
-  - "🇺🇸 United States  Unsorted 371e | SNI - fuck.rkn"
-  - "🇺🇸 United States  Unsorted 40df | SNI - sni.my111000.tech"
-  - "🇺🇸 United States  Unsorted 4565 | SNI - qyi.fqjd663.ggff.net"
-  - "🇺🇸 United States  Unsorted 4c7e"
-  - "🇺🇸 United States  Unsorted 56fa | SNI - api.xwhiteness.site"
-  - "🇺🇸 United States  Unsorted 5aa4 | SNI - qyi.fqjd663.ggff.net"
-  - "🇺🇸 United States  Unsorted 5bb7 | SNI - juzi8186.qea.ccwu.cc"
-  - "🇺🇸 United States  Unsorted 5ef2 | SNI - qyi.fqjd663.ggff.net"
-  - "🇺🇸 United States  Unsorted 68b4 | SNI - qyi.fqjd663.ggff.net"
   - "🇺🇸 United States  Unsorted 6de8"
   - "🇺🇸 United States  Unsorted 7c80 | SNI - qyi.fqjd663.ggff.net"
   - "🇺🇸 United States  Unsorted 8992 | SNI - fuck.rkn"
@@ -6609,16 +6371,16 @@ proxy-groups:
   - "🇺🇸 United States  Unsorted b8b2 | SNI - sni.my111000.tech"
   - "🇺🇸 United States  Unsorted c1e2"
   - "🇺🇸 United States  Unsorted c291 | SNI - 3-bio.pages.dev"
-  - "🇺🇸 United States  Unsorted cfd2 | SNI - juzi8186.qea.ccwu.cc"
   - "🇺🇸 United States  Unsorted d7c4 | SNI - qyi.fqjd663.ggff.net"
   - "🇺🇸 United States  Unsorted d7ee | SNI - ohio.ap221.com"
   - "🇺🇸 United States  Unsorted da85 | SNI - github.com"
+  - "🇺🇸 United States  Unsorted ec24 | SNI - qyi.fqjd663.ggff.net"
   - "🇺🇸 United States 0840 | SNI - pagescm.freen36.cc.cd"
+  - "🇺🇸 United States 0f6c | SNI - www.microsoft.com"
   - "🇺🇸 United States 1ab1 | SNI - juzi.qea.ccwu.cc"
   - "🇺🇸 United States 2cd3"
   - "🇺🇸 United States 53f4 | SNI - babayaga-6i7.pages.dev"
   - "🇺🇸 United States 62d1"
-  - "🇺🇸 United States 8cd4 | SNI - www.amazon.com"
   - "🇺🇸 United States 9a66 | SNI - babayaga-6i7.pages.dev"
   - "🇺🇸 United States 9a7d | SNI - sni.my111000.tech"
   - "🇺🇸 United States b27b | SNI - momi.timoreyhaneh.workers.dev"
@@ -6639,7 +6401,6 @@ proxy-groups:
   - "🇺🇸 United States 🇺🇸 United States 09f4"
   - "🇺🇸 United States 🇺🇸 United States 0df7 | SNI - usvless.yydzx.xyz"
   - "🇺🇸 United States 🇺🇸 United States 0f3f | SNI - babayaga-6i7.pages.dev"
-  - "🇺🇸 United States 🇺🇸 United States 0f6c | SNI - www.microsoft.com"
   - "🇺🇸 United States 🇺🇸 United States 103f | SNI - t39sed.gateway-api.sh21.eu.org"
   - "🇺🇸 United States 🇺🇸 United States 1048 | SNI - jbp7i.data-edge.chinav.indevs.in"
   - "🇺🇸 United States 🇺🇸 United States 118f | SNI - ohio1.ap221.com"
@@ -6736,6 +6497,7 @@ proxy-groups:
   - "🇺🇸 United States 🇺🇸 United States 8a63"
   - "🇺🇸 United States 🇺🇸 United States 8ae0 | SNI - sni.111000.dynv6.net"
   - "🇺🇸 United States 🇺🇸 United States 8c75 | SNI - usa1.jugploer.icu"
+  - "🇺🇸 United States 🇺🇸 United States 8cd4 | SNI - www.amazon.com"
   - "🇺🇸 United States 🇺🇸 United States 8ece"
   - "🇺🇸 United States 🇺🇸 United States 8f2a | SNI - ohio.ap221.com"
   - "🇺🇸 United States 🇺🇸 United States 90ed"
@@ -6804,6 +6566,7 @@ proxy-groups:
   - "🇺🇸 United States 🇺🇸 United States e1da | SNI - y6-3cj.pages.dev"
   - "🇺🇸 United States 🇺🇸 United States e2f2 | SNI - apple.com"
   - "🇺🇸 United States 🇺🇸 United States e3b0 | SNI - sn1.skylee5.cloudns.ch"
+  - "🇺🇸 United States 🇺🇸 United States e694 | SNI - cloud.globaledgenet.com"
   - "🇺🇸 United States 🇺🇸 United States e98b | SNI - sni.latonyamadeline.ndjp.net"
   - "🇺🇸 United States 🇺🇸 United States eac6 | SNI - www.icloud.com"
   - "🇺🇸 United States 🇺🇸 United States eb3d | SNI - babayaga-6i7.pages.dev"
@@ -6822,13 +6585,9 @@ proxy-groups:
   - "🇺🇸 United States 🇺🇸 United States fa2f | SNI - sni.jpmj.dev"
   - "🇺🇸 United States 🇺🇸 United States ffce | SNI - babayaga-6i7.pages.dev"
   - "🇻🇳 Vietnam 1894 | SNI - babayaga-6i7.pages.dev"
-- name: 🛠️ VMESS (32)
+- name: 🛠️ VMESS (28)
   type: select
   proxies:
-  - "🇺🇸 United States  Unsorted 3348"
-  - "🇺🇸 United States  Unsorted 50f8"
-  - "🇺🇸 United States  Unsorted 5cd7"
-  - "🇺🇸 United States  Unsorted 610c"
   - "🇺🇸 United States  Unsorted 6aab"
   - "🇺🇸 United States  Unsorted 8815"
   - "🇺🇸 United States  Unsorted 9560"
