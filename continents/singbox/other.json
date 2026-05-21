@@ -59,7 +59,6 @@
         " Unsorted 29f5 | SNI - cdp.x5.ru",
         " Unsorted 2a45 | SNI - max.ru",
         " Unsorted 2bb8 | SNI - cdp.x5.ru",
-        " Unsorted 2bb9 | SNI - t39sed.gateway-api.sh21.eu.org",
         " Unsorted 2bfa | SNI - travel.yandex.ru",
         " Unsorted 2c5a",
         " Unsorted 2c9c | SNI - s1.ws.listwhite.cc",
@@ -75,8 +74,6 @@
         " Unsorted 3762 | SNI - finite-node.rtxconfigz.com",
         " Unsorted 3813 | SNI - et.seaspirit.dpdns.org",
         " Unsorted 3882",
-        " Unsorted 3912 | SNI - t39sed.gateway-api.sh21.eu.org",
-        " Unsorted 3963 | SNI - t39sed.gateway-api.sh21.eu.org",
         " Unsorted 39bc",
         " Unsorted 3a8c",
         " Unsorted 3bdd",
@@ -87,6 +84,7 @@
         " Unsorted 45ff | SNI - sn1.skylee5.cloudns.ch",
         " Unsorted 46af | SNI - cdp.x5.ru",
         " Unsorted 4721",
+        " Unsorted 483f | SNI - finite-node.rtxconfigz.com",
         " Unsorted 490e | SNI - ads.x5.ru",
         " Unsorted 4986 | SNI - cdp.x5.ru",
         " Unsorted 4e99",
@@ -102,7 +100,6 @@
         " Unsorted 5964",
         " Unsorted 59ae",
         " Unsorted 5b38 | SNI - cdp.x5.ru",
-        " Unsorted 5bf8 | SNI - t39sed.gateway-api.sh21.eu.org",
         " Unsorted 5c27 | SNI - travel.yandex.ru",
         " Unsorted 5f5e | SNI - ads.x5.ru",
         " Unsorted 601d",
@@ -161,7 +158,6 @@
         " Unsorted a619 | SNI - ads.x5.ru",
         " Unsorted a61a",
         " Unsorted a63b",
-        " Unsorted a64d | SNI - t39sed.gateway-api.sh21.eu.org",
         " Unsorted a660 | SNI - cdp.x5.ru",
         " Unsorted a67b",
         " Unsorted a7ff | SNI - api-maps.yandex.ru",
@@ -177,11 +173,9 @@
         " Unsorted bfd9 | SNI - cdp.x5.ru",
         " Unsorted c05f",
         " Unsorted c160",
-        " Unsorted c181 | SNI - t39sed.gateway-api.sh21.eu.org",
         " Unsorted c2c0 | SNI - ads.x5.ru",
         " Unsorted c355",
         " Unsorted c3db",
-        " Unsorted c529 | SNI - t39sed.gateway-api.sh21.eu.org",
         " Unsorted c727",
         " Unsorted c86d",
         " Unsorted c98d",
@@ -215,17 +209,13 @@
         " Unsorted e754",
         " Unsorted e76a",
         " Unsorted e8eb",
-        " Unsorted ea79 | SNI - t39sed.gateway-api.sh21.eu.org",
-        " Unsorted ebe9 | SNI - t39sed.gateway-api.sh21.eu.org",
         " Unsorted ec9d",
         " Unsorted ed5d | SNI - max.ru",
         " Unsorted ede1 | SNI - cdp.x5.ru",
         " Unsorted efc7",
-        " Unsorted f141 | SNI - t39sed.gateway-api.sh21.eu.org",
         " Unsorted f1cb",
         " Unsorted f485 | SNI - obhod.riotvpn.eu",
         " Unsorted f4df",
-        " Unsorted f506 | SNI - t39sed.gateway-api.sh21.eu.org",
         " Unsorted f5d5",
         " Unsorted f9e8 | SNI - ads.x5.ru",
         " Unsorted fe49",
@@ -748,26 +738,6 @@
     },
     {
       "type": "vless",
-      "tag": " Unsorted 2bb9 | SNI - t39sed.gateway-api.sh21.eu.org",
-      "server": "109.69.57.181",
-      "server_port": 443,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "t39sed.gateway-api.sh21.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=firefox",
-        "headers": {
-          "Host": "t39sed.gateway-api.sh21.eu.org"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": " Unsorted 2bfa | SNI - travel.yandex.ru",
       "server": "51.250.29.224",
       "server_port": 48206,
@@ -1012,46 +982,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted 3912 | SNI - t39sed.gateway-api.sh21.eu.org",
-      "server": "210.16.65.149",
-      "server_port": 443,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "t39sed.gateway-api.sh21.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=firefox",
-        "headers": {
-          "Host": "t39sed.gateway-api.sh21.eu.org"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 3963 | SNI - t39sed.gateway-api.sh21.eu.org",
-      "server": "14.63.31.79",
-      "server_port": 28017,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "t39sed.gateway-api.sh21.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=firefox",
-        "headers": {
-          "Host": "t39sed.gateway-api.sh21.eu.org"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": " Unsorted 39bc",
       "server": "91.84.107.167",
@@ -1183,6 +1113,26 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": " Unsorted 483f | SNI - finite-node.rtxconfigz.com",
+      "server": "finite-node.rtxconfigz.com",
+      "server_port": 443,
+      "uuid": "a5d740d3-2af5-49c2-bfca-f0983456f5fc",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "finite-node.rtxconfigz.com",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "web.whatsapp.net"
+        }
       }
     },
     {
@@ -1405,26 +1355,6 @@
           "enabled": true,
           "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
           "short_id": "8ec792bfd725be8a"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted 5bf8 | SNI - t39sed.gateway-api.sh21.eu.org",
-      "server": "185.39.51.124",
-      "server_port": 36284,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "t39sed.gateway-api.sh21.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=firefox",
-        "headers": {
-          "Host": "t39sed.gateway-api.sh21.eu.org"
         }
       }
     },
@@ -2284,26 +2214,6 @@
     },
     {
       "type": "vless",
-      "tag": " Unsorted a64d | SNI - t39sed.gateway-api.sh21.eu.org",
-      "server": "185.241.42.216",
-      "server_port": 443,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "t39sed.gateway-api.sh21.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=firefox",
-        "headers": {
-          "Host": "t39sed.gateway-api.sh21.eu.org"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": " Unsorted a660 | SNI - cdp.x5.ru",
       "server": "51.250.24.222",
       "server_port": 443,
@@ -2508,26 +2418,6 @@
     },
     {
       "type": "vless",
-      "tag": " Unsorted c181 | SNI - t39sed.gateway-api.sh21.eu.org",
-      "server": "103.90.75.121",
-      "server_port": 443,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "t39sed.gateway-api.sh21.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=chrome",
-        "headers": {
-          "Host": "t39sed.gateway-api.sh21.eu.org"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": " Unsorted c2c0 | SNI - ads.x5.ru",
       "server": "178.250.243.142",
       "server_port": 443,
@@ -2566,26 +2456,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted c529 | SNI - t39sed.gateway-api.sh21.eu.org",
-      "server": "27.100.182.157",
-      "server_port": 20005,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "t39sed.gateway-api.sh21.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=firefox",
-        "headers": {
-          "Host": "t39sed.gateway-api.sh21.eu.org"
-        }
       }
     },
     {
@@ -3035,46 +2905,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted ea79 | SNI - t39sed.gateway-api.sh21.eu.org",
-      "server": "62.133.60.155",
-      "server_port": 443,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "t39sed.gateway-api.sh21.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=firefox",
-        "headers": {
-          "Host": "t39sed.gateway-api.sh21.eu.org"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted ebe9 | SNI - t39sed.gateway-api.sh21.eu.org",
-      "server": "142.248.219.98",
-      "server_port": 2053,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "t39sed.gateway-api.sh21.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=chrome",
-        "headers": {
-          "Host": "t39sed.gateway-api.sh21.eu.org"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": " Unsorted ec9d",
       "server": "212.34.146.229",
@@ -3135,26 +2965,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": " Unsorted f141 | SNI - t39sed.gateway-api.sh21.eu.org",
-      "server": "103.39.78.118",
-      "server_port": 8443,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "t39sed.gateway-api.sh21.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=firefox",
-        "headers": {
-          "Host": "t39sed.gateway-api.sh21.eu.org"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": " Unsorted f1cb",
       "server": "77.221.158.36",
@@ -3189,26 +2999,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": " Unsorted f506 | SNI - t39sed.gateway-api.sh21.eu.org",
-      "server": "103.232.213.245",
-      "server_port": 39835,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "t39sed.gateway-api.sh21.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=firefox",
-        "headers": {
-          "Host": "t39sed.gateway-api.sh21.eu.org"
-        }
       }
     },
     {
