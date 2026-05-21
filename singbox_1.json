@@ -25,15 +25,26 @@
       "type": "selector",
       "tag": "proxy",
       "outbounds": [
-        "47.81.15.70:4274 [unsorted]",
-        "47.81.15.70:4274 [unsorted]",
-        "🇺🇳 910161",
+        "@",
+        "none",
+        "🇺🇳 209354",
+        "🇺🇳 382893",
+        "🇺🇳 384299",
+        "🇺🇳 461091",
+        "🇺🇳 521897",
+        "🇺🇳 692817",
+        "🇺🇳 696696",
+        "🇺🇳 717749",
+        "🇺🇳 861847",
+        "🇺🇳 900524",
         "📦 Unsorted 00b7",
         "📦 Unsorted 0195",
-        "📦 Unsorted 06c3",
-        "📦 Unsorted 06ec",
+        "📦 Unsorted 02dd | SNI: 638981351826446112.insight-amshd.com",
+        "📦 Unsorted 040f",
         "📦 Unsorted 070e | SNI: pa-7oa.pages.dev",
+        "📦 Unsorted 0717 | SNI: id.x5.ru",
         "📦 Unsorted 0746",
+        "📦 Unsorted 07c3 | SNI: ads.x5.ru",
         "📦 Unsorted 0829",
         "📦 Unsorted 0878 | SNI: 3-7v4.pages.dev",
         "📦 Unsorted 0917",
@@ -41,30 +52,35 @@
         "📦 Unsorted 0aa1",
         "📦 Unsorted 0b30 | SNI: sni.111000.v6.army",
         "📦 Unsorted 0b31",
+        "📦 Unsorted 0b6b | SNI: video.intfreed.ru",
         "📦 Unsorted 0bb3",
         "📦 Unsorted 0c0a",
         "📦 Unsorted 0c12 | SNI: statue.lnmarketplace.net",
         "📦 Unsorted 0dd8 | SNI: sub.sesrsa.com",
+        "📦 Unsorted 0ddb",
         "📦 Unsorted 0df8",
         "📦 Unsorted 0e4b",
         "📦 Unsorted 0ff1 | SNI: wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET",
         "📦 Unsorted 1003 | SNI: gogo10.kmj.qzz.io",
-        "📦 Unsorted 1083",
         "📦 Unsorted 10d4 | SNI: sni.111000.v6.army",
-        "📦 Unsorted 1252 | SNI: 2-1ng.pages.dev",
+        "📦 Unsorted 1108 | SNI: 5post-gate.x5.ru",
         "📦 Unsorted 1280 | SNI: hetz.x-smm.com",
         "📦 Unsorted 12bc | SNI: sni.latonyamadeline.ndjp.net",
         "📦 Unsorted 12e2 | SNI: cdn-alman3.arfilter2.blog",
         "📦 Unsorted 1333",
-        "📦 Unsorted 13c2",
+        "📦 Unsorted 13b6 | SNI: 639003456258253450.mustang-amsit.info",
         "📦 Unsorted 13ec",
         "📦 Unsorted 1495 | SNI: sni.111000.indevs.in",
         "📦 Unsorted 14fb | SNI: sni.my111000.tech",
+        "📦 Unsorted 1500 | SNI: terazhedi.info",
         "📦 Unsorted 1510",
         "📦 Unsorted 153d | SNI: web.eitaa.com",
         "📦 Unsorted 1562 | SNI: gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net",
+        "📦 Unsorted 15d0 | SNI: api-maps.yandex.ru",
         "📦 Unsorted 165d | SNI: allison.kosmolet.xyz",
+        "📦 Unsorted 169e",
         "📦 Unsorted 17de | SNI: japan.geodema.network",
+        "📦 Unsorted 17e0 | SNI: 5post-gate.x5.ru",
         "📦 Unsorted 1919 | SNI: sni.111000.indevs.in",
         "📦 Unsorted 196f",
         "📦 Unsorted 19d1",
@@ -72,16 +88,19 @@
         "📦 Unsorted 1a39",
         "📦 Unsorted 1ae5 | SNI: sni.111000.v6.rocks",
         "📦 Unsorted 1b15 | SNI: whatsapp.com",
+        "📦 Unsorted 1b1b",
         "📦 Unsorted 1bab",
         "📦 Unsorted 1cbd | SNI: sni.111000.v6.army",
         "📦 Unsorted 1ce5 | SNI: hetz.x-smm.com",
         "📦 Unsorted 1d1b",
+        "📦 Unsorted 1d4b | SNI: vangoghh.info",
         "📦 Unsorted 1daa | SNI: sni.my111000.tech",
         "📦 Unsorted 1e60 | SNI: juzi8186.qea.ccwu.cc",
         "📦 Unsorted 1e8c | SNI: hetz.x-smm.com",
+        "📦 Unsorted 1fbe",
         "📦 Unsorted 1ff2",
+        "📦 Unsorted 20b3 | SNI: 5post-gate.x5.ru",
         "📦 Unsorted 2115",
-        "📦 Unsorted 2197 | SNI: pavosilene.qzz.io",
         "📦 Unsorted 21e7 | SNI: babayaga-6i7.pages.dev",
         "📦 Unsorted 2259 | SNI: sni.jpmj.dev",
         "📦 Unsorted 22f0",
@@ -89,17 +108,21 @@
         "📦 Unsorted 2460",
         "📦 Unsorted 253a | SNI: vless.hubp.de",
         "📦 Unsorted 2603 | SNI: babayaga-6i7.pages.dev",
+        "📦 Unsorted 2635 | SNI: 638990351320529492.prius-amshz.info",
         "📦 Unsorted 2668 | SNI: babayaga-6i7.pages.dev",
         "📦 Unsorted 26b8",
         "📦 Unsorted 287b | SNI: sni.my111000.tech",
+        "📦 Unsorted 2a60 | SNI: wl-5-2.nodes.ac",
+        "📦 Unsorted 2b36 | SNI: cdnjs.com",
         "📦 Unsorted 2df6 | SNI: www.wikipedia.org",
+        "📦 Unsorted 2df9",
         "📦 Unsorted 2e89",
         "📦 Unsorted 2ea3 | SNI: afrcloud22.mmv.kr",
         "📦 Unsorted 30f8 | SNI: sni.latonyamadeline.ndjp.net",
+        "📦 Unsorted 30ff | SNI: ovhwuxian.pai50288.uk",
         "📦 Unsorted 3183 | SNI: fast01.0860852.xyz",
         "📦 Unsorted 31c3 | SNI: hetz.x-smm.com",
         "📦 Unsorted 31ca",
-        "📦 Unsorted 32ee | SNI: google.com",
         "📦 Unsorted 330d",
         "📦 Unsorted 3466",
         "📦 Unsorted 3560 | SNI: terazhedi.info",
@@ -107,59 +130,75 @@
         "📦 Unsorted 3939",
         "📦 Unsorted 3a16 | SNI: 8j3f7HD37h.PaGES.dEV",
         "📦 Unsorted 3a2d | SNI: sni.111000.v6.army",
-        "📦 Unsorted 3b2d",
+        "📦 Unsorted 3bb7",
         "📦 Unsorted 3d3a",
-        "📦 Unsorted 3d64 | SNI: www.vk.com",
         "📦 Unsorted 3ea5 | SNI: sni.111000.indevs.in",
+        "📦 Unsorted 3f6f | SNI: 5JxGp6VrFh.SmArTtEcHzAaL.iNfO",
         "📦 Unsorted 4183",
         "📦 Unsorted 44a6 | SNI: sni.111000.cc.cd",
         "📦 Unsorted 4563 | SNI: sni.111000.v6.navy",
         "📦 Unsorted 46c1 | SNI: sni.111000.v6.rocks",
+        "📦 Unsorted 46c5 | SNI: id.x5.ru",
+        "📦 Unsorted 4838",
         "📦 Unsorted 4870",
         "📦 Unsorted 48a4",
         "📦 Unsorted 4996 | SNI: sni.latonyamadeline.ndjp.net",
+        "📦 Unsorted 49e7 | SNI: wl-1-1.legendary.ac",
+        "📦 Unsorted 49f5 | SNI: ads.x5.ru",
+        "📦 Unsorted 4a7c",
         "📦 Unsorted 4ad7 | SNI: sni.111000.indevs.in",
-        "📦 Unsorted 4cb4 | SNI: sni.111000.v6.rocks",
+        "📦 Unsorted 4b29",
         "📦 Unsorted 4d39 | SNI: sni.latonyamadeline.ndjp.net",
         "📦 Unsorted 4df7 | SNI: sni.latonyamadeline.ndjp.net",
         "📦 Unsorted 4e9b | SNI: cloudflare.com",
         "📦 Unsorted 4f53 | SNI: cho.chonon.sbs",
-        "📦 Unsorted 507a",
+        "📦 Unsorted 512f | SNI: ads.x5.ru",
         "📦 Unsorted 513b | SNI: sni.111000.de5.net",
+        "📦 Unsorted 527b | SNI: id.x5.ru",
         "📦 Unsorted 528d | SNI: sni.111000.indevs.in",
+        "📦 Unsorted 52c7 | SNI: jobinvest.ru",
         "📦 Unsorted 5309 | SNI: 8p3cfl0ripm.zjde5.de5.net",
-        "📦 Unsorted 538a | SNI: 5post-gate.x5.ru",
+        "📦 Unsorted 530a | SNI: api-maps.yandex.ru",
+        "📦 Unsorted 548e",
         "📦 Unsorted 55d0 | SNI: sni.111000.indevs.in",
         "📦 Unsorted 563d | SNI: sub.sesrsa.com",
-        "📦 Unsorted 5728 | SNI: fr.monkeyisland.xyz",
         "📦 Unsorted 579f | SNI: stackoverflow.com",
+        "📦 Unsorted 58f4 | SNI: 5post-gate.x5.ru",
         "📦 Unsorted 5961 | SNI: sni.111000.v6.navy",
-        "📦 Unsorted 59ca | SNI: 638990351320529492.prius-amshz.info",
-        "📦 Unsorted 59fa",
         "📦 Unsorted 5a26",
         "📦 Unsorted 5ad1 | SNI: sni.latonyamadeline.ndjp.net",
         "📦 Unsorted 5b73 | SNI: sni.111000.indevs.in",
         "📦 Unsorted 5be4",
         "📦 Unsorted 5c70 | SNI: sni.111000.v6.navy",
         "📦 Unsorted 5cee | SNI: 639004042094863199.legacy-amsit.info",
+        "📦 Unsorted 5ec1",
         "📦 Unsorted 5efc | SNI: r4fnviw9jl4i4rx.zjde5.de5.net",
+        "📦 Unsorted 5ffa | SNI: id.x5.ru",
+        "📦 Unsorted 601a | SNI: ghj.ae1autumn.cc.cd",
         "📦 Unsorted 6022",
         "📦 Unsorted 60fa | SNI: sni.111000.v6.army",
         "📦 Unsorted 618e",
         "📦 Unsorted 61ce | SNI: sni.111000.indevs.in",
+        "📦 Unsorted 62a7 | SNI: sub.sesrsa.com",
         "📦 Unsorted 62a9",
+        "📦 Unsorted 630f | SNI: 5post-gate.x5.ru",
         "📦 Unsorted 639e | SNI: juzi8186.qea.ccwu.cc",
+        "📦 Unsorted 639e | SNI: sni.111000.indevs.in",
         "📦 Unsorted 64d4 | SNI: 1-jk1.pages.dev",
+        "📦 Unsorted 64d5 | SNI: rac.679888.xyz",
         "📦 Unsorted 64d9 | SNI: sni.111000.indevs.in",
         "📦 Unsorted 6564 | SNI: hwscwhnx1vif2e4w2llmoakhiqrh1erpu67.zjde5.de5.net",
         "📦 Unsorted 65bd",
-        "📦 Unsorted 664f",
         "📦 Unsorted 66d5 | SNI: afrcloud22.mmv.kr",
         "📦 Unsorted 67eb",
         "📦 Unsorted 687a | SNI: yopk.pages.dev",
         "📦 Unsorted 68cb | SNI: hetz.x-smm.com",
         "📦 Unsorted 69a0 | SNI: juzi8186.qea.ccwu.cc",
         "📦 Unsorted 6b3a",
+        "📦 Unsorted 6b54 | SNI: sni.111000.dynv6.net",
+        "📦 Unsorted 6c46 | SNI: id.x5.ru",
+        "📦 Unsorted 6c8d | SNI: 5post-gate.x5.ru",
+        "📦 Unsorted 6ca8 | SNI: 5post-gate.x5.ru",
         "📦 Unsorted 6d08",
         "📦 Unsorted 6d31",
         "📦 Unsorted 6d4f",
@@ -167,73 +206,76 @@
         "📦 Unsorted 6e7a | SNI: babayaga-6i7.pages.dev",
         "📦 Unsorted 6fc6 | SNI: ashley.kosmolet.xyz",
         "📦 Unsorted 6fde | SNI: my.oversecure.pro",
-        "📦 Unsorted 6ffa",
+        "📦 Unsorted 709b | SNI: ads.x5.ru",
         "📦 Unsorted 70cc | SNI: sni.111000.indevs.in",
         "📦 Unsorted 71e8",
+        "📦 Unsorted 72ed | SNI: hetz.x-smm.com",
         "📦 Unsorted 7492 | SNI: sni.111000.indevs.in",
-        "📦 Unsorted 74b3 | SNI: ghj.ae1autumn.cc.cd",
         "📦 Unsorted 75ba | SNI: gogo4.kmj.qzz.io",
         "📦 Unsorted 7606 | SNI: babayaga-6i7.pages.dev",
         "📦 Unsorted 7636",
+        "📦 Unsorted 76b9",
         "📦 Unsorted 7765 | SNI: khabarovsk.geodema.network",
         "📦 Unsorted 782e",
+        "📦 Unsorted 7854",
         "📦 Unsorted 7958 | SNI: paid-linode.cipherxcel.store",
+        "📦 Unsorted 798e | SNI: hetz.x-smm.com",
         "📦 Unsorted 79f9",
         "📦 Unsorted 7a1b",
         "📦 Unsorted 7a97",
+        "📦 Unsorted 7ba5 | SNI: ads.x5.ru",
         "📦 Unsorted 7baa",
-        "📦 Unsorted 7c80 | SNI: qyi.fqjd663.ggff.net",
+        "📦 Unsorted 7bab | SNI: fr.monkeyisland.xyz",
+        "📦 Unsorted 7d3f",
         "📦 Unsorted 7d55 | SNI: sni.111000.indevs.in",
         "📦 Unsorted 7e38",
         "📦 Unsorted 8272",
         "📦 Unsorted 8372 | SNI: hetz.x-smm.com",
-        "📦 Unsorted 83d4 | SNI: terazhedi.info",
+        "📦 Unsorted 8533 | SNI: id.x5.ru",
+        "📦 Unsorted 8638 | SNI: 5post-gate.x5.ru",
         "📦 Unsorted 86be | SNI: afrcloud22.mmv.kr",
+        "📦 Unsorted 8757 | SNI: cdn.tracker.yandex.net",
         "📦 Unsorted 87b2 | SNI: sni.111000.v6.rocks",
         "📦 Unsorted 88dd",
-        "📦 Unsorted 88e8",
         "📦 Unsorted 899e",
+        "📦 Unsorted 8a20 | SNI: 5post-gate.x5.ru",
         "📦 Unsorted 8b00",
-        "📦 Unsorted 8b07 | SNI: hetz.x-smm.com",
         "📦 Unsorted 8b37 | SNI: ss.2026.accesscam.org",
+        "📦 Unsorted 8be0 | SNI: juzi8186.qea.ccwu.cc",
         "📦 Unsorted 8c0a",
         "📦 Unsorted 8c3c",
         "📦 Unsorted 8cea",
         "📦 Unsorted 8e5d | SNI: sni.111000.v6.army",
         "📦 Unsorted 911d",
-        "📦 Unsorted 9180 | SNI: hetz.x-smm.com",
+        "📦 Unsorted 9276",
         "📦 Unsorted 92bb | SNI: babayaga-6i7.pages.dev",
         "📦 Unsorted 92f8",
         "📦 Unsorted 9342 | SNI: speedsmart.net",
         "📦 Unsorted 938a | SNI: sni.latonyamadeline.ndjp.net",
+        "📦 Unsorted 9408 | SNI: sni.111000.v6.navy",
         "📦 Unsorted 959b | SNI: sni.jpmj.dev",
-        "📦 Unsorted 968c | SNI: ovhwuxian.pai50288.uk",
+        "📦 Unsorted 96af",
+        "📦 Unsorted 96f1",
         "📦 Unsorted 9715 | SNI: pa-7oa.pages.dev",
-        "📦 Unsorted 9792 | SNI: api-maps.yandex.ru",
         "📦 Unsorted 9986",
         "📦 Unsorted 9ab7 | SNI: sni.111000.dynv6.net",
         "📦 Unsorted 9bc5 | SNI: sni.111000.v6.navy",
         "📦 Unsorted 9bdd",
-        "📦 Unsorted 9d07",
-        "📦 Unsorted 9e97",
         "📦 Unsorted 9eb2 | SNI: sni.111000.indevs.in",
         "📦 Unsorted a00e | SNI: babayaga-6i7.pages.dev",
         "📦 Unsorted a060",
-        "📦 Unsorted a06d | SNI: cdnjs.com",
         "📦 Unsorted a11e",
         "📦 Unsorted a4a1 | SNI: sni.111000.v6.navy",
         "📦 Unsorted a4fc",
-        "📦 Unsorted a4ff | SNI: smartcaptcha.yandexcloud.net",
-        "📦 Unsorted a515 | SNI: sni.111000.dynv6.net",
-        "📦 Unsorted a5c7",
         "📦 Unsorted a5e0 | SNI: sni.111000.cc.cd",
         "📦 Unsorted a630 | SNI: babayaga-6i7.pages.dev",
-        "📦 Unsorted a737",
         "📦 Unsorted a7ea | SNI: mybloh.ccwu.cc",
-        "📦 Unsorted a828 | SNI: 638981351827252195.insight-amshd.com",
         "📦 Unsorted a929 | SNI: sni.111000.v6.army",
         "📦 Unsorted a94f | SNI: sni.my111000.tech",
         "📦 Unsorted aa2d | SNI: www.cloudflare.com",
+        "📦 Unsorted ab4b | SNI: 5post-gate.x5.ru",
+        "📦 Unsorted ab80 | SNI: 5post-gate.x5.ru",
+        "📦 Unsorted abf6 | SNI: 5post-gate.x5.ru",
         "📦 Unsorted ac29",
         "📦 Unsorted ac55 | SNI: hio-awx.pages.dev",
         "📦 Unsorted ac94",
@@ -242,50 +284,60 @@
         "📦 Unsorted b20b | SNI: name.api-music-fa.com",
         "📦 Unsorted b33a",
         "📦 Unsorted b393",
-        "📦 Unsorted b4e3",
+        "📦 Unsorted b4a3",
         "📦 Unsorted b512 | SNI: bnh.huangshang.eu.cc",
         "📦 Unsorted b567",
-        "📦 Unsorted b60a",
+        "📦 Unsorted b7b6",
         "📦 Unsorted b846 | SNI: babayaga-6i7.pages.dev",
         "📦 Unsorted b9aa | SNI: sni.111000.v6.rocks",
+        "📦 Unsorted b9ee | SNI: 5post-gate.x5.ru",
         "📦 Unsorted ba16 | SNI: a.azadnet003.ddns-ip.net",
-        "📦 Unsorted baa6 | SNI: 639003456258253450.mustang-amsit.info",
         "📦 Unsorted bb1f | SNI: www.yahoo.com",
         "📦 Unsorted bb30",
         "📦 Unsorted bb43 | SNI: sni.111000.indevs.in",
+        "📦 Unsorted bd1f | SNI: 638981351827252195.insight-amshd.com",
+        "📦 Unsorted be0f | SNI: 5post-gate.x5.ru",
         "📦 Unsorted be2e | SNI: port.api-music-fa.com",
         "📦 Unsorted be70",
-        "📦 Unsorted bea9",
         "📦 Unsorted c022 | SNI: afrcloud22.mmv.kr",
+        "📦 Unsorted c05f | SNI: 5post-gate.x5.ru",
         "📦 Unsorted c08d | SNI: www.cybo.com",
         "📦 Unsorted c08f | SNI: sni.latonyamadeline.ndjp.net",
+        "📦 Unsorted c0e2",
         "📦 Unsorted c147",
         "📦 Unsorted c1f6",
         "📦 Unsorted c219",
+        "📦 Unsorted c243 | SNI: id.x5.ru",
         "📦 Unsorted c2b7",
+        "📦 Unsorted c314",
         "📦 Unsorted c3f1",
+        "📦 Unsorted c474 | SNI: 5post-gate.x5.ru",
         "📦 Unsorted c4bf | SNI: vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net",
         "📦 Unsorted c4d4",
         "📦 Unsorted c578 | SNI: spirako.com",
-        "📦 Unsorted c5fa | SNI: afrcloud22.mmv.kr",
+        "📦 Unsorted c5fc | SNI: 5post-gate.x5.ru",
         "📦 Unsorted c63c",
+        "📦 Unsorted c816",
         "📦 Unsorted c863 | SNI: afrcloud22.mmv.kr",
         "📦 Unsorted c914 | SNI: A3B87cD8-6088-491d-89A7-ec62507C904f.661.Qzz.IO",
         "📦 Unsorted c93c | SNI: 639013098070588901.macan-amsjd.info",
+        "📦 Unsorted c96b | SNI: google.com",
         "📦 Unsorted cb30 | SNI: ipv4.yasharteam.com",
         "📦 Unsorted cb93 | SNI: sni.111000.indevs.in",
+        "📦 Unsorted cd1f | SNI: afrcloud22.mmv.kr",
         "📦 Unsorted cdb0 | SNI: juzi8186.qea.ccwu.cc",
         "📦 Unsorted cf3a | SNI: babayaga-6i7.pages.dev",
         "📦 Unsorted d005 | SNI: sni.my111000.tech",
         "📦 Unsorted d00d | SNI: sni.111000.v6.navy",
+        "📦 Unsorted d0c4 | SNI: looazjoijji.global.ssl.fastly.net",
         "📦 Unsorted d14b",
-        "📦 Unsorted d182 | SNI: vangoghh.info",
         "📦 Unsorted d227 | SNI: sni.latonyamadeline.ndjp.net",
         "📦 Unsorted d262",
-        "📦 Unsorted d2ea | SNI: juzi8186.qea.ccwu.cc",
         "📦 Unsorted d61d | SNI: vless.hubp.de",
+        "📦 Unsorted d699 | SNI: afrcloud22.mmv.kr",
         "📦 Unsorted d6cf | SNI: sub.sesrsa.com",
-        "📦 Unsorted db5d",
+        "📦 Unsorted da22 | SNI: id.x5.ru",
+        "📦 Unsorted dbd6 | SNI: 5post-gate.x5.ru",
         "📦 Unsorted dcff",
         "📦 Unsorted df12 | SNI: yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net",
         "📦 Unsorted df66 | SNI: hetz.x-smm.com",
@@ -295,58 +347,52 @@
         "📦 Unsorted e135 | SNI: r4fnviw9jl4i4rx.zjde5.de5.net",
         "📦 Unsorted e137",
         "📦 Unsorted e139",
-        "📦 Unsorted e1e4",
         "📦 Unsorted e243",
         "📦 Unsorted e254",
         "📦 Unsorted e29b | SNI: sni.my111000.tech",
         "📦 Unsorted e2b9",
         "📦 Unsorted e2f6 | SNI: sni.latonyamadeline.ndjp.net",
+        "📦 Unsorted e305 | SNI: pavosilene.qzz.io",
         "📦 Unsorted e431",
         "📦 Unsorted e487 | SNI: gaosir.unfeeling.sbs",
         "📦 Unsorted e651 | SNI: yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net",
         "📦 Unsorted e7a2 | SNI: sni.111000.indevs.in",
-        "📦 Unsorted e7a5 | SNI: 5JxGp6VrFh.SmArTtEcHzAaL.iNfO",
         "📦 Unsorted e7be",
         "📦 Unsorted e843 | SNI: yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net",
         "📦 Unsorted e902 | SNI: pol.overload.ovh",
-        "📦 Unsorted e996",
         "📦 Unsorted ea87 | SNI: sni.latonyamadeline.ndjp.net",
+        "📦 Unsorted eac8",
         "📦 Unsorted ead6",
         "📦 Unsorted eade | SNI: full.app-browser.org",
         "📦 Unsorted eb0e",
         "📦 Unsorted eb7e",
         "📦 Unsorted eb88 | SNI: asmaos.uk",
+        "📦 Unsorted ec55 | SNI: 5post-gate.x5.ru",
         "📦 Unsorted eef6 | SNI: sni.111000.indevs.in",
         "📦 Unsorted ef16 | SNI: sni.jpmj.dev",
-        "📦 Unsorted ef1c",
-        "📦 Unsorted eff0",
-        "📦 Unsorted f0ad | SNI: 638981351826446112.insight-amshd.com",
         "📦 Unsorted f0b2 | SNI: google.com",
         "📦 Unsorted f1ba",
         "📦 Unsorted f290 | SNI: stackoverflow.com",
         "📦 Unsorted f2c7 | SNI: vless.muzheng.top",
         "📦 Unsorted f2d6",
+        "📦 Unsorted f340",
         "📦 Unsorted f341 | SNI: sni.my111000.tech",
-        "📦 Unsorted f3df | SNI: sni.111000.indevs.in",
         "📦 Unsorted f45d | SNI: sni.111000.cc.cd",
         "📦 Unsorted f4c3",
-        "📦 Unsorted f573 | SNI: sub.sesrsa.com",
-        "📦 Unsorted f64c | SNI: looazjoijji.global.ssl.fastly.net",
         "📦 Unsorted f6cd | SNI: www.google.com",
         "📦 Unsorted f790",
         "📦 Unsorted f794 | SNI: gaosir.unfeeling.sbs",
         "📦 Unsorted f877 | SNI: sni.latonyamadeline.ndjp.net",
         "📦 Unsorted f878",
         "📦 Unsorted f95e",
-        "📦 Unsorted fa98",
         "📦 Unsorted fb1c | SNI: babayaga-6i7.pages.dev",
+        "📦 Unsorted fb22 | SNI: 5post-gate.x5.ru",
         "📦 Unsorted fb4c | SNI: api-maps.yandex.ru",
         "📦 Unsorted fc21 | SNI: juzi8186.qea.ccwu.cc",
-        "📦 Unsorted fd41",
+        "📦 Unsorted fd52 | SNI: cdnjs.com",
         "📦 Unsorted fecf",
         "📦 Unsorted fef8 | SNI: full.app-browser.org",
         "🇦🇪 United Arab Emirates 1911 | SNI: 1-aym.pages.dev",
-        "🇦🇪 United Arab Emirates 8757 | SNI: cdn.tracker.yandex.net",
         "🇦🇪 United Arab Emirates cb95 | SNI: www.amd.com",
         "🇦🇱 Albania 3da8",
         "🇦🇱 Albania 7492 | SNI: cdn.cdnjst.org",
@@ -358,13 +404,17 @@
         "🇦🇲 Armenia 103e | SNI: arm.great-server-list.co.uk",
         "🇦🇲 Armenia 6e82",
         "🇦🇹 Austria 1393 | SNI: www.cloudflare.com",
+        "🇦🇹 Austria 1415 | SNI: www.cloudflare.com",
         "🇦🇹 Austria 1cc3 | SNI: chat.deepseek.com",
         "🇦🇹 Austria 2986 | SNI: austria.denditop.site",
+        "🇦🇹 Austria 2a81 | SNI: www.cloudflare.com",
+        "🇦🇹 Austria 360f | SNI: www.cloudflare.com",
         "🇦🇹 Austria 4312",
         "🇦🇹 Austria 465c | SNI: 2-eox.pages.dev",
         "🇦🇹 Austria 6a67 | SNI: chat.deepseek.com",
         "🇦🇹 Austria 9613 | SNI: austria.denditop.site",
         "🇦🇹 Austria b7ea | SNI: austria.denditop.site",
+        "🇦🇹 Austria cdf1",
         "🇦🇹 Austria e7bf | SNI: sni.111000.dns.army",
         "🇦🇺 Australia 2433 | SNI: yahoo.com",
         "🇦🇺 Australia 4cec | SNI: yahoo.com",
@@ -382,7 +432,6 @@
         "🇧🇷 Brazil 0a40",
         "🇨🇦 Canada 000e",
         "🇨🇦 Canada 0012",
-        "🇨🇦 Canada 0037",
         "🇨🇦 Canada 0062 | SNI: aged-sun-9128.danicng13.workers.dev",
         "🇨🇦 Canada 0090 | SNI: babayaga-6i7.pages.dev",
         "🇨🇦 Canada 009d",
@@ -395,6 +444,7 @@
         "🇨🇦 Canada 0536 | SNI: nEO1-3zC.pAGes.DeV",
         "🇨🇦 Canada 05a8 | SNI: purple-mrvpn294x.mrvpnandamir294.workers.dev",
         "🇨🇦 Canada 065f",
+        "🇨🇦 Canada 0674 | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada 0684 | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada 06a1",
         "🇨🇦 Canada 07df",
@@ -406,6 +456,7 @@
         "🇨🇦 Canada 0b15 | SNI: bLUe-FRosT-Dd9D.tvUdWRY.woRKerS.dEv",
         "🇨🇦 Canada 0bc7",
         "🇨🇦 Canada 0c57",
+        "🇨🇦 Canada 0c76 | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada 0d10",
         "🇨🇦 Canada 0de7",
         "🇨🇦 Canada 0e79",
@@ -424,6 +475,7 @@
         "🇨🇦 Canada 1216",
         "🇨🇦 Canada 1275",
         "🇨🇦 Canada 127d | SNI: luCky-LAB-AC6D.CAveyi8071.WoRkeRS.DEV",
+        "🇨🇦 Canada 1280 | SNI: cf.cfvip.lol",
         "🇨🇦 Canada 12be | SNI: 3-93f.pages.dev",
         "🇨🇦 Canada 12c4",
         "🇨🇦 Canada 137a | SNI: aged-sun-9128.danicng13.workers.dev",
@@ -451,18 +503,18 @@
         "🇨🇦 Canada 1dff | SNI: gardconfig12.bnam38637.workers.dev",
         "🇨🇦 Canada 1e2c",
         "🇨🇦 Canada 1e3c | SNI: hscraft.top",
+        "🇨🇦 Canada 1ec0 | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada 1f55",
         "🇨🇦 Canada 208a | SNI: paRMis-1Tk63J.PArMiS.WoRkeRs.DeV",
         "🇨🇦 Canada 210e",
         "🇨🇦 Canada 2217 | SNI: sni.111000.dynv6.net",
         "🇨🇦 Canada 224b",
         "🇨🇦 Canada 224d",
-        "🇨🇦 Canada 22b1 | SNI: snippets.kkii.eu.org",
         "🇨🇦 Canada 22d8",
-        "🇨🇦 Canada 2321 | SNI: e1-f55.pages.dev",
         "🇨🇦 Canada 234d | SNI: sni.111000.v6.rocks",
         "🇨🇦 Canada 23bb",
         "🇨🇦 Canada 23d6",
+        "🇨🇦 Canada 2420 | SNI: cho.chonon.sbs",
         "🇨🇦 Canada 2460",
         "🇨🇦 Canada 2483 | SNI: index.0x15.workers.DEV",
         "🇨🇦 Canada 251d | SNI: juzi8186.qea.ccwu.cc",
@@ -492,28 +544,24 @@
         "🇨🇦 Canada 2e09",
         "🇨🇦 Canada 2e26",
         "🇨🇦 Canada 2ec6",
-        "🇨🇦 Canada 2f3c | SNI: juzi8186.qea.ccwu.cc",
+        "🇨🇦 Canada 2f39 | SNI: 2-1ng.pages.dev",
         "🇨🇦 Canada 2f7e | SNI: sni.111000.v6.rocks",
-        "🇨🇦 Canada 2fc2 | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada 302a",
         "🇨🇦 Canada 3066 | SNI: restless-dew-894b.amirhost4.workers.dev",
         "🇨🇦 Canada 3088",
         "🇨🇦 Canada 30f9",
         "🇨🇦 Canada 3149 | SNI: sni.111000.indevs.in",
         "🇨🇦 Canada 3259",
-        "🇨🇦 Canada 326e | SNI: iranazad.golabzahra.ir.",
-        "🇨🇦 Canada 3332",
+        "🇨🇦 Canada 3331 | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada 33f1 | SNI: sni.111000.indevs.in",
         "🇨🇦 Canada 346c",
         "🇨🇦 Canada 34cb | SNI: sni.latonyamadeline.ndjp.net",
         "🇨🇦 Canada 34e1 | SNI: hio-awx.pages.dev",
         "🇨🇦 Canada 3589",
-        "🇨🇦 Canada 35d0",
         "🇨🇦 Canada 35d9",
         "🇨🇦 Canada 3617",
         "🇨🇦 Canada 368d",
         "🇨🇦 Canada 3703",
-        "🇨🇦 Canada 3777 | SNI: powered-by-surena.user68f797c2f3e1b.workers.dev",
         "🇨🇦 Canada 37d7",
         "🇨🇦 Canada 37d9",
         "🇨🇦 Canada 381a",
@@ -525,7 +573,6 @@
         "🇨🇦 Canada 3c6c",
         "🇨🇦 Canada 3c77 | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada 3c96 | SNI: azadnet-1ml.pages.dev",
-        "🇨🇦 Canada 3cac | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada 3cf8",
         "🇨🇦 Canada 3d02 | SNI: vpn3.rnmcnm.com",
         "🇨🇦 Canada 3d6b",
@@ -565,7 +612,6 @@
         "🇨🇦 Canada 500c | SNI: rAviDdD.paGEs.DEv",
         "🇨🇦 Canada 5071",
         "🇨🇦 Canada 50d0",
-        "🇨🇦 Canada 50fe",
         "🇨🇦 Canada 5213",
         "🇨🇦 Canada 528f",
         "🇨🇦 Canada 5357 | SNI: o94yv7LiF0-AnxIsd9EFehVvs7mXn6bh.z-UlE-ikA-d-e-nE-k-E.WorkeRs.dEv",
@@ -584,6 +630,8 @@
         "🇨🇦 Canada 5794 | SNI: thisisverytemp.bananalegends.com",
         "🇨🇦 Canada 57ba",
         "🇨🇦 Canada 5801",
+        "🇨🇦 Canada 5838 | SNI: juzi8186.qea.ccwu.cc",
+        "🇨🇦 Canada 586d",
         "🇨🇦 Canada 593c",
         "🇨🇦 Canada 59d0 | SNI: sany.tara132.workers.dev",
         "🇨🇦 Canada 59e4",
@@ -606,7 +654,6 @@
         "🇨🇦 Canada 616f",
         "🇨🇦 Canada 617d",
         "🇨🇦 Canada 6206",
-        "🇨🇦 Canada 64d5 | SNI: rac.679888.xyz",
         "🇨🇦 Canada 6585",
         "🇨🇦 Canada 6596",
         "🇨🇦 Canada 6645",
@@ -615,25 +662,23 @@
         "🇨🇦 Canada 66ef",
         "🇨🇦 Canada 6784 | SNI: fuckingfangbinxing.cnmfangbinxing-n.workers.dev",
         "🇨🇦 Canada 67a2",
+        "🇨🇦 Canada 67d6 | SNI: DiGIkALaA.dpdns.ORG",
         "🇨🇦 Canada 67fb",
-        "🇨🇦 Canada 6829 | SNI: sni.111000.v6.army",
         "🇨🇦 Canada 6839",
         "🇨🇦 Canada 68d5 | SNI: qyi.fqjd663.ggff.net",
         "🇨🇦 Canada 6999",
         "🇨🇦 Canada 6a00 | SNI: luCky-LAB-AC6D.CAveyi8071.WoRkeRS.DEV",
-        "🇨🇦 Canada 6a4e",
         "🇨🇦 Canada 6a8b",
         "🇨🇦 Canada 6ab5",
         "🇨🇦 Canada 6ac6",
         "🇨🇦 Canada 6b0f | SNI: d2127A49-flAT-wooD-C4B5.mILia-AkbARpOor.WorkERs.dEV",
-        "🇨🇦 Canada 6b35 | SNI: cho.chonon.sbs",
         "🇨🇦 Canada 6bbe",
         "🇨🇦 Canada 6c2f | SNI: sni.111000.v6.rocks",
         "🇨🇦 Canada 6cc3",
-        "🇨🇦 Canada 6d0a | SNI: PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev",
         "🇨🇦 Canada 6d25 | SNI: daluan.eu.org",
         "🇨🇦 Canada 6d70 | SNI: babayaga-6i7.pages.dev",
         "🇨🇦 Canada 6db4",
+        "🇨🇦 Canada 6dc7 | SNI: hetz.x-smm.com",
         "🇨🇦 Canada 6ee4",
         "🇨🇦 Canada 6f0d | SNI: Bpb241.gaNijoV670.WOrkers.Dev.",
         "🇨🇦 Canada 7039",
@@ -645,12 +690,12 @@
         "🇨🇦 Canada 72b6 | SNI: hhlfy.twiladaphne.ndjp.net",
         "🇨🇦 Canada 72ce | SNI: S4-f45.pAGeS.DeV",
         "🇨🇦 Canada 7394",
-        "🇨🇦 Canada 73b6 | SNI: H7-83W.pAgeS.deV",
         "🇨🇦 Canada 73fc",
         "🇨🇦 Canada 7445",
         "🇨🇦 Canada 744b",
         "🇨🇦 Canada 7539 | SNI: fuckingfangbinxing.cnmfangbinxing-n.workers.dev",
         "🇨🇦 Canada 76a0",
+        "🇨🇦 Canada 7700 | SNI: sni.jpmj.dev",
         "🇨🇦 Canada 771d",
         "🇨🇦 Canada 7748",
         "🇨🇦 Canada 7792",
@@ -659,10 +704,10 @@
         "🇨🇦 Canada 77c3 | SNI: gaosir.unfeeling.sbs",
         "🇨🇦 Canada 77d3 | SNI: sni.111000.indevs.in",
         "🇨🇦 Canada 77e0",
-        "🇨🇦 Canada 783b | SNI: sni.111000.indevs.in",
         "🇨🇦 Canada 7889",
         "🇨🇦 Canada 788f",
         "🇨🇦 Canada 78a1 | SNI: juzi8186.qea.ccwu.cc",
+        "🇨🇦 Canada 792a | SNI: sni.111000.dynv6.net",
         "🇨🇦 Canada 793c",
         "🇨🇦 Canada 7965",
         "🇨🇦 Canada 79c3",
@@ -673,13 +718,11 @@
         "🇨🇦 Canada 7a56",
         "🇨🇦 Canada 7afc",
         "🇨🇦 Canada 7b76",
-        "🇨🇦 Canada 7bfb | SNI: juzi8186.qea.ccwu.cc",
-        "🇨🇦 Canada 7c27 | SNI: spl01.hatlikarious.org",
         "🇨🇦 Canada 7ca7",
+        "🇨🇦 Canada 7d04 | SNI: sni.111000.indevs.in",
         "🇨🇦 Canada 7d3e",
         "🇨🇦 Canada 7d50",
         "🇨🇦 Canada 7d61",
-        "🇨🇦 Canada 7dc1 | SNI: amirvpn.amirhm00100.workers.dev",
         "🇨🇦 Canada 7e34 | SNI: juzi.qea.ccwu.cc",
         "🇨🇦 Canada 7ed9 | SNI: sni.111000.dynv6.net",
         "🇨🇦 Canada 7fa1 | SNI: tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev",
@@ -711,9 +754,7 @@
         "🇨🇦 Canada 8abe | SNI: 2026.hhhhh.eu.org",
         "🇨🇦 Canada 8ad5 | SNI: sni.111000.v6.rocks",
         "🇨🇦 Canada 8b42",
-        "🇨🇦 Canada 8b77 | SNI: cho.chonon.sbs",
         "🇨🇦 Canada 8bda",
-        "🇨🇦 Canada 8be0 | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada 8bf6 | SNI: hhlfy.twiladaphne.ndjp.net",
         "🇨🇦 Canada 8c07",
         "🇨🇦 Canada 8c41 | SNI: sni.111000.indevs.in",
@@ -723,7 +764,7 @@
         "🇨🇦 Canada 8e6a | SNI: daluan.eu.org",
         "🇨🇦 Canada 8eb6",
         "🇨🇦 Canada 8f8a | SNI: powered-by-surena.user68f797c2f3e1b.workers.dev",
-        "🇨🇦 Canada 8fda | SNI: 3-7v4.pages.dev",
+        "🇨🇦 Canada 8fda | SNI: 3-7gj.pages.dev",
         "🇨🇦 Canada 8ffe | SNI: aio.zxcore.biz.id",
         "🇨🇦 Canada 9073 | SNI: daluan.eu.org",
         "🇨🇦 Canada 9095",
@@ -734,6 +775,7 @@
         "🇨🇦 Canada 9269 | SNI: babayaga-6i7.pages.dev",
         "🇨🇦 Canada 932e",
         "🇨🇦 Canada 933e",
+        "🇨🇦 Canada 9376",
         "🇨🇦 Canada 9437",
         "🇨🇦 Canada 9464 | SNI: wk1.f1w.de5.net",
         "🇨🇦 Canada 9466 | SNI: cnmfangbinxing.cnmfangbinxing-k.workers.dev",
@@ -747,7 +789,7 @@
         "🇨🇦 Canada 969b",
         "🇨🇦 Canada 96cf | SNI: blackshadow.dpdns.org",
         "🇨🇦 Canada 96ed",
-        "🇨🇦 Canada 970d | SNI: 1-aym.pages.dev",
+        "🇨🇦 Canada 970d | SNI: 3-7v4.pages.dev",
         "🇨🇦 Canada 97cb | SNI: sni.111000.v6.navy",
         "🇨🇦 Canada 97ec | SNI: sni.111000.v6.army",
         "🇨🇦 Canada 986b",
@@ -760,12 +802,11 @@
         "🇨🇦 Canada 99f5 | SNI: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev",
         "🇨🇦 Canada 9b57",
         "🇨🇦 Canada 9bbe",
-        "🇨🇦 Canada 9cf6 | SNI: cf.cfvip.lol",
         "🇨🇦 Canada 9d6c | SNI: pagescm.freen22.cc.cd",
         "🇨🇦 Canada 9d70",
         "🇨🇦 Canada 9dd6",
+        "🇨🇦 Canada 9e6a",
         "🇨🇦 Canada 9ea0",
-        "🇨🇦 Canada 9ed3 | SNI: hio-awx.pages.dev",
         "🇨🇦 Canada 9ed9",
         "🇨🇦 Canada 9f71",
         "🇨🇦 Canada 9fc8",
@@ -786,7 +827,6 @@
         "🇨🇦 Canada a3bc | SNI: 2026.hhhhh.eu.org",
         "🇨🇦 Canada a429 | SNI: fuckingfangbinxing.cnmfangbinxing-n.workers.dev",
         "🇨🇦 Canada a438",
-        "🇨🇦 Canada a505",
         "🇨🇦 Canada a518",
         "🇨🇦 Canada a522 | SNI: www.sony.com",
         "🇨🇦 Canada a580",
@@ -868,17 +908,16 @@
         "🇨🇦 Canada c1d0",
         "🇨🇦 Canada c230",
         "🇨🇦 Canada c244",
+        "🇨🇦 Canada c249 | SNI: spl01.hatlikarious.org",
         "🇨🇦 Canada c24e",
         "🇨🇦 Canada c291 | SNI: 3-bio.pages.dev",
-        "🇨🇦 Canada c29f | SNI: ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV",
-        "🇨🇦 Canada c2d0 | SNI: 002.Inc-ElectROcElL-001-002.WoRKERS.DEV",
         "🇨🇦 Canada c32a | SNI: qyi.fqjd663.ggff.net",
         "🇨🇦 Canada c542",
         "🇨🇦 Canada c562",
         "🇨🇦 Canada c5c2",
         "🇨🇦 Canada c61b | SNI: sni.111000.dynv6.net",
         "🇨🇦 Canada c678",
-        "🇨🇦 Canada c69c | SNI: sni.111000.indevs.in",
+        "🇨🇦 Canada c69c",
         "🇨🇦 Canada c715",
         "🇨🇦 Canada c7ea",
         "🇨🇦 Canada c8e9",
@@ -886,15 +925,14 @@
         "🇨🇦 Canada c948 | SNI: y6-3cj.PAgES.DEV",
         "🇨🇦 Canada cbc4",
         "🇨🇦 Canada cc82",
-        "🇨🇦 Canada cd03 | SNI: hetz.x-smm.com",
         "🇨🇦 Canada cd55 | SNI: 002.Inc-ElectROcElL-001-002.WoRKERS.DEV",
-        "🇨🇦 Canada cd6d | SNI: DiGIkALaA.dpdns.ORG",
         "🇨🇦 Canada cdc4",
         "🇨🇦 Canada cddb",
         "🇨🇦 Canada ce44",
         "🇨🇦 Canada ce64 | SNI: sni.111000.dynv6.net",
         "🇨🇦 Canada cfb4",
         "🇨🇦 Canada cfcc | SNI: newwk1.f1w.de5.net",
+        "🇨🇦 Canada cfd2 | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada cffa",
         "🇨🇦 Canada d01b",
         "🇨🇦 Canada d090",
@@ -943,10 +981,12 @@
         "🇨🇦 Canada e1c8",
         "🇨🇦 Canada e261",
         "🇨🇦 Canada e26e",
+        "🇨🇦 Canada e2d8 | SNI: powered-by-surena.user68f797c2f3e1b.workers.dev",
         "🇨🇦 Canada e44c | SNI: lively-brook-c471.nedena3319.workers.dev",
         "🇨🇦 Canada e45b | SNI: uin-ape.pages.dev",
         "🇨🇦 Canada e480",
         "🇨🇦 Canada e4d2",
+        "🇨🇦 Canada e4e9",
         "🇨🇦 Canada e546",
         "🇨🇦 Canada e69f",
         "🇨🇦 Canada e6af | SNI: sni.111000.indevs.in",
@@ -955,20 +995,19 @@
         "🇨🇦 Canada e80d",
         "🇨🇦 Canada e862",
         "🇨🇦 Canada e865 | SNI: r.meDiASHOPPp.sbS",
+        "🇨🇦 Canada e8a6 | SNI: telegram.vpnazadie.store",
         "🇨🇦 Canada e932 | SNI: O94yv7LIF0-AnXisD9EFEhVVS7mxN6Bh.Z-UlE-iKA-D-E-ne-k-e.wORkers.dEv",
+        "🇨🇦 Canada e947 | SNI: snippets.kkii.eu.org",
         "🇨🇦 Canada e972",
         "🇨🇦 Canada e9cf",
         "🇨🇦 Canada e9d6",
-        "🇨🇦 Canada e9f2 | SNI: 1-aym.pages.dev",
         "🇨🇦 Canada ea0a",
         "🇨🇦 Canada ea22",
         "🇨🇦 Canada ea33",
         "🇨🇦 Canada eae2 | SNI: cyylr.eu.cc",
         "🇨🇦 Canada eb09",
         "🇨🇦 Canada eb48",
-        "🇨🇦 Canada eb57 | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada eba4",
-        "🇨🇦 Canada ecfb | SNI: sni.111000.dynv6.net",
         "🇨🇦 Canada edbf | SNI: sni.latonyamadeline.ndjp.net",
         "🇨🇦 Canada ee80",
         "🇨🇦 Canada ef91",
@@ -982,11 +1021,11 @@
         "🇨🇦 Canada f262",
         "🇨🇦 Canada f2a1",
         "🇨🇦 Canada f395",
-        "🇨🇦 Canada f3d0 | SNI: sni.jpmj.dev",
         "🇨🇦 Canada f3ec",
         "🇨🇦 Canada f468",
         "🇨🇦 Canada f49f | SNI: sni.111000.v6.rocks",
         "🇨🇦 Canada f4c7",
+        "🇨🇦 Canada f55a | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada f5b4 | SNI: ts-13.pages.dev",
         "🇨🇦 Canada f5fe",
         "🇨🇦 Canada f605",
@@ -996,11 +1035,9 @@
         "🇨🇦 Canada f728",
         "🇨🇦 Canada f75c",
         "🇨🇦 Canada f760",
-        "🇨🇦 Canada f792 | SNI: BpB.175775.xYZ",
         "🇨🇦 Canada f7d3",
         "🇨🇦 Canada f840",
         "🇨🇦 Canada f86d",
-        "🇨🇦 Canada f897",
         "🇨🇦 Canada f8e7",
         "🇨🇦 Canada f90f",
         "🇨🇦 Canada f935",
@@ -1010,6 +1047,7 @@
         "🇨🇦 Canada fa0a",
         "🇨🇦 Canada fa37 | SNI: d2127A49-flAT-wooD-C4B5.mILia-AkbARpOor.WorkERs.dEV",
         "🇨🇦 Canada fa46 | SNI: juzi8186.qea.ccwu.cc",
+        "🇨🇦 Canada fa62 | SNI: juzi8186.qea.ccwu.cc",
         "🇨🇦 Canada fa75 | SNI: white-snowflake-e65e.queenmahsan1.workers.dev",
         "🇨🇦 Canada faa3 | SNI: sni.111000.v6.rocks",
         "🇨🇦 Canada fb23 | SNI: sni.111000.indevs.in",
@@ -1020,7 +1058,6 @@
         "🇨🇦 Canada fc19 | SNI: babayaga-6i7.pages.dev",
         "🇨🇦 Canada fc50",
         "🇨🇦 Canada fc61",
-        "🇨🇦 Canada fc76 | SNI: telegram.vpnazadie.store",
         "🇨🇦 Canada fc96 | SNI: 24vVd-4ImrVfAqV7HqXYbu9wzjv378qI.V2RAYgulF.woRKeRS.DeV",
         "🇨🇦 Canada fecb | SNI: 3-abf.pages.dev",
         "🇨🇦 Canada ff2d",
@@ -1032,13 +1069,17 @@
         "🇨🇭 Switzerland 253f | SNI: colorlib.com",
         "🇨🇭 Switzerland 4f0c | SNI: colorlib.com",
         "🇨🇭 Switzerland 638a | SNI: store.steampowered.com",
+        "🇨🇭 Switzerland 6c88 | SNI: yandex.by [CIDR]",
         "🇨🇭 Switzerland 8477 | SNI: sw1tzerl4nd.gxcore.net",
         "🇨🇭 Switzerland 8521 | SNI: yahoo.com",
         "🇨🇭 Switzerland 939e",
+        "🇨🇭 Switzerland a06d | SNI: colorlib.com [CIDR]",
         "🇨🇭 Switzerland a6f2 | SNI: stats.vk-portal.net",
         "🇨🇭 Switzerland b0bc | SNI: yahoo.com",
         "🇨🇭 Switzerland be95 | SNI: sw.kickvpn.ru",
+        "🇨🇭 Switzerland e694 | SNI: cloud.globaledgenet.com",
         "🇨🇭 Switzerland e6f5 | SNI: www.google.com",
+        "🇨🇭 Switzerland ece5 | SNI: itx-server.digital [CIDR]",
         "🇨🇭 Switzerland f0fc | SNI: swi.great-server-list.co.uk",
         "🇨🇭 Switzerland f553 | SNI: www.booking.com",
         "🇨🇭 Switzerland fdd5 | SNI: itx-server.digital",
@@ -1059,6 +1100,8 @@
         "🇨🇿 Czechia 9715",
         "🇨🇿 Czechia bc3a | SNI: i.max.ru",
         "🇨🇿 Czechia ca67 | SNI: cz.rumost.top",
+        "[OpenRay] 🇩🇪 DE-13947",
+        "[OpenRay] 🇩🇪 DE-14325",
         "🇩🇪 Germany 00c1",
         "🇩🇪 Germany 00f2",
         "🇩🇪 Germany 0117",
@@ -1075,8 +1118,6 @@
         "🇩🇪 Germany 039f",
         "🇩🇪 Germany 03df | SNI: sni.111000.dynv6.net",
         "🇩🇪 Germany 03ea",
-        "🇩🇪 Germany 03eb",
-        "🇩🇪 Germany 040f",
         "🇩🇪 Germany 0451 | SNI: sni.111000.indevs.in",
         "🇩🇪 Germany 04a7",
         "🇩🇪 Germany 04dc",
@@ -1187,6 +1228,7 @@
         "🇩🇪 Germany 21a8",
         "🇩🇪 Germany 22e5",
         "🇩🇪 Germany 22fb",
+        "🇩🇪 Germany 2321 | SNI: e1-f55.pages.dev",
         "🇩🇪 Germany 238e",
         "🇩🇪 Germany 23d0 [CIDR]",
         "🇩🇪 Germany 2421",
@@ -1208,6 +1250,7 @@
         "🇩🇪 Germany 2838",
         "🇩🇪 Germany 285d",
         "🇩🇪 Germany 2898",
+        "🇩🇪 Germany 28c6 | SNI: www.cloudflare.com",
         "🇩🇪 Germany 28ef",
         "🇩🇪 Germany 290c | SNI: sni.111000.indevs.in",
         "🇩🇪 Germany 293e",
@@ -1240,7 +1283,6 @@
         "🇩🇪 Germany 2ee6",
         "🇩🇪 Germany 2f6e",
         "🇩🇪 Germany 2f7d",
-        "🇩🇪 Germany 2f9c",
         "🇩🇪 Germany 3058 | SNI: de1.persik.host",
         "🇩🇪 Germany 305e | SNI: eh.vk.com",
         "🇩🇪 Germany 309b",
@@ -1350,6 +1392,7 @@
         "🇩🇪 Germany 4785",
         "🇩🇪 Germany 47ed",
         "🇩🇪 Germany 4818",
+        "🇩🇪 Germany 486f | SNI: www.cloudflare.com",
         "🇩🇪 Germany 49b3",
         "🇩🇪 Germany 4a02",
         "🇩🇪 Germany 4a03",
@@ -1366,6 +1409,7 @@
         "🇩🇪 Germany 4c3c",
         "🇩🇪 Germany 4c59",
         "🇩🇪 Germany 4c5c",
+        "🇩🇪 Germany 4c92 | SNI: ger04.myxasecure.space",
         "🇩🇪 Germany 4cd0",
         "🇩🇪 Germany 4cf9",
         "🇩🇪 Germany 4d2d",
@@ -1449,7 +1493,6 @@
         "🇩🇪 Germany 5ffa | SNI: www.google.com",
         "🇩🇪 Germany 6000",
         "🇩🇪 Germany 6012",
-        "🇩🇪 Germany 6073",
         "🇩🇪 Germany 60bf",
         "🇩🇪 Germany 60c2",
         "🇩🇪 Germany 60ed | SNI: sni.111000.indevs.in",
@@ -1464,7 +1507,6 @@
         "🇩🇪 Germany 633a",
         "🇩🇪 Germany 634e",
         "🇩🇪 Germany 6390",
-        "🇩🇪 Germany 639e | SNI: sni.111000.indevs.in",
         "🇩🇪 Germany 63af",
         "🇩🇪 Germany 63b5",
         "🇩🇪 Germany 63cf | SNI: sni.111000.indevs.in",
@@ -1482,49 +1524,7 @@
         "🇩🇪 Germany 6582",
         "🇩🇪 Germany 65a7 | SNI: sni.111000.indevs.in",
         "🇩🇪 Germany 6652 | SNI: 9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com",
-        "🇩🇪 Germany 6690",
-        "🇩🇪 Germany 6718 | SNI: fastcdn.hoyoverse.com",
-        "🇩🇪 Germany 6773 | SNI: sni.111000.indevs.in",
-        "🇩🇪 Germany 6782",
-        "🇩🇪 Germany 681f",
-        "🇩🇪 Germany 681f #2",
-        "🇩🇪 Germany 686c",
-        "🇩🇪 Germany 6870",
-        "🇩🇪 Germany 68a3 | SNI: game-de.great-server-list.co.uk",
-        "🇩🇪 Germany 68bf",
-        "🇩🇪 Germany 68c3",
-        "🇩🇪 Germany 68df",
-        "🇩🇪 Germany 68f3",
-        "🇩🇪 Germany 68f6",
-        "🇩🇪 Germany 6931",
-        "🇩🇪 Germany 694e | SNI: sni.latonyamadeline.ndjp.net",
-        "🇩🇪 Germany 69e2",
-        "🇩🇪 Germany 6a43 | SNI: 194.58.41.88.fwqfw783rg2dad.website",
-        "🇩🇪 Germany 6adb",
-        "🇩🇪 Germany 6b40",
-        "🇩🇪 Germany 6b8f | SNI: deu549.worldbypass.org",
-        "🇩🇪 Germany 6ba7 | SNI: sni.111000.dns.army",
-        "🇩🇪 Germany 6c13",
-        "🇩🇪 Germany 6d8f",
-        "🇩🇪 Germany 6e30",
-        "🇩🇪 Germany 6ec8 | SNI: sni.111000.v6.navy",
-        "🇩🇪 Germany 6f0f [CIDR]",
-        "🇩🇪 Germany 6f14",
-        "🇩🇪 Germany 6f5f | SNI: sni.111000.indevs.in",
-        "🇩🇪 Germany 6f65",
-        "🇩🇪 Germany 6fa7 | SNI: sni.latonyamadeline.ndjp.net",
-        "🇩🇪 Germany 6fd8",
-        "🇩🇪 Germany 6fe3",
-        "🇩🇪 Germany 7013",
-        "🇩🇪 Germany 703b",
-        "🇩🇪 Germany 7085 | SNI: sni.111000.v6.navy",
-        "🇩🇪 Germany 7095",
-        "🇩🇪 Germany 70b3",
-        "🇩🇪 Germany 7128",
-        "🇩🇪 Germany 7155",
-        "🇩🇪 Germany 7187",
-        "🇩🇪 Germany 720b | SNI: www.apple.com",
-        "🇩🇪 Germany 72b7"
+        "🇩🇪 Germany 6690"
       ]
     },
     {
@@ -1532,34 +1532,199 @@
       "tag": "direct"
     },
     {
-      "type": "vmess",
-      "tag": "47.81.15.70:4274 [unsorted]",
-      "server": "47.81.15.70",
-      "server_port": 4274,
-      "uuid": "0be3a336-85ad-4c42-930b-05318236e68c",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "47.81.15.70:4274 [unsorted]",
-      "server": "47.81.15.70",
-      "server_port": 4274,
-      "uuid": "8bd1fbf2-cef1-4e54-aa5b-ba7bde574dd9",
-      "security": "auto",
-      "alter_id": 0
+      "type": "vless",
+      "tag": "@",
+      "server": "safe.aimlife.sbs",
+      "server_port": 24839,
+      "uuid": "288816c5-d54f-4364-980a-3b1918af8f8c",
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
-      "tag": "🇺🇳 910161",
+      "tag": "none",
+      "server": "193.151.129.160",
+      "server_port": 443,
+      "uuid": "a8b263f8-1851-4786-a052-c141e1a50a2b",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇳 209354",
+      "server": "91.219.227.203",
+      "server_port": 443,
+      "uuid": "0c3df692-c23c-4bc2-83b0-b69fad0481ee",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "max.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇳 382893",
+      "server": "193.33.133.171",
+      "server_port": 443,
+      "uuid": "4ca66efe-f604-4708-a79b-82f7c9904852",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "kKQkhsertIxMJdzFzMrzM_F0NWx6Ig6f_yICasQMhEA",
+          "short_id": "25b19ab8cfd78fe5"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇳 384299",
+      "server": "62.152.58.86",
+      "server_port": 443,
+      "uuid": "4ca66efe-f604-4708-a79b-82f7c9904852",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "KC24u3shjqRtOOJemqln5zYH_xWnPJFgUmx5TtWz_Bg",
+          "short_id": "25b19ab8cfd78fe5"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇳 461091",
+      "server": "158.160.221.93",
+      "server_port": 443,
+      "uuid": "39e6589b-910a-4ea5-8899-7a0bc8e226a6",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "yabro-wbplugin.edadeal.yandex.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA",
+          "short_id": "7b374423e3f0f5fb"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇳 521897",
+      "server": "185.22.234.125",
+      "server_port": 443,
+      "uuid": "18b9b93c-2419-4cbf-bd4d-8aebd22c8a45",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "CDEO-velfo52lx4LFKoU-2UWqzF4RrH-SJoY-zudtUs",
+          "short_id": "7cd6133a0e"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇳 692817",
       "server": "45.15.170.237",
       "server_port": 443,
-      "uuid": "8910cbb3-33b1-4266-a243-ac780ac63394",
+      "uuid": "b4819c49-6c7e-4b57-9b9b-c73031e1de11",
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
         "path": "/vless/",
         "headers": {}
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇳 696696",
+      "server": "146.103.127.106",
+      "server_port": 443,
+      "uuid": "bf92bdef-ab8d-4481-8798-2d39023357b2",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "video.intfreed.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw",
+          "short_id": "7755e972daf8eec8"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇳 717749",
+      "server": "195.15.241.144",
+      "server_port": 443,
+      "uuid": "bf92bdef-ab8d-4481-8798-2d39023357b2",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "swiss.video.intfreed.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw",
+          "short_id": "7755e972daf8eec8"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇳 861847",
+      "server": "95.163.211.237",
+      "server_port": 443,
+      "uuid": "0c3df692-c23c-4bc2-83b0-b69fad0481ee",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "max.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw",
+          "short_id": "7dbf7d3233971d5c"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇳 900524",
+      "server": "185.141.216.114",
+      "server_port": 443,
+      "uuid": "bf92bdef-ab8d-4481-8798-2d39023357b2",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "us.video.intfreed.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw",
+          "short_id": "7755e972daf8eec8"
+        }
       }
     },
     {
@@ -1580,26 +1745,36 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 06c3",
-      "server": "anten.ir",
+      "tag": "📦 Unsorted 02dd | SNI: 638981351826446112.insight-amshd.com",
+      "server": "172.64.33.217",
+      "server_port": 443,
+      "uuid": "5b44fc89-c5be-48e6-aa2e-0f90ff733390",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "638981351826446112.insight-amshd.com",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/dndgjqws",
+        "headers": {}
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 040f",
+      "server": "srv1.khatibirepair.ir",
       "server_port": 80,
-      "uuid": "cefef05b-3985-47f7-a0df-703e5280a9c7",
+      "uuid": "388a6c57-87e7-420b-afe2-b3eb670fd7da",
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "s2.xbat.ir"
+          "Host": "vip.yaml7.ggff.net"
         }
       }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted 06ec",
-      "server": "151.101.10.79",
-      "server_port": 443,
-      "uuid": "890c460c-b334-48d7-a1b8-38b4f001c66b",
-      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -1623,11 +1798,47 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 0717 | SNI: id.x5.ru",
+      "server": "84.201.161.102",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "id.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 0746",
       "server": "151.101.3.8",
       "server_port": 443,
       "uuid": "6cb2562a-47c2-4a24-91f3-01a9e8c9f825",
       "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 07c3 | SNI: ads.x5.ru",
+      "server": "51.250.7.246",
+      "server_port": 443,
+      "uuid": "0bbfc448-5188-41d5-85f6-5aad2cd0404e",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "AvSwsAIp3t2sTvNDZwTPkbcanvu9wtvLyZ6FCzIM-Rk",
+          "short_id": "7ada97abaa"
+        }
+      }
     },
     {
       "type": "vless",
@@ -1723,6 +1934,24 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 0b6b | SNI: video.intfreed.ru",
+      "server": "79.110.62.11",
+      "server_port": 443,
+      "uuid": "bf92bdef-ab8d-4481-8798-2d39023357b2",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "video.intfreed.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw",
+          "short_id": "7755e972daf8eec8"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 0bb3",
       "server": "varzesh3.com",
       "server_port": 80,
@@ -1774,6 +2003,21 @@
         "path": "/",
         "headers": {
           "Host": "p1.sesrsa.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 0ddb",
+      "server": "snapp.ir",
+      "server_port": 80,
+      "uuid": "82ddc1c1-b508-4151-99ca-bb8b684ac24f",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "derakhshan.molvliafor.ir"
         }
       }
     },
@@ -1847,14 +2091,6 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 1083",
-      "server": "151.101.10.79",
-      "server_port": 443,
-      "uuid": "4c6f086b-efae-47e0-8226-4094a1906527",
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
       "tag": "📦 Unsorted 10d4 | SNI: sni.111000.v6.army",
       "server": "104.16.155.197",
       "server_port": 443,
@@ -1875,21 +2111,19 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 1252 | SNI: 2-1ng.pages.dev",
-      "server": "104.18.33.45",
+      "tag": "📦 Unsorted 1108 | SNI: 5post-gate.x5.ru",
+      "server": "84.201.150.199",
       "server_port": 443,
-      "uuid": "ce069292-c8bf-40dd-a6b1-87818a1e64e9",
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
-        "server_name": "2-1ng.pages.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "2-1ng.pages.dev"
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -1968,11 +2202,21 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 13c2",
-      "server": "151.101.10.79",
+      "tag": "📦 Unsorted 13b6 | SNI: 639003456258253450.mustang-amsit.info",
+      "server": "172.64.33.217",
       "server_port": 443,
-      "uuid": "febbc960-a868-4e9a-a93b-aa52308b1452",
-      "packet_encoding": "xudp"
+      "uuid": "e9db60cd-83df-430a-960e-b77c56dc6ede",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "639003456258253450.mustang-amsit.info",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/lzummpws",
+        "headers": {}
+      }
     },
     {
       "type": "vless",
@@ -2031,6 +2275,26 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 1500 | SNI: terazhedi.info",
+      "server": "162.159.38.176",
+      "server_port": 443,
+      "uuid": "1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "terazhedi.info",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/sghiyws",
+        "headers": {
+          "Host": "terazhedi.info"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 1510",
       "server": "77.42.77.66",
       "server_port": 443,
@@ -2077,6 +2341,23 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 15d0 | SNI: api-maps.yandex.ru",
+      "server": "51.250.117.172",
+      "server_port": 443,
+      "uuid": "54ff81d2-deb7-44ff-8093-ddc94a98c4f5",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "api-maps.yandex.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "TnQwYOH2ATi0bTu3gnqVFDnEkvBYIcvNRGLPW0IpjXE"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 165d | SNI: allison.kosmolet.xyz",
       "server": "83.147.18.219",
       "server_port": 443,
@@ -2095,6 +2376,14 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 169e",
+      "server": "151.101.37.194",
+      "server_port": 443,
+      "uuid": "92270115-969b-45cd-a72a-1cb52ed295b9",
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 17de | SNI: japan.geodema.network",
       "server": "142.91.106.176",
       "server_port": 443,
@@ -2108,6 +2397,24 @@
           "enabled": true,
           "public_key": "EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8",
           "short_id": "1ed136481e0ede74"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 17e0 | SNI: 5post-gate.x5.ru",
+      "server": "158.160.145.14",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -2229,6 +2536,21 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 1b1b",
+      "server": "104.16.213.131",
+      "server_port": 443,
+      "uuid": "33e1a095-1e25-4198-bfe7-ec312e4f98ee",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed",
+        "headers": {
+          "Host": "CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO."
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 1bab",
       "server": "45.15.178.124",
       "server_port": 80,
@@ -2297,6 +2619,26 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 1d4b | SNI: vangoghh.info",
+      "server": "173.245.58.75",
+      "server_port": 443,
+      "uuid": "94daa8ad-75ed-4dbf-a6de-d05036d98df5",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "vangoghh.info",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/tixvuws",
+        "headers": {
+          "Host": "vangoghh.info"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 1daa | SNI: sni.my111000.tech",
       "server": "45.131.6.191",
       "server_port": 443,
@@ -2357,6 +2699,21 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 1fbe",
+      "server": "104.18.20.94",
+      "server_port": 443,
+      "uuid": "86c50e3a-5b87-49dd-bd20-03c7f2735e40",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "cnmfangbinxing-nmsl.cnmfangbinxing-0.workers.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 1ff2",
       "server": "104.16.72.113",
       "server_port": 443,
@@ -2367,6 +2724,24 @@
         "path": "/9om0kfpk0v09",
         "headers": {
           "Host": "index.arcane509.workers.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 20b3 | SNI: 5post-gate.x5.ru",
+      "server": "158.160.254.27",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -2383,24 +2758,6 @@
         "headers": {
           "Host": "amiroo-l43dac88-v2.amiroo-d8b.workers.dev"
         }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted 2197 | SNI: pavosilene.qzz.io",
-      "server": "104.26.4.221",
-      "server_port": 443,
-      "uuid": "3ceb7c2b-8aed-41b3-ad42-ba1e1a69bae5",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "pavosilene.qzz.io",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/79.141.170.138:443",
-        "headers": {}
       }
     },
     {
@@ -2533,6 +2890,24 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 2635 | SNI: 638990351320529492.prius-amshz.info",
+      "server": "172.64.33.217",
+      "server_port": 443,
+      "uuid": "2bd6f1bd-378e-40ad-8981-229800f1340e",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "638990351320529492.prius-amshz.info",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/ljrnxaws",
+        "headers": {}
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 2668 | SNI: babayaga-6i7.pages.dev",
       "server": "166.62.114.231",
       "server_port": 443,
@@ -2588,6 +2963,42 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 2a60 | SNI: wl-5-2.nodes.ac",
+      "server": "84.201.130.25",
+      "server_port": 443,
+      "uuid": "547cf17d-4e5c-4c73-acac-0246ea45f176",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "wl-5-2.nodes.ac",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "e0Mb11d4CAtw89qrvJ59Lu0rfplLy6xLh2tbsKoN2UM",
+          "short_id": "7c05417ed86af034"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 2b36 | SNI: cdnjs.com",
+      "server": "212.118.40.140",
+      "server_port": 443,
+      "uuid": "9a12e2e5-7038-4ed8-91f3-a94d9b2d465f",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdnjs.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw",
+          "short_id": "c2a0b2d60a7fc300"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 2df6 | SNI: www.wikipedia.org",
       "server": "157.180.29.225",
       "server_port": 443,
@@ -2603,6 +3014,14 @@
           "short_id": "1c213fd68e13"
         }
       }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 2df9",
+      "server": "199.232.193.242",
+      "server_port": 443,
+      "uuid": "ffb1b218-6b03-4f5e-938c-a27db379b922",
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -2661,6 +3080,26 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 30ff | SNI: ovhwuxian.pai50288.uk",
+      "server": "172.67.153.156",
+      "server_port": 443,
+      "uuid": "57ba2ab1-a283-42eb-82ee-dc3561a805b8",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ovhwuxian.pai50288.uk",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/57ba2ab1",
+        "headers": {
+          "Host": "ovhwuxian.pai50288.uk"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 3183 | SNI: fast01.0860852.xyz",
       "server": "198.202.211.253",
       "server_port": 443,
@@ -2711,24 +3150,6 @@
         "path": "/Fvy0Y7NJ7uucUDha?ed=2560",
         "headers": {
           "Host": "bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted 32ee | SNI: google.com",
-      "server": "89.23.100.17",
-      "server_port": 443,
-      "uuid": "8619e4c1-0984-4dce-83e3-419e2d7f5079",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "google.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "-8Dc8Dm5YzxVvllu8W5Uc7N9rq27_A3McxYXArNyJQs",
-          "short_id": "0a381e1fa219"
         }
       }
     },
@@ -2841,16 +3262,11 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 3b2d",
-      "server": "45.15.170.237",
+      "tag": "📦 Unsorted 3bb7",
+      "server": "45.130.125.18",
       "server_port": 443,
-      "uuid": "b4819c49-6c7e-4b57-9b9b-c73031e1de11",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/vless/",
-        "headers": {}
-      }
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -2859,24 +3275,6 @@
       "server_port": 443,
       "uuid": "f2fca1ee-a1e4-4955-9653-6d493eaa5dac",
       "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted 3d64 | SNI: www.vk.com",
-      "server": "81.200.151.140",
-      "server_port": 443,
-      "uuid": "01afe2f9-2689-4ca5-8e0b-17605b19a44f",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.vk.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "1r8u1_XUBC-OtJ31Yu2WQt4I1vxVLcj_LSBMbovjzlA",
-          "short_id": "d16f625d28e7ca60"
-        }
-      }
     },
     {
       "type": "vless",
@@ -2895,6 +3293,26 @@
         "path": "",
         "headers": {
           "Host": "sni.111000.indevs.in"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 3f6f | SNI: 5JxGp6VrFh.SmArTtEcHzAaL.iNfO",
+      "server": "104.254.140.230",
+      "server_port": 443,
+      "uuid": "7e58699f-1d5d-4f6b-b181-cb74f0ad9509",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5JxGp6VrFh.SmArTtEcHzAaL.iNfO",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "5JxGp6VrFh.SmArTtEcHzAaL.iNfO"
         }
       }
     },
@@ -2980,6 +3398,32 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 46c5 | SNI: id.x5.ru",
+      "server": "158.160.159.180",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "id.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 4838",
+      "server": "151.101.37.194",
+      "server_port": 443,
+      "uuid": "b869f898-f314-41ca-ae62-ff607c1c171e",
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 4870",
       "server": "198.41.208.22",
       "server_port": 443,
@@ -3023,6 +3467,50 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 49e7 | SNI: wl-1-1.legendary.ac",
+      "server": "46.254.17.72",
+      "server_port": 443,
+      "uuid": "547cf17d-4e5c-4c73-acac-0246ea45f176",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "wl-1-1.legendary.ac",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "Ce2abow3fU3pN2_mlX3uJW93sBMgTI9qNo5q7_EgFTA",
+          "short_id": "c4a70eddb745b1ea"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 49f5 | SNI: ads.x5.ru",
+      "server": "84.201.165.188",
+      "server_port": 443,
+      "uuid": "0bbfc448-5188-41d5-85f6-5aad2cd0404e",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
+          "short_id": "bd3cda1117aa"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 4a7c",
+      "server": "151.101.37.194",
+      "server_port": 443,
+      "uuid": "febbc960-a868-4e9a-a93b-aa52308b1452",
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 4ad7 | SNI: sni.111000.indevs.in",
       "server": "216.205.52.138",
       "server_port": 443,
@@ -3043,23 +3531,11 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 4cb4 | SNI: sni.111000.v6.rocks",
-      "server": "159.65.82.25",
-      "server_port": 443,
+      "tag": "📦 Unsorted 4b29",
+      "server": "195.123.211.204",
+      "server_port": 81,
       "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.v6.rocks",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3=",
-        "headers": {
-          "Host": "sni.111000.v6.rocks"
-        }
-      }
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -3134,11 +3610,21 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 507a",
-      "server": "151.101.37.194",
+      "tag": "📦 Unsorted 512f | SNI: ads.x5.ru",
+      "server": "158.160.53.173",
       "server_port": 443,
-      "uuid": "73738858-0d45-4e31-ac88-2ee8c5e17af7",
-      "packet_encoding": "xudp"
+      "uuid": "0bbfc448-5188-41d5-85f6-5aad2cd0404e",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
+          "short_id": "bd3cda1117aa"
+        }
+      }
     },
     {
       "type": "vless",
@@ -3157,6 +3643,24 @@
         "path": "/?ed=2560",
         "headers": {
           "Host": "sni.111000.de5.net"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 527b | SNI: id.x5.ru",
+      "server": "158.160.245.33",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "id.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
         }
       }
     },
@@ -3182,6 +3686,23 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 52c7 | SNI: jobinvest.ru",
+      "server": "217.149.30.103",
+      "server_port": 443,
+      "uuid": "0a12b6e2-c62c-4af5-a6b2-18d7d9713b36",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "jobinvest.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 5309 | SNI: 8p3cfl0ripm.zjde5.de5.net",
       "server": "172.64.149.99",
       "server_port": 443,
@@ -3202,19 +3723,34 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 538a | SNI: 5post-gate.x5.ru",
-      "server": "185.91.52.218",
+      "tag": "📦 Unsorted 530a | SNI: api-maps.yandex.ru",
+      "server": "51.250.104.34",
       "server_port": 443,
-      "uuid": "0b51b1ff-ca2f-4b3c-9fab-ffd49eb54a2c",
+      "uuid": "33b6b258-24c5-456c-b319-bf85103747b2",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
-        "server_name": "5post-gate.x5.ru",
+        "server_name": "api-maps.yandex.ru",
         "insecure": false,
         "reality": {
           "enabled": true,
-          "public_key": "EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI",
-          "short_id": "226509f017e4c36d"
+          "public_key": "DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM",
+          "short_id": "d7e1abac"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 548e",
+      "server": "104.18.6.36",
+      "server_port": 443,
+      "uuid": "a0af2643-a236-463c-8056-3f71d05eed53",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560",
+        "headers": {
+          "Host": "shomal-g74f3znf-v2.shomal-321.workers.dev"
         }
       }
     },
@@ -3260,24 +3796,6 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 5728 | SNI: fr.monkeyisland.xyz",
-      "server": "109.172.55.116",
-      "server_port": 443,
-      "uuid": "6184fcfb-52e0-40bb-a271-bbd097b70a8e",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "fr.monkeyisland.xyz",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4",
-          "short_id": "0dd15ad462aad7fc"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "📦 Unsorted 579f | SNI: stackoverflow.com",
       "server": "64.188.115.181",
       "server_port": 443,
@@ -3291,6 +3809,24 @@
           "enabled": true,
           "public_key": "EgoxLYZ4OrrYTBL_WzWNkY-W3w2P9aEXRkyMp6sjqD8",
           "short_id": "04"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 58f4 | SNI: 5post-gate.x5.ru",
+      "server": "84.201.160.223",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -3313,32 +3849,6 @@
           "Host": "sni.111000.v6.navy"
         }
       }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted 59ca | SNI: 638990351320529492.prius-amshz.info",
-      "server": "108.162.193.217",
-      "server_port": 443,
-      "uuid": "2bd6f1bd-378e-40ad-8981-229800f1340e",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "638990351320529492.prius-amshz.info",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/ljrnxaws",
-        "headers": {}
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted 59fa",
-      "server": "151.101.9.194",
-      "server_port": 443,
-      "uuid": "92270115-969b-45cd-a72a-1cb52ed295b9",
-      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -3448,6 +3958,14 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 5ec1",
+      "server": "199.232.89.194",
+      "server_port": 443,
+      "uuid": "255f75a1-81db-c671-875e-08eb9b9d9d66",
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 5efc | SNI: r4fnviw9jl4i4rx.zjde5.de5.net",
       "server": "172.64.144.131",
       "server_port": 443,
@@ -3463,6 +3981,39 @@
         "path": "/?ed=#Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--?ed=512",
         "headers": {
           "Host": "r4fnviw9jl4i4rx.zjde5.de5.net"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 5ffa | SNI: id.x5.ru",
+      "server": "84.201.170.9",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "id.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 601a | SNI: ghj.ae1autumn.cc.cd",
+      "server": "172.67.197.251",
+      "server_port": 443,
+      "uuid": "13ad36e6-c091-43f2-8505-47d868dd544c",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/XR8So0uqFVa3vY9ZbxgW4",
+        "headers": {
+          "Host": "ghj.ae1autumn.cc.cd"
         }
       }
     },
@@ -3538,6 +4089,26 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 62a7 | SNI: sub.sesrsa.com",
+      "server": "varzesh3.com",
+      "server_port": 8443,
+      "uuid": "b9101e4c-327b-429f-98fe-45f25a7ad3ab",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sub.sesrsa.com",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "p1.sesrsa.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 62a9",
       "server": "151.101.10.79",
       "server_port": 443,
@@ -3548,6 +4119,24 @@
         "path": "/telegeam-@v2_city--?ed=2048",
         "headers": {
           "Host": "mojhsjd.global.ssl.fastly.net"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 630f | SNI: 5post-gate.x5.ru",
+      "server": "158.160.250.186",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -3573,6 +4162,26 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 639e | SNI: sni.111000.indevs.in",
+      "server": "45.80.111.7",
+      "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.indevs.in",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 64d4 | SNI: 1-jk1.pages.dev",
       "server": "128.127.180.105",
       "server_port": 443,
@@ -3588,6 +4197,26 @@
         "path": "",
         "headers": {
           "Host": "1-jk1.pages.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 64d5 | SNI: rac.679888.xyz",
+      "server": "172.64.145.158",
+      "server_port": 443,
+      "uuid": "f330576f-eda3-4fcf-9756-b453fff18b6f",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "rac.679888.xyz",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/hptjws",
+        "headers": {
+          "Host": "rac.679888.xyz"
         }
       }
     },
@@ -3645,14 +4274,6 @@
           "Host": "index.arcane509.workers.dev"
         }
       }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted 664f",
-      "server": "146.75.29.194",
-      "server_port": 443,
-      "uuid": "255f75a1-81db-c671-875e-08eb9b9d9d66",
-      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -3761,6 +4382,80 @@
         "path": "",
         "headers": {
           "Host": "sss.yaml7.ggff.net"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 6b54 | SNI: sni.111000.dynv6.net",
+      "server": "141.101.90.97",
+      "server_port": 443,
+      "uuid": "1a25f8ad-cad2-4e93-b5bf-34e42bcac02a",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.dynv6.net",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sni.111000.dynv6.net"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 6c46 | SNI: id.x5.ru",
+      "server": "84.201.151.181",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "id.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 6c8d | SNI: 5post-gate.x5.ru",
+      "server": "94.139.247.192",
+      "server_port": 443,
+      "uuid": "346aa6d9-d5c4-4db2-9bcf-54c54ca36a93",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "x6cB3avjxjxzhNESk8iJTTCzOPKXnB0AbnjKSqKkang",
+          "short_id": "1b3de616b36b1233"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 6ca8 | SNI: 5post-gate.x5.ru",
+      "server": "84.201.150.127",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -3880,11 +4575,21 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 6ffa",
-      "server": "45.130.125.112",
+      "tag": "📦 Unsorted 709b | SNI: ads.x5.ru",
+      "server": "178.154.214.111",
       "server_port": 443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp"
+      "uuid": "153d507b-9c45-4af3-a100-8e58c32f8e23",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "zYJherUg8rsyTsumgWLweMea_Tp2j4ZpVuRlskKTwiY",
+          "short_id": "92df5620ac107be4"
+        }
+      }
     },
     {
       "type": "vless",
@@ -3923,6 +4628,26 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 72ed | SNI: hetz.x-smm.com",
+      "server": "162.159.38.176",
+      "server_port": 443,
+      "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "hetz.x-smm.com",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/45.76.183.217=49292",
+        "headers": {
+          "Host": "hetz.x-smm.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 7492 | SNI: sni.111000.indevs.in",
       "server": "209.102.207.162",
       "server_port": 443,
@@ -3938,21 +4663,6 @@
         "path": "",
         "headers": {
           "Host": "sni.111000.indevs.in"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted 74b3 | SNI: ghj.ae1autumn.cc.cd",
-      "server": "104.21.76.174",
-      "server_port": 443,
-      "uuid": "13ad36e6-c091-43f2-8505-47d868dd544c",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/XR8So0uqFVa3vY9ZbxgW4",
-        "headers": {
-          "Host": "ghj.ae1autumn.cc.cd"
         }
       }
     },
@@ -4013,6 +4723,14 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 76b9",
+      "server": "151.101.10.79",
+      "server_port": 443,
+      "uuid": "73738858-0d45-4e31-ac88-2ee8c5e17af7",
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 7765 | SNI: khabarovsk.geodema.network",
       "server": "91.243.82.82",
       "server_port": 443,
@@ -4046,6 +4764,21 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 7854",
+      "server": "151.101.195.8",
+      "server_port": 443,
+      "uuid": "d03d8fc0-23ce-461a-97fa-2a7e0a66d8db",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2052?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
+        "headers": {
+          "Host": "norbert-team-free1.global.ssl.fastly.net"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 7958 | SNI: paid-linode.cipherxcel.store",
       "server": "172.66.40.229",
       "server_port": 443,
@@ -4061,6 +4794,26 @@
         "path": "/cipherxcel",
         "headers": {
           "Host": "paid-linode.cipherxcel.store"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 798e | SNI: hetz.x-smm.com",
+      "server": "172.64.33.217",
+      "server_port": 443,
+      "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "hetz.x-smm.com",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/45.76.183.217=49292",
+        "headers": {
+          "Host": "hetz.x-smm.com"
         }
       }
     },
@@ -4104,6 +4857,24 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 7ba5 | SNI: ads.x5.ru",
+      "server": "158.160.206.199",
+      "server_port": 443,
+      "uuid": "0bbfc448-5188-41d5-85f6-5aad2cd0404e",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "AvSwsAIp3t2sTvNDZwTPkbcanvu9wtvLyZ6FCzIM-Rk",
+          "short_id": "7ada97abaa"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 7baa",
       "server": "45.131.5.50",
       "server_port": 8880,
@@ -4119,23 +4890,29 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 7c80 | SNI: qyi.fqjd663.ggff.net",
-      "server": "63.141.128.3",
+      "tag": "📦 Unsorted 7bab | SNI: fr.monkeyisland.xyz",
+      "server": "109.172.55.113",
       "server_port": 443,
-      "uuid": "8c4604ef-749c-4b56-adf1-7da405002a21",
+      "uuid": "6184fcfb-52e0-40bb-a271-bbd097b70a8e",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
-        "server_name": "qyi.fqjd663.ggff.net",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "qyi.fqjd663.ggff.net"
+        "server_name": "fr.monkeyisland.xyz",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4",
+          "short_id": "0dd15ad462aad7fc"
         }
       }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 7d3f",
+      "server": "199.232.193.242",
+      "server_port": 443,
+      "uuid": "6570d7cc-0e3d-49c2-ae23-e8ff8425b79d",
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -4200,21 +4977,37 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 83d4 | SNI: terazhedi.info",
-      "server": "172.64.34.176",
+      "tag": "📦 Unsorted 8533 | SNI: id.x5.ru",
+      "server": "84.201.154.239",
       "server_port": 443,
-      "uuid": "1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63",
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
-        "server_name": "terazhedi.info",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/sghiyws",
-        "headers": {
-          "Host": "terazhedi.info"
+        "server_name": "id.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 8638 | SNI: 5post-gate.x5.ru",
+      "server": "158.160.182.19",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -4235,6 +5028,26 @@
         "path": "/",
         "headers": {
           "Host": "afrcloud22.mmv.kr"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 8757 | SNI: cdn.tracker.yandex.net",
+      "server": "188.72.103.3",
+      "server_port": 443,
+      "uuid": "45e55198-a5ad-4f19-bb39-236822141d25",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.tracker.yandex.net",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4",
+        "headers": {
+          "Host": "cdn.lovecrafty.link"
         }
       }
     },
@@ -4268,21 +5081,6 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 88e8",
-      "server": "102.177.189.30",
-      "server_port": 443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "",
-        "headers": {
-          "Host": "vms.lifetime29.workers.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "📦 Unsorted 899e",
       "server": "162.159.38.129",
       "server_port": 443,
@@ -4298,31 +5096,29 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 8a20 | SNI: 5post-gate.x5.ru",
+      "server": "84.201.143.223",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 8b00",
       "server": "151.101.195.8",
       "server_port": 443,
       "uuid": "c5f6bb6f-d451-447b-e9ce-6c3016deba77",
       "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted 8b07 | SNI: hetz.x-smm.com",
-      "server": "172.64.34.176",
-      "server_port": 443,
-      "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "hetz.x-smm.com",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/45.76.183.217=49292",
-        "headers": {
-          "Host": "hetz.x-smm.com"
-        }
-      }
     },
     {
       "type": "vless",
@@ -4341,6 +5137,26 @@
         "path": "/proxyip=sjc.o00o.ooo",
         "headers": {
           "Host": "ss.2026.accesscam.org"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 8be0 | SNI: juzi8186.qea.ccwu.cc",
+      "server": "172.67.70.92",
+      "server_port": 443,
+      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "juzi8186.qea.ccwu.cc",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/buy/ads/juzibaipiao?ed=2560",
+        "headers": {
+          "Host": "juzi8186.qea.ccwu.cc"
         }
       }
     },
@@ -4412,21 +5228,16 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 9180 | SNI: hetz.x-smm.com",
-      "server": "172.64.32.75",
-      "server_port": 443,
-      "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
+      "tag": "📦 Unsorted 9276",
+      "server": "srv1.khatibirepair.ir",
+      "server_port": 80,
+      "uuid": "2ac6e527-6410-48ce-b9ba-cc8135ee2a3b",
       "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "hetz.x-smm.com",
-        "insecure": false
-      },
       "transport": {
         "type": "ws",
-        "path": "/45.76.183.217=49292",
+        "path": "/",
         "headers": {
-          "Host": "hetz.x-smm.com"
+          "Host": "fragrant-recipe-09f4.wopecuyubak61.workers.dev"
         }
       }
     },
@@ -4503,6 +5314,26 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted 9408 | SNI: sni.111000.v6.navy",
+      "server": "5.34.209.231",
+      "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.v6.navy",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sni.111000.v6.navy"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted 959b | SNI: sni.jpmj.dev",
       "server": "31.43.179.238",
       "server_port": 443,
@@ -4523,23 +5354,19 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 968c | SNI: ovhwuxian.pai50288.uk",
-      "server": "104.21.3.219",
+      "tag": "📦 Unsorted 96af",
+      "server": "151.101.37.194",
       "server_port": 443,
-      "uuid": "57ba2ab1-a283-42eb-82ee-dc3561a805b8",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "ovhwuxian.pai50288.uk",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/57ba2ab1",
-        "headers": {
-          "Host": "ovhwuxian.pai50288.uk"
-        }
-      }
+      "uuid": "6570d7cc-0e3d-49c2-ae23-e8ff8425b79d",
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted 96f1",
+      "server": "151.101.37.194",
+      "server_port": 443,
+      "uuid": "890c460c-b334-48d7-a1b8-38b4f001c66b",
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -4558,24 +5385,6 @@
         "path": "/?ed=2048",
         "headers": {
           "Host": "pa-7oa.pages.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted 9792 | SNI: api-maps.yandex.ru",
-      "server": "194.55.239.191",
-      "server_port": 443,
-      "uuid": "4652f661-2ca9-4566-86cb-5365c46b785e",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "api-maps.yandex.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE",
-          "short_id": "abbcd128"
         }
       }
     },
@@ -4644,36 +5453,6 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted 9d07",
-      "server": "snappfood.ir",
-      "server_port": 2052,
-      "uuid": "b6ff9213-1d55-4c26-8440-a7c067172dae",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/ws",
-        "headers": {
-          "Host": "cdnisfucka.drnimaamini.ir"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted 9e97",
-      "server": "151.101.67.8",
-      "server_port": 443,
-      "uuid": "d03d8fc0-23ce-461a-97fa-2a7e0a66d8db",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2052?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
-        "headers": {
-          "Host": "norbert-team-free1.global.ssl.fastly.net"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "📦 Unsorted 9eb2 | SNI: sni.111000.indevs.in",
       "server": "135.84.72.25",
       "server_port": 443,
@@ -4722,24 +5501,6 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted a06d | SNI: cdnjs.com",
-      "server": "2.59.135.112",
-      "server_port": 443,
-      "uuid": "4b0735b5-672b-468f-af98-d6901d620e50",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdnjs.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw",
-          "short_id": "4c02bbbfa833b3b6"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "📦 Unsorted a11e",
       "server": "2.57.91.92",
       "server_port": 443,
@@ -4773,59 +5534,6 @@
       "server_port": 443,
       "uuid": "1a25f8ad-cad2-4e93-b5bf-34e42bcac02a",
       "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted a4ff | SNI: smartcaptcha.yandexcloud.net",
-      "server": "188.124.39.14",
-      "server_port": 443,
-      "uuid": "2127747d-27b5-45c1-9187-b8648d9c9c6a",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "smartcaptcha.yandexcloud.net",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "vZ8yVR6ZkYZD101aLewZzl3skS965ZYj03wMxxK0zgU",
-          "short_id": "27e53bbcab7593d7"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted a515 | SNI: sni.111000.dynv6.net",
-      "server": "141.101.90.96",
-      "server_port": 443,
-      "uuid": "1a25f8ad-cad2-4e93-b5bf-34e42bcac02a",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.dynv6.net",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "sni.111000.dynv6.net"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted a5c7",
-      "server": "104.16.212.131",
-      "server_port": 443,
-      "uuid": "33e1a095-1e25-4198-bfe7-ec312e4f98ee",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed",
-        "headers": {
-          "Host": "CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO."
-        }
-      }
     },
     {
       "type": "vless",
@@ -4869,14 +5577,6 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted a737",
-      "server": "151.101.9.194",
-      "server_port": 443,
-      "uuid": "b869f898-f314-41ca-ae62-ff607c1c171e",
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
       "tag": "📦 Unsorted a7ea | SNI: mybloh.ccwu.cc",
       "server": "172.67.76.40",
       "server_port": 443,
@@ -4893,24 +5593,6 @@
         "headers": {
           "Host": "mybloh.ccwu.cc"
         }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted a828 | SNI: 638981351827252195.insight-amshd.com",
-      "server": "172.64.32.75",
-      "server_port": 443,
-      "uuid": "fd0c31ff-abf0-4a8c-b7ad-4bb91410b922",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "638981351827252195.insight-amshd.com",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/jjshwgws",
-        "headers": {}
       }
     },
     {
@@ -4968,6 +5650,60 @@
           "enabled": true,
           "public_key": "gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY",
           "short_id": "7cad5040"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted ab4b | SNI: 5post-gate.x5.ru",
+      "server": "158.160.197.131",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted ab80 | SNI: 5post-gate.x5.ru",
+      "server": "158.160.251.31",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted abf6 | SNI: 5post-gate.x5.ru",
+      "server": "158.160.248.32",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -5095,10 +5831,10 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted b4e3",
-      "server": "151.101.130.219",
+      "tag": "📦 Unsorted b4a3",
+      "server": "151.101.37.194",
       "server_port": 443,
-      "uuid": "Parsashonam-333",
+      "uuid": "4c6f086b-efae-47e0-8226-4094a1906527",
       "packet_encoding": "xudp"
     },
     {
@@ -5138,18 +5874,11 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted b60a",
-      "server": "snapp.ir",
-      "server_port": 80,
-      "uuid": "9b7b2deb-54aa-4ebb-bb3a-fc6fb65e07c0",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "simorgh.garfar.ir"
-        }
-      }
+      "tag": "📦 Unsorted b7b6",
+      "server": "151.101.9.194",
+      "server_port": 443,
+      "uuid": "b5d5a99a-9f6b-4591-a160-3029cb8ebc48",
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -5193,6 +5922,24 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted b9ee | SNI: 5post-gate.x5.ru",
+      "server": "158.160.98.211",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted ba16 | SNI: a.azadnet003.ddns-ip.net",
       "server": "172.66.132.196",
       "server_port": 443,
@@ -5209,24 +5956,6 @@
         "headers": {
           "Host": "a.azadnet003.ddns-ip.net"
         }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted baa6 | SNI: 639003456258253450.mustang-amsit.info",
-      "server": "108.162.193.217",
-      "server_port": 443,
-      "uuid": "e9db60cd-83df-430a-960e-b77c56dc6ede",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "639003456258253450.mustang-amsit.info",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/lzummpws",
-        "headers": {}
       }
     },
     {
@@ -5284,6 +6013,42 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted bd1f | SNI: 638981351827252195.insight-amshd.com",
+      "server": "173.245.58.75",
+      "server_port": 443,
+      "uuid": "fd0c31ff-abf0-4a8c-b7ad-4bb91410b922",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "638981351827252195.insight-amshd.com",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/jjshwgws",
+        "headers": {}
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted be0f | SNI: 5post-gate.x5.ru",
+      "server": "158.160.142.40",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted be2e | SNI: port.api-music-fa.com",
       "server": "104.18.27.90",
       "server_port": 443,
@@ -5312,14 +6077,6 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted bea9",
-      "server": "199.232.25.242",
-      "server_port": 443,
-      "uuid": "6570d7cc-0e3d-49c2-ae23-e8ff8425b79d",
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
       "tag": "📦 Unsorted c022 | SNI: afrcloud22.mmv.kr",
       "server": "104.26.14.21",
       "server_port": 443,
@@ -5335,6 +6092,24 @@
         "path": "/118.91.78.76=50001",
         "headers": {
           "Host": "afrcloud22.mmv.kr"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted c05f | SNI: 5post-gate.x5.ru",
+      "server": "158.160.245.72",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -5372,6 +6147,21 @@
         "path": "/?https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3=",
         "headers": {
           "Host": "sni.latonyamadeline.ndjp.net"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted c0e2",
+      "server": "151.101.195.8",
+      "server_port": 443,
+      "uuid": "86c2b667-4fc8-4a56-af4a-38b9e9e84610",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/?ed",
+        "headers": {
+          "Host": "norbert-team-free1.global.ssl.fastly.net"
         }
       }
     },
@@ -5422,6 +6212,24 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted c243 | SNI: id.x5.ru",
+      "server": "84.201.137.212",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "id.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted c2b7",
       "server": "172.66.156.81",
       "server_port": 443,
@@ -5437,6 +6245,14 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted c314",
+      "server": "146.75.121.207",
+      "server_port": 443,
+      "uuid": "70557107-0ca9-4c37-f02c-09c333a3d219",
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted c3f1",
       "server": "45.130.125.30",
       "server_port": 8880,
@@ -5447,6 +6263,24 @@
         "path": "",
         "headers": {
           "Host": "vms.lifetime58.workers.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted c474 | SNI: 5post-gate.x5.ru",
+      "server": "158.160.231.81",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -5497,21 +6331,19 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted c5fa | SNI: afrcloud22.mmv.kr",
-      "server": "104.26.15.21",
+      "tag": "📦 Unsorted c5fc | SNI: 5post-gate.x5.ru",
+      "server": "158.160.218.153",
       "server_port": 443,
-      "uuid": "5c824317-ac50-49a5-8d32-a0ccb890fb3d",
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
-        "server_name": "afrcloud22.mmv.kr",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/118.91.78.76=50001",
-        "headers": {
-          "Host": "afrcloud22.mmv.kr"
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -5529,6 +6361,14 @@
           "Host": "vizo4.yeksanpower.ir"
         }
       }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted c816",
+      "server": "151.101.37.194",
+      "server_port": 443,
+      "uuid": "ffb1b218-6b03-4f5e-938c-a27db379b922",
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -5592,6 +6432,24 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted c96b | SNI: google.com",
+      "server": "72.56.5.150",
+      "server_port": 443,
+      "uuid": "8619e4c1-0984-4dce-83e3-419e2d7f5079",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "google.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "-8Dc8Dm5YzxVvllu8W5Uc7N9rq27_A3McxYXArNyJQs",
+          "short_id": "0a381e1fa219"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted cb30 | SNI: ipv4.yasharteam.com",
       "server": "45.130.125.160",
       "server_port": 443,
@@ -5627,6 +6485,26 @@
         "path": "/",
         "headers": {
           "Host": "sni.111000.indevs.in"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted cd1f | SNI: afrcloud22.mmv.kr",
+      "server": "172.67.73.14",
+      "server_port": 443,
+      "uuid": "5c824317-ac50-49a5-8d32-a0ccb890fb3d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "afrcloud22.mmv.kr",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/118.91.78.76=50001",
+        "headers": {
+          "Host": "afrcloud22.mmv.kr"
         }
       }
     },
@@ -5712,6 +6590,26 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted d0c4 | SNI: looazjoijji.global.ssl.fastly.net",
+      "server": "151.101.9.194",
+      "server_port": 443,
+      "uuid": "3ac22fb7-b1f6-4b15-b2ce-e150e8de2873",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "looazjoijji.global.ssl.fastly.net",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "looazjoijji.global.ssl.fastly.net"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted d14b",
       "server": "45.130.125.50",
       "server_port": 8880,
@@ -5722,26 +6620,6 @@
         "path": "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳",
         "headers": {
           "Host": "vms.lifetime58.workers.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted d182 | SNI: vangoghh.info",
-      "server": "172.64.32.75",
-      "server_port": 443,
-      "uuid": "94daa8ad-75ed-4dbf-a6de-d05036d98df5",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "vangoghh.info",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/tixvuws",
-        "headers": {
-          "Host": "vangoghh.info"
         }
       }
     },
@@ -5782,26 +6660,6 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted d2ea | SNI: juzi8186.qea.ccwu.cc",
-      "server": "172.64.144.82",
-      "server_port": 443,
-      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "juzi8186.qea.ccwu.cc",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/pictures/jump/channel/juzibaipiao?ed=2560",
-        "headers": {
-          "Host": "juzi8186.qea.ccwu.cc"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "📦 Unsorted d61d | SNI: vless.hubp.de",
       "server": "27.50.48.8",
       "server_port": 443,
@@ -5816,6 +6674,26 @@
         "type": "ws",
         "path": "",
         "headers": {}
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted d699 | SNI: afrcloud22.mmv.kr",
+      "server": "172.67.73.14",
+      "server_port": 443,
+      "uuid": "61066a16-78fc-4446-8013-6646bc3f27ba",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "afrcloud22.mmv.kr",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "afrcloud22.mmv.kr"
+        }
       }
     },
     {
@@ -5840,16 +6718,37 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted db5d",
-      "server": "arvancloud.ir",
-      "server_port": 8080,
-      "uuid": "490dd5a3-7490-4376-a4e9-14c9168959f0",
+      "tag": "📦 Unsorted da22 | SNI: id.x5.ru",
+      "server": "158.160.224.84",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
       "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "t1.linuwebtunnel.site"
+      "tls": {
+        "enabled": true,
+        "server_name": "id.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted dbd6 | SNI: 5post-gate.x5.ru",
+      "server": "158.160.248.232",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -5995,21 +6894,6 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted e1e4",
-      "server": "arvancloud.ir",
-      "server_port": 80,
-      "uuid": "77a4fe6e-ff9a-40da-9239-bf1a8a1749f2",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2052",
-        "headers": {
-          "Host": "arvan8.unlimiteddev-xyz.ir"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "📦 Unsorted e243",
       "server": "104.17.95.220",
       "server_port": 443,
@@ -6095,6 +6979,24 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted e305 | SNI: pavosilene.qzz.io",
+      "server": "172.67.68.66",
+      "server_port": 443,
+      "uuid": "3ceb7c2b-8aed-41b3-ad42-ba1e1a69bae5",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "pavosilene.qzz.io",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/79.141.170.138:443",
+        "headers": {}
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted e431",
       "server": "snapp.ir",
       "server_port": 80,
@@ -6170,26 +7072,6 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted e7a5 | SNI: 5JxGp6VrFh.SmArTtEcHzAaL.iNfO",
-      "server": "185.148.105.102",
-      "server_port": 443,
-      "uuid": "7e58699f-1d5d-4f6b-b181-cb74f0ad9509",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "5JxGp6VrFh.SmArTtEcHzAaL.iNfO",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "5JxGp6VrFh.SmArTtEcHzAaL.iNfO"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "📦 Unsorted e7be",
       "server": "89.185.82.64",
       "server_port": 443,
@@ -6241,14 +7123,6 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted e996",
-      "server": "151.101.37.194",
-      "server_port": 443,
-      "uuid": "b5d5a99a-9f6b-4591-a160-3029cb8ebc48",
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
       "tag": "📦 Unsorted ea87 | SNI: sni.latonyamadeline.ndjp.net",
       "server": "104.19.38.35",
       "server_port": 443,
@@ -6266,6 +7140,14 @@
           "Host": "sni.latonyamadeline.ndjp.net"
         }
       }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted eac8",
+      "server": "151.101.66.219",
+      "server_port": 443,
+      "uuid": "Parsashonam-333",
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -6340,6 +7222,24 @@
     },
     {
       "type": "vless",
+      "tag": "📦 Unsorted ec55 | SNI: 5post-gate.x5.ru",
+      "server": "158.160.170.80",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "📦 Unsorted eef6 | SNI: sni.111000.indevs.in",
       "server": "57.128.177.22",
       "server_port": 443,
@@ -6376,40 +7276,6 @@
         "headers": {
           "Host": "sni.jpmj.dev"
         }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted ef1c",
-      "server": "146.75.118.114",
-      "server_port": 443,
-      "uuid": "70557107-0ca9-4c37-f02c-09c333a3d219",
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted eff0",
-      "server": "199.232.25.242",
-      "server_port": 443,
-      "uuid": "ffb1b218-6b03-4f5e-938c-a27db379b922",
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted f0ad | SNI: 638981351826446112.insight-amshd.com",
-      "server": "108.162.193.217",
-      "server_port": 443,
-      "uuid": "5b44fc89-c5be-48e6-aa2e-0f90ff733390",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "638981351826446112.insight-amshd.com",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/dndgjqws",
-        "headers": {}
       }
     },
     {
@@ -6490,6 +7356,18 @@
       "packet_encoding": "xudp"
     },
     {
+      "type": "trojan",
+      "tag": "📦 Unsorted f340",
+      "server": "srv1.khatibirepair.ir",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": false
+      }
+    },
+    {
       "type": "vless",
       "tag": "📦 Unsorted f341 | SNI: sni.my111000.tech",
       "server": "45.142.120.191",
@@ -6506,26 +7384,6 @@
         "path": "",
         "headers": {
           "Host": "sni.my111000.tech"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted f3df | SNI: sni.111000.indevs.in",
-      "server": "162.159.12.151",
-      "server_port": 443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.indevs.in",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "sni.111000.indevs.in"
         }
       }
     },
@@ -6561,46 +7419,6 @@
         "path": "/",
         "headers": {
           "Host": "fonix5.musicritmic.ir"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted f573 | SNI: sub.sesrsa.com",
-      "server": "185.143.233.5",
-      "server_port": 8443,
-      "uuid": "f2203eaa-35ae-4a44-856c-2c398af96943",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sub.sesrsa.com",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "p1.sesrsa.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "📦 Unsorted f64c | SNI: looazjoijji.global.ssl.fastly.net",
-      "server": "151.101.37.194",
-      "server_port": 443,
-      "uuid": "3ac22fb7-b1f6-4b15-b2ce-e150e8de2873",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "looazjoijji.global.ssl.fastly.net",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "looazjoijji.global.ssl.fastly.net"
         }
       }
     },
@@ -6697,21 +7515,6 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted fa98",
-      "server": "151.101.67.8",
-      "server_port": 443,
-      "uuid": "86c2b667-4fc8-4a56-af4a-38b9e9e84610",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed",
-        "headers": {
-          "Host": "norbert-team-free1.global.ssl.fastly.net"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "📦 Unsorted fb1c | SNI: babayaga-6i7.pages.dev",
       "server": "45.80.110.231",
       "server_port": 443,
@@ -6727,6 +7530,24 @@
         "path": "/?Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2=",
         "headers": {
           "Host": "babayaga-6i7.pages.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "📦 Unsorted fb22 | SNI: 5post-gate.x5.ru",
+      "server": "158.160.198.96",
+      "server_port": 443,
+      "uuid": "61080a63-97ac-47ad-8ac0-3cdad54c0b26",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "5post-gate.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE",
+          "short_id": "111111"
         }
       }
     },
@@ -6769,16 +7590,19 @@
     },
     {
       "type": "vless",
-      "tag": "📦 Unsorted fd41",
-      "server": "104.18.7.36",
+      "tag": "📦 Unsorted fd52 | SNI: cdnjs.com",
+      "server": "185.254.96.142",
       "server_port": 443,
-      "uuid": "a0af2643-a236-463c-8056-3f71d05eed53",
+      "uuid": "4b0735b5-672b-468f-af98-d6901d620e50",
       "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560",
-        "headers": {
-          "Host": "shomal-g74f3znf-v2.shomal-321.workers.dev"
+      "tls": {
+        "enabled": true,
+        "server_name": "cdnjs.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw",
+          "short_id": "4c02bbbfa833b3b6"
         }
       }
     },
@@ -6834,26 +7658,6 @@
         "path": "",
         "headers": {
           "Host": "1-aym.pages.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇦🇪 United Arab Emirates 8757 | SNI: cdn.tracker.yandex.net",
-      "server": "188.72.103.3",
-      "server_port": 443,
-      "uuid": "45e55198-a5ad-4f19-bb39-236822141d25",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdn.tracker.yandex.net",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4",
-        "headers": {
-          "Host": "cdn.lovecrafty.link"
         }
       }
     },
@@ -7041,6 +7845,23 @@
     },
     {
       "type": "vless",
+      "tag": "🇦🇹 Austria 1415 | SNI: www.cloudflare.com",
+      "server": "185.224.3.29",
+      "server_port": 10443,
+      "uuid": "f6431ff1-dec0-4a6c-be4a-ce917913b589",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cloudflare.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇦🇹 Austria 1cc3 | SNI: chat.deepseek.com",
       "server": "152.53.0.36",
       "server_port": 7443,
@@ -7072,6 +7893,40 @@
           "enabled": true,
           "public_key": "wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4",
           "short_id": "9c2378562188c3cb"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇦🇹 Austria 2a81 | SNI: www.cloudflare.com",
+      "server": "185.224.3.42",
+      "server_port": 10443,
+      "uuid": "f6431ff1-dec0-4a6c-be4a-ce917913b589",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cloudflare.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇦🇹 Austria 360f | SNI: www.cloudflare.com",
+      "server": "185.224.3.41",
+      "server_port": 10443,
+      "uuid": "f6431ff1-dec0-4a6c-be4a-ce917913b589",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cloudflare.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo"
         }
       }
     },
@@ -7159,6 +8014,18 @@
           "public_key": "wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4",
           "short_id": "9c2378562188c3cb"
         }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇦🇹 Austria cdf1",
+      "server": "46.102.156.144",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
       }
     },
     {
@@ -7437,21 +8304,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 0037",
-      "server": "104.18.21.94",
-      "server_port": 443,
-      "uuid": "86c50e3a-5b87-49dd-bd20-03c7f2735e40",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "cnmfangbinxing-nmsl.cnmfangbinxing-0.workers.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada 0062 | SNI: aged-sun-9128.danicng13.workers.dev",
       "server": "104.17.147.22",
       "server_port": 8443,
@@ -7666,6 +8518,26 @@
     },
     {
       "type": "vless",
+      "tag": "🇨🇦 Canada 0674 | SNI: juzi8186.qea.ccwu.cc",
+      "server": "172.64.145.93",
+      "server_port": 443,
+      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "juzi8186.qea.ccwu.cc",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/tv/juzibaipiao?ed=2560",
+        "headers": {
+          "Host": "juzi8186.qea.ccwu.cc"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇨🇦 Canada 0684 | SNI: juzi8186.qea.ccwu.cc",
       "server": "cf4.danfeng.eu.org",
       "server_port": 2053,
@@ -7825,6 +8697,26 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada 0c76 | SNI: juzi8186.qea.ccwu.cc",
+      "server": "162.159.36.20",
+      "server_port": 443,
+      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "juzi8186.qea.ccwu.cc",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/favs/collect/juzibaipiao?ed=2560",
+        "headers": {
+          "Host": "juzi8186.qea.ccwu.cc"
+        }
       }
     },
     {
@@ -8113,6 +9005,26 @@
         "path": "/rN50nmm9L1DeY73C?ed=2560",
         "headers": {
           "Host": "lucky-lab-ac6d.caveyi8071.workers.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada 1280 | SNI: cf.cfvip.lol",
+      "server": "172.64.155.209",
+      "server_port": 443,
+      "uuid": "93f0761d-4393-4b43-a523-e812fa0b7e83",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cf.cfvip.lol",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/pyip=47.251.95.178",
+        "headers": {
+          "Host": "cf.cfvip.lol"
         }
       }
     },
@@ -8580,6 +9492,26 @@
     },
     {
       "type": "vless",
+      "tag": "🇨🇦 Canada 1ec0 | SNI: juzi8186.qea.ccwu.cc",
+      "server": "104.18.38.47",
+      "server_port": 443,
+      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "juzi8186.qea.ccwu.cc",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/discuss/f/juzibaipiao?ed=2560",
+        "headers": {
+          "Host": "juzi8186.qea.ccwu.cc"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇨🇦 Canada 1f55",
       "server": "172.64.147.223",
       "server_port": 80,
@@ -8680,26 +9612,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 22b1 | SNI: snippets.kkii.eu.org",
-      "server": "104.17.25.173",
-      "server_port": 443,
-      "uuid": "5a2c16f9-e365-4080-8d38-6924c3835586",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "snippets.kkii.eu.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "snippets.kkii.eu.org"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada 22d8",
       "server": "104.21.59.114",
       "server_port": 8880,
@@ -8710,26 +9622,6 @@
         "path": "/rlg2mgmxyyu4n5a8",
         "headers": {
           "Host": "index.harmony510.workers.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada 2321 | SNI: e1-f55.pages.dev",
-      "server": "172.66.44.161",
-      "server_port": 443,
-      "uuid": "8b5acf77-2c2e-4eed-9ad1-be81851b99ea",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "e1-f55.pages.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "e1-f55.pages.dev"
         }
       }
     },
@@ -8778,6 +9670,19 @@
         "headers": {
           "Host": "vip.yaml7.ggff.net"
         }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada 2420 | SNI: cho.chonon.sbs",
+      "server": "104.18.185.26",
+      "server_port": 443,
+      "uuid": "9d847ad3-1896-48f9-b89c-13fe345e2bff",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cho.chonon.sbs",
+        "insecure": false
       }
     },
     {
@@ -9262,21 +10167,21 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 2f3c | SNI: juzi8186.qea.ccwu.cc",
-      "server": "104.18.42.163",
+      "tag": "🇨🇦 Canada 2f39 | SNI: 2-1ng.pages.dev",
+      "server": "172.64.154.211",
       "server_port": 443,
-      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
+      "uuid": "ce069292-c8bf-40dd-a6b1-87818a1e64e9",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
-        "server_name": "juzi8186.qea.ccwu.cc",
+        "server_name": "2-1ng.pages.dev",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/tv/juzibaipiao?ed=2560",
+        "path": "/",
         "headers": {
-          "Host": "juzi8186.qea.ccwu.cc"
+          "Host": "2-1ng.pages.dev"
         }
       }
     },
@@ -9297,26 +10202,6 @@
         "path": "/?ed=2560",
         "headers": {
           "Host": "sni.111000.v6.rocks"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada 2fc2 | SNI: juzi8186.qea.ccwu.cc",
-      "server": "104.21.224.5",
-      "server_port": 443,
-      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "juzi8186.qea.ccwu.cc",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/lib/soft/payment/juzibaipiao?ed=2560",
-        "headers": {
-          "Host": "juzi8186.qea.ccwu.cc"
         }
       }
     },
@@ -9422,29 +10307,21 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 326e | SNI: iranazad.golabzahra.ir.",
-      "server": "104.19.229.21",
-      "server_port": 2083,
-      "uuid": "b6cdec79-cf23-4c1c-a7a7-a9696a3b4467",
+      "tag": "🇨🇦 Canada 3331 | SNI: juzi8186.qea.ccwu.cc",
+      "server": "104.18.35.15",
+      "server_port": 443,
+      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
-        "server_name": "iranazad.golabzahra.ir.",
+        "server_name": "juzi8186.qea.ccwu.cc",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada 3332",
-      "server": "104.18.12.229",
-      "server_port": 2095,
-      "uuid": "7890ce31-9a25-4fd4-90e7-80e5823ff510",
-      "packet_encoding": "xudp",
+      },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/pictures/jump/channel/juzibaipiao?ed=2560",
         "headers": {
-          "Host": "iioo.iioou.workers.dev"
+          "Host": "juzi8186.qea.ccwu.cc"
         }
       }
     },
@@ -9540,14 +10417,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 35d0",
-      "server": "104.17.147.22",
-      "server_port": 443,
-      "uuid": "1fde81b7-08a0-40a0-ae19-47841c03a643",
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada 35d9",
       "server": "172.64.146.211",
       "server_port": 80,
@@ -9600,26 +10469,6 @@
         "path": "/?ed=2560",
         "headers": {
           "Host": "parking-nfchbwa1-v2.parking-1ab.workers.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada 3777 | SNI: powered-by-surena.user68f797c2f3e1b.workers.dev",
-      "server": "104.18.32.47",
-      "server_port": 443,
-      "uuid": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "powered-by-surena.user68f797c2f3e1b.workers.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed",
-        "headers": {
-          "Host": "powered-by-surena.user68f797c2f3e1b.workers.dev"
         }
       }
     },
@@ -9793,26 +10642,6 @@
         "path": "/azadnet-1ml.pages.dev/?ed=2560&PROT_TYPE=vless",
         "headers": {
           "Host": "azadnet-1ml.pages.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada 3cac | SNI: juzi8186.qea.ccwu.cc",
-      "server": "172.64.149.209",
-      "server_port": 443,
-      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "juzi8186.qea.ccwu.cc",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/discuss/f/juzibaipiao?ed=2560",
-        "headers": {
-          "Host": "juzi8186.qea.ccwu.cc"
         }
       }
     },
@@ -10437,19 +11266,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 50fe",
-      "server": "104.18.13.149",
-      "server_port": 443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "104.18.13.149",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada 5213",
       "server": "172.64.147.79",
       "server_port": 80,
@@ -10737,6 +11553,38 @@
       "uuid": "60441548-b68e-43b2-8191-e3b884be4b3c",
       "security": "auto",
       "alter_id": 0
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada 5838 | SNI: juzi8186.qea.ccwu.cc",
+      "server": "104.21.227.134",
+      "server_port": 443,
+      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "juzi8186.qea.ccwu.cc",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/lib/soft/payment/juzibaipiao?ed=2560",
+        "headers": {
+          "Host": "juzi8186.qea.ccwu.cc"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada 586d",
+      "server": "104.19.173.68",
+      "server_port": 443,
+      "password": "d0298536-d670-4045-bbb1-ddd5ea68683e",
+      "tls": {
+        "enabled": true,
+        "server_name": "azadnet-5vk.pages.dev",
+        "insecure": false
+      }
     },
     {
       "type": "vless",
@@ -11113,26 +11961,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "🇨🇦 Canada 64d5 | SNI: rac.679888.xyz",
-      "server": "172.64.145.158",
-      "server_port": 443,
-      "uuid": "f330576f-eda3-4fcf-9756-b453fff18b6f",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "rac.679888.xyz",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/hptjws",
-        "headers": {
-          "Host": "rac.679888.xyz"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": "🇨🇦 Canada 6585",
       "server": "23.173.104.205",
@@ -11235,6 +12063,26 @@
       }
     },
     {
+      "type": "vless",
+      "tag": "🇨🇦 Canada 67d6 | SNI: DiGIkALaA.dpdns.ORG",
+      "server": "104.17.148.22",
+      "server_port": 443,
+      "uuid": "2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "DiGIkALaA.dpdns.ORG",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560",
+        "headers": {
+          "Host": "digikalaa.dpdns.org"
+        }
+      }
+    },
+    {
       "type": "trojan",
       "tag": "🇨🇦 Canada 67fb",
       "server": "www.visa.com.sg",
@@ -11244,26 +12092,6 @@
         "enabled": true,
         "server_name": "welfare.yycx.eu.org",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada 6829 | SNI: sni.111000.v6.army",
-      "server": "59.31.107.42",
-      "server_port": 13720,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.v6.army",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560",
-        "headers": {
-          "Host": "sni.111000.v6.army"
-        }
       }
     },
     {
@@ -11343,21 +12171,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 6a4e",
-      "server": "104.18.4.130",
-      "server_port": 2052,
-      "uuid": "12d75b7d-8fdf-4785-8d62-d836854e7e63",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "parking-nfchbwa1-v2.parking-1ab.workers.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada 6a8b",
       "server": "104.17.25.173",
       "server_port": 80,
@@ -11425,19 +12238,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 6b35 | SNI: cho.chonon.sbs",
-      "server": "104.21.227.134",
-      "server_port": 443,
-      "uuid": "9d847ad3-1896-48f9-b89c-13fe345e2bff",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cho.chonon.sbs",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada 6bbe",
       "server": "104.17.150.99",
       "server_port": 80,
@@ -11483,26 +12283,6 @@
         "path": "/",
         "headers": {
           "Host": "vip.yaml7.ggff.net"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada 6d0a | SNI: PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev",
-      "server": "104.18.2.150",
-      "server_port": 443,
-      "uuid": "a114d067-b900-4f60-87a5-50d4d63972b8",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev"
         }
       }
     },
@@ -11558,6 +12338,26 @@
         "path": "/telegram🇨🇳",
         "headers": {
           "Host": "frejd.11258.workers.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada 6dc7 | SNI: hetz.x-smm.com",
+      "server": "104.17.148.22",
+      "server_port": 443,
+      "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "hetz.x-smm.com",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/45.76.183.217=49292",
+        "headers": {
+          "Host": "hetz.x-smm.com"
         }
       }
     },
@@ -11742,26 +12542,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 73b6 | SNI: H7-83W.pAgeS.deV",
-      "server": "172.66.44.118",
-      "server_port": 443,
-      "uuid": "0f4d41cf-0be1-4fcc-ac41-53b843ba0752",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "H7-83W.pAgeS.deV",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "H7-83W.pAgeS.deV"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada 73fc",
       "server": "104.20.6.134",
       "server_port": 443,
@@ -11827,6 +12607,26 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada 7700 | SNI: sni.jpmj.dev",
+      "server": "172.64.149.54",
+      "server_port": 2096,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.jpmj.dev",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560",
+        "headers": {
+          "Host": "sni.jpmj.dev"
+        }
       }
     },
     {
@@ -11953,26 +12753,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 783b | SNI: sni.111000.indevs.in",
-      "server": "104.18.32.47",
-      "server_port": 443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.indevs.in",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "sni.111000.indevs.in"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada 7889",
       "server": "172.66.44.211",
       "server_port": 80,
@@ -12015,6 +12795,26 @@
         "path": "/store/juzibaipiao?ed=2560",
         "headers": {
           "Host": "juzi8186.qea.ccwu.cc"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada 792a | SNI: sni.111000.dynv6.net",
+      "server": "172.64.149.54",
+      "server_port": 8443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.dynv6.net",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?Telegram??+@WangCai2",
+        "headers": {
+          "Host": "sni.111000.dynv6.net"
         }
       }
     },
@@ -12175,44 +12975,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 7bfb | SNI: juzi8186.qea.ccwu.cc",
-      "server": "104.18.42.54",
-      "server_port": 443,
-      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "juzi8186.qea.ccwu.cc",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/out/comics/document/juzibaipiao?ed=2560",
-        "headers": {
-          "Host": "juzi8186.qea.ccwu.cc"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada 7c27 | SNI: spl01.hatlikarious.org",
-      "server": "104.17.147.22",
-      "server_port": 443,
-      "uuid": "86825b06-ee56-4dc9-9128-b3abda5c31e8",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "spl01.hatlikarious.org",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {}
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada 7ca7",
       "server": "172.64.146.153",
       "server_port": 80,
@@ -12223,6 +12985,26 @@
         "path": "/",
         "headers": {
           "Host": "tt.andishehparenting.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada 7d04 | SNI: sni.111000.indevs.in",
+      "server": "172.64.155.209",
+      "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.indevs.in",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sni.111000.indevs.in"
         }
       }
     },
@@ -12268,26 +13050,6 @@
         "path": "/telegram🇨🇳@wangcai2/?ed=2560",
         "headers": {
           "Host": "frejd.11258.workers.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada 7dc1 | SNI: amirvpn.amirhm00100.workers.dev",
-      "server": "104.19.35.216",
-      "server_port": 443,
-      "uuid": "0ca855d9-7c03-40eb-929b-919f934abdc3",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "amirvpn.amirhm00100.workers.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "amirvpn.amirhm00100.workers.dev"
         }
       }
     },
@@ -12790,19 +13552,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 8b77 | SNI: cho.chonon.sbs",
-      "server": "104.16.250.22",
-      "server_port": 443,
-      "uuid": "9d847ad3-1896-48f9-b89c-13fe345e2bff",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cho.chonon.sbs",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada 8bda",
       "server": "172.64.80.1",
       "server_port": 80,
@@ -12813,26 +13562,6 @@
         "path": "/",
         "headers": {
           "Host": "vip.yaml7.ggff.net"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada 8be0 | SNI: juzi8186.qea.ccwu.cc",
-      "server": "172.67.70.92",
-      "server_port": 443,
-      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "juzi8186.qea.ccwu.cc",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/buy/ads/juzibaipiao?ed=2560",
-        "headers": {
-          "Host": "juzi8186.qea.ccwu.cc"
         }
       }
     },
@@ -13008,21 +13737,21 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 8fda | SNI: 3-7v4.pages.dev",
+      "tag": "🇨🇦 Canada 8fda | SNI: 3-7gj.pages.dev",
       "server": "104.18.38.47",
       "server_port": 443,
       "uuid": "ce069292-c8bf-40dd-a6b1-87818a1e64e9",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
-        "server_name": "3-7v4.pages.dev",
+        "server_name": "3-7gj.pages.dev",
         "insecure": false
       },
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "3-7v4.pages.dev"
+          "Host": "3-7gj.pages.dev"
         }
       }
     },
@@ -13190,6 +13919,21 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada 9376",
+      "server": "104.18.12.229",
+      "server_port": 443,
+      "uuid": "363a6072-05d7-48d5-8f19-312b05fdd9cd",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev"
+        }
       }
     },
     {
@@ -13402,21 +14146,21 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 970d | SNI: 1-aym.pages.dev",
+      "tag": "🇨🇦 Canada 970d | SNI: 3-7v4.pages.dev",
       "server": "172.64.149.209",
       "server_port": 443,
       "uuid": "ce069292-c8bf-40dd-a6b1-87818a1e64e9",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
-        "server_name": "1-aym.pages.dev",
+        "server_name": "3-7v4.pages.dev",
         "insecure": false
       },
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "1-aym.pages.dev"
+          "Host": "3-7v4.pages.dev"
         }
       }
     },
@@ -13619,26 +14363,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada 9cf6 | SNI: cf.cfvip.lol",
-      "server": "104.18.32.47",
-      "server_port": 443,
-      "uuid": "93f0761d-4393-4b43-a523-e812fa0b7e83",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "cf.cfvip.lol",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/pyip=47.251.95.178",
-        "headers": {
-          "Host": "cf.cfvip.lol"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada 9d6c | SNI: pagescm.freen22.cc.cd",
       "server": "www.visa.com.hk",
       "server_port": 443,
@@ -13686,6 +14410,14 @@
     },
     {
       "type": "vless",
+      "tag": "🇨🇦 Canada 9e6a",
+      "server": "104.17.148.22",
+      "server_port": 443,
+      "uuid": "1fde81b7-08a0-40a0-ae19-47841c03a643",
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
       "tag": "🇨🇦 Canada 9ea0",
       "server": "162.159.237.139",
       "server_port": 80,
@@ -13696,26 +14428,6 @@
         "path": "/?ed=2048",
         "headers": {
           "Host": "sss.yaml7.ggff.net"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada 9ed3 | SNI: hio-awx.pages.dev",
-      "server": "104.19.174.68",
-      "server_port": 2053,
-      "uuid": "d37a75db-76b6-4db8-b213-0d5b044d138d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "hio-awx.pages.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/fast",
-        "headers": {
-          "Host": "hio-awx.pages.dev"
         }
       }
     },
@@ -14020,21 +14732,6 @@
         "enabled": true,
         "server_name": "cloudflare-proxy-1jk.pages.dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada a505",
-      "server": "104.18.4.130",
-      "server_port": 2082,
-      "uuid": "cb213db5-803d-49dd-a7e2-46d938af0751",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "amiroo-l43dac88-v2.amiroo-d8b.workers.dev"
-        }
       }
     },
     {
@@ -15373,6 +16070,24 @@
     },
     {
       "type": "vless",
+      "tag": "🇨🇦 Canada c249 | SNI: spl01.hatlikarious.org",
+      "server": "104.17.148.22",
+      "server_port": 443,
+      "uuid": "86825b06-ee56-4dc9-9128-b3abda5c31e8",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "spl01.hatlikarious.org",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇨🇦 Canada c24e",
       "server": "chatgpt.com",
       "server_port": 80,
@@ -15403,46 +16118,6 @@
         "path": "",
         "headers": {
           "Host": "3-bio.pages.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada c29f | SNI: ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV",
-      "server": "188.114.98.0",
-      "server_port": 443,
-      "uuid": "11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/eyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0",
-        "headers": {
-          "Host": "ancient-heart-60c5.dpccgizieb.workers.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada c2d0 | SNI: 002.Inc-ElectROcElL-001-002.WoRKERS.DEV",
-      "server": "172.67.164.152",
-      "server_port": 443,
-      "uuid": "36a857e4-f3d4-43aa-8b90-d7da849da989",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "002.Inc-ElectROcElL-001-002.WoRKERS.DEV",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-        "headers": {
-          "Host": "002.inc-electrocell-001-002.workers.dev"
         }
       }
     },
@@ -15548,22 +16223,15 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada c69c | SNI: sni.111000.indevs.in",
+      "tag": "🇨🇦 Canada c69c",
       "server": "172.64.149.54",
       "server_port": 443,
       "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
-        "server_name": "sni.111000.indevs.in",
+        "server_name": "172.64.149.54",
         "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "sni.111000.indevs.in"
-        }
       }
     },
     {
@@ -15671,26 +16339,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada cd03 | SNI: hetz.x-smm.com",
-      "server": "104.17.147.22",
-      "server_port": 443,
-      "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "hetz.x-smm.com",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/45.76.183.217=49292",
-        "headers": {
-          "Host": "hetz.x-smm.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada cd55 | SNI: 002.Inc-ElectROcElL-001-002.WoRKERS.DEV",
       "server": "002.inc-electrocell-001-002.workers.dev",
       "server_port": 443,
@@ -15706,26 +16354,6 @@
         "path": "/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560",
         "headers": {
           "Host": "002.inc-electrocell-001-002.workers.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada cd6d | SNI: DiGIkALaA.dpdns.ORG",
-      "server": "104.17.147.22",
-      "server_port": 443,
-      "uuid": "2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "DiGIkALaA.dpdns.ORG",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560",
-        "headers": {
-          "Host": "digikalaa.dpdns.org"
         }
       }
     },
@@ -15814,6 +16442,26 @@
         "path": "/?ed=2560",
         "headers": {
           "Host": "newwk1.f1w.de5.net"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada cfd2 | SNI: juzi8186.qea.ccwu.cc",
+      "server": "cf8.danfeng.eu.org",
+      "server_port": 2096,
+      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "juzi8186.qea.ccwu.cc",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/show/about/juzibaipiao?ed=2560",
+        "headers": {
+          "Host": "juzi8186.qea.ccwu.cc"
         }
       }
     },
@@ -16586,6 +17234,26 @@
     },
     {
       "type": "vless",
+      "tag": "🇨🇦 Canada e2d8 | SNI: powered-by-surena.user68f797c2f3e1b.workers.dev",
+      "server": "172.64.155.209",
+      "server_port": 443,
+      "uuid": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "powered-by-surena.user68f797c2f3e1b.workers.dev",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed",
+        "headers": {
+          "Host": "powered-by-surena.user68f797c2f3e1b.workers.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇨🇦 Canada e44c | SNI: lively-brook-c471.nedena3319.workers.dev",
       "server": "104.16.250.22",
       "server_port": 443,
@@ -16643,6 +17311,14 @@
         "server_name": "www.ignitelimit.com",
         "insecure": false
       }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada e4e9",
+      "server": "104.18.12.149",
+      "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -16780,6 +17456,26 @@
     },
     {
       "type": "vless",
+      "tag": "🇨🇦 Canada e8a6 | SNI: telegram.vpnazadie.store",
+      "server": "172.64.155.209",
+      "server_port": 443,
+      "uuid": "425ef0c5-4e79-4aa5-bf9e-b847a0f73601",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "telegram.vpnazadie.store",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vless-tls",
+        "headers": {
+          "Host": "vpnazadie.store"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇨🇦 Canada e932 | SNI: O94yv7LIF0-AnXisD9EFEhVVS7mxN6Bh.Z-UlE-iKA-D-E-ne-k-e.wORkers.dEv",
       "server": "www.speedtest.net",
       "server_port": 443,
@@ -16795,6 +17491,26 @@
         "path": "/CmtD3y72juVnvSxU?ed=2560",
         "headers": {
           "Host": "o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada e947 | SNI: snippets.kkii.eu.org",
+      "server": "104.16.250.22",
+      "server_port": 443,
+      "uuid": "5a2c16f9-e365-4080-8d38-6924c3835586",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "snippets.kkii.eu.org",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "snippets.kkii.eu.org"
         }
       }
     },
@@ -16838,26 +17554,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada e9f2 | SNI: 1-aym.pages.dev",
-      "server": "tajikistan.mfa.gov.ua",
-      "server_port": 443,
-      "uuid": "ce069292-c8bf-40dd-a6b1-87818a1e64e9",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "1-aym.pages.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "1-aym.pages.dev"
-        }
       }
     },
     {
@@ -16948,26 +17644,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada eb57 | SNI: juzi8186.qea.ccwu.cc",
-      "server": "162.159.36.5",
-      "server_port": 443,
-      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "juzi8186.qea.ccwu.cc",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/favs/collect/juzibaipiao?ed=2560",
-        "headers": {
-          "Host": "juzi8186.qea.ccwu.cc"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada eba4",
       "server": "104.17.156.229",
       "server_port": 443,
@@ -16978,26 +17654,6 @@
         "path": "/",
         "headers": {
           "Host": "vip.yaml7.ggff.net"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada ecfb | SNI: sni.111000.dynv6.net",
-      "server": "104.18.13.149",
-      "server_port": 8443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.dynv6.net",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?Telegram??+@WangCai2",
-        "headers": {
-          "Host": "sni.111000.dynv6.net"
         }
       }
     },
@@ -17225,26 +17881,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 Canada f3d0 | SNI: sni.jpmj.dev",
-      "server": "212.183.88.238",
-      "server_port": 2096,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.jpmj.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&Telegram🇨🇳+@WangCai2",
-        "headers": {
-          "Host": "sni.jpmj.dev"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇨🇦 Canada f3ec",
       "server": "104.17.25.132",
       "server_port": 80,
@@ -17305,6 +17941,26 @@
         "path": "/",
         "headers": {
           "Host": "lucky-voice-d6f3.difat89954-0c6.workers.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada f55a | SNI: juzi8186.qea.ccwu.cc",
+      "server": "162.159.36.20",
+      "server_port": 2087,
+      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "juzi8186.qea.ccwu.cc",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/favs/collect/juzibaipiao?ed=2560fp=firefox",
+        "headers": {
+          "Host": "juzi8186.qea.ccwu.cc"
         }
       }
     },
@@ -17448,26 +18104,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "🇨🇦 Canada f792 | SNI: BpB.175775.xYZ",
-      "server": "www.speedtest.net",
-      "server_port": 2053,
-      "uuid": "9b7cd743-bd37-484c-b9dc-d16077df82eb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "BpB.175775.xYZ",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/iJ0xzjzMtRa6U2xK?ed=2560",
-        "headers": {
-          "Host": "Bpb.175775.xYz"
-        }
-      }
-    },
-    {
       "type": "trojan",
       "tag": "🇨🇦 Canada f7d3",
       "server": "23.173.104.198",
@@ -17501,21 +18137,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada f897",
-      "server": "172.64.149.54",
-      "server_port": 2052,
-      "uuid": "cdec8542-a21f-4377-9da3-ea60bb6d3a30",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev"
-        }
       }
     },
     {
@@ -17662,6 +18283,26 @@
       "transport": {
         "type": "ws",
         "path": "/lib/soft/payment/juzibaipiao?ed=2560",
+        "headers": {
+          "Host": "juzi8186.qea.ccwu.cc"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 Canada fa62 | SNI: juzi8186.qea.ccwu.cc",
+      "server": "172.64.145.202",
+      "server_port": 443,
+      "uuid": "bafacd98-136a-4530-838d-4e5c51838dac",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "juzi8186.qea.ccwu.cc",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/out/comics/document/juzibaipiao?ed=2560",
         "headers": {
           "Host": "juzi8186.qea.ccwu.cc"
         }
@@ -17830,26 +18471,6 @@
         "path": "/",
         "headers": {
           "Host": "vip.yaml7.ggff.net"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇨🇦 Canada fc76 | SNI: telegram.vpnazadie.store",
-      "server": "104.18.32.47",
-      "server_port": 443,
-      "uuid": "425ef0c5-4e79-4aa5-bf9e-b847a0f73601",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "telegram.vpnazadie.store",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vless-tls",
-        "headers": {
-          "Host": "vpnazadie.store"
         }
       }
     },
@@ -18051,6 +18672,24 @@
     },
     {
       "type": "vless",
+      "tag": "🇨🇭 Switzerland 6c88 | SNI: yandex.by [CIDR]",
+      "server": "a.l-itx.info",
+      "server_port": 443,
+      "uuid": "7ad4c072-db9e-4e79-a5e1-5ec2c00ee524",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "yandex.by",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA",
+          "short_id": "6ba85179e30d4fc3"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇨🇭 Switzerland 8477 | SNI: sw1tzerl4nd.gxcore.net",
       "server": "103.227.84.1",
       "server_port": 443,
@@ -18092,6 +18731,24 @@
       "server_port": 22,
       "uuid": "monacoVPN",
       "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇭 Switzerland a06d | SNI: colorlib.com [CIDR]",
+      "server": "a.l-itx.info",
+      "server_port": 7443,
+      "uuid": "7ad4c072-db9e-4e79-a5e1-5ec2c00ee524",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "colorlib.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA",
+          "short_id": "6ba85179e30d4fc3"
+        }
+      }
     },
     {
       "type": "vless",
@@ -18149,6 +18806,23 @@
     },
     {
       "type": "vless",
+      "tag": "🇨🇭 Switzerland e694 | SNI: cloud.globaledgenet.com",
+      "server": "cloud.globaledgenet.com",
+      "server_port": 443,
+      "uuid": "bc9639fa-6600-43ff-9a43-eb34ad192810",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cloud.globaledgenet.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "rRGPedMea32_bsWFx_fxQPy-50TOF6KbBAmYL2rkmQ4"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇨🇭 Switzerland e6f5 | SNI: www.google.com",
       "server": "193.151.108.76",
       "server_port": 443,
@@ -18162,6 +18836,26 @@
           "enabled": true,
           "public_key": "nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw",
           "short_id": "6ba85179e30d4fc2"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇭 Switzerland ece5 | SNI: itx-server.digital [CIDR]",
+      "server": "a.l-itx.info",
+      "server_port": 2053,
+      "uuid": "7ad4c072-db9e-4e79-a5e1-5ec2c00ee524",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "itx-server.digital",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/ws",
+        "headers": {
+          "Host": "itx-server.digital"
         }
       }
     },
@@ -18482,6 +19176,30 @@
     },
     {
       "type": "trojan",
+      "tag": "[OpenRay] 🇩🇪 DE-13947",
+      "server": "72.56.103.129",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "[OpenRay] 🇩🇪 DE-14325",
+      "server": "72.56.103.129",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇩🇪 Germany 00c1",
       "server": "167.71.50.110",
       "server_port": 8443,
@@ -18685,33 +19403,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 03eb",
-      "server": "72.56.103.129",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 040f",
-      "server": "srv1.khatibirepair.ir",
-      "server_port": 80,
-      "uuid": "388a6c57-87e7-420b-afe2-b3eb670fd7da",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "vip.yaml7.ggff.net"
-        }
       }
     },
     {
@@ -20170,6 +20861,26 @@
       }
     },
     {
+      "type": "vless",
+      "tag": "🇩🇪 Germany 2321 | SNI: e1-f55.pages.dev",
+      "server": "172.66.44.161",
+      "server_port": 443,
+      "uuid": "8b5acf77-2c2e-4eed-9ad1-be81851b99ea",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "e1-f55.pages.dev",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "e1-f55.pages.dev"
+        }
+      }
+    },
+    {
       "type": "trojan",
       "tag": "🇩🇪 Germany 238e",
       "server": "188.241.241.32",
@@ -20430,6 +21141,23 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 Germany 28c6 | SNI: www.cloudflare.com",
+      "server": "83.243.86.117",
+      "server_port": 10443,
+      "uuid": "f6431ff1-dec0-4a6c-be4a-ce917913b589",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cloudflare.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo"
+        }
       }
     },
     {
@@ -20877,19 +21605,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 2f9c",
-      "server": "free06.tunnely.ru",
-      "server_port": 8080,
-      "uuid": "95eb9d2d-e315-48ca-becb-409fd03e7c86",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/ws/",
-        "headers": {}
       }
     },
     {
@@ -22376,6 +23091,23 @@
       }
     },
     {
+      "type": "vless",
+      "tag": "🇩🇪 Germany 486f | SNI: www.cloudflare.com",
+      "server": "83.243.86.119",
+      "server_port": 10443,
+      "uuid": "f6431ff1-dec0-4a6c-be4a-ce917913b589",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cloudflare.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo"
+        }
+      }
+    },
+    {
       "type": "trojan",
       "tag": "🇩🇪 Germany 49b3",
       "server": "91.199.118.216",
@@ -22584,6 +23316,24 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 Germany 4c92 | SNI: ger04.myxasecure.space",
+      "server": "ger04.myxasecure.space",
+      "server_port": 443,
+      "uuid": "5381a1bb-479a-412a-9d99-08ccbc008828",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ger04.myxasecure.space",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw",
+          "short_id": "d67ec5a8fc40ebea"
+        }
       }
     },
     {
@@ -23702,18 +24452,6 @@
     },
     {
       "type": "trojan",
-      "tag": "🇩🇪 Germany 6073",
-      "server": "72.56.103.129",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
       "tag": "🇩🇪 Germany 60bf",
       "server": "167.71.50.110",
       "server_port": 2053,
@@ -23886,26 +24624,6 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 639e | SNI: sni.111000.indevs.in",
-      "server": "45.80.111.7",
-      "server_port": 443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.indevs.in",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "",
-        "headers": {
-          "Host": "sni.111000.indevs.in"
-        }
       }
     },
     {
@@ -24166,586 +24884,6 @@
       "type": "trojan",
       "tag": "🇩🇪 Germany 6690",
       "server": "167.172.163.16",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 6718 | SNI: fastcdn.hoyoverse.com",
-      "server": "185.120.16.208",
-      "server_port": 8443,
-      "uuid": "f546691e-c631-45a5-a399-fbf0d1a4fa02",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "fastcdn.hoyoverse.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "BDyM9fEqTWGuUfygYOQVEomwVdNv2A3cj-M1t00fBHw",
-          "short_id": "d1e8a2f6c3b90754"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 6773 | SNI: sni.111000.indevs.in",
-      "server": "135.125.191.89",
-      "server_port": 8443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.indevs.in",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&Telegram🇨🇳@WangCai2",
-        "headers": {
-          "Host": "sni.111000.indevs.in"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6782",
-      "server": "212.113.112.236",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 681f",
-      "server": "85.193.95.23",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 681f #2",
-      "server": "167.172.163.16",
-      "server_port": 2096,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 686c",
-      "server": "62.133.60.134",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6870",
-      "server": "167.71.58.185",
-      "server_port": 2096,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 68a3 | SNI: game-de.great-server-list.co.uk",
-      "server": "game-de.love-list-server.com",
-      "server_port": 443,
-      "uuid": "a77198e2-9cf7-44c7-a97f-319f6f0e5b07",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "game-de.great-server-list.co.uk",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 68bf",
-      "server": "78.47.194.101",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 68c3",
-      "server": "194.28.226.46",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 68df",
-      "server": "178.128.203.165",
-      "server_port": 2096,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 68f3",
-      "server": "104.248.249.73",
-      "server_port": 2083,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 68f6",
-      "server": "178.128.192.26",
-      "server_port": 2096,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6931",
-      "server": "91.199.118.151",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 694e | SNI: sni.latonyamadeline.ndjp.net",
-      "server": "37.1.194.220",
-      "server_port": 8443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.latonyamadeline.ndjp.net",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&https://t.me/WangCai2🇨🇳",
-        "headers": {
-          "Host": "sni.latonyamadeline.ndjp.net"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 69e2",
-      "server": "164.92.177.103",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 6a43 | SNI: 194.58.41.88.fwqfw783rg2dad.website",
-      "server": "194.58.41.88.fwqfw783rg2dad.website",
-      "server_port": 443,
-      "uuid": "33cd4eed-ea41-4b5a-b12e-78fcb1b95db8",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "194.58.41.88.fwqfw783rg2dad.website",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/sequre/ws?ed=2560",
-        "headers": {}
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6adb",
-      "server": "57.129.47.17",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6b40",
-      "server": "49.13.154.236",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 6b8f | SNI: deu549.worldbypass.org",
-      "server": "93.94.51.101",
-      "server_port": 443,
-      "uuid": "405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "deu549.worldbypass.org",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 6ba7 | SNI: sni.111000.dns.army",
-      "server": "193.124.203.152",
-      "server_port": 8443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.dns.army",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&https://t.me/WangCai2🇨🇳",
-        "headers": {
-          "Host": "sni.111000.dns.army"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6c13",
-      "server": "161.35.207.2",
-      "server_port": 2087,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6d8f",
-      "server": "167.99.247.93",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6e30",
-      "server": "45.11.24.55",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 6ec8 | SNI: sni.111000.v6.navy",
-      "server": "91.107.171.251",
-      "server_port": 443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.v6.navy",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&Telegram🇨🇳 @WangCai2",
-        "headers": {
-          "Host": "sni.111000.v6.navy"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6f0f [CIDR]",
-      "server": "77.221.157.251",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6f14",
-      "server": "91.228.154.170",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 6f5f | SNI: sni.111000.indevs.in",
-      "server": "57.129.47.78",
-      "server_port": 2053,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.indevs.in",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560",
-        "headers": {
-          "Host": "sni.111000.indevs.in"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6f65",
-      "server": "159.223.20.232",
-      "server_port": 2083,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 6fa7 | SNI: sni.latonyamadeline.ndjp.net",
-      "server": "193.233.134.77",
-      "server_port": 443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.latonyamadeline.ndjp.net",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&https://t.me/wangcai2🇨🇳",
-        "headers": {
-          "Host": "sni.latonyamadeline.ndjp.net"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6fd8",
-      "server": "37.46.19.79",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6fe3",
-      "server": "46.101.172.168",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 7013",
-      "server": "91.199.118.215",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 703b",
-      "server": "31.22.10.240",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 7085 | SNI: sni.111000.v6.navy",
-      "server": "142.132.178.99",
-      "server_port": 443,
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.v6.navy",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&Telegram🇨🇳 @WangCai2",
-        "headers": {
-          "Host": "sni.111000.v6.navy"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 7095",
-      "server": "178.128.204.59",
-      "server_port": 2083,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 70b3",
-      "server": "139.59.151.190",
-      "server_port": 2087,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 7128",
-      "server": "46.101.178.246",
-      "server_port": 2096,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 7155",
-      "server": "161.35.207.2",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 7187",
-      "server": "164.92.177.103",
-      "server_port": 2087,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany 720b | SNI: www.apple.com",
-      "server": "89.106.95.193",
-      "server_port": 443,
-      "uuid": "629d2ccc-3a2a-4dd3-83d2-86b25fc8783e",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.apple.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ",
-          "short_id": "23"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 72b7",
-      "server": "46.101.172.79",
       "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
