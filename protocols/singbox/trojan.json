@@ -25,161 +25,62 @@
       "type": "selector",
       "tag": "proxy",
       "outbounds": [
-        "📦 Unsorted 014d [CIDR]",
-        "📦 Unsorted 061c [CIDR]",
-        "📦 Unsorted 0733 [CIDR]",
-        "📦 Unsorted 07df",
-        "📦 Unsorted 08b3 [CIDR]",
-        "📦 Unsorted 0e6c [CIDR]",
-        "📦 Unsorted 12c5 [CIDR]",
-        "📦 Unsorted 1464 [CIDR]",
-        "📦 Unsorted 1480",
-        "📦 Unsorted 1589 [CIDR]",
-        "📦 Unsorted 194c",
-        "📦 Unsorted 1e3d [CIDR]",
-        "📦 Unsorted 2043 [CIDR]",
-        "📦 Unsorted 23bb",
-        "📦 Unsorted 23d0 [CIDR]",
-        "📦 Unsorted 2615 [CIDR]",
-        "📦 Unsorted 26a8",
-        "📦 Unsorted 275c",
-        "📦 Unsorted 2c5a [CIDR]",
-        "📦 Unsorted 2eb8 [CIDR]",
-        "📦 Unsorted 3358 [CIDR]",
-        "📦 Unsorted 3617",
-        "📦 Unsorted 37d7",
-        "📦 Unsorted 39bc [CIDR]",
-        "📦 Unsorted 3bdd [CIDR]",
-        "📦 Unsorted 3c6c",
-        "📦 Unsorted 3d80 [CIDR]",
-        "📦 Unsorted 3dc6 [CIDR]",
-        "📦 Unsorted 4332 [CIDR]",
-        "📦 Unsorted 4721 [CIDR]",
-        "📦 Unsorted 474c",
-        "📦 Unsorted 4e99 [CIDR]",
-        "📦 Unsorted 4ec5 [CIDR]",
-        "📦 Unsorted 50d0",
-        "📦 Unsorted 51e9 [CIDR]",
-        "📦 Unsorted 528f",
-        "📦 Unsorted 5475",
-        "📦 Unsorted 56ad [CIDR]",
-        "📦 Unsorted 5773",
-        "📦 Unsorted 5923 [CIDR]",
-        "📦 Unsorted 5964 [CIDR]",
-        "📦 Unsorted 59ae [CIDR]",
-        "📦 Unsorted 601d [CIDR]",
-        "📦 Unsorted 6465",
-        "📦 Unsorted 66ef",
-        "📦 Unsorted 672c [CIDR]",
-        "📦 Unsorted 67a2",
-        "📦 Unsorted 67fb",
-        "📦 Unsorted 68f5 [CIDR]",
-        "📦 Unsorted 6ac6",
-        "📦 Unsorted 6cde [CIDR]",
-        "📦 Unsorted 6dc2 [CIDR]",
-        "📦 Unsorted 6f0f [CIDR]",
-        "📦 Unsorted 77a6",
-        "📦 Unsorted 7ada [CIDR]",
-        "📦 Unsorted 7cbe [CIDR]",
-        "📦 Unsorted 7f74 [CIDR]",
-        "📦 Unsorted 81e1",
-        "📦 Unsorted 8281 [CIDR]",
-        "📦 Unsorted 8345 [CIDR]",
-        "📦 Unsorted 8849",
-        "📦 Unsorted 8c37 [CIDR]",
-        "📦 Unsorted 8f4e [CIDR]",
-        "📦 Unsorted 9123 [CIDR]",
-        "📦 Unsorted 923d [CIDR]",
-        "📦 Unsorted 92ed [CIDR]",
-        "📦 Unsorted 953f [CIDR]",
-        "📦 Unsorted 9cba [CIDR]",
-        "📦 Unsorted 9cef [CIDR]",
-        "📦 Unsorted 9eb7 [CIDR]",
-        "📦 Unsorted 9ed9",
-        "📦 Unsorted 9fc8",
-        "📦 Unsorted a407 [CIDR]",
-        "📦 Unsorted a438",
-        "📦 Unsorted a61a [CIDR]",
-        "📦 Unsorted a63b [CIDR]",
-        "📦 Unsorted a67b [CIDR]",
-        "📦 Unsorted ab60",
-        "📦 Unsorted abdf [CIDR]",
-        "📦 Unsorted ad87",
-        "📦 Unsorted b17c [CIDR]",
-        "📦 Unsorted b1ef [CIDR]",
-        "📦 Unsorted b2f1 [CIDR]",
-        "📦 Unsorted bb51 [CIDR]",
-        "📦 Unsorted be59",
-        "📦 Unsorted bebf [CIDR]",
-        "📦 Unsorted c160 [CIDR]",
-        "📦 Unsorted c3db [CIDR]",
-        "📦 Unsorted c86d [CIDR]",
-        "📦 Unsorted cddb",
-        "📦 Unsorted d0c7 [CIDR]",
-        "📦 Unsorted d219",
-        "📦 Unsorted d3fb [CIDR]",
-        "📦 Unsorted d797 [CIDR]",
-        "📦 Unsorted d90c",
-        "📦 Unsorted d92a [CIDR]",
-        "📦 Unsorted dae5 [CIDR]",
-        "📦 Unsorted dd37 [CIDR]",
-        "📦 Unsorted dfc5",
-        "📦 Unsorted dfd3 [CIDR]",
-        "📦 Unsorted e1c7 [CIDR]",
-        "📦 Unsorted e33f [CIDR]",
-        "📦 Unsorted e41c [CIDR]",
-        "📦 Unsorted e4d2",
-        "📦 Unsorted e6f4 [CIDR]",
-        "📦 Unsorted e76a [CIDR]",
-        "📦 Unsorted e80d",
-        "📦 Unsorted e8eb [CIDR]",
-        "📦 Unsorted f1cb [CIDR]",
         "📦 Unsorted f340",
-        "📦 Unsorted f605",
-        "📦 Unsorted f75c",
-        "📦 Unsorted f840",
         "📦 Unsorted f878",
-        "📦 Unsorted fb6a",
-        "📦 Unsorted fbe4",
-        "📦 Unsorted fd93",
-        "📦 Unsorted fe49 [CIDR]",
-        "📦 Unsorted fea4 [CIDR]",
         "🇦🇱 Albania 3da8",
         "🇦🇹 Austria 4312",
         "🇦🇹 Austria cdf1",
         "🇧🇷 Brazil 0a40",
+        "🇨🇦 Canada 07df",
         "🇨🇦 Canada 08a5",
         "🇨🇦 Canada 0bc7",
         "🇨🇦 Canada 0c57",
         "🇨🇦 Canada 0d10",
+        "🇨🇦 Canada 1480",
         "🇨🇦 Canada 1553",
         "🇨🇦 Canada 17e8",
         "🇨🇦 Canada 18e1",
+        "🇨🇦 Canada 194c",
         "🇨🇦 Canada 1bf0",
+        "🇨🇦 Canada 23bb",
         "🇨🇦 Canada 25db",
         "🇨🇦 Canada 2a74",
         "🇨🇦 Canada 2d25",
         "🇨🇦 Canada 2e26",
+        "🇨🇦 Canada 3617",
+        "🇨🇦 Canada 37d7",
         "🇨🇦 Canada 37d9",
         "🇨🇦 Canada 381a",
+        "🇨🇦 Canada 3c6c",
         "🇨🇦 Canada 4097",
         "🇨🇦 Canada 4280",
         "🇨🇦 Canada 4701",
+        "🇨🇦 Canada 474c",
         "🇨🇦 Canada 5071",
+        "🇨🇦 Canada 50d0",
+        "🇨🇦 Canada 528f",
+        "🇨🇦 Canada 5773",
         "🇨🇦 Canada 586d",
         "🇨🇦 Canada 59e4",
         "🇨🇦 Canada 5d93",
         "🇨🇦 Canada 6585",
         "🇨🇦 Canada 66cc",
+        "🇨🇦 Canada 66ef",
+        "🇨🇦 Canada 67a2",
+        "🇨🇦 Canada 67fb",
+        "🇨🇦 Canada 6ac6",
         "🇨🇦 Canada 6ee4",
         "🇨🇦 Canada 70fb",
         "🇨🇦 Canada 7445",
         "🇨🇦 Canada 76a0",
+        "🇨🇦 Canada 77a6",
         "🇨🇦 Canada 77be",
         "🇨🇦 Canada 788f",
         "🇨🇦 Canada 81df",
+        "🇨🇦 Canada 81e1",
         "🇨🇦 Canada 82c7",
         "🇨🇦 Canada 85fc",
+        "🇨🇦 Canada 8849",
         "🇨🇦 Canada 8b42",
         "🇨🇦 Canada 913a",
         "🇨🇦 Canada 9262",
@@ -190,39 +91,55 @@
         "🇨🇦 Canada 96ed",
         "🇨🇦 Canada 98cc",
         "🇨🇦 Canada 9dd6",
+        "🇨🇦 Canada 9ed9",
         "🇨🇦 Canada 9f71",
+        "🇨🇦 Canada 9fc8",
         "🇨🇦 Canada a081",
         "🇨🇦 Canada a0be",
         "🇨🇦 Canada a176",
         "🇨🇦 Canada a277",
         "🇨🇦 Canada a323",
+        "🇨🇦 Canada a438",
         "🇨🇦 Canada a7fd",
+        "🇨🇦 Canada ab60",
         "🇨🇦 Canada ac0f",
+        "🇨🇦 Canada ad87",
         "🇨🇦 Canada adf4",
         "🇨🇦 Canada aff4",
         "🇨🇦 Canada b0eb",
         "🇨🇦 Canada b441",
         "🇨🇦 Canada b96a",
         "🇨🇦 Canada bd54",
+        "🇨🇦 Canada be59",
         "🇨🇦 Canada bff7",
         "🇨🇦 Canada c03c",
+        "🇨🇦 Canada cddb",
         "🇨🇦 Canada ce44",
         "🇨🇦 Canada cfb4",
         "🇨🇦 Canada d01b",
         "🇨🇦 Canada d090",
         "🇨🇦 Canada d0f6",
         "🇨🇦 Canada d186",
+        "🇨🇦 Canada d219",
         "🇨🇦 Canada ddae",
+        "🇨🇦 Canada dfc5",
         "🇨🇦 Canada e261",
+        "🇨🇦 Canada e4d2",
+        "🇨🇦 Canada e80d",
         "🇨🇦 Canada e862",
         "🇨🇦 Canada e9d6",
         "🇨🇦 Canada ea33",
         "🇨🇦 Canada f262",
+        "🇨🇦 Canada f605",
+        "🇨🇦 Canada f75c",
         "🇨🇦 Canada f7d3",
+        "🇨🇦 Canada f840",
         "🇨🇦 Canada f86d",
         "🇨🇦 Canada f90f",
         "🇨🇦 Canada f935",
+        "🇨🇦 Canada fb6a",
         "🇨🇦 Canada fba4",
+        "🇨🇦 Canada fbe4",
         "🇨🇿 Czechia 62da",
         "🇩🇪 Germany 00c1",
         "🇩🇪 Germany 00f2",
@@ -237,7 +154,6 @@
         "🇩🇪 Germany 0342",
         "🇩🇪 Germany 039f",
         "🇩🇪 Germany 03ea",
-        "🇩🇪 Germany 03eb",
         "🇩🇪 Germany 04a7",
         "🇩🇪 Germany 04dc",
         "🇩🇪 Germany 054d",
@@ -294,7 +210,7 @@
         "🇩🇪 Germany 17cc",
         "🇩🇪 Germany 17ea",
         "🇩🇪 Germany 17ea #2",
-        "🇩🇪 Germany 17f3",
+        "🇩🇪 Germany 17f3 #2",
         "🇩🇪 Germany 18ae",
         "🇩🇪 Germany 19b3",
         "🇩🇪 Germany 1a00",
@@ -324,6 +240,7 @@
         "🇩🇪 Germany 22e5",
         "🇩🇪 Germany 22fb",
         "🇩🇪 Germany 238e",
+        "🇩🇪 Germany 23d0 [CIDR]",
         "🇩🇪 Germany 24eb",
         "🇩🇪 Germany 2513",
         "🇩🇪 Germany 2514",
@@ -487,6 +404,7 @@
         "🇩🇪 Germany 5788",
         "🇩🇪 Germany 57cb",
         "🇩🇪 Germany 58bf",
+        "🇩🇪 Germany 5923 [CIDR]",
         "🇩🇪 Germany 593c",
         "🇩🇪 Germany 59eb",
         "🇩🇪 Germany 59ec",
@@ -517,7 +435,6 @@
         "🇩🇪 Germany 5fec",
         "🇩🇪 Germany 6000",
         "🇩🇪 Germany 6012",
-        "🇩🇪 Germany 6073",
         "🇩🇪 Germany 60bf",
         "🇩🇪 Germany 60c2",
         "🇩🇪 Germany 616a",
@@ -555,6 +472,7 @@
         "🇩🇪 Germany 6c13",
         "🇩🇪 Germany 6d8f",
         "🇩🇪 Germany 6e30",
+        "🇩🇪 Germany 6f0f [CIDR]",
         "🇩🇪 Germany 6f14",
         "🇩🇪 Germany 6f65",
         "🇩🇪 Germany 6fd8",
@@ -625,7 +543,7 @@
         "🇩🇪 Germany 888b",
         "🇩🇪 Germany 88f3",
         "🇩🇪 Germany 897a",
-        "🇩🇪 Germany 8999",
+        "🇩🇪 Germany 8999 #2",
         "🇩🇪 Germany 8a9d",
         "🇩🇪 Germany 8ab4",
         "🇩🇪 Germany 8ac7",
@@ -654,6 +572,7 @@
         "🇩🇪 Germany 920c",
         "🇩🇪 Germany 926a",
         "🇩🇪 Germany 929f",
+        "🇩🇪 Germany 92ed [CIDR]",
         "🇩🇪 Germany 934e",
         "🇩🇪 Germany 9375",
         "🇩🇪 Germany 93bb",
@@ -701,6 +620,7 @@
         "🇩🇪 Germany a352",
         "🇩🇪 Germany a3d8",
         "🇩🇪 Germany a3fb",
+        "🇩🇪 Germany a407 [CIDR]",
         "🇩🇪 Germany a41c",
         "🇩🇪 Germany a4a3",
         "🇩🇪 Germany a4d6",
@@ -850,6 +770,7 @@
         "🇩🇪 Germany d365",
         "🇩🇪 Germany d3b5",
         "🇩🇪 Germany d3cf",
+        "🇩🇪 Germany d3fb [CIDR]",
         "🇩🇪 Germany d408",
         "🇩🇪 Germany d433",
         "🇩🇪 Germany d44f",
@@ -906,6 +827,7 @@
         "🇩🇪 Germany e637",
         "🇩🇪 Germany e6ad",
         "🇩🇪 Germany e6f3",
+        "🇩🇪 Germany e6f4 [CIDR]",
         "🇩🇪 Germany e742",
         "🇩🇪 Germany e753",
         "🇩🇪 Germany e78c",
@@ -913,6 +835,7 @@
         "🇩🇪 Germany e858",
         "🇩🇪 Germany e8b8",
         "🇩🇪 Germany e8d5",
+        "🇩🇪 Germany e8eb [CIDR]",
         "🇩🇪 Germany e8f1",
         "🇩🇪 Germany e921",
         "🇩🇪 Germany e961",
@@ -980,6 +903,7 @@
         "🇪🇪 Estonia 8dba",
         "🇪🇪 Estonia 94ae",
         "🇫🇮 Finland 0103",
+        "🇫🇮 Finland 014d [CIDR]",
         "🇫🇮 Finland 0213",
         "🇫🇮 Finland 022a",
         "🇫🇮 Finland 0601",
@@ -987,6 +911,7 @@
         "🇫🇮 Finland 0683",
         "🇫🇮 Finland 06ae",
         "🇫🇮 Finland 08ac",
+        "🇫🇮 Finland 08b3 [CIDR]",
         "🇫🇮 Finland 0a07",
         "🇫🇮 Finland 0b4b",
         "🇫🇮 Finland 0ba1",
@@ -1003,6 +928,7 @@
         "🇫🇮 Finland 1117",
         "🇫🇮 Finland 116b",
         "🇫🇮 Finland 11a6",
+        "🇫🇮 Finland 12c5 [CIDR]",
         "🇫🇮 Finland 12ef",
         "🇫🇮 Finland 1398",
         "🇫🇮 Finland 1468",
@@ -1034,6 +960,7 @@
         "🇫🇮 Finland 2a1c",
         "🇫🇮 Finland 2a7e",
         "🇫🇮 Finland 2c39",
+        "🇫🇮 Finland 2c5a [CIDR]",
         "🇫🇮 Finland 2ce5",
         "🇫🇮 Finland 2cee",
         "🇫🇮 Finland 2e03",
@@ -1054,6 +981,7 @@
         "🇫🇮 Finland 38ef",
         "🇫🇮 Finland 3961",
         "🇫🇮 Finland 3b07",
+        "🇫🇮 Finland 3bdd [CIDR]",
         "🇫🇮 Finland 3db5",
         "🇫🇮 Finland 3e97",
         "🇫🇮 Finland 40d4",
@@ -1077,12 +1005,14 @@
         "🇫🇮 Finland 52b9",
         "🇫🇮 Finland 5433",
         "🇫🇮 Finland 54e6",
+        "🇫🇮 Finland 56ad [CIDR]",
         "🇫🇮 Finland 5777",
         "🇫🇮 Finland 57a4",
         "🇫🇮 Finland 5834",
         "🇫🇮 Finland 584d",
         "🇫🇮 Finland 585d",
         "🇫🇮 Finland 5948",
+        "🇫🇮 Finland 5964 [CIDR]",
         "🇫🇮 Finland 5ae2",
         "🇫🇮 Finland 5b07",
         "🇫🇮 Finland 5b66",
@@ -1144,6 +1074,7 @@
         "🇫🇮 Finland 78e5",
         "🇫🇮 Finland 792e",
         "🇫🇮 Finland 7a18",
+        "🇫🇮 Finland 7ada [CIDR]",
         "🇫🇮 Finland 7b13",
         "🇫🇮 Finland 7c76",
         "🇫🇮 Finland 7d4a",
@@ -1155,6 +1086,7 @@
         "🇫🇮 Finland 8049",
         "🇫🇮 Finland 8094",
         "🇫🇮 Finland 8232",
+        "🇫🇮 Finland 8281 [CIDR]",
         "🇫🇮 Finland 82b5",
         "🇫🇮 Finland 82d2",
         "🇫🇮 Finland 842d",
@@ -1177,10 +1109,13 @@
         "🇫🇮 Finland 8f83",
         "🇫🇮 Finland 9037",
         "🇫🇮 Finland 9104",
+        "🇫🇮 Finland 9123 [CIDR]",
         "🇫🇮 Finland 91de",
         "🇫🇮 Finland 91e5",
+        "🇫🇮 Finland 923d [CIDR]",
         "🇫🇮 Finland 9290",
         "🇫🇮 Finland 9478",
+        "🇫🇮 Finland 953f [CIDR]",
         "🇫🇮 Finland 95f9",
         "🇫🇮 Finland 9631",
         "🇫🇮 Finland 96c1",
@@ -1189,6 +1124,7 @@
         "🇫🇮 Finland 988d",
         "🇫🇮 Finland 9964",
         "🇫🇮 Finland 9abb",
+        "🇫🇮 Finland 9cef [CIDR]",
         "🇫🇮 Finland 9d18",
         "🇫🇮 Finland 9d45",
         "🇫🇮 Finland a016",
@@ -1201,15 +1137,16 @@
         "🇫🇮 Finland a87a",
         "🇫🇮 Finland a93c",
         "🇫🇮 Finland aa43",
+        "🇫🇮 Finland abdf [CIDR]",
         "🇫🇮 Finland ad6b",
         "🇫🇮 Finland ae7a",
         "🇫🇮 Finland af02",
         "🇫🇮 Finland af06",
-        "🇫🇮 Finland af3b",
         "🇫🇮 Finland b010",
         "🇫🇮 Finland b083",
         "🇫🇮 Finland b0a7",
         "🇫🇮 Finland b1ce",
+        "🇫🇮 Finland b1ef [CIDR]",
         "🇫🇮 Finland b392",
         "🇫🇮 Finland b415",
         "🇫🇮 Finland b41e",
@@ -1236,6 +1173,7 @@
         "🇫🇮 Finland c7d4",
         "🇫🇮 Finland c7d5",
         "🇫🇮 Finland c833",
+        "🇫🇮 Finland c86d [CIDR]",
         "🇫🇮 Finland c933",
         "🇫🇮 Finland c9ca",
         "🇫🇮 Finland ca55",
@@ -1244,6 +1182,7 @@
         "🇫🇮 Finland ce7f",
         "🇫🇮 Finland cfd9",
         "🇫🇮 Finland cffa",
+        "🇫🇮 Finland d0c7 [CIDR]",
         "🇫🇮 Finland d0c9",
         "🇫🇮 Finland d100",
         "🇫🇮 Finland d127",
@@ -1256,8 +1195,11 @@
         "🇫🇮 Finland d5a0",
         "🇫🇮 Finland d62d",
         "🇫🇮 Finland d6bc",
+        "🇫🇮 Finland d797 [CIDR]",
         "🇫🇮 Finland d81a",
+        "🇫🇮 Finland d92a [CIDR]",
         "🇫🇮 Finland da4c",
+        "🇫🇮 Finland dae5 [CIDR]",
         "🇫🇮 Finland dae9",
         "🇫🇮 Finland dcb5",
         "🇫🇮 Finland dd44",
@@ -1272,6 +1214,7 @@
         "🇫🇮 Finland e129",
         "🇫🇮 Finland e176",
         "🇫🇮 Finland e19e",
+        "🇫🇮 Finland e1c7 [CIDR]",
         "🇫🇮 Finland e1e9",
         "🇫🇮 Finland e35b",
         "🇫🇮 Finland e3a4",
@@ -1298,6 +1241,7 @@
         "🇫🇮 Finland f145",
         "🇫🇮 Finland f1ae",
         "🇫🇮 Finland f1c0",
+        "🇫🇮 Finland f1cb [CIDR]",
         "🇫🇮 Finland f3d5",
         "🇫🇮 Finland f42f",
         "🇫🇮 Finland f473",
@@ -1318,6 +1262,7 @@
         "🇫🇮 Finland fde8",
         "🇫🇮 Finland fdf9",
         "🇫🇮 Finland fe06",
+        "🇫🇮 Finland fea4 [CIDR]",
         "🇫🇮 Finland ff20",
         "🇫🇮 Finland ff45",
         "🇫🇷 France 00bf",
@@ -1697,6 +1642,7 @@
         "🇬🇧 United Kingdom ffb1",
         "🇬🇧 United Kingdom ffb3",
         "🇬🇪 Georgia 722c",
+        "🇭🇰 Hong Kong 6465",
         "🇭🇰 Hong Kong 9d54",
         "🇭🇰 Hong Kong ba5c",
         "🇭🇰 Hong Kong cf05",
@@ -1778,9 +1724,11 @@
         "🇳🇱 Netherlands 05b7",
         "🇳🇱 Netherlands 05db",
         "🇳🇱 Netherlands 05fc",
+        "🇳🇱 Netherlands 061c [CIDR]",
         "🇳🇱 Netherlands 066a",
         "🇳🇱 Netherlands 0696",
         "🇳🇱 Netherlands 06d1",
+        "🇳🇱 Netherlands 0733 [CIDR]",
         "🇳🇱 Netherlands 078b",
         "🇳🇱 Netherlands 0796",
         "🇳🇱 Netherlands 0804",
@@ -1805,6 +1753,7 @@
         "🇳🇱 Netherlands 0d7d",
         "🇳🇱 Netherlands 0de2",
         "🇳🇱 Netherlands 0e05",
+        "🇳🇱 Netherlands 0e6c [CIDR]",
         "🇳🇱 Netherlands 0e84",
         "🇳🇱 Netherlands 0eab",
         "🇳🇱 Netherlands 0eda",
@@ -1831,11 +1780,13 @@
         "🇳🇱 Netherlands 12f0",
         "🇳🇱 Netherlands 135f",
         "🇳🇱 Netherlands 1383",
+        "🇳🇱 Netherlands 1464 [CIDR]",
         "🇳🇱 Netherlands 1484",
         "🇳🇱 Netherlands 1494",
         "🇳🇱 Netherlands 14b2",
         "🇳🇱 Netherlands 14ca",
         "🇳🇱 Netherlands 1567",
+        "🇳🇱 Netherlands 1589 [CIDR]",
         "🇳🇱 Netherlands 158d",
         "🇳🇱 Netherlands 15f1",
         "🇳🇱 Netherlands 15f2",
@@ -1878,6 +1829,7 @@
         "🇳🇱 Netherlands 1de0",
         "🇳🇱 Netherlands 1df8",
         "🇳🇱 Netherlands 1e0a",
+        "🇳🇱 Netherlands 1e3d [CIDR]",
         "🇳🇱 Netherlands 1e40",
         "🇳🇱 Netherlands 1ec5",
         "🇳🇱 Netherlands 1f07",
@@ -1916,6 +1868,7 @@
         "🇳🇱 Netherlands 259a",
         "🇳🇱 Netherlands 25a1",
         "🇳🇱 Netherlands 25bd",
+        "🇳🇱 Netherlands 2615 [CIDR]",
         "🇳🇱 Netherlands 2622",
         "🇳🇱 Netherlands 2629",
         "🇳🇱 Netherlands 264a",
@@ -1957,9 +1910,7 @@
         "🇳🇱 Netherlands 2ca7",
         "🇳🇱 Netherlands 2d39",
         "🇳🇱 Netherlands 2d63",
-        "🇳🇱 Netherlands 2d79",
         "🇳🇱 Netherlands 2dfe",
-        "🇳🇱 Netherlands 2e09",
         "🇳🇱 Netherlands 2e89",
         "🇳🇱 Netherlands 2ef3",
         "🇳🇱 Netherlands 300d",
@@ -1984,6 +1935,7 @@
         "🇳🇱 Netherlands 330b",
         "🇳🇱 Netherlands 334d",
         "🇳🇱 Netherlands 3357",
+        "🇳🇱 Netherlands 3358 [CIDR]",
         "🇳🇱 Netherlands 338c",
         "🇳🇱 Netherlands 33ac",
         "🇳🇱 Netherlands 3497",
@@ -2002,6 +1954,7 @@
         "🇳🇱 Netherlands 391c",
         "🇳🇱 Netherlands 3939",
         "🇳🇱 Netherlands 395f",
+        "🇳🇱 Netherlands 39bc [CIDR]",
         "🇳🇱 Netherlands 3a37",
         "🇳🇱 Netherlands 3b19",
         "🇳🇱 Netherlands 3b2c",
@@ -2016,10 +1969,12 @@
         "🇳🇱 Netherlands 3d3f",
         "🇳🇱 Netherlands 3d46",
         "🇳🇱 Netherlands 3d57",
+        "🇳🇱 Netherlands 3d80 [CIDR]",
         "🇳🇱 Netherlands 3d90",
         "🇳🇱 Netherlands 3d9c",
         "🇳🇱 Netherlands 3da7",
         "🇳🇱 Netherlands 3dab",
+        "🇳🇱 Netherlands 3dc6 [CIDR]",
         "🇳🇱 Netherlands 3dda",
         "🇳🇱 Netherlands 3e32",
         "🇳🇱 Netherlands 3e41",
@@ -2039,6 +1994,7 @@
         "🇳🇱 Netherlands 4305",
         "🇳🇱 Netherlands 430b",
         "🇳🇱 Netherlands 4331",
+        "🇳🇱 Netherlands 4332 [CIDR]",
         "🇳🇱 Netherlands 43ad",
         "🇳🇱 Netherlands 43c2",
         "🇳🇱 Netherlands 440e",
@@ -2051,6 +2007,7 @@
         "🇳🇱 Netherlands 4593",
         "🇳🇱 Netherlands 462f",
         "🇳🇱 Netherlands 46ad",
+        "🇳🇱 Netherlands 4721 [CIDR]",
         "🇳🇱 Netherlands 472c",
         "🇳🇱 Netherlands 4783",
         "🇳🇱 Netherlands 47bb",
@@ -2085,6 +2042,7 @@
         "🇳🇱 Netherlands 4dc0",
         "🇳🇱 Netherlands 4e1a",
         "🇳🇱 Netherlands 4e46",
+        "🇳🇱 Netherlands 4ec5 [CIDR]",
         "🇳🇱 Netherlands 4ec6",
         "🇳🇱 Netherlands 4ee0",
         "🇳🇱 Netherlands 4eef",
@@ -2122,6 +2080,7 @@
         "🇳🇱 Netherlands 58a3",
         "🇳🇱 Netherlands 58ac",
         "🇳🇱 Netherlands 5918",
+        "🇳🇱 Netherlands 59ae [CIDR]",
         "🇳🇱 Netherlands 59e6",
         "🇳🇱 Netherlands 59fe",
         "🇳🇱 Netherlands 5a74",
@@ -2144,6 +2103,7 @@
         "🇳🇱 Netherlands 5f5a",
         "🇳🇱 Netherlands 5f6a",
         "🇳🇱 Netherlands 5ff1",
+        "🇳🇱 Netherlands 601d [CIDR]",
         "🇳🇱 Netherlands 6079",
         "🇳🇱 Netherlands 6081",
         "🇳🇱 Netherlands 6097",
@@ -2175,6 +2135,7 @@
         "🇳🇱 Netherlands 669f",
         "🇳🇱 Netherlands 66e3",
         "🇳🇱 Netherlands 66f9",
+        "🇳🇱 Netherlands 672c [CIDR]",
         "🇳🇱 Netherlands 673d",
         "🇳🇱 Netherlands 674e",
         "🇳🇱 Netherlands 6771",
@@ -2184,6 +2145,7 @@
         "🇳🇱 Netherlands 6808",
         "🇳🇱 Netherlands 687f",
         "🇳🇱 Netherlands 689c",
+        "🇳🇱 Netherlands 68f5 [CIDR]",
         "🇳🇱 Netherlands 6914",
         "🇳🇱 Netherlands 698d",
         "🇳🇱 Netherlands 6a28",
@@ -2204,6 +2166,7 @@
         "🇳🇱 Netherlands 6c38",
         "🇳🇱 Netherlands 6c3f",
         "🇳🇱 Netherlands 6c8e",
+        "🇳🇱 Netherlands 6cde [CIDR]",
         "🇳🇱 Netherlands 6cf2",
         "🇳🇱 Netherlands 6cf9",
         "🇳🇱 Netherlands 6d2c",
@@ -2283,6 +2246,7 @@
         "🇳🇱 Netherlands 7f0e",
         "🇳🇱 Netherlands 7f4b",
         "🇳🇱 Netherlands 7f4c",
+        "🇳🇱 Netherlands 7f74 [CIDR]",
         "🇳🇱 Netherlands 7fb0",
         "🇳🇱 Netherlands 7fb3",
         "🇳🇱 Netherlands 8003",
@@ -2297,6 +2261,7 @@
         "🇳🇱 Netherlands 832f",
         "🇳🇱 Netherlands 8340",
         "🇳🇱 Netherlands 8343",
+        "🇳🇱 Netherlands 8345 [CIDR]",
         "🇳🇱 Netherlands 83b2",
         "🇳🇱 Netherlands 83c3",
         "🇳🇱 Netherlands 8476",
@@ -2328,6 +2293,7 @@
         "🇳🇱 Netherlands 8b97",
         "🇳🇱 Netherlands 8beb",
         "🇳🇱 Netherlands 8bf6",
+        "🇳🇱 Netherlands 8c37 [CIDR]",
         "🇳🇱 Netherlands 8c3a",
         "🇳🇱 Netherlands 8c64",
         "🇳🇱 Netherlands 8ca2",
@@ -2341,6 +2307,7 @@
         "🇳🇱 Netherlands 8ee6",
         "🇳🇱 Netherlands 8f3c",
         "🇳🇱 Netherlands 8f3f",
+        "🇳🇱 Netherlands 8f4e [CIDR]",
         "🇳🇱 Netherlands 900b",
         "🇳🇱 Netherlands 902d",
         "🇳🇱 Netherlands 9069",
@@ -2385,12 +2352,14 @@
         "🇳🇱 Netherlands 9c3d",
         "🇳🇱 Netherlands 9c48",
         "🇳🇱 Netherlands 9c58",
+        "🇳🇱 Netherlands 9cba [CIDR]",
         "🇳🇱 Netherlands 9cca",
         "🇳🇱 Netherlands 9cef",
         "🇳🇱 Netherlands 9d38",
         "🇳🇱 Netherlands 9dc5",
         "🇳🇱 Netherlands 9ea0",
         "🇳🇱 Netherlands 9eb3",
+        "🇳🇱 Netherlands 9eb7 [CIDR]",
         "🇳🇱 Netherlands 9ebe",
         "🇳🇱 Netherlands 9f28",
         "🇳🇱 Netherlands 9f75",
@@ -2418,6 +2387,8 @@
         "🇳🇱 Netherlands a59f",
         "🇳🇱 Netherlands a5f6",
         "🇳🇱 Netherlands a5fc",
+        "🇳🇱 Netherlands a63b [CIDR]",
+        "🇳🇱 Netherlands a67b [CIDR]",
         "🇳🇱 Netherlands a684",
         "🇳🇱 Netherlands a6f2",
         "🇳🇱 Netherlands a7ac",
@@ -2474,6 +2445,7 @@
         "🇳🇱 Netherlands b270",
         "🇳🇱 Netherlands b2ab",
         "🇳🇱 Netherlands b2e9",
+        "🇳🇱 Netherlands b2f1 [CIDR]",
         "🇳🇱 Netherlands b30d",
         "🇳🇱 Netherlands b32d",
         "🇳🇱 Netherlands b3a6",
@@ -2524,6 +2496,7 @@
         "🇳🇱 Netherlands c08a",
         "🇳🇱 Netherlands c09b",
         "🇳🇱 Netherlands c0ab",
+        "🇳🇱 Netherlands c0ac",
         "🇳🇱 Netherlands c0d3",
         "🇳🇱 Netherlands c101",
         "🇳🇱 Netherlands c1e9",
@@ -2532,6 +2505,7 @@
         "🇳🇱 Netherlands c245",
         "🇳🇱 Netherlands c33b",
         "🇳🇱 Netherlands c355",
+        "🇳🇱 Netherlands c3db [CIDR]",
         "🇳🇱 Netherlands c476",
         "🇳🇱 Netherlands c4c5",
         "🇳🇱 Netherlands c4ff",
@@ -2608,6 +2582,7 @@
         "🇳🇱 Netherlands d8d0",
         "🇳🇱 Netherlands d8f6",
         "🇳🇱 Netherlands d908",
+        "🇳🇱 Netherlands d90c",
         "🇳🇱 Netherlands d911",
         "🇳🇱 Netherlands d945",
         "🇳🇱 Netherlands d946",
@@ -2647,6 +2622,7 @@
         "🇳🇱 Netherlands e14c",
         "🇳🇱 Netherlands e2b0",
         "🇳🇱 Netherlands e307",
+        "🇳🇱 Netherlands e33f [CIDR]",
         "🇳🇱 Netherlands e3da",
         "🇳🇱 Netherlands e401",
         "🇳🇱 Netherlands e42e",
@@ -2660,6 +2636,7 @@
         "🇳🇱 Netherlands e706",
         "🇳🇱 Netherlands e71c",
         "🇳🇱 Netherlands e75b",
+        "🇳🇱 Netherlands e76a [CIDR]",
         "🇳🇱 Netherlands e7a1",
         "🇳🇱 Netherlands e7f7",
         "🇳🇱 Netherlands e835",
@@ -2811,11 +2788,14 @@
         "🇷🇺 Russia 193f [CIDR]",
         "🇷🇺 Russia 1c2a",
         "🇷🇺 Russia 2007",
+        "🇷🇺 Russia 2043 [CIDR]",
         "🇷🇺 Russia 2ec6",
         "🇷🇺 Russia 390b",
         "🇷🇺 Russia 3bfe",
         "🇷🇺 Russia 40f9",
         "🇷🇺 Russia 4ce6",
+        "🇷🇺 Russia 4e99 [CIDR]",
+        "🇷🇺 Russia 51e9 [CIDR]",
         "🇷🇺 Russia 52b5",
         "🇷🇺 Russia 70c9",
         "🇷🇺 Russia 7214",
@@ -2825,15 +2805,20 @@
         "🇷🇺 Russia 8f1a",
         "🇷🇺 Russia 9986",
         "🇷🇺 Russia 9e9b",
+        "🇷🇺 Russia a61a [CIDR]",
         "🇷🇺 Russia aedc",
         "🇷🇺 Russia b384",
+        "🇷🇺 Russia bebf [CIDR]",
         "🇷🇺 Russia c146",
+        "🇷🇺 Russia c160 [CIDR]",
         "🇷🇺 Russia c881",
         "🇷🇺 Russia cdce",
         "🇷🇺 Russia d39b",
+        "🇷🇺 Russia dfd3 [CIDR]",
         "🇷🇺 Russia e77a",
         "🇷🇺 Russia ef6b",
         "🇷🇺 Russia f395",
+        "🇷🇺 Russia f4df [CIDR]",
         "🇷🇺 Russia fa73",
         "🇷🇺 Russia fe87",
         "🇸🇪 Sweden 00e3",
@@ -2843,6 +2828,7 @@
         "🇸🇪 Sweden 16d8",
         "🇸🇪 Sweden 1c62",
         "🇸🇪 Sweden 24a4",
+        "🇸🇪 Sweden 26a8",
         "🇸🇪 Sweden 27bf",
         "🇸🇪 Sweden 282a",
         "🇸🇪 Sweden 3066",
@@ -2867,11 +2853,13 @@
         "🇸🇪 Sweden 5fc6",
         "🇸🇪 Sweden 65ab",
         "🇸🇪 Sweden 66c0",
+        "🇸🇪 Sweden 6dc2 [CIDR]",
         "🇸🇪 Sweden 7431",
         "🇸🇪 Sweden 75e2",
         "🇸🇪 Sweden 76eb",
         "🇸🇪 Sweden 7954",
         "🇸🇪 Sweden 7b8f",
+        "🇸🇪 Sweden 7cbe [CIDR]",
         "🇸🇪 Sweden 9229",
         "🇸🇪 Sweden 936b",
         "🇸🇪 Sweden 9690",
@@ -2887,7 +2875,9 @@
         "🇸🇪 Sweden d598",
         "🇸🇪 Sweden dae0",
         "🇸🇪 Sweden dcbc",
+        "🇸🇪 Sweden dd37 [CIDR]",
         "🇸🇪 Sweden dfca",
+        "🇸🇪 Sweden e41c [CIDR]",
         "🇸🇪 Sweden e591",
         "🇸🇪 Sweden e93d",
         "🇸🇪 Sweden eafb",
@@ -2910,12 +2900,14 @@
         "🇹🇷 Turkey 28eb",
         "🇹🇷 Turkey 981a",
         "🇹🇷 Turkey ad4b",
+        "🇹🇷 Turkey bb51 [CIDR]",
         "🇹🇷 Turkey bba3",
         "🇹🇷 Turkey cb1b",
         "🇹🇷 Turkey d36f",
         "🇹🇷 Turkey d719",
         "🇹🇷 Turkey f769",
         "🇹🇷 Turkey f7bf",
+        "🇹🇷 Turkey fd93",
         "🇺🇸 United States 0115",
         "🇺🇸 United States 01f9",
         "🇺🇸 United States 021a",
@@ -2951,12 +2943,14 @@
         "🇺🇸 United States 2271",
         "🇺🇸 United States 2536",
         "🇺🇸 United States 2680",
+        "🇺🇸 United States 275c",
         "🇺🇸 United States 2963",
         "🇺🇸 United States 2b42",
         "🇺🇸 United States 2b94",
         "🇺🇸 United States 2bd8",
         "🇺🇸 United States 2c60",
         "🇺🇸 United States 2e05",
+        "🇺🇸 United States 2eb8 [CIDR]",
         "🇺🇸 United States 309a",
         "🇺🇸 United States 30f3",
         "🇺🇸 United States 3331",
@@ -2979,6 +2973,7 @@
         "🇺🇸 United States 4e46",
         "🇺🇸 United States 4f2b",
         "🇺🇸 United States 544c",
+        "🇺🇸 United States 5475",
         "🇺🇸 United States 5596",
         "🇺🇸 United States 59db",
         "🇺🇸 United States 5bc4",
@@ -3089,6 +3084,7 @@
         "🇺🇸 United States eff7",
         "🇺🇸 United States f16d",
         "🇺🇸 United States f4db",
+        "🇺🇸 United States fe49 [CIDR]",
         "🇺🇸 United States fe4a",
         "🇺🇸 United States ff7e"
       ]
@@ -3096,1314 +3092,6 @@
     {
       "type": "direct",
       "tag": "direct"
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 014d [CIDR]",
-      "server": "193.164.155.226",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 061c [CIDR]",
-      "server": "89.208.104.51",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 0733 [CIDR]",
-      "server": "93.183.88.9",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 07df",
-      "server": "saas.sin.fan",
-      "server_port": 443,
-      "password": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.dynv6.net",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 08b3 [CIDR]",
-      "server": "31.58.171.230",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 0e6c [CIDR]",
-      "server": "91.84.125.227",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 12c5 [CIDR]",
-      "server": "193.23.201.155",
-      "server_port": 2087,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 1464 [CIDR]",
-      "server": "89.110.100.76",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 1480",
-      "server": "bestcf.030101.xyz",
-      "server_port": 443,
-      "password": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.dynv6.net",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 1589 [CIDR]",
-      "server": "157.22.182.229",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 194c",
-      "server": "cf.zhetengsha.eu.org",
-      "server_port": 443,
-      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare-proxy-1jk.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 1e3d [CIDR]",
-      "server": "89.110.108.189",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 2043 [CIDR]",
-      "server": "89.169.170.230",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 23bb",
-      "server": "www.host-tracker.com",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.gossipglove.com",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 23d0 [CIDR]",
-      "server": "77.221.157.251",
-      "server_port": 2096,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 2615 [CIDR]",
-      "server": "85.155.98.71",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 26a8",
-      "server": "yespaintstudio.rav-kraski.ru",
-      "server_port": 50824,
-      "password": "7aXwJPnpAJ",
-      "tls": {
-        "enabled": true,
-        "server_name": "🔒",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 275c",
-      "server": "chatgpt.com",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.gossipglove.com",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 2c5a [CIDR]",
-      "server": "45.38.143.62",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 2eb8 [CIDR]",
-      "server": "138.124.60.93",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 3358 [CIDR]",
-      "server": "213.176.113.98",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 3617",
-      "server": "www.speedtest.net",
-      "server_port": 443,
-      "password": "A4u%5Ep(_UR*F6",
-      "tls": {
-        "enabled": true,
-        "server_name": "027.ELeCTroCelLco-CF-027.wORkERS.dEv",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 37d7",
-      "server": "www.calmlunch.com",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 39bc [CIDR]",
-      "server": "91.84.107.167",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 3bdd [CIDR]",
-      "server": "45.38.143.62",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 3c6c",
-      "server": "sub.danfeng.eu.org",
-      "server_port": 443,
-      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare-proxy-1jk.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 3d80 [CIDR]",
-      "server": "89.110.82.19",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 3dc6 [CIDR]",
-      "server": "62.84.98.74",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 4332 [CIDR]",
-      "server": "212.192.217.100",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 4721 [CIDR]",
-      "server": "80.74.28.213",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 474c",
-      "server": "www.speedtest.net",
-      "server_port": 8443,
-      "password": "%3AU%5D2hAN7Y%5BKa0Eb_",
-      "tls": {
-        "enabled": true,
-        "server_name": "TEst-63W.PaGEs.deV",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 4e99 [CIDR]",
-      "server": "85.193.90.131",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 4ec5 [CIDR]",
-      "server": "46.149.78.144",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 50d0",
-      "server": "wing2452.nyc.mn",
-      "server_port": 443,
-      "password": "bpb-trojan",
-      "tls": {
-        "enabled": true,
-        "server_name": "wing2452.nyc.mn",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 51e9 [CIDR]",
-      "server": "77.110.104.41",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 528f",
-      "server": "22b.net",
-      "server_port": 2087,
-      "password": "trojan",
-      "tls": {
-        "enabled": true,
-        "server_name": "store.timimi.dpdns.org",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 5475",
-      "server": "mfa.gov.ua",
-      "server_port": 443,
-      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare-proxy-1jk.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 56ad [CIDR]",
-      "server": "31.58.171.152",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 5773",
-      "server": "sourceforge.net",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmloud.com",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 5923 [CIDR]",
-      "server": "185.65.202.101",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 5964 [CIDR]",
-      "server": "212.192.8.178",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 59ae [CIDR]",
-      "server": "5.255.118.107",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 601d [CIDR]",
-      "server": "138.124.89.189",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 6465",
-      "server": "bb.bejkn.cn",
-      "server_port": 6463,
-      "password": "BxceQaOe",
-      "tls": {
-        "enabled": true,
-        "server_name": "t.me/ripaojiedian",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 66ef",
-      "server": "cf.090227.xyz",
-      "server_port": 443,
-      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare-proxy-1jk.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 672c [CIDR]",
-      "server": "5.255.113.38",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 67a2",
-      "server": "cdns.doon.eu.org",
-      "server_port": 443,
-      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare-proxy-1jk.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 67fb",
-      "server": "www.visa.com.sg",
-      "server_port": 2087,
-      "password": "PFmduUyIB3",
-      "tls": {
-        "enabled": true,
-        "server_name": "welfare.yycx.eu.org",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 68f5 [CIDR]",
-      "server": "79.137.199.237",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 6ac6",
-      "server": "spring-tooth-7fa3.ahmadrj.workers.dev",
-      "server_port": 443,
-      "password": "Nova-Proxy",
-      "tls": {
-        "enabled": true,
-        "server_name": "spring-tooth-7fa3.ahmadrj.workers.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 6cde [CIDR]",
-      "server": "85.155.98.71",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 6dc2 [CIDR]",
-      "server": "109.120.156.122",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 6f0f [CIDR]",
-      "server": "77.221.157.251",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 77a6",
-      "server": "www.digitalocean.com",
-      "server_port": 443,
-      "password": "d0298536-d670-4045-bbb1-ddd5ea68683e",
-      "tls": {
-        "enabled": true,
-        "server_name": "azadnet-5vk.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 7ada [CIDR]",
-      "server": "151.242.43.44",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 7cbe [CIDR]",
-      "server": "84.32.49.95",
-      "server_port": 8443,
-      "password": "162534",
-      "tls": {
-        "enabled": true,
-        "server_name": "cchh2.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 7f74 [CIDR]",
-      "server": "89.110.65.5",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 81e1",
-      "server": "cf.877774.xyz",
-      "server_port": 443,
-      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare-proxy-1jk.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 8281 [CIDR]",
-      "server": "31.58.171.102",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 8345 [CIDR]",
-      "server": "5.255.115.185",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 8849",
-      "server": "cf.130519.xyz",
-      "server_port": 443,
-      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare-proxy-1jk.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 8c37 [CIDR]",
-      "server": "89.110.82.148",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 8f4e [CIDR]",
-      "server": "77.110.103.243",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 9123 [CIDR]",
-      "server": "31.58.171.102",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 923d [CIDR]",
-      "server": "31.56.197.181",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 92ed [CIDR]",
-      "server": "77.221.157.251",
-      "server_port": 2087,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 953f [CIDR]",
-      "server": "109.206.236.142",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 9cba [CIDR]",
-      "server": "89.208.105.59",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 9cef [CIDR]",
-      "server": "151.242.43.44",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 9eb7 [CIDR]",
-      "server": "212.34.151.109",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 9ed9",
-      "server": "www.multiplydose.com",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.multiplydose.com",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted 9fc8",
-      "server": "jquery.com",
-      "server_port": 443,
-      "password": "988sR-269PKCKlb%263pMrFTEr",
-      "tls": {
-        "enabled": true,
-        "server_name": "LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted a407 [CIDR]",
-      "server": "85.192.24.201",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted a438",
-      "server": "store.ubi.com",
-      "server_port": 443,
-      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare-proxy-1jk.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted a61a [CIDR]",
-      "server": "85.193.90.131",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted a63b [CIDR]",
-      "server": "138.124.117.96",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted a67b [CIDR]",
-      "server": "77.105.139.166",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted ab60",
-      "server": "v1.dabache.top",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.gossipglove.com",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted abdf [CIDR]",
-      "server": "45.38.143.54",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted ad87",
-      "server": "www.creationlong.org",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.creationlong.org",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted b17c [CIDR]",
-      "server": "151.242.43.77",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted b1ef [CIDR]",
-      "server": "31.58.171.152",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted b2f1 [CIDR]",
-      "server": "46.149.78.144",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted bb51 [CIDR]",
-      "server": "155.103.71.153",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted be59",
-      "server": "cf.008500.xyz",
-      "server_port": 443,
-      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare-proxy-1jk.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted bebf [CIDR]",
-      "server": "77.110.104.41",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted c160 [CIDR]",
-      "server": "89.169.1.76",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted c3db [CIDR]",
-      "server": "195.200.16.192",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted c86d [CIDR]",
-      "server": "31.58.171.7",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted cddb",
-      "server": "www.gossipglove.com",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.gossipglove.com",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted d0c7 [CIDR]",
-      "server": "109.206.236.154",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted d219",
-      "server": "172.64.152.23",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.multiplydose.com",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted d3fb [CIDR]",
-      "server": "185.65.202.101",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted d797 [CIDR]",
-      "server": "193.164.155.226",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted d90c",
-      "server": "hl-freedom-1.undef.network",
-      "server_port": 443,
-      "password": "JaFKnqNcvnBT63t3rquidGsln",
-      "tls": {
-        "enabled": true,
-        "server_name": "HL-FREEDOM-1.UNDEF.NETWORK",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted d92a [CIDR]",
-      "server": "31.58.171.7",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted dae5 [CIDR]",
-      "server": "45.38.143.54",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted dd37 [CIDR]",
-      "server": "150.241.74.98",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted dfc5",
-      "server": "koma-yt.pages.dev",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted dfd3 [CIDR]",
-      "server": "5.188.118.92",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted e1c7 [CIDR]",
-      "server": "45.38.143.139",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted e33f [CIDR]",
-      "server": "138.124.89.211",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted e41c [CIDR]",
-      "server": "91.108.242.148",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted e4d2",
-      "server": "www.ignitelimit.com",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.ignitelimit.com",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted e6f4 [CIDR]",
-      "server": "77.221.157.251",
-      "server_port": 2083,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted e76a [CIDR]",
-      "server": "89.110.108.189",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted e80d",
-      "server": "v1.dabache.top",
-      "server_port": 443,
-      "password": "bpb-trojan",
-      "tls": {
-        "enabled": true,
-        "server_name": "mashdt.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted e8eb [CIDR]",
-      "server": "77.221.157.251",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted f1cb [CIDR]",
-      "server": "77.221.158.36",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
     },
     {
       "type": "trojan",
@@ -4419,42 +3107,6 @@
     },
     {
       "type": "trojan",
-      "tag": "📦 Unsorted f605",
-      "server": "chat.openai.com",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted f75c",
-      "server": "saas.sin.fan",
-      "server_port": 443,
-      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-      "tls": {
-        "enabled": true,
-        "server_name": "cloudflare-proxy-1jk.pages.dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted f840",
-      "server": "cloudflare-ip.mofashi.ltd",
-      "server_port": 443,
-      "password": "2399fe0a-b359-40a9-a3f0-b70c3c177a01",
-      "tls": {
-        "enabled": true,
-        "server_name": "aa.beijng.dpdns.org",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
       "tag": "📦 Unsorted f878",
       "server": "snappfood.ir",
       "server_port": 80,
@@ -4462,66 +3114,6 @@
       "tls": {
         "enabled": true,
         "server_name": "snappfood.ir",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted fb6a",
-      "server": "104.19.229.21",
-      "server_port": 443,
-      "password": "8r<[9'l6hAO#8ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted fbe4",
-      "server": "vless.herogoing.top",
-      "server_port": 443,
-      "password": "bpb-trojan",
-      "tls": {
-        "enabled": true,
-        "server_name": "vless.herogoing.top",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted fd93",
-      "server": "tr-1.stunnel.cc",
-      "server_port": 8441,
-      "password": "tunnel-ljlcf",
-      "tls": {
-        "enabled": true,
-        "server_name": "tr-1.stunnel.cc",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted fe49 [CIDR]",
-      "server": "104.167.196.91",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "📦 Unsorted fea4 [CIDR]",
-      "server": "31.58.171.230",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
       }
     },
@@ -4575,6 +3167,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada 07df",
+      "server": "saas.sin.fan",
+      "server_port": 443,
+      "password": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.dynv6.net",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada 08a5",
       "server": "23.173.104.228",
       "server_port": 2053,
@@ -4623,6 +3227,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada 1480",
+      "server": "bestcf.030101.xyz",
+      "server_port": 443,
+      "password": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.111000.dynv6.net",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada 1553",
       "server": "104.19.229.21",
       "server_port": 443,
@@ -4659,6 +3275,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada 194c",
+      "server": "cf.zhetengsha.eu.org",
+      "server_port": 443,
+      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
+      "tls": {
+        "enabled": true,
+        "server_name": "cloudflare-proxy-1jk.pages.dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada 1bf0",
       "server": "23.173.104.234",
       "server_port": 2053,
@@ -4666,6 +3294,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada 23bb",
+      "server": "www.host-tracker.com",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.gossipglove.com",
         "insecure": false
       }
     },
@@ -4719,6 +3359,30 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada 3617",
+      "server": "www.speedtest.net",
+      "server_port": 443,
+      "password": "A4u%5Ep(_UR*F6",
+      "tls": {
+        "enabled": true,
+        "server_name": "027.ELeCTroCelLco-CF-027.wORkERS.dEv",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada 37d7",
+      "server": "www.calmlunch.com",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada 37d9",
       "server": "23.173.104.208",
       "server_port": 2053,
@@ -4738,6 +3402,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada 3c6c",
+      "server": "sub.danfeng.eu.org",
+      "server_port": 443,
+      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
+      "tls": {
+        "enabled": true,
+        "server_name": "cloudflare-proxy-1jk.pages.dev",
         "insecure": false
       }
     },
@@ -4779,6 +3455,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada 474c",
+      "server": "www.speedtest.net",
+      "server_port": 8443,
+      "password": "%3AU%5D2hAN7Y%5BKa0Eb_",
+      "tls": {
+        "enabled": true,
+        "server_name": "TEst-63W.PaGEs.deV",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada 5071",
       "server": "23.173.104.237",
       "server_port": 2053,
@@ -4786,6 +3474,42 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada 50d0",
+      "server": "wing2452.nyc.mn",
+      "server_port": 443,
+      "password": "bpb-trojan",
+      "tls": {
+        "enabled": true,
+        "server_name": "wing2452.nyc.mn",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada 528f",
+      "server": "22b.net",
+      "server_port": 2087,
+      "password": "trojan",
+      "tls": {
+        "enabled": true,
+        "server_name": "store.timimi.dpdns.org",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada 5773",
+      "server": "sourceforge.net",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmloud.com",
         "insecure": false
       }
     },
@@ -4851,6 +3575,54 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada 66ef",
+      "server": "cf.090227.xyz",
+      "server_port": 443,
+      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
+      "tls": {
+        "enabled": true,
+        "server_name": "cloudflare-proxy-1jk.pages.dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada 67a2",
+      "server": "cdns.doon.eu.org",
+      "server_port": 443,
+      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
+      "tls": {
+        "enabled": true,
+        "server_name": "cloudflare-proxy-1jk.pages.dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada 67fb",
+      "server": "www.visa.com.sg",
+      "server_port": 2087,
+      "password": "PFmduUyIB3",
+      "tls": {
+        "enabled": true,
+        "server_name": "welfare.yycx.eu.org",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada 6ac6",
+      "server": "spring-tooth-7fa3.ahmadrj.workers.dev",
+      "server_port": 443,
+      "password": "Nova-Proxy",
+      "tls": {
+        "enabled": true,
+        "server_name": "spring-tooth-7fa3.ahmadrj.workers.dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada 6ee4",
       "server": "104.19.174.68",
       "server_port": 443,
@@ -4899,6 +3671,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada 77a6",
+      "server": "www.digitalocean.com",
+      "server_port": 443,
+      "password": "d0298536-d670-4045-bbb1-ddd5ea68683e",
+      "tls": {
+        "enabled": true,
+        "server_name": "azadnet-5vk.pages.dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada 77be",
       "server": "23.173.104.230",
       "server_port": 2053,
@@ -4935,6 +3719,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada 81e1",
+      "server": "cf.877774.xyz",
+      "server_port": 443,
+      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
+      "tls": {
+        "enabled": true,
+        "server_name": "cloudflare-proxy-1jk.pages.dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada 82c7",
       "server": "23.173.104.226",
       "server_port": 2053,
@@ -4954,6 +3750,18 @@
       "tls": {
         "enabled": true,
         "server_name": "www.creationlong.org",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada 8849",
+      "server": "cf.130519.xyz",
+      "server_port": 443,
+      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
+      "tls": {
+        "enabled": true,
+        "server_name": "cloudflare-proxy-1jk.pages.dev",
         "insecure": false
       }
     },
@@ -5079,6 +3887,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada 9ed9",
+      "server": "www.multiplydose.com",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.multiplydose.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada 9f71",
       "server": "23.173.104.196",
       "server_port": 2053,
@@ -5086,6 +3906,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada 9fc8",
+      "server": "jquery.com",
+      "server_port": 443,
+      "password": "988sR-269PKCKlb%263pMrFTEr",
+      "tls": {
+        "enabled": true,
+        "server_name": "LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV",
         "insecure": false
       }
     },
@@ -5151,6 +3983,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada a438",
+      "server": "store.ubi.com",
+      "server_port": 443,
+      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
+      "tls": {
+        "enabled": true,
+        "server_name": "cloudflare-proxy-1jk.pages.dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada a7fd",
       "server": "44.32.224.207",
       "server_port": 2053,
@@ -5163,6 +4007,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada ab60",
+      "server": "v1.dabache.top",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.gossipglove.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada ac0f",
       "server": "72.11.150.213",
       "server_port": 8443,
@@ -5170,6 +4026,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada ad87",
+      "server": "www.creationlong.org",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.creationlong.org",
         "insecure": false
       }
     },
@@ -5247,6 +4115,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada be59",
+      "server": "cf.008500.xyz",
+      "server_port": 443,
+      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
+      "tls": {
+        "enabled": true,
+        "server_name": "cloudflare-proxy-1jk.pages.dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada bff7",
       "server": "23.173.104.217",
       "server_port": 2053,
@@ -5266,6 +4146,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada cddb",
+      "server": "www.gossipglove.com",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.gossipglove.com",
         "insecure": false
       }
     },
@@ -5343,9 +4235,33 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada d219",
+      "server": "172.64.152.23",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.multiplydose.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada ddae",
       "server": "23.173.104.195",
       "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada dfc5",
+      "server": "koma-yt.pages.dev",
+      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -5362,6 +4278,30 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada e4d2",
+      "server": "www.ignitelimit.com",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.ignitelimit.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada e80d",
+      "server": "v1.dabache.top",
+      "server_port": 443,
+      "password": "bpb-trojan",
+      "tls": {
+        "enabled": true,
+        "server_name": "mashdt.pages.dev",
         "insecure": false
       }
     },
@@ -5415,6 +4355,30 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada f605",
+      "server": "chat.openai.com",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada f75c",
+      "server": "saas.sin.fan",
+      "server_port": 443,
+      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
+      "tls": {
+        "enabled": true,
+        "server_name": "cloudflare-proxy-1jk.pages.dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada f7d3",
       "server": "23.173.104.198",
       "server_port": 2053,
@@ -5422,6 +4386,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada f840",
+      "server": "cloudflare-ip.mofashi.ltd",
+      "server_port": 443,
+      "password": "2399fe0a-b359-40a9-a3f0-b70c3c177a01",
+      "tls": {
+        "enabled": true,
+        "server_name": "aa.beijng.dpdns.org",
         "insecure": false
       }
     },
@@ -5463,6 +4439,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇨🇦 Canada fb6a",
+      "server": "104.19.229.21",
+      "server_port": 443,
+      "password": "8r<[9'l6hAO#8ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇨🇦 Canada fba4",
       "server": "23.173.104.221",
       "server_port": 2053,
@@ -5470,6 +4458,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 Canada fbe4",
+      "server": "vless.herogoing.top",
+      "server_port": 443,
+      "password": "bpb-trojan",
+      "tls": {
+        "enabled": true,
+        "server_name": "vless.herogoing.top",
         "insecure": false
       }
     },
@@ -5633,18 +4633,6 @@
       "type": "trojan",
       "tag": "🇩🇪 Germany 03ea",
       "server": "46.101.172.79",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 03eb",
-      "server": "72.56.103.129",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -6327,7 +5315,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇩🇪 Germany 17f3",
+      "tag": "🇩🇪 Germany 17f3 #2",
       "server": "159.89.12.238",
       "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
@@ -6678,6 +5666,18 @@
       "tag": "🇩🇪 Germany 238e",
       "server": "188.241.241.32",
       "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 Germany 23d0 [CIDR]",
+      "server": "77.221.157.251",
+      "server_port": 2096,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -8643,6 +7643,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇩🇪 Germany 5923 [CIDR]",
+      "server": "185.65.202.101",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇩🇪 Germany 593c",
       "server": "46.225.59.180",
       "server_port": 8443,
@@ -8993,18 +8005,6 @@
       "type": "trojan",
       "tag": "🇩🇪 Germany 6012",
       "server": "147.45.196.240",
-      "server_port": 2053,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇩🇪 Germany 6073",
-      "server": "72.56.103.129",
       "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -9450,6 +8450,18 @@
       "tag": "🇩🇪 Germany 6e30",
       "server": "45.11.24.55",
       "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 Germany 6f0f [CIDR]",
+      "server": "77.221.157.251",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -10299,7 +9311,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇩🇪 Germany 8999",
+      "tag": "🇩🇪 Germany 8999 #2",
       "server": "164.92.187.73",
       "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
@@ -10638,6 +9650,18 @@
       "tag": "🇩🇪 Germany 929f",
       "server": "159.89.11.104",
       "server_port": 2083,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 Germany 92ed [CIDR]",
+      "server": "77.221.157.251",
+      "server_port": 2087,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -11201,6 +10225,18 @@
       "type": "trojan",
       "tag": "🇩🇪 Germany a3fb",
       "server": "158.101.183.27",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 Germany a407 [CIDR]",
+      "server": "85.192.24.201",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -12999,6 +12035,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇩🇪 Germany d3fb [CIDR]",
+      "server": "185.65.202.101",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇩🇪 Germany d408",
       "server": "72.56.108.132",
       "server_port": 8443,
@@ -13671,6 +12719,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇩🇪 Germany e6f4 [CIDR]",
+      "server": "77.221.157.251",
+      "server_port": 2083,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇩🇪 Germany e742",
       "server": "195.245.239.45",
       "server_port": 8443,
@@ -13746,6 +12806,18 @@
       "tag": "🇩🇪 Germany e8d5",
       "server": "167.99.247.93",
       "server_port": 2096,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 Germany e8eb [CIDR]",
+      "server": "77.221.157.251",
+      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -14559,6 +13631,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇫🇮 Finland 014d [CIDR]",
+      "server": "193.164.155.226",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇫🇮 Finland 0213",
       "server": "95.164.55.75",
       "server_port": 8443,
@@ -14633,6 +13717,18 @@
       "type": "trojan",
       "tag": "🇫🇮 Finland 08ac",
       "server": "31.56.196.56",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland 08b3 [CIDR]",
+      "server": "31.58.171.230",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -14826,6 +13922,18 @@
       "tag": "🇫🇮 Finland 11a6",
       "server": "31.59.41.182",
       "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland 12c5 [CIDR]",
+      "server": "193.23.201.155",
+      "server_port": 2087,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -15207,6 +14315,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇫🇮 Finland 2c5a [CIDR]",
+      "server": "45.38.143.62",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇫🇮 Finland 2ce5",
       "server": "31.57.107.41",
       "server_port": 2053,
@@ -15438,6 +14558,18 @@
       "tag": "🇫🇮 Finland 3b07",
       "server": "31.56.227.49",
       "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland 3bdd [CIDR]",
+      "server": "45.38.143.62",
+      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -15723,6 +14855,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇫🇮 Finland 56ad [CIDR]",
+      "server": "31.58.171.152",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇫🇮 Finland 5777",
       "server": "94.183.235.247",
       "server_port": 8443,
@@ -15786,6 +14930,18 @@
       "tag": "🇫🇮 Finland 5948",
       "server": "31.59.41.182",
       "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland 5964 [CIDR]",
+      "server": "212.192.8.178",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -16527,6 +15683,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇫🇮 Finland 7ada [CIDR]",
+      "server": "151.242.43.44",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇫🇮 Finland 7b13",
       "server": "195.26.230.99",
       "server_port": 2053,
@@ -16650,6 +15818,18 @@
       "tag": "🇫🇮 Finland 8232",
       "server": "65.109.161.254",
       "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland 8281 [CIDR]",
+      "server": "31.58.171.102",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -16923,6 +16103,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇫🇮 Finland 9123 [CIDR]",
+      "server": "31.58.171.102",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇫🇮 Finland 91de",
       "server": "46.17.106.114",
       "server_port": 2053,
@@ -16947,6 +16139,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇫🇮 Finland 923d [CIDR]",
+      "server": "31.56.197.181",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇫🇮 Finland 9290",
       "server": "37.27.90.102",
       "server_port": 2053,
@@ -16962,6 +16166,18 @@
       "tag": "🇫🇮 Finland 9478",
       "server": "185.117.119.72",
       "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland 953f [CIDR]",
+      "server": "109.206.236.142",
+      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -17057,6 +16273,18 @@
       "type": "trojan",
       "tag": "🇫🇮 Finland 9abb",
       "server": "185.92.183.132",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland 9cef [CIDR]",
+      "server": "151.242.43.44",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -17211,6 +16439,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇫🇮 Finland abdf [CIDR]",
+      "server": "45.38.143.54",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇫🇮 Finland ad6b",
       "server": "104.252.127.38",
       "server_port": 2053,
@@ -17249,18 +16489,6 @@
       "type": "trojan",
       "tag": "🇫🇮 Finland af06",
       "server": "85.209.129.100",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇫🇮 Finland af3b",
-      "server": "45.158.169.159",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -17310,6 +16538,18 @@
       "tag": "🇫🇮 Finland b1ce",
       "server": "217.19.4.177",
       "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland b1ef [CIDR]",
+      "server": "31.58.171.152",
+      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -17631,6 +16871,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇫🇮 Finland c86d [CIDR]",
+      "server": "31.58.171.7",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇫🇮 Finland c933",
       "server": "46.8.70.178",
       "server_port": 2053,
@@ -17717,6 +16969,18 @@
       "type": "trojan",
       "tag": "🇫🇮 Finland cffa",
       "server": "45.38.170.27",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland d0c7 [CIDR]",
+      "server": "109.206.236.154",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -17871,8 +17135,32 @@
     },
     {
       "type": "trojan",
+      "tag": "🇫🇮 Finland d797 [CIDR]",
+      "server": "193.164.155.226",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇫🇮 Finland d81a",
       "server": "94.183.235.175",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland d92a [CIDR]",
+      "server": "31.58.171.7",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -17886,6 +17174,18 @@
       "tag": "🇫🇮 Finland da4c",
       "server": "46.8.236.104",
       "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland dae5 [CIDR]",
+      "server": "45.38.143.54",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -18053,6 +17353,18 @@
       "type": "trojan",
       "tag": "🇫🇮 Finland e19e",
       "server": "77.110.98.16",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland e1c7 [CIDR]",
+      "server": "45.38.143.139",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -18375,6 +17687,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇫🇮 Finland f1cb [CIDR]",
+      "server": "77.221.158.36",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇫🇮 Finland f3d5",
       "server": "94.183.191.71",
       "server_port": 2053,
@@ -18606,6 +17930,18 @@
       "tag": "🇫🇮 Finland fe06",
       "server": "89.167.21.109",
       "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 Finland fea4 [CIDR]",
+      "server": "31.58.171.230",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -23163,6 +22499,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇭🇰 Hong Kong 6465",
+      "server": "bb.bejkn.cn",
+      "server_port": 6463,
+      "password": "BxceQaOe",
+      "tls": {
+        "enabled": true,
+        "server_name": "t.me/ripaojiedian",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇭🇰 Hong Kong 9d54",
       "server": "43.168.16.112",
       "server_port": 443,
@@ -24135,6 +23483,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands 061c [CIDR]",
+      "server": "89.208.104.51",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands 066a",
       "server": "146.185.165.150",
       "server_port": 8443,
@@ -24162,6 +23522,18 @@
       "tag": "🇳🇱 Netherlands 06d1",
       "server": "188.166.73.116",
       "server_port": 2096,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 0733 [CIDR]",
+      "server": "93.183.88.9",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -24450,6 +23822,18 @@
       "tag": "🇳🇱 Netherlands 0e05",
       "server": "134.209.202.86",
       "server_port": 2096,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 0e6c [CIDR]",
+      "server": "91.84.125.227",
+      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -24771,6 +24155,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands 1464 [CIDR]",
+      "server": "89.110.100.76",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands 1484",
       "server": "152.42.140.20",
       "server_port": 8443,
@@ -24821,6 +24217,18 @@
       "type": "trojan",
       "tag": "🇳🇱 Netherlands 1567",
       "server": "146.185.170.67",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 1589 [CIDR]",
+      "server": "157.22.182.229",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -25335,6 +24743,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands 1e3d [CIDR]",
+      "server": "89.110.108.189",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands 1e40",
       "server": "188.166.106.156",
       "server_port": 2053,
@@ -25782,6 +25202,18 @@
       "tag": "🇳🇱 Netherlands 25bd",
       "server": "95.85.63.250",
       "server_port": 2083,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 2615 [CIDR]",
+      "server": "85.155.98.71",
+      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -26283,33 +25715,9 @@
     },
     {
       "type": "trojan",
-      "tag": "🇳🇱 Netherlands 2d79",
-      "server": "77.238.236.134",
-      "server_port": 8443,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
       "tag": "🇳🇱 Netherlands 2dfe",
       "server": "164.90.192.188",
       "server_port": 2096,
-      "password": "8r%3C%5B9%27l6hAO%238ZQi",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": false
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇳🇱 Netherlands 2e09",
-      "server": "109.107.185.106",
-      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -26607,6 +26015,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands 3358 [CIDR]",
+      "server": "213.176.113.98",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands 338c",
       "server": "194.87.200.151",
       "server_port": 2053,
@@ -26823,6 +26243,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands 39bc [CIDR]",
+      "server": "91.84.107.167",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands 3a37",
       "server": "93.183.127.235",
       "server_port": 8443,
@@ -26991,6 +26423,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands 3d80 [CIDR]",
+      "server": "89.110.82.19",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands 3d90",
       "server": "134.209.192.5",
       "server_port": 8443,
@@ -27029,6 +26473,18 @@
       "type": "trojan",
       "tag": "🇳🇱 Netherlands 3dab",
       "server": "31.59.114.3",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 3dc6 [CIDR]",
+      "server": "62.84.98.74",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -27267,6 +26723,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands 4332 [CIDR]",
+      "server": "212.192.217.100",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands 43ad",
       "server": "167.99.35.193",
       "server_port": 2083,
@@ -27401,6 +26869,18 @@
       "type": "trojan",
       "tag": "🇳🇱 Netherlands 46ad",
       "server": "146.103.122.96",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 4721 [CIDR]",
+      "server": "80.74.28.213",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -27810,6 +27290,18 @@
       "tag": "🇳🇱 Netherlands 4e46",
       "server": "209.38.46.202",
       "server_port": 2083,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 4ec5 [CIDR]",
+      "server": "46.149.78.144",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -28263,6 +27755,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands 59ae [CIDR]",
+      "server": "5.255.118.107",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands 59e6",
       "server": "188.226.185.55",
       "server_port": 8443,
@@ -28517,6 +28021,18 @@
       "type": "trojan",
       "tag": "🇳🇱 Netherlands 5ff1",
       "server": "43.250.54.107",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 601d [CIDR]",
+      "server": "138.124.89.189",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -28899,6 +28415,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands 672c [CIDR]",
+      "server": "5.255.113.38",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands 673d",
       "server": "212.34.152.202",
       "server_port": 2053,
@@ -28997,6 +28525,18 @@
       "type": "trojan",
       "tag": "🇳🇱 Netherlands 689c",
       "server": "188.226.153.100",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 68f5 [CIDR]",
+      "server": "79.137.199.237",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -29237,6 +28777,18 @@
       "type": "trojan",
       "tag": "🇳🇱 Netherlands 6c8e",
       "server": "89.110.117.53",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 6cde [CIDR]",
+      "server": "85.155.98.71",
       "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -30195,6 +29747,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands 7f74 [CIDR]",
+      "server": "89.110.65.5",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands 7fb0",
       "server": "167.71.65.205",
       "server_port": 2096,
@@ -30354,6 +29918,18 @@
       "tag": "🇳🇱 Netherlands 8343",
       "server": "31.59.170.59",
       "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 8345 [CIDR]",
+      "server": "5.255.115.185",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -30735,6 +30311,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands 8c37 [CIDR]",
+      "server": "89.110.82.148",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands 8c3a",
       "server": "45.43.88.13",
       "server_port": 2053,
@@ -30881,6 +30469,18 @@
       "type": "trojan",
       "tag": "🇳🇱 Netherlands 8f3f",
       "server": "146.103.106.115",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 8f4e [CIDR]",
+      "server": "77.110.103.243",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -31419,6 +31019,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands 9cba [CIDR]",
+      "server": "89.208.105.59",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands 9cca",
       "server": "188.166.103.140",
       "server_port": 2053,
@@ -31482,6 +31094,18 @@
       "tag": "🇳🇱 Netherlands 9eb3",
       "server": "212.34.135.97",
       "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands 9eb7 [CIDR]",
+      "server": "212.34.151.109",
+      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -31805,6 +31429,30 @@
       "type": "trojan",
       "tag": "🇳🇱 Netherlands a5fc",
       "server": "93.183.91.7",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands a63b [CIDR]",
+      "server": "138.124.117.96",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands a67b [CIDR]",
+      "server": "77.105.139.166",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -32487,6 +32135,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands b2f1 [CIDR]",
+      "server": "46.149.78.144",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands b30d",
       "server": "68.183.0.4",
       "server_port": 2053,
@@ -33087,6 +32747,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands c0ac",
+      "server": "89.110.122.18",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands c0d3",
       "server": "134.209.202.86",
       "server_port": 8443,
@@ -33173,6 +32845,18 @@
       "type": "trojan",
       "tag": "🇳🇱 Netherlands c355",
       "server": "62.84.98.74",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands c3db [CIDR]",
+      "server": "195.200.16.192",
       "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -34095,6 +33779,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands d90c",
+      "server": "hl-freedom-1.undef.network",
+      "server_port": 443,
+      "password": "JaFKnqNcvnBT63t3rquidGsln",
+      "tls": {
+        "enabled": true,
+        "server_name": "HL-FREEDOM-1.UNDEF.NETWORK",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands d911",
       "server": "188.166.17.69",
       "server_port": 2096,
@@ -34563,6 +34259,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇳🇱 Netherlands e33f [CIDR]",
+      "server": "138.124.89.211",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇳🇱 Netherlands e3da",
       "server": "193.56.3.47",
       "server_port": 2053,
@@ -34710,6 +34418,18 @@
       "tag": "🇳🇱 Netherlands e75b",
       "server": "62.84.102.158",
       "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 Netherlands e76a [CIDR]",
+      "server": "89.110.108.189",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -36531,6 +36251,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇷🇺 Russia 2043 [CIDR]",
+      "server": "89.169.170.230",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇷🇺 Russia 2ec6",
       "server": "85.193.91.193",
       "server_port": 8443,
@@ -36582,6 +36314,30 @@
       "tag": "🇷🇺 Russia 4ce6",
       "server": "213.171.26.104",
       "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇷🇺 Russia 4e99 [CIDR]",
+      "server": "85.193.90.131",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇷🇺 Russia 51e9 [CIDR]",
+      "server": "77.110.104.41",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -36699,6 +36455,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇷🇺 Russia a61a [CIDR]",
+      "server": "85.193.90.131",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇷🇺 Russia aedc",
       "server": "90.156.211.232",
       "server_port": 8443,
@@ -36723,9 +36491,33 @@
     },
     {
       "type": "trojan",
+      "tag": "🇷🇺 Russia bebf [CIDR]",
+      "server": "77.110.104.41",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇷🇺 Russia c146",
       "server": "194.67.204.158",
       "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇷🇺 Russia c160 [CIDR]",
+      "server": "89.169.1.76",
+      "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -36771,6 +36563,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇷🇺 Russia dfd3 [CIDR]",
+      "server": "5.188.118.92",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇷🇺 Russia e77a",
       "server": "77.232.143.39",
       "server_port": 2053,
@@ -36797,6 +36601,18 @@
       "type": "trojan",
       "tag": "🇷🇺 Russia f395",
       "server": "94.242.53.94",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇷🇺 Russia f4df [CIDR]",
+      "server": "217.114.7.17",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -36910,6 +36726,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇪 Sweden 26a8",
+      "server": "yespaintstudio.rav-kraski.ru",
+      "server_port": 50824,
+      "password": "7aXwJPnpAJ",
+      "tls": {
+        "enabled": true,
+        "server_name": "🔒",
         "insecure": false
       }
     },
@@ -37203,6 +37031,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇸🇪 Sweden 6dc2 [CIDR]",
+      "server": "109.120.156.122",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇸🇪 Sweden 7431",
       "server": "78.40.116.25",
       "server_port": 2053,
@@ -37258,6 +37098,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇪 Sweden 7cbe [CIDR]",
+      "server": "84.32.49.95",
+      "server_port": 8443,
+      "password": "162534",
+      "tls": {
+        "enabled": true,
+        "server_name": "cchh2.pages.dev",
         "insecure": false
       }
     },
@@ -37443,9 +37295,33 @@
     },
     {
       "type": "trojan",
+      "tag": "🇸🇪 Sweden dd37 [CIDR]",
+      "server": "150.241.74.98",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇸🇪 Sweden dfca",
       "server": "62.60.250.48",
       "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇪 Sweden e41c [CIDR]",
+      "server": "91.108.242.148",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
@@ -37719,6 +37595,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇹🇷 Turkey bb51 [CIDR]",
+      "server": "155.103.71.153",
+      "server_port": 2053,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇹🇷 Turkey bba3",
       "server": "93.115.10.237",
       "server_port": 2053,
@@ -37786,6 +37674,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇹🇷 Turkey fd93",
+      "server": "tr-1.stunnel.cc",
+      "server_port": 8441,
+      "password": "tunnel-ljlcf",
+      "tls": {
+        "enabled": true,
+        "server_name": "tr-1.stunnel.cc",
         "insecure": false
       }
     },
@@ -38211,6 +38111,18 @@
     },
     {
       "type": "trojan",
+      "tag": "🇺🇸 United States 275c",
+      "server": "chatgpt.com",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.gossipglove.com",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
       "tag": "🇺🇸 United States 2963",
       "server": "92.118.112.68",
       "server_port": 8443,
@@ -38273,6 +38185,18 @@
       "type": "trojan",
       "tag": "🇺🇸 United States 2e05",
       "server": "165.227.60.231",
+      "server_port": 8443,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 United States 2eb8 [CIDR]",
+      "server": "138.124.60.93",
       "server_port": 8443,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
@@ -38542,6 +38466,18 @@
       "tls": {
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 United States 5475",
+      "server": "mfa.gov.ua",
+      "server_port": 443,
+      "password": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
+      "tls": {
+        "enabled": true,
+        "server_name": "cloudflare-proxy-1jk.pages.dev",
         "insecure": false
       }
     },
@@ -39858,6 +39794,18 @@
       "tag": "🇺🇸 United States f4db",
       "server": "157.245.178.181",
       "server_port": 2087,
+      "password": "8r%3C%5B9%27l6hAO%238ZQi",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "insecure": false
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 United States fe49 [CIDR]",
+      "server": "104.167.196.91",
+      "server_port": 2053,
       "password": "8r%3C%5B9%27l6hAO%238ZQi",
       "tls": {
         "enabled": true,
