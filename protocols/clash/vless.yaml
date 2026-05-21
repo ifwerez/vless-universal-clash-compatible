@@ -25,6 +25,20 @@ tun:
   auto-route: true
   auto-detect-interface: true
 proxies:
+- name: " Unsorted 00fd | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net"
+  server: 103.133.240.115
+  port: 17416
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: rolaqoubhqt.bpd67081tsq.ddns-ip.net
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: rolaqoubhqt.bpd67081tsq.ddns-ip.net
 - name: " Unsorted 02e0 | SNI - cdp.x5.ru"
   server: 84.201.168.186
   port: 443
@@ -79,6 +93,20 @@ proxies:
   reality-opts:
     public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
     short-id: "25b19ab8cfd78fe5"
+- name: " Unsorted 0dda | SNI - oia8or7k8rs5.zrf.xx.kg"
+  server: 83.147.216.223
+  port: 4433
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: oia8or7k8rs5.zrf.xx.kg
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: oia8or7k8rs5.zrf.xx.kg
 - name: " Unsorted 109b | SNI - travel.yandex.ru"
   server: 84.201.167.159
   port: 2006
@@ -192,6 +220,20 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
+- name: " Unsorted 1ecc | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io"
+  server: 213.179.69.150
+  port: 35130
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: adv2m5gy-wrhiahph85c.ovtc.qzz.io
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: adv2m5gy-wrhiahph85c.ovtc.qzz.io
 - name: " Unsorted 1f62 | SNI - ads.x5.ru"
   server: bs.trustnet.sbs
   port: 443
@@ -205,6 +247,19 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: 4fkc7NTbrWKSBTpZHGE2jjQXVtrao1tQQ989zilyPUw
+- name: " Unsorted 1fbb"
+  server: 160.153.138.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: vms.lifetime04.workers.dev
 - name: " Unsorted 24f5 | SNI - www.tesla.com"
   server: 2.26.116.183
   port: 8443
@@ -358,6 +413,19 @@ proxies:
   reality-opts:
     public-key: sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg
     short-id: "844352756c1fabba"
+- name: " Unsorted 30cd"
+  server: 89.116.180.40
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: vms.lifetime09.workers.dev
 - name: " Unsorted 30d4 | SNI - cdp.x5.ru"
   server: 84.201.168.220
   port: 443
@@ -400,6 +468,33 @@ proxies:
     path: "/fp=chrome"
     headers:
       Host: et.seaspirit.dpdns.org
+- name: " Unsorted 3a6e"
+  server: 154.194.12.40
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime35.workers.dev
+- name: " Unsorted 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg"
+  server: 91.184.243.190
+  port: 4433
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: oia8or7k8rs5.zrf.xx.kg
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: oia8or7k8rs5.zrf.xx.kg
 - name: " Unsorted 45ff | SNI - sn1.skylee5.cloudns.ch"
   server: 219.76.13.183
   port: 443
@@ -497,6 +592,19 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
+- name: " Unsorted 5778"
+  server: 154.194.12.50
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime35.workers.dev
 - name: " Unsorted 578a | SNI - ads.x5.ru"
   server: 87.228.101.202
   port: 5443
@@ -609,6 +717,19 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
+- name: " Unsorted 6ce4"
+  server: 50.62.198.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime39.workers.dev
 - name: " Unsorted 7095 | SNI - cdp.x5.ru"
   server: 51.250.24.232
   port: 443
@@ -677,6 +798,19 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
+- name: " Unsorted 7aae"
+  server: 45.85.119.40
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime56.workers.dev
 - name: " Unsorted 7c29 | SNI - cdp.x5.ru"
   server: 51.250.97.18
   port: 443
@@ -691,6 +825,20 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
+- name: " Unsorted 7cf5 | SNI - r8wez3psbuhgs6lgju.sate.qzz.io"
+  server: 64.188.106.174
+  port: 4433
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: r8wez3psbuhgs6lgju.sate.qzz.io
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: r8wez3psbuhgs6lgju.sate.qzz.io
 - name: " Unsorted 7d50 | SNI - api-maps.yandex.ru"
   server: moon2.realm-of-ultramar.ru
   port: 443
@@ -705,6 +853,19 @@ proxies:
   reality-opts:
     public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
     short-id: "6cc5290e6f0b47c3"
+- name: " Unsorted 7d83"
+  server: 31.12.75.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: vms.lifetime21.workers.dev
 - name: " Unsorted 7f8f | SNI - max.ru"
   server: 95.163.181.215
   port: 48106
@@ -871,6 +1032,46 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
+- name: " Unsorted 9eca"
+  server: 185.148.107.40
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime55.workers.dev
+- name: " Unsorted 9f1c | SNI - cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev"
+  server: www.csgo.net
+  port: 2095
+  udp: true
+  type: vless
+  uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
+  network: ws
+  tls: false
+  servername: cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/fp=randomized"
+    headers:
+      Host: cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev
+- name: " Unsorted a02f"
+  server: 31.12.75.50
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime21.workers.dev
 - name: " Unsorted a572 | SNI - api-maps.yandex.ru"
   server: moon3.realm-of-ultramar.ru
   port: 443
@@ -927,6 +1128,20 @@ proxies:
   reality-opts:
     public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
     short-id: "6cc5290e6f0b47c3"
+- name: " Unsorted abf4 | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net"
+  server: 149.129.36.200
+  port: 25006
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
 - name: " Unsorted b70a | SNI - cdp.x5.ru"
   server: 51.250.97.18
   port: 443
@@ -941,6 +1156,19 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
+- name: " Unsorted bfa5"
+  server: 72.167.243.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      Host: vms.lifetime55.workers.dev
 - name: " Unsorted bfd9 | SNI - cdp.x5.ru"
   server: 84.201.136.5
   port: 443
@@ -968,6 +1196,32 @@ proxies:
   reality-opts:
     public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
     short-id: "25b19ab8cfd78fe5"
+- name: " Unsorted c367"
+  server: 103.116.7.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: /
+    headers:
+      Host: vms.lifetime35.workers.dev
+- name: " Unsorted c554"
+  server: 185.193.30.30
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: ''
+    headers:
+      Host: vms.lifetime09.workers.dev
 - name: " Unsorted ccea | SNI - cdp.x5.ru"
   server: 51.250.106.87
   port: 443
@@ -1009,6 +1263,20 @@ proxies:
   reality-opts:
     public-key: DK98HQGIBGOFbAqKggMXduwYNjlKfOBiARKfO8wEeXk
     short-id: "0fb689ad101948ba"
+- name: " Unsorted d78e | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net"
+  server: 91.186.217.158
+  port: 441
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristi"
+    headers:
+      Host: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
 - name: " Unsorted e13b | SNI - cdp.x5.ru"
   server: 84.201.136.5
   port: 443
@@ -1107,6 +1375,34 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
+- name: " Unsorted ee5b | SNI - t39sed.gateway-api.sh21.eu.org"
+  server: 45.41.207.154
+  port: 443
+  udp: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  network: ws
+  tls: true
+  servername: t39sed.gateway-api.sh21.eu.org
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/danfeng?ed=2560fp=firefox"
+    headers:
+      Host: t39sed.gateway-api.sh21.eu.org
+- name: " Unsorted f088 | SNI - oia8or7k8rs5.zrf.xx.kg"
+  server: 91.184.240.106
+  port: 433
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: oia8or7k8rs5.zrf.xx.kg
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: oia8or7k8rs5.zrf.xx.kg
 - name: " Unsorted f485 | SNI - obhod.riotvpn.eu"
   server: 87.228.101.202
   port: 80
@@ -1117,6 +1413,19 @@ proxies:
   tls: true
   servername: obhod.riotvpn.eu
   client-fingerprint: chrome
+- name: " Unsorted f787"
+  server: 45.85.118.50
+  port: 8880
+  udp: true
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  network: ws
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
+    headers:
+      Host: vms.lifetime55.workers.dev
 - name: " Unsorted f9e8 | SNI - ads.x5.ru"
   server: 178.250.243.142
   port: 443
@@ -1130,6 +1439,20 @@ proxies:
   reality-opts:
     public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
     short-id: "25b19ab8cfd78fe5"
+- name: " Unsorted fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io"
+  server: 8.211.161.124
+  port: 25809
+  udp: true
+  type: vless
+  uuid: 00000000-0000-4000-8000-000000000000
+  network: ws
+  tls: true
+  servername: adv2m5gy-wrhiahph85c.ovtc.qzz.io
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/@Marisa_kristifp=chrome"
+    headers:
+      Host: adv2m5gy-wrhiahph85c.ovtc.qzz.io
 - name: " Unsorted fe79 | SNI - max.ru"
   server: 51.250.73.213
   port: 48106
@@ -1598,21 +1921,6 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: agsQSpidbSZMSzm4t1Bhe57wSta_CTcUktkB7GQ9YBM
-- name: "🇨🇾 Cyprus 9f1c | SNI - cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CY.png
-  server: www.csgo.net
-  port: 2095
-  udp: true
-  type: vless
-  uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-  network: ws
-  tls: false
-  servername: cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/fp=randomized"
-    headers:
-      Host: cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev
 - name: "🇨🇿 Czechia 3e79 | SNI - sun6-21.userapi.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CZ.png
   server: 217.16.20.38
@@ -2097,21 +2405,6 @@ proxies:
   reality-opts:
     public-key: YnT2UJbXooiJNwq0YAILlBNubfEIT4hz560q5r3nHSg
     short-id: "ad844ecf706b8302"
-- name: "🇩🇪 Germany 1ecc | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
-  server: 213.179.69.150
-  port: 35130
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: adv2m5gy-wrhiahph85c.ovtc.qzz.io
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: adv2m5gy-wrhiahph85c.ovtc.qzz.io
 - name: "🇩🇪 Germany 244b | SNI - smartcaptcha.yandexcloud.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
   server: 51.250.47.193
@@ -3149,21 +3442,6 @@ proxies:
   reality-opts:
     public-key: V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ
     short-id: "abcd"
-- name: "🇩🇪 Germany 7cf5 | SNI - r8wez3psbuhgs6lgju.sate.qzz.io [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
-  server: 64.188.106.174
-  port: 4433
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: r8wez3psbuhgs6lgju.sate.qzz.io
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: r8wez3psbuhgs6lgju.sate.qzz.io
 - name: "🇩🇪 Germany 7dcb | SNI - ads.x5.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
   server: 130.193.41.117
@@ -4171,21 +4449,6 @@ proxies:
   reality-opts:
     public-key: YnT2UJbXooiJNwq0YAILlBNubfEIT4hz560q5r3nHSg
     short-id: "ad844ecf706b8302"
-- name: "🇩🇪 Germany d78e | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
-  server: 91.186.217.158
-  port: 441
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristi"
-    headers:
-      Host: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
 - name: "🇩🇪 Germany d88e | SNI - sni.my111000.tech"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
   server: 45.67.215.191
@@ -4775,21 +5038,6 @@ proxies:
   reality-opts:
     public-key: VH-4z1TvkJLyH9cgwdrhvMevxr3PltSBnMk43X6pi2U
     short-id: "086007"
-- name: "🇫🇮 Finland 0dda | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
-  server: 83.147.216.223
-  port: 4433
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: oia8or7k8rs5.zrf.xx.kg
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: oia8or7k8rs5.zrf.xx.kg
 - name: "🇫🇮 Finland 0f84 | SNI - mail.skm62.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
   server: 193.33.133.186
@@ -4986,21 +5234,6 @@ proxies:
   reality-opts:
     public-key: 9YcV-gA7iaXFnI0HXQa624OIqm4zxO_U2eMCWXQAiCQ
     short-id: "8375b32501373f41"
-- name: "🇫🇮 Finland 3f78 | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
-  server: 91.184.243.190
-  port: 4433
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: oia8or7k8rs5.zrf.xx.kg
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: oia8or7k8rs5.zrf.xx.kg
 - name: "🇫🇮 Finland 41fa | SNI - eh.vk.com"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
   server: 91.219.227.203
@@ -6235,20 +6468,6 @@ proxies:
     short-id: "6ba85179e30d4fc3"
   grpc-opts:
     grpc-service-name: xyz
-- name: "🇬🇧 United Kingdom 7aae [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GB.png
-  server: 45.85.119.40
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime56.workers.dev
 - name: "🇬🇧 United Kingdom 7b19 | SNI - velikobcxc.30x.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GB.png
   server: velikobcxc.30x.ru
@@ -6335,20 +6554,6 @@ proxies:
     path: "/sequre/ws?ed=2560"
     headers:
       Host: 194.58.41.88.fwqfw783rg2dad.website
-- name: "🇬🇧 United Kingdom c554 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GB.png
-  server: 185.193.30.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: ''
-    headers:
-      Host: vms.lifetime09.workers.dev
 - name: "🇬🇧 United Kingdom c8b7"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GB.png
   server: srv191.towersflowerss.com
@@ -6377,20 +6582,6 @@ proxies:
   flow: xtls-rprx-vision
   reality-opts:
     public-key: im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4
-- name: "🇬🇧 United Kingdom f787 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GB.png
-  server: 45.85.118.50
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime55.workers.dev
 - name: "🇬🇧 United Kingdom f890 | SNI - bucket-ru-2.extravpn.io"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GB.png
   server: 5.178.85.238
@@ -6624,36 +6815,6 @@ proxies:
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
     short-id: "bb55683efa59799d"
-- name: "🇯🇵 Japan fd3c | SNI - adv2m5gy-wrhiahph85c.ovtc.qzz.io [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/JP.png
-  server: 8.211.161.124
-  port: 25809
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: adv2m5gy-wrhiahph85c.ovtc.qzz.io
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: adv2m5gy-wrhiahph85c.ovtc.qzz.io
-- name: "🇰🇷 South Korea 00fd | SNI - rolaqoubhqt.bpd67081tsq.ddns-ip.net [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KR.png
-  server: 103.133.240.115
-  port: 17416
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: rolaqoubhqt.bpd67081tsq.ddns-ip.net
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: rolaqoubhqt.bpd67081tsq.ddns-ip.net
 - name: "🇰🇿 Kazakhstan 0347 | SNI - www.id.vk.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KZ.png
   server: 109.73.205.73
@@ -9505,20 +9666,6 @@ proxies:
   reality-opts:
     public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
     short-id: "8ec792bfd725be8a"
-- name: "🇳🇱 Netherlands 9eca [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
-  server: 185.148.107.40
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime55.workers.dev
 - name: "🇳🇱 Netherlands 9f93 | SNI - wl-6-5.nodes.ac"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
   server: 51.250.33.25
@@ -12304,20 +12451,6 @@ proxies:
   reality-opts:
     public-key: 9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg
     short-id: "19aa22f681923dc8"
-- name: "🇷🇺 Russia 7d83 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/RU.png
-  server: 31.12.75.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560"
-    headers:
-      Host: vms.lifetime21.workers.dev
 - name: "🇷🇺 Russia 7d84 | SNI - api-maps.yandex.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/RU.png
   server: 84.201.170.183
@@ -12479,20 +12612,6 @@ proxies:
   reality-opts:
     public-key: DeEdSHsdeIxPCMh5lqON8lEIgwelE6OyZzPpdqN-DDs
     short-id: "b2a6e3d42f05c3d1"
-- name: "🇷🇺 Russia a02f [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/RU.png
-  server: 31.12.75.50
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime21.workers.dev
 - name: "🇷🇺 Russia a137"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/RU.png
   server: 51.250.106.80
@@ -13278,49 +13397,6 @@ proxies:
   reality-opts:
     public-key: 6NHx7OBkTEppAb58ke8XhLDoBrutczt_JPUWP_h9DRE
     short-id: "a9c4f17e3b62d8"
-- name: "🇸🇪 Sweden f088 | SNI - oia8or7k8rs5.zrf.xx.kg [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SE.png
-  server: 91.184.240.106
-  port: 433
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: oia8or7k8rs5.zrf.xx.kg
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: oia8or7k8rs5.zrf.xx.kg
-- name: "🇸🇬 Singapore 3a6e [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
-  server: 154.194.12.40
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime35.workers.dev
-- name: "🇸🇬 Singapore 5778 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
-  server: 154.194.12.50
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime35.workers.dev
 - name: "🇸🇬 Singapore 8a63"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
   server: 141.193.213.21
@@ -13349,21 +13425,6 @@ proxies:
     path: "/@Tech_Sonic"
     headers:
       Host: free-server.techsonic.ggff.net
-- name: "🇸🇬 Singapore abf4 | SNI - vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
-  server: 149.129.36.200
-  port: 25006
-  udp: true
-  type: vless
-  uuid: 00000000-0000-4000-8000-000000000000
-  network: ws
-  tls: true
-  servername: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/@Marisa_kristifp=chrome"
-    headers:
-      Host: vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net
 - name: "🇸🇬 Singapore bc9a | SNI - api-maps.yandex.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png
   server: 194.55.239.191
@@ -13581,20 +13642,6 @@ proxies:
   reality-opts:
     public-key: 2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE
     short-id: "04d59340"
-- name: "🇺🇦 Ukraine 30cd [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/UA.png
-  server: 89.116.180.40
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560"
-    headers:
-      Host: vms.lifetime09.workers.dev
 - name: "🇺🇸 United States 087c | SNI - ads.x5.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 178.250.243.142
@@ -13609,20 +13656,6 @@ proxies:
   reality-opts:
     public-key: mmRxGpjdNa9x1s8uUHCqRl6Fopna5F212-8Px6URI2o
     short-id: "25b19ab8cfd78fe5"
-- name: "🇺🇸 United States 1fbb [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 160.153.138.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: vms.lifetime04.workers.dev
 - name: "🇺🇸 United States 23b1 | SNI - ussun.api.dznn.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: ussun.api.dznn.net
@@ -13770,20 +13803,6 @@ proxies:
     public-key: bL3667MRr_X2BxjBlzNblnbDI-2OTfgohyTRbQ8suBc
   grpc-opts:
     grpc-service-name: grpc
-- name: "🇺🇸 United States 6ce4 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 50.62.198.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳"
-    headers:
-      Host: vms.lifetime39.workers.dev
 - name: "🇺🇸 United States 71e9 | SNI - listwhite.cc"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: autobus.api.dznn.net
@@ -13896,34 +13915,6 @@ proxies:
   reality-opts:
     public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY
     short-id: "bb55683efa59799d"
-- name: "🇺🇸 United States bfa5 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 72.167.243.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: ''
-    headers:
-      Host: vms.lifetime55.workers.dev
-- name: "🇺🇸 United States c367 [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 103.116.7.30
-  port: 8880
-  udp: true
-  type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  network: ws
-  tls: false
-  client-fingerprint: chrome
-  ws-opts:
-    path: /
-    headers:
-      Host: vms.lifetime35.workers.dev
 - name: "🇺🇸 United States ca6b | SNI - stats.vk-portal.net"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 45.8.157.20
@@ -13995,21 +13986,6 @@ proxies:
   reality-opts:
     public-key: NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk
     short-id: "35a84908e9cfa95c"
-- name: "🇺🇸 United States ee5b | SNI - t39sed.gateway-api.sh21.eu.org [geo]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 45.41.207.154
-  port: 443
-  udp: true
-  type: vless
-  uuid: 26524cce-d514-4014-a426-365fb266a14d
-  network: ws
-  tls: true
-  servername: t39sed.gateway-api.sh21.eu.org
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/danfeng?ed=2560fp=firefox"
-    headers:
-      Host: t39sed.gateway-api.sh21.eu.org
 - name: "🇺🇸 United States f413 | SNI - sso.passport.yandex.ru"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 95.163.211.240
