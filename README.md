@@ -18,13 +18,8 @@ auto-generated proxy configurations
 
 ## subscription urls
 
-> [!tip]
-> **recommended:** use **github raw** for fastest updates. use **ghproxy** if github is blocked in your region.
-
 <details>
-<summary><b>github raw (recommended)</b></summary>
-
-fastest updates, no delays
+<summary><b>github raw</b></summary>
 
 | format | url |
 |--------|-----|
@@ -35,9 +30,7 @@ fastest updates, no delays
 </details>
 
 <details>
-<summary><b>ghproxy bypass (if github blocked)</b></summary>
-
-use if github raw is inaccessible
+<summary><b>ghproxy bypass</b></summary>
 
 | format | url |
 |--------|-----|
@@ -48,10 +41,10 @@ use if github raw is inaccessible
 </details>
 
 <details>
-<summary><b>jsdelivr cdn (not recommended)</b></summary>
+<summary><b>jsdelivr cdn</b></summary>
 
 > [!warning]
-> huge update delays (hours to days). only use if other options fail.
+> update delays of hours to days
 
 | format | url |
 |--------|-----|
@@ -63,8 +56,6 @@ use if github raw is inaccessible
 
 <details>
 <summary><b>yandex translate bypass</b></summary>
-
-alternative bypass via yandex translate
 
 | format | url |
 |--------|-----|
@@ -79,23 +70,11 @@ alternative bypass via yandex translate
 <details>
 <summary><b>by protocol</b></summary>
 
-| format | urls |
-|--------|------|
-| clash | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/clash/vless.yaml` |
-| sing-box | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/singbox/vless.json` |
-| raw | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/raw/vless.txt` |
-| clash | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/clash/vmess.yaml` |
-| sing-box | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/singbox/vmess.json` |
-| raw | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/raw/vmess.txt` |
-| clash | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/clash/ss.yaml` |
-| sing-box | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/singbox/ss.json` |
-| raw | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/raw/ss.txt` |
-| clash | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/clash/trojan.yaml` |
-| sing-box | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/singbox/trojan.json` |
-| raw | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/raw/trojan.txt` |
-| clash | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/clash/hysteria2.yaml` |
-| sing-box | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/singbox/hysteria2.json` |
-| raw | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/raw/hysteria2.txt` |
+| format | vless | vmess | ss | trojan | hysteria2 |
+|--------|-------|-------|----|--------|-----------|
+| clash | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/clash/vless.yaml` | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/clash/vmess.yaml` | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/clash/ss.yaml` | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/clash/trojan.yaml` | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/clash/hysteria2.yaml` |
+| sing-box | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/singbox/vless.json` | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/singbox/vmess.json` | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/singbox/ss.json` | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/singbox/trojan.json` | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/singbox/hysteria2.json` |
+| raw | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/raw/vless.txt` | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/raw/vmess.txt` | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/raw/ss.txt` | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/raw/trojan.txt` | `https://raw.githubusercontent.com/ifwerez/proxy-config-builder/main/protocols/raw/hysteria2.txt` |
 
 </details>
 
@@ -128,5 +107,5 @@ you can add new proxy source URLs via a pull request:
 
 new sources are automatically merged on the next update cycle.
 
-last updated: 2026-05-21 20:40:37
-proxies: 6421
+last updated: 2026-05-21 20:54:39
+proxies: 6400
