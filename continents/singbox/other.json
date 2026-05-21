@@ -36,6 +36,7 @@
         " Unsorted 1055",
         " Unsorted 109b | SNI - travel.yandex.ru",
         " Unsorted 1464",
+        " Unsorted 14a1 | SNI - cdp.x5.ru",
         " Unsorted 1589",
         " Unsorted 1c08 | SNI - w2ws.listwhite.cc",
         " Unsorted 1d74",
@@ -53,6 +54,7 @@
         " Unsorted 2d83 | SNI - travel.yandex.ru",
         " Unsorted 2eb8",
         " Unsorted 3358",
+        " Unsorted 34b2 | SNI - cdp.x5.ru",
         " Unsorted 3882",
         " Unsorted 39bc",
         " Unsorted 3a8c",
@@ -60,6 +62,7 @@
         " Unsorted 3c5e",
         " Unsorted 3d80",
         " Unsorted 3dc6",
+        " Unsorted 42ce | SNI - cdp.x5.ru",
         " Unsorted 4332",
         " Unsorted 435f",
         " Unsorted 45ff | SNI - sn1.skylee5.cloudns.ch",
@@ -68,6 +71,7 @@
         " Unsorted 51e9",
         " Unsorted 56d3",
         " Unsorted 575f | SNI - www.bing.com",
+        " Unsorted 57b8 | SNI - cdp.x5.ru",
         " Unsorted 5923",
         " Unsorted 5964",
         " Unsorted 59ae",
@@ -88,6 +92,7 @@
         " Unsorted 7e36",
         " Unsorted 7f74",
         " Unsorted 7f8f | SNI - max.ru",
+        " Unsorted 812b | SNI - cdp.x5.ru",
         " Unsorted 8281",
         " Unsorted 8345",
         " Unsorted 8636",
@@ -285,6 +290,24 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": " Unsorted 14a1 | SNI - cdp.x5.ru",
+      "server": "51.250.102.69",
+      "server_port": 443,
+      "uuid": "ac17913b-fe96-4b72-a65e-70483316016d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdp.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
+        }
       }
     },
     {
@@ -539,6 +562,24 @@
       }
     },
     {
+      "type": "vless",
+      "tag": " Unsorted 34b2 | SNI - cdp.x5.ru",
+      "server": "84.201.168.186",
+      "server_port": 443,
+      "uuid": "ac17913b-fe96-4b72-a65e-70483316016d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdp.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
+        }
+      }
+    },
+    {
       "type": "trojan",
       "tag": " Unsorted 3882",
       "server": "193.164.155.186",
@@ -620,6 +661,24 @@
         "enabled": true,
         "server_name": "Koma-YT.PAGeS.Dev",
         "insecure": false
+      }
+    },
+    {
+      "type": "vless",
+      "tag": " Unsorted 42ce | SNI - cdp.x5.ru",
+      "server": "51.250.97.18",
+      "server_port": 443,
+      "uuid": "ac17913b-fe96-4b72-a65e-70483316016d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdp.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
+        }
       }
     },
     {
@@ -728,6 +787,24 @@
         "reality": {
           "enabled": true,
           "public_key": "ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": " Unsorted 57b8 | SNI - cdp.x5.ru",
+      "server": "51.250.17.80",
+      "server_port": 443,
+      "uuid": "ac17913b-fe96-4b72-a65e-70483316016d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdp.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
         }
       }
     },
@@ -1003,6 +1080,24 @@
           "enabled": true,
           "public_key": "NTuI1KllPR2DtdPM5mqJBzOCVGuHyQNY8gCkx2f2CBk",
           "short_id": "35a84908e9cfa95c"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": " Unsorted 812b | SNI - cdp.x5.ru",
+      "server": "84.201.168.220",
+      "server_port": 443,
+      "uuid": "ac17913b-fe96-4b72-a65e-70483316016d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdp.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
         }
       }
     },
