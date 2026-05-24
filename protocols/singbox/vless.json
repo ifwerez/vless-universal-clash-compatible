@@ -57,6 +57,7 @@
         " Unsorted 0aa1",
         " Unsorted 0b30 | SNI - sni.111000.v6.army",
         " Unsorted 0b31",
+        " Unsorted 0b8b | SNI - max.ru",
         " Unsorted 0c12 | SNI - statue.lnmarketplace.net",
         " Unsorted 0c76 | SNI - juzi8186.qea.ccwu.cc",
         " Unsorted 0c94 | SNI - pro.halotwo.shop",
@@ -264,6 +265,7 @@
         " Unsorted 4cbd | SNI - juzi8186.qea.ccwu.cc",
         " Unsorted 4cf4 | SNI - fuck.rkn",
         " Unsorted 4d39 | SNI - sni.latonyamadeline.ndjp.net",
+        " Unsorted 4d59 | SNI - ads.x5.ru",
         " Unsorted 4df7 | SNI - sni.latonyamadeline.ndjp.net",
         " Unsorted 4e9b | SNI - cloudflare.com",
         " Unsorted 4eba | SNI - fuckingfangbinxing.cnmfangbinxing-n.workers.dev",
@@ -643,6 +645,7 @@
         " Unsorted d0c4 | SNI - looazjoijji.global.ssl.fastly.net",
         " Unsorted d14b",
         " Unsorted d182 | SNI - vangoghh.info",
+        " Unsorted d195 | SNI - dde6.figurapn.ru",
         " Unsorted d227 | SNI - sni.latonyamadeline.ndjp.net",
         " Unsorted d552",
         " Unsorted d61d | SNI - vless.hubp.de",
@@ -731,6 +734,7 @@
         " Unsorted f623",
         " Unsorted f6cd | SNI - www.google.com",
         " Unsorted f728",
+        " Unsorted f74d | SNI - cdp.x5.ru",
         " Unsorted f790 | SNI - ads.x5.ru",
         " Unsorted f794 | SNI - gaosir.unfeeling.sbs",
         " Unsorted f799 | SNI - fr.denditop.site",
@@ -788,6 +792,7 @@
         "🇦🇹 Austria 2bba | SNI - at188.mechvpn.online",
         "🇦🇹 Austria 360f | SNI - www.cloudflare.com",
         "🇦🇹 Austria 465c | SNI - 2-eox.pages.dev",
+        "🇦🇹 Austria 62da | SNI - srv152.towersflowerss.com",
         "🇦🇹 Austria 6a67 | SNI - chat.deepseek.com",
         "🇦🇹 Austria 6b67 | SNI - at216.mechvpn.online",
         "🇦🇹 Austria 9613 | SNI - austria.denditop.site",
@@ -1034,6 +1039,7 @@
         "🇨🇦 Canada ad23",
         "🇨🇦 Canada ae21 | SNI - nuclear.us.kg",
         "🇨🇦 Canada ae6f",
+        "🇨🇦 Canada aeb4 | SNI - sni.skylee4.cloudns.ch",
         "🇨🇦 Canada afde",
         "🇨🇦 Canada aff8",
         "🇨🇦 Canada b00c | SNI - xy430.albertabobbi.ndjp.net",
@@ -1153,6 +1159,7 @@
         "🇨🇭 Switzerland 3280 | SNI - bucket-ru-6.extravpn.io",
         "🇨🇭 Switzerland 3c67 | SNI - bucket-ru-5.extravpn.io",
         "🇨🇭 Switzerland 4f0c | SNI - colorlib.com",
+        "🇨🇭 Switzerland 5902 | SNI - www.google.com",
         "🇨🇭 Switzerland 5bb8 | SNI - amd.com",
         "🇨🇭 Switzerland 6326 | SNI - bucket-ru-5.extravpn.io",
         "🇨🇭 Switzerland 638a | SNI - store.steampowered.com",
@@ -1363,6 +1370,7 @@
         "🇩🇪 Germany 694e | SNI - sni.latonyamadeline.ndjp.net",
         "🇩🇪 Germany 69a8 | SNI - chat.deepseek.com",
         "🇩🇪 Germany 6a31 | SNI - de.nodes.rocketnetwork.ru",
+        "🇩🇪 Germany 6ab2 | SNI - cdp.x5.ru [CIDR]",
         "🇩🇪 Germany 6b12 | SNI - cdp.x5.ru [CIDR]",
         "🇩🇪 Germany 6ba7 | SNI - sni.111000.dns.army",
         "🇩🇪 Germany 6c33 | SNI - chat.deepseek.com",
@@ -1389,6 +1397,7 @@
         "🇩🇪 Germany 7d84 | SNI - chat.deepseek.com",
         "🇩🇪 Germany 7fa6 | SNI - ads.x5.ru",
         "🇩🇪 Germany 809b | SNI - sni.111000.indevs.in",
+        "🇩🇪 Germany 8221 | SNI - developer.mozilla.org",
         "🇩🇪 Germany 8263 | SNI - www.vk.com",
         "🇩🇪 Germany 8295 | SNI - sni.111000.indevs.in",
         "🇩🇪 Germany 83d3 | SNI - sni.111000.dynv6.net",
@@ -1564,7 +1573,6 @@
         "🇩🇪 Germany f196 | SNI - chat.deepseek.com",
         "🇩🇪 Germany f1a1 | SNI - api-maps.yandex.ru",
         "🇩🇪 Germany f1f4 | SNI - api-maps.yandex.ru",
-        "🇩🇪 Germany f205 | SNI - dzen.ru",
         "🇩🇪 Germany f2c8 | SNI - chat.deepseek.com",
         "🇩🇪 Germany f2e4 | SNI - chat.deepseek.com",
         "🇩🇪 Germany f3a1 | SNI - sni.111000.indevs.in",
@@ -1991,7 +1999,6 @@
         "🇭🇰 Hong Kong 4208 | SNI - babayaga-6i7.pages.dev",
         "🇭🇰 Hong Kong 5437 | SNI - sni.skylee4.cloudns.ch",
         "🇭🇰 Hong Kong 58ef | SNI - babayaga-6i7.pages.dev",
-        "🇭🇰 Hong Kong 5eb8 | SNI - x6n3ydn.mirror-cdn.danfeng.bond",
         "🇭🇰 Hong Kong 6152 | SNI - babayaga-6i7.pages.dev",
         "🇭🇰 Hong Kong 61f1 | SNI - babayaga-6i7.pages.dev",
         "🇭🇰 Hong Kong 6797 | SNI - babayaga-6i7.pages.dev",
@@ -2009,6 +2016,7 @@
         "🇭🇰 Hong Kong a5fd | SNI - 3-85q.pages.dev",
         "🇭🇰 Hong Kong aa09 | SNI - sni.111000.dns.army",
         "🇭🇰 Hong Kong b17a | SNI - sni.111000.v6.rocks",
+        "🇭🇰 Hong Kong b4fc | SNI - itunes.apple.com",
         "🇭🇰 Hong Kong b847 | SNI - hk.ap221.com",
         "🇭🇰 Hong Kong be47 | SNI - sni.111000.dns.army",
         "🇭🇰 Hong Kong c936 | SNI - sni.skylee4.cloudns.ch",
@@ -2045,7 +2053,6 @@
         "🇮🇹 Italy 5975",
         "🇮🇹 Italy ab1a | SNI - it.plus-hit.ru",
         "🇮🇹 Italy d14f",
-        "🇮🇹 Italy da4a | SNI - www.google.com",
         "🇮🇹 Italy dfbc",
         "🇮🇹 Italy eb48",
         "🇮🇹 Italy f419 | SNI - microsoft.com",
@@ -2071,6 +2078,7 @@
         "🇯🇵 Japan 4462 | SNI - jp.de-nfast.com",
         "🇯🇵 Japan 452b | SNI - babayaga-6i7.pages.dev",
         "🇯🇵 Japan 4ce9 | SNI - babayaga-6i7.pages.dev",
+        "🇯🇵 Japan 4e18",
         "🇯🇵 Japan 4e68 | SNI - juzi8186.qea.ccwu.cc",
         "🇯🇵 Japan 4ed5 | SNI - 1-aym.pages.dev",
         "🇯🇵 Japan 529c | SNI - 2026.hhhhh.eu.org",
@@ -2232,6 +2240,7 @@
         "🇳🇱 Netherlands 1135 | SNI - fuck.rkn",
         "🇳🇱 Netherlands 1231 | SNI - www.cybo.com",
         "🇳🇱 Netherlands 1289 | SNI - nlyttls.keepsecurevpn.com",
+        "🇳🇱 Netherlands 12fe | SNI - cdp.x5.ru",
         "🇳🇱 Netherlands 143a | SNI - vfa9.cdn-stream.fgfw.indevs.in",
         "🇳🇱 Netherlands 1639 | SNI - itx-server.digital",
         "🇳🇱 Netherlands 170f | SNI - www.tradingview.com",
@@ -2318,6 +2327,7 @@
         "🇳🇱 Netherlands 5fcc | SNI - www.deepl.com",
         "🇳🇱 Netherlands 6024 | SNI - ads.x5.ru",
         "🇳🇱 Netherlands 61c9",
+        "🇳🇱 Netherlands 63b8 | SNI - api-maps.yandex.ru [CIDR]",
         "🇳🇱 Netherlands 64ea | SNI - cdp.x5.ru [CIDR]",
         "🇳🇱 Netherlands 6643 | SNI - sni.111000.dns.army",
         "🇳🇱 Netherlands 6684 | SNI - wl-3-3.nodes.ac",
@@ -2360,6 +2370,7 @@
         "🇳🇱 Netherlands 7e7a | SNI - wl-3-4.nodes.ac",
         "🇳🇱 Netherlands 7f75 | SNI - sni.111000.dynv6.net",
         "🇳🇱 Netherlands 8127 | SNI - fuck.rkn",
+        "🇳🇱 Netherlands 815a | SNI - cdp.x5.ru",
         "🇳🇱 Netherlands 8237 | SNI - cdn.trahodrom.fun",
         "🇳🇱 Netherlands 8288 | SNI - www.samsung.com",
         "🇳🇱 Netherlands 8311 | SNI - api-maps.yandex.ru",
@@ -2438,6 +2449,7 @@
         "🇳🇱 Netherlands b405 | SNI - ads.x5.ru",
         "🇳🇱 Netherlands b440 | SNI - S4-f45.pAGeS.DeV",
         "🇳🇱 Netherlands b4b0 | SNI - max.ru",
+        "🇳🇱 Netherlands b69f | SNI - cdp.x5.ru",
         "🇳🇱 Netherlands b7da | SNI - yandex.ru",
         "🇳🇱 Netherlands b8d7 | SNI - wl-6-1.nodes.ac",
         "🇳🇱 Netherlands b9d7 | SNI - n3th3ryt.gxcore.net",
@@ -2582,6 +2594,7 @@
         "🇵🇱 Poland eea6 | SNI - pl01.myxasecure.space",
         "🇵🇱 Poland f1b1 | SNI - api-maps.yandex.ru",
         "🇵🇱 Poland f2cd",
+        "🇵🇱 Poland f9cb | SNI - dropbox.com",
         "🇷🇴 Romania c78a | SNI - www.alibaba.com",
         "🇷🇴 Romania fdc4 | SNI - www.aliexpress.com",
         "🇷🇸 Serbia 04bd | SNI - microsoft.com",
@@ -2603,7 +2616,6 @@
         "🇷🇺 Russia 0624 | SNI - ads.x5.ru",
         "🇷🇺 Russia 0625 | SNI - 5post-gate.x5.ru [CIDR]",
         "🇷🇺 Russia 0642 | SNI - ads.x5.ru",
-        "🇷🇺 Russia 06d4 | SNI - id.vk.ru",
         "🇷🇺 Russia 076b | SNI - ads.x5.ru",
         "🇷🇺 Russia 083c | SNI - ads.x5.ru [CIDR]",
         "🇷🇺 Russia 093a | SNI - cdp.x5.ru",
@@ -2613,8 +2625,8 @@
         "🇷🇺 Russia 0ae5",
         "🇷🇺 Russia 0d1f | SNI - ads.x5.ru",
         "🇷🇺 Russia 0e69 | SNI - ads.x5.ru [CIDR]",
+        "🇷🇺 Russia 0eaa | SNI - cdp.x5.ru",
         "🇷🇺 Russia 0ee8 | SNI - ads.x5.ru [CIDR]",
-        "🇷🇺 Russia 0eeb | SNI - web.max.ru",
         "🇷🇺 Russia 0fc2 | SNI - ads.x5.ru",
         "🇷🇺 Russia 1007 | SNI - cdp.x5.ru",
         "🇷🇺 Russia 1075",
@@ -2667,6 +2679,7 @@
         "🇷🇺 Russia 28e0 | SNI - img.perekrestok.ru",
         "🇷🇺 Russia 291e | SNI - ads.x5.ru",
         "🇷🇺 Russia 295c | SNI - m.vk.com",
+        "🇷🇺 Russia 2a43 | SNI - cdp.x5.ru",
         "🇷🇺 Russia 2a97 | SNI - rruu.persik.host",
         "🇷🇺 Russia 2b76 | SNI - ads.x5.ru",
         "🇷🇺 Russia 2bd7 | SNI - sun6-21.userapi.com",
@@ -2691,7 +2704,6 @@
         "🇷🇺 Russia 33db | SNI - www.samsung.com",
         "🇷🇺 Russia 349a | SNI - ads.x5.ru [CIDR]",
         "🇷🇺 Russia 34fa | SNI - cdp.x5.ru",
-        "🇷🇺 Russia 35a1 | SNI - www.fh-aachen.de",
         "🇷🇺 Russia 35ac | SNI - cdp.x5.ru",
         "🇷🇺 Russia 36db | SNI - ads.x5.ru",
         "🇷🇺 Russia 370c | SNI - ads.x5.ru [CIDR]",
@@ -2701,6 +2713,7 @@
         "🇷🇺 Russia 38ef | SNI - ads.x5.ru",
         "🇷🇺 Russia 396e | SNI - ads.x5.ru",
         "🇷🇺 Russia 3986 | SNI - cdp.x5.ru",
+        "🇷🇺 Russia 3a77 | SNI - ads.x5.ru",
         "🇷🇺 Russia 3b5e | SNI - ads.x5.ru",
         "🇷🇺 Russia 3c1d | SNI - ads.x5.ru",
         "🇷🇺 Russia 3c3b | SNI - api-maps.yandex.ru",
@@ -2834,6 +2847,7 @@
         "🇷🇺 Russia 8c88 | SNI - ads.x5.ru",
         "🇷🇺 Russia 8c89 | SNI - www.microsoft.com",
         "🇷🇺 Russia 8cc3 | SNI - cdp.x5.ru",
+        "🇷🇺 Russia 8cf8 | SNI - iv.kommersant.ru",
         "🇷🇺 Russia 8e01 | SNI - iv.kommersant.ru",
         "🇷🇺 Russia 8e1b | SNI - ads.x5.ru",
         "🇷🇺 Russia 8eb6 | SNI - rruu.persik.host [CIDR]",
@@ -2926,6 +2940,7 @@
         "🇷🇺 Russia c531 | SNI - cdp.x5.ru",
         "🇷🇺 Russia c58c | SNI - ads.x5.ru",
         "🇷🇺 Russia c591 | SNI - cdp.x5.ru",
+        "🇷🇺 Russia c667 | SNI - io.ozone.ru",
         "🇷🇺 Russia c6c9 | SNI - api-maps.yandex.ru",
         "🇷🇺 Russia c714 | SNI - api-maps.yandex.ru",
         "🇷🇺 Russia c812 | SNI - ads.x5.ru",
@@ -2963,7 +2978,6 @@
         "🇷🇺 Russia dc4c | SNI - api-maps.yandex.ru",
         "🇷🇺 Russia dd92 | SNI - cdp.x5.ru",
         "🇷🇺 Russia ddd9 | SNI - ads.x5.ru",
-        "🇷🇺 Russia ddee | SNI - www.google.com",
         "🇷🇺 Russia de00 | SNI - ads.x5.ru",
         "🇷🇺 Russia de22 | SNI - ads.x5.ru",
         "🇷🇺 Russia de58 | SNI - ads.x5.ru",
@@ -2975,7 +2989,6 @@
         "🇷🇺 Russia e238 | SNI - cdp.x5.ru",
         "🇷🇺 Russia e260 | SNI - ads.x5.ru",
         "🇷🇺 Russia e26f | SNI - max.ru",
-        "🇷🇺 Russia e273 | SNI - france.spectrum.vu",
         "🇷🇺 Russia e328 | SNI - ads.x5.ru",
         "🇷🇺 Russia e334 | SNI - gp.x5.ru",
         "🇷🇺 Russia e3ba | SNI - cdp.x5.ru",
@@ -3017,6 +3030,7 @@
         "🇷🇺 Russia fa9c | SNI - max.ru",
         "🇷🇺 Russia fbfc | SNI - ads.x5.ru",
         "🇷🇺 Russia fc09 | SNI - ads.x5.ru",
+        "🇷🇺 Russia fc9e | SNI - ads.x5.ru",
         "🇷🇺 Russia fd54 | SNI - 5post-gate.x5.ru",
         "🇷🇺 Russia fd7a | SNI - smartcaptcha.yandexcloud.net",
         "🇷🇺 Russia fd96 | SNI - ads.x5.ru",
@@ -3168,6 +3182,7 @@
         "🇸🇬 Singapore af42 | SNI - babayaga-6i7.pages.dev",
         "🇸🇬 Singapore b068 | SNI - api-maps.yandex.ru",
         "🇸🇬 Singapore b1d2 | SNI - babayaga-6i7.pages.dev",
+        "🇸🇬 Singapore b57c | SNI - babayaga-6i7.pages.dev",
         "🇸🇬 Singapore b5e9 | SNI - babayaga-6i7.pages.dev",
         "🇸🇬 Singapore b8ee | SNI - babayaga-6i7.pages.dev",
         "🇸🇬 Singapore bbc9 | SNI - 020g5uxcxmqlndg.luyuju.dpdns.org",
@@ -3226,7 +3241,6 @@
         "🇹🇼 Taiwan 080b | SNI - juzi8186.qea.ccwu.cc",
         "🇹🇼 Taiwan 1f47 | SNI - www.tradingview.com",
         "🇹🇼 Taiwan 27c2 | SNI - www.hollywoodreporter.com",
-        "🇹🇼 Taiwan 3301 | SNI - babayaga-6i7.pages.dev",
         "🇹🇼 Taiwan 3362 | SNI - www.tradingview.com",
         "🇹🇼 Taiwan 3e23 | SNI - 2026.hhhhh.eu.org",
         "🇹🇼 Taiwan 4466 | SNI - learn.microsoft.com",
@@ -3316,6 +3330,7 @@
         "🇺🇸 United States 546b | SNI - sni.111000.dns.army",
         "🇺🇸 United States 552f | SNI - sni.111000.indevs.in",
         "🇺🇸 United States 5551",
+        "🇺🇸 United States 565f | SNI - 3-85q.pages.dev",
         "🇺🇸 United States 57b9 | SNI - www.icloud.com",
         "🇺🇸 United States 57f0 | SNI - www.amazon.com",
         "🇺🇸 United States 583c | SNI - sni.111000.dynv6.net",
@@ -3349,7 +3364,6 @@
         "🇺🇸 United States 8138 | SNI - sni.111000.dynv6.net",
         "🇺🇸 United States 817e | SNI - us.plus-hit.ru",
         "🇺🇸 United States 81ac | SNI - sni.111000.dynv6.net",
-        "🇺🇸 United States 8225 | SNI - atus.nodes.rocketnetwork.ru",
         "🇺🇸 United States 837f | SNI - juzi8186.qea.ccwu.cc",
         "🇺🇸 United States 8447",
         "🇺🇸 United States 8583 | SNI - sni.111000.dynv6.net",
@@ -3364,6 +3378,7 @@
         "🇺🇸 United States 90d3 | SNI - huggingface.co",
         "🇺🇸 United States 90ed",
         "🇺🇸 United States 919c | SNI - sni.111000.dynv6.net",
+        "🇺🇸 United States 92b5 | SNI - chus.nodes.rocketnetwork.ru",
         "🇺🇸 United States 9368",
         "🇺🇸 United States 9524 | SNI - sn1.skylee5.cloudns.ch",
         "🇺🇸 United States 9539",
@@ -3942,6 +3957,24 @@
       "server_port": 443,
       "uuid": "15d114ee-c814-47c7-bd12-fab0c7a0128e",
       "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": " Unsorted 0b8b | SNI - max.ru",
+      "server": "111.88.145.222",
+      "server_port": 8443,
+      "uuid": "8236c875-a61d-4e48-8f26-d367da838c05",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "max.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo",
+          "short_id": "5be97fb85093a3a9"
+        }
+      }
     },
     {
       "type": "vless",
@@ -7557,6 +7590,24 @@
         "path": "/?https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3=",
         "headers": {
           "Host": "sni.latonyamadeline.ndjp.net"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": " Unsorted 4d59 | SNI - ads.x5.ru",
+      "server": "111.88.145.222",
+      "server_port": 443,
+      "uuid": "8236c875-a61d-4e48-8f26-d367da838c05",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo",
+          "short_id": "5be97fb85093a3a9"
         }
       }
     },
@@ -14139,6 +14190,24 @@
     },
     {
       "type": "vless",
+      "tag": " Unsorted d195 | SNI - dde6.figurapn.ru",
+      "server": "dde6.figurapn.ru",
+      "server_port": 443,
+      "uuid": "2f814ff1-7f41-405a-8ffa-322419a32fb4",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "dde6.figurapn.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "i1kgdvvNoTAdTsmFcdFBItn1wakoTNZHC1F7nTCpLlo",
+          "short_id": "6f9ae5be33ead6f9"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": " Unsorted d227 | SNI - sni.latonyamadeline.ndjp.net",
       "server": "172.64.158.90",
       "server_port": 443,
@@ -15682,6 +15751,24 @@
     },
     {
       "type": "vless",
+      "tag": " Unsorted f74d | SNI - cdp.x5.ru",
+      "server": "158.160.57.73",
+      "server_port": 443,
+      "uuid": "452e5220-3e3b-49d1-b8ec-a54b81bc1cd7",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdp.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": " Unsorted f790 | SNI - ads.x5.ru",
       "server": "111.88.145.222",
       "server_port": 8443,
@@ -16678,6 +16765,19 @@
         "headers": {
           "Host": "2-eox.pages.dev"
         }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇦🇹 Austria 62da | SNI - srv152.towersflowerss.com",
+      "server": "srv152.towersflowerss.com",
+      "server_port": 64534,
+      "uuid": "b43a13be-150c-4a6a-8501-b71c1b6476fb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {}
       }
     },
     {
@@ -20901,6 +21001,26 @@
     },
     {
       "type": "vless",
+      "tag": "🇨🇦 Canada aeb4 | SNI - sni.skylee4.cloudns.ch",
+      "server": "8.219.232.55",
+      "server_port": 443,
+      "uuid": "06b65903-406d-4a41-8463-6fd5c0ee7798",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "sni.skylee4.cloudns.ch",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyip=ProxyIP.CMLiussss.net",
+        "headers": {
+          "Host": "sni.skylee4.cloudns.ch"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇨🇦 Canada afde",
       "server": "104.18.13.229",
       "server_port": 2052,
@@ -22907,6 +23027,23 @@
           "enabled": true,
           "public_key": "F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA",
           "short_id": "6ba85179e30d4fc3"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇭 Switzerland 5902 | SNI - www.google.com",
+      "server": "87.120.222.98",
+      "server_port": 8443,
+      "uuid": "10e82fcc-94ec-4d09-8855-579bb55b77e4",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.google.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE"
         }
       }
     },
@@ -26705,6 +26842,24 @@
     },
     {
       "type": "vless",
+      "tag": "🇩🇪 Germany 6ab2 | SNI - cdp.x5.ru [CIDR]",
+      "server": "158.160.57.73",
+      "server_port": 443,
+      "uuid": "ea1e7efc-3c9f-41a5-b7d9-71c22e223ddd",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdp.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇩🇪 Germany 6b12 | SNI - cdp.x5.ru [CIDR]",
       "server": "51.250.24.232",
       "server_port": 443,
@@ -27185,6 +27340,23 @@
         "path": "/?ed=2560&Telegram🇨🇳@WangCai2",
         "headers": {
           "Host": "sni.111000.indevs.in"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 Germany 8221 | SNI - developer.mozilla.org",
+      "server": "64.188.71.248",
+      "server_port": 443,
+      "uuid": "74c5d1a7-f19b-4a75-8ccd-89a67c78e9ac",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "developer.mozilla.org",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "vCmEFMhXtECxxnRz6SsFHRWx5JJ6AMJdoKtC1HCATkA"
         }
       }
     },
@@ -30369,24 +30541,6 @@
           "enabled": true,
           "public_key": "xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I",
           "short_id": "27e53bbcab7593d7"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 Germany f205 | SNI - dzen.ru",
-      "server": "95.85.236.146",
-      "server_port": 443,
-      "uuid": "eebb76ac-f68c-434e-8c11-ab853bb5a7c0",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "dzen.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc",
-          "short_id": "3c88b649989ffa95"
         }
       }
     },
@@ -38118,26 +38272,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇭🇰 Hong Kong 5eb8 | SNI - x6n3ydn.mirror-cdn.danfeng.bond",
-      "server": "103.135.250.213",
-      "server_port": 51844,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "x6n3ydn.mirror-cdn.danfeng.bond",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/danfeng?ed=2560fp=firefox",
-        "headers": {
-          "Host": "x6n3ydn.mirror-cdn.danfeng.bond"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇭🇰 Hong Kong 6152 | SNI - babayaga-6i7.pages.dev",
       "server": "217.60.248.94",
       "server_port": 8443,
@@ -38459,6 +38593,24 @@
         "path": "/?ed=2560&https://t.me/WangCai2🇨🇳",
         "headers": {
           "Host": "sni.111000.v6.rocks"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇭🇰 Hong Kong b4fc | SNI - itunes.apple.com",
+      "server": "jp.rfc.7li7li.vip",
+      "server_port": 8443,
+      "uuid": "135a7899-d6d6-40e9-a33e-d0ae87e09a7e",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "itunes.apple.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "khEvnbR8fxZCRIQkpJr9o57-dq_ufC7ErMKFo34im10",
+          "short_id": "be8dcf0d"
         }
       }
     },
@@ -39078,23 +39230,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇮🇹 Italy da4a | SNI - www.google.com",
-      "server": "45.155.68.31",
-      "server_port": 8443,
-      "uuid": "10e82fcc-94ec-4d09-8855-579bb55b77e4",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.google.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇮🇹 Italy dfbc",
       "server": "57.131.32.191",
       "server_port": 80,
@@ -39548,6 +39683,14 @@
           "Host": "babayaga-6i7.pages.dev"
         }
       }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Japan 4e18",
+      "server": "8.216.21.135",
+      "server_port": 10026,
+      "uuid": "e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2",
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
@@ -42544,6 +42687,24 @@
     },
     {
       "type": "vless",
+      "tag": "🇳🇱 Netherlands 12fe | SNI - cdp.x5.ru",
+      "server": "158.160.57.73",
+      "server_port": 443,
+      "uuid": "f37a4d66-da9b-400d-b59f-fed7d53bd540",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdp.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇳🇱 Netherlands 143a | SNI - vfa9.cdn-stream.fgfw.indevs.in",
       "server": "146.185.160.185",
       "server_port": 2087,
@@ -44111,6 +44272,24 @@
     },
     {
       "type": "vless",
+      "tag": "🇳🇱 Netherlands 63b8 | SNI - api-maps.yandex.ru [CIDR]",
+      "server": "89.208.229.122",
+      "server_port": 443,
+      "uuid": "ae226b50-c843-4723-902b-63f61d263e19",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "api-maps.yandex.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U",
+          "short_id": "0123456789abcdef"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇳🇱 Netherlands 64ea | SNI - cdp.x5.ru [CIDR]",
       "server": "51.250.103.104",
       "server_port": 443,
@@ -44880,6 +45059,24 @@
           "enabled": true,
           "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
           "short_id": "01"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇱 Netherlands 815a | SNI - cdp.x5.ru",
+      "server": "158.160.57.73",
+      "server_port": 443,
+      "uuid": "9237db10-4407-4a73-9c0c-8e38241f497b",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdp.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
         }
       }
     },
@@ -46325,6 +46522,24 @@
           "enabled": true,
           "public_key": "a-fvBe0tLnLOEn2O4FEBKXeJMAsOxKFP0LIJdsQzi3k",
           "short_id": "f4f4a12042ea3ba8"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇱 Netherlands b69f | SNI - cdp.x5.ru",
+      "server": "158.160.57.73",
+      "server_port": 443,
+      "uuid": "cc08e88b-d3f2-4d48-be71-abddd0157517",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdp.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
         }
       }
     },
@@ -48925,6 +49140,23 @@
     },
     {
       "type": "vless",
+      "tag": "🇵🇱 Poland f9cb | SNI - dropbox.com",
+      "server": "pl.synatra.net",
+      "server_port": 58730,
+      "uuid": "690cff03-0a82-457a-8532-4a83491458fb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "dropbox.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "_-lR8xvn-qaERi-M1iCn6ftH7ChnT0qHHq2GAiROmXA"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇷🇴 Romania c78a | SNI - www.alibaba.com",
       "server": "91.199.50.37",
       "server_port": 443,
@@ -49301,23 +49533,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 Russia 06d4 | SNI - id.vk.ru",
-      "server": "109.120.189.31",
-      "server_port": 443,
-      "uuid": "05af36dd-db51-42e6-8bf6-15a013ee0eb3",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "id.vk.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "Cb6Fi86wbJ_7yMjvI1axXNek55YpyDje9HbMgIoimR8"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇷🇺 Russia 076b | SNI - ads.x5.ru",
       "server": "46.8.209.104",
       "server_port": 443,
@@ -49476,6 +49691,24 @@
     },
     {
       "type": "vless",
+      "tag": "🇷🇺 Russia 0eaa | SNI - cdp.x5.ru",
+      "server": "158.160.57.73",
+      "server_port": 443,
+      "uuid": "276d4bb0-3773-4928-84aa-cd280971a8b2",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdp.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇷🇺 Russia 0ee8 | SNI - ads.x5.ru [CIDR]",
       "server": "51.250.110.130",
       "server_port": 443,
@@ -49489,24 +49722,6 @@
           "enabled": true,
           "public_key": "xiBnF5t8koXllU1GwzSRmU0Vcbs21DEHCg399WUg1EM",
           "short_id": "48b65fa924db296e"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇷🇺 Russia 0eeb | SNI - web.max.ru",
-      "server": "46.8.209.137",
-      "server_port": 3443,
-      "uuid": "26e02f30-05f6-4ef2-bbec-783dedcca11e",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "web.max.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "8f1NWVS4DCZJNvIC28ioeponslhiGqoFnaVVi1cjFk8",
-          "short_id": "3c38b3cce0ebb9dc"
         }
       }
     },
@@ -50435,6 +50650,24 @@
     },
     {
       "type": "vless",
+      "tag": "🇷🇺 Russia 2a43 | SNI - cdp.x5.ru",
+      "server": "158.160.57.73",
+      "server_port": 443,
+      "uuid": "e315b544-9d16-4a30-b18a-1458fc252f9c",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdp.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
+          "short_id": "8ec792bfd725be8a"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇷🇺 Russia 2a97 | SNI - rruu.persik.host",
       "server": "193.168.46.180",
       "server_port": 443,
@@ -50866,23 +51099,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 Russia 35a1 | SNI - www.fh-aachen.de",
-      "server": "138.124.186.80",
-      "server_port": 443,
-      "uuid": "e346f220-4ca4-4f69-a66b-52e992b3b625",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.fh-aachen.de",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇷🇺 Russia 35ac | SNI - cdp.x5.ru",
       "server": "51.250.24.222",
       "server_port": 443,
@@ -51040,6 +51256,24 @@
           "enabled": true,
           "public_key": "wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI",
           "short_id": "8ec792bfd725be8a"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇷🇺 Russia 3a77 | SNI - ads.x5.ru",
+      "server": "217.16.20.38",
+      "server_port": 8443,
+      "uuid": "15683958-3dd5-4771-8da0-a28e2e99c214",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM",
+          "short_id": "dde66ef1"
         }
       }
     },
@@ -53426,6 +53660,24 @@
     },
     {
       "type": "vless",
+      "tag": "🇷🇺 Russia 8cf8 | SNI - iv.kommersant.ru",
+      "server": "78.159.246.73",
+      "server_port": 25567,
+      "uuid": "885206fc-bf57-4c19-9b01-b38fb7568c01",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "iv.kommersant.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY",
+          "short_id": "a5bd715847213387"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇷🇺 Russia 8e01 | SNI - iv.kommersant.ru",
       "server": "46.243.232.148",
       "server_port": 25567,
@@ -55074,6 +55326,24 @@
     },
     {
       "type": "vless",
+      "tag": "🇷🇺 Russia c667 | SNI - io.ozone.ru",
+      "server": "84.201.132.188",
+      "server_port": 443,
+      "uuid": "95c06771-2946-488c-81a4-52a34b53d991",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "io.ozone.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "TBI7B2sHbG98NrozDc_uGyDaprOzktHkkG8TJibZw2U",
+          "short_id": "f85e"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇷🇺 Russia c6c9 | SNI - api-maps.yandex.ru",
       "server": "158.160.255.35",
       "server_port": 443,
@@ -55734,23 +56004,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 Russia ddee | SNI - www.google.com",
-      "server": "77.110.113.236",
-      "server_port": 8443,
-      "uuid": "10e82fcc-94ec-4d09-8855-579bb55b77e4",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.google.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇷🇺 Russia de00 | SNI - ads.x5.ru",
       "server": "84.201.181.153",
       "server_port": 443,
@@ -55949,24 +56202,6 @@
         "type": "ws",
         "path": "/",
         "headers": {}
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇷🇺 Russia e273 | SNI - france.spectrum.vu",
-      "server": "france.spectrum.vu",
-      "server_port": 443,
-      "uuid": "76713d07-5a6b-49c2-abd8-bc450a2fa7fc",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "france.spectrum.vu",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA",
-          "short_id": "a1c1d7e2f9b3"
-        }
       }
     },
     {
@@ -56704,6 +56939,24 @@
           "enabled": true,
           "public_key": "DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8",
           "short_id": "bd3cda1117aa"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇷🇺 Russia fc9e | SNI - ads.x5.ru",
+      "server": "84.201.160.68",
+      "server_port": 2443,
+      "uuid": "1d279178-633c-4874-b311-93b2c00878fb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA",
+          "short_id": "7b374423e3f0f5fb"
         }
       }
     },
@@ -59548,6 +59801,26 @@
     },
     {
       "type": "vless",
+      "tag": "🇸🇬 Singapore b57c | SNI - babayaga-6i7.pages.dev",
+      "server": "143.198.211.180",
+      "server_port": 443,
+      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "babayaga-6i7.pages.dev",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/?ed=2560&Telegram🇨🇳@WangCai2",
+        "headers": {
+          "Host": "babayaga-6i7.pages.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇸🇬 Singapore b5e9 | SNI - babayaga-6i7.pages.dev",
       "server": "159.65.15.18",
       "server_port": 443,
@@ -60601,26 +60874,6 @@
           "enabled": true,
           "public_key": "q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc",
           "short_id": "481808327870"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇹🇼 Taiwan 3301 | SNI - babayaga-6i7.pages.dev",
-      "server": "114.32.9.249",
-      "server_port": 16443,
-      "uuid": "981fca81-5be1-41f8-ac9b-d138e8109943",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "babayaga-6i7.pages.dev",
-        "insecure": false
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/?ed=2560&Telegram🇨🇳@WangCai2",
-        "headers": {
-          "Host": "babayaga-6i7.pages.dev"
         }
       }
     },
@@ -62238,6 +62491,26 @@
     },
     {
       "type": "vless",
+      "tag": "🇺🇸 United States 565f | SNI - 3-85q.pages.dev",
+      "server": "84.32.129.194",
+      "server_port": 8443,
+      "uuid": "ce069292-c8bf-40dd-a6b1-87818a1e64e9",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "3-85q.pages.dev",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "",
+        "headers": {
+          "Host": "3-85q.pages.dev"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "🇺🇸 United States 57b9 | SNI - www.icloud.com",
       "server": "us.clickvpn.work",
       "server_port": 443,
@@ -62871,24 +63144,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 United States 8225 | SNI - atus.nodes.rocketnetwork.ru",
-      "server": "atus.nodes.rocketnetwork.ru",
-      "server_port": 443,
-      "uuid": "dad97768-187b-40be-b423-2f312f740085",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "atus.nodes.rocketnetwork.ru",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs",
-          "short_id": "428ef87fd47a3a32"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇺🇸 United States 837f | SNI - juzi8186.qea.ccwu.cc",
       "server": "129.159.119.161",
       "server_port": 443,
@@ -63128,6 +63383,24 @@
         "path": "/?ed=2560&Telegram🇨🇳+@WangCai2",
         "headers": {
           "Host": "sni.111000.dynv6.net"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 United States 92b5 | SNI - chus.nodes.rocketnetwork.ru",
+      "server": "chus.nodes.rocketnetwork.ru",
+      "server_port": 443,
+      "uuid": "dad97768-187b-40be-b423-2f312f740085",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "chus.nodes.rocketnetwork.ru",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs",
+          "short_id": "428ef87fd47a3a32"
         }
       }
     },
