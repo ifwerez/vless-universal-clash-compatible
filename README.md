@@ -11,7 +11,7 @@ auto-generated proxy configurations
 - https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt [online, 154 proxies]
 - https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt [online, 176 proxies]
 - 8f5c4a1faeb5 [online, 193 proxies]
-- https://internet-tenshi.kangel.tech/1 [online, 1388 proxies]
+- https://internet-tenshi.kangel.tech/1 [online, 1417 proxies]
 - https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt [online, 9002 proxies]
 - https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt [online, 140 proxies]
 - https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/22.txt [online, 202 proxies]
@@ -120,5 +120,5 @@ you can add new proxy source URLs via a pull request:
 
 new sources are automatically merged on the next update cycle.
 
-last updated: 2026-05-24 08:16:46
-proxies: 6712
+last updated: 2026-05-24 08:26:46
+proxies: 6726
