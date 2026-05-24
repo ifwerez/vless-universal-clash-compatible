@@ -3,7 +3,7 @@
 auto-generated proxy configurations
 
 > [!warning]
-> some clients may experience lag or high memory usage with large proxy lists. it is recommended to use split profiles (by protocol or continent) for better performance.
+> some clients may experience lag with large proxy lists. it is recommended to use split profiles for better performance.
 
 ## sources
 
