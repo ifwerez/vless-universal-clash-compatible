@@ -321,11 +321,19 @@ proxies:
   type: trojan
   password: MeaDiUmPlkWbZJ2BON8tz
   tls: true
-  sni: ads.x5.ru
 - name: "🇦🇷 Argentina 2eb8 [CIDR]"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AR.png
   server: 138.124.60.93
   port: 8443
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇦🇷 Argentina 694c [CIDR]"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AR.png
+  server: 185.79.138.12
+  port: 2053
   udp: true
   type: trojan
   password: "8r%3C%5B9%27l6hAO%238ZQi"
@@ -568,15 +576,6 @@ proxies:
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 23.173.104.206
   port: 2053
-  udp: true
-  type: trojan
-  password: "8r%3C%5B9%27l6hAO%238ZQi"
-  tls: true
-  sni: Koma-YT.PAGeS.Dev
-- name: "🇨🇦 Canada 3882 [CIDR]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
-  server: 193.164.155.186
-  port: 8443
   udp: true
   type: trojan
   password: "8r%3C%5B9%27l6hAO%238ZQi"
@@ -1126,6 +1125,15 @@ proxies:
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
   server: 44.32.224.196
   port: 2053
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇨🇦 Canada a2cc [CIDR]"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CA.png
+  server: 109.206.236.221
+  port: 8443
   udp: true
   type: trojan
   password: "8r%3C%5B9%27l6hAO%238ZQi"
@@ -3258,15 +3266,6 @@ proxies:
 - name: "🇩🇪 Germany 3a9c"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
   server: 104.248.249.73
-  port: 8443
-  udp: true
-  type: trojan
-  password: "8r%3C%5B9%27l6hAO%238ZQi"
-  tls: true
-  sni: Koma-YT.PAGeS.Dev
-- name: "🇩🇪 Germany 3c5e [CIDR]"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
-  server: 31.56.197.90
   port: 8443
   udp: true
   type: trojan
@@ -5661,6 +5660,15 @@ proxies:
 - name: "🇩🇪 Germany 9584"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
   server: 159.89.29.231
+  port: 8443
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇩🇪 Germany 9595"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 193.23.216.14
   port: 8443
   udp: true
   type: trojan
@@ -8448,6 +8456,15 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇩🇪 Germany ff81"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
+  server: 185.218.137.139
+  port: 8443
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
 - name: "🇩🇪 Germany ff81 #2"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DE.png
   server: 138.68.106.184
@@ -9752,15 +9769,6 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: "🇫🇮 Finland 6a63"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
-  server: 213.232.204.65
-  port: 8443
-  udp: true
-  type: trojan
-  password: "8r%3C%5B9%27l6hAO%238ZQi"
-  tls: true
-  sni: Koma-YT.PAGeS.Dev
 - name: "🇫🇮 Finland 6a76"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
   server: 157.180.121.219
@@ -9836,15 +9844,6 @@ proxies:
 - name: "🇫🇮 Finland 6eba"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
   server: 95.182.115.48
-  port: 2053
-  udp: true
-  type: trojan
-  password: "8r%3C%5B9%27l6hAO%238ZQi"
-  tls: true
-  sni: Koma-YT.PAGeS.Dev
-- name: "🇫🇮 Finland 6f3b"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
-  server: 213.232.204.65
   port: 2053
   udp: true
   type: trojan
@@ -11084,6 +11083,15 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇫🇮 Finland dd8d"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
+  server: 188.215.31.98
+  port: 2053
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
 - name: "🇫🇮 Finland deb3"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
   server: 188.130.206.254
@@ -11223,6 +11231,15 @@ proxies:
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
   server: 95.164.55.81
   port: 8443
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇫🇮 Finland e754"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/FI.png
+  server: 109.206.236.221
+  port: 2053
   udp: true
   type: trojan
   password: "8r%3C%5B9%27l6hAO%238ZQi"
@@ -15053,6 +15070,15 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇮🇪 Ireland c05f [CIDR]"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/IE.png
+  server: 212.34.146.229
+  port: 2053
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
 - name: "🇮🇳 India eb22"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/IN.png
   server: amanm.wsone.icu
@@ -15106,6 +15132,14 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇯🇵 Japan b8b2"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/JP.png
+  server: 116.80.61.224
+  port: 443
+  udp: true
+  type: trojan
+  password: BxceQaOe
+  tls: true
 - name: "🇯🇵 Japan bdc9"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/JP.png
   server: 45.11.1.118
@@ -15141,6 +15175,15 @@ proxies:
   type: trojan
   password: strong-secret-pass-777
   tls: true
+- name: "🇰🇷 South Korea 06a1 [CIDR]"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KR.png
+  server: 193.47.60.37
+  port: 2053
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
 - name: "🇰🇷 South Korea 1750"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KR.png
   server: 121.132.124.22
@@ -15755,6 +15798,15 @@ proxies:
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
   server: 146.185.165.150
   port: 8443
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇳🇱 Netherlands 0696"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
+  server: 195.200.17.170
+  port: 2053
   udp: true
   type: trojan
   password: "8r%3C%5B9%27l6hAO%238ZQi"
@@ -18199,6 +18251,15 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇳🇱 Netherlands 45a6"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
+  server: 89.110.119.10
+  port: 8443
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
 - name: "🇳🇱 Netherlands 45de"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
   server: 194.164.34.222
@@ -18382,6 +18443,15 @@ proxies:
 - name: "🇳🇱 Netherlands 4aa0"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
   server: 146.185.172.180
+  port: 2053
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇳🇱 Netherlands 4ab0"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
+  server: 109.248.162.61
   port: 2053
   udp: true
   type: trojan
@@ -19558,15 +19628,6 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
-- name: "🇳🇱 Netherlands 6c38"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
-  server: 109.248.162.61
-  port: 8443
-  udp: true
-  type: trojan
-  password: "8r%3C%5B9%27l6hAO%238ZQi"
-  tls: true
-  sni: Koma-YT.PAGeS.Dev
 - name: "🇳🇱 Netherlands 6c3f"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
   server: 167.71.65.205
@@ -20548,6 +20609,15 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇳🇱 Netherlands 8636"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
+  server: 93.183.88.9
+  port: 8443
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
 - name: "🇳🇱 Netherlands 8682"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
   server: 152.42.143.112
@@ -21502,6 +21572,15 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇳🇱 Netherlands a47d"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
+  server: 89.110.119.10
+  port: 2053
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
 - name: "🇳🇱 Netherlands a4e2"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
   server: 188.166.106.156
@@ -21884,6 +21963,15 @@ proxies:
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
   server: 188.166.27.250
   port: 2083
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇳🇱 Netherlands af23"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
+  server: 195.200.17.170
+  port: 8443
   udp: true
   type: trojan
   password: "8r%3C%5B9%27l6hAO%238ZQi"
@@ -24355,6 +24443,15 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇳🇱 Netherlands f807"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
+  server: 89.110.101.13
+  port: 2053
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
 - name: "🇳🇱 Netherlands f839"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/NL.png
   server: 185.209.161.208
@@ -25111,6 +25208,15 @@ proxies:
   password: "8r%3C%5B9%27l6hAO%238ZQi"
   tls: true
   sni: Koma-YT.PAGeS.Dev
+- name: "🇷🇺 Russia 1e4d"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/RU.png
+  server: 89.23.113.144
+  port: 9443
+  udp: true
+  type: trojan
+  password: 399419424ce044378043bec71b682a78
+  tls: true
+  sni: ya.ru
 - name: "🇷🇺 Russia 2007"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/RU.png
   server: 77.232.143.39
@@ -25240,6 +25346,15 @@ proxies:
 - name: "🇷🇺 Russia 8826"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/RU.png
   server: 185.87.48.219
+  port: 2053
+  udp: true
+  type: trojan
+  password: "8r%3C%5B9%27l6hAO%238ZQi"
+  tls: true
+  sni: Koma-YT.PAGeS.Dev
+- name: "🇷🇺 Russia 89e8"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/RU.png
+  server: 31.128.37.116
   port: 2053
   udp: true
   type: trojan
