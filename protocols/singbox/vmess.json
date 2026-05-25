@@ -27,12 +27,7 @@
       "outbounds": [
         " Unsorted 04cc",
         " Unsorted 0715",
-        " Unsorted 0c95",
         " Unsorted 1216",
-        " Unsorted 24ba",
-        " Unsorted 4579",
-        " Unsorted 545a",
-        " Unsorted 5467",
         " Unsorted 5aa2",
         " Unsorted 6596",
         " Unsorted 71d2",
@@ -40,21 +35,14 @@
         " Unsorted 78f0",
         " Unsorted 7996",
         " Unsorted 7df7",
-        " Unsorted 7ff4",
         " Unsorted 81ff",
         " Unsorted 958b",
-        " Unsorted 9c02",
         " Unsorted a3ab",
-        " Unsorted a937",
-        " Unsorted b930",
         " Unsorted bce1",
         " Unsorted c0d8",
         " Unsorted c1f3",
         " Unsorted c2e6",
         " Unsorted c5bc",
-        " Unsorted c8d8",
-        " Unsorted d2eb",
-        " Unsorted de00",
         " Unsorted ea22",
         "🇦🇱 Albania efd4",
         "🇦🇺 Australia ce25",
@@ -84,9 +72,8 @@
         "🇭🇰 Hong Kong 4f47",
         "🇭🇰 Hong Kong 5826",
         "🇭🇰 Hong Kong 6143",
-        "🇭🇰 Hong Kong 627a",
-        "🇭🇰 Hong Kong 62f0",
         "🇭🇰 Hong Kong 68e2",
+        "🇭🇰 Hong Kong 790c",
         "🇭🇰 Hong Kong 8a12",
         "🇭🇰 Hong Kong 8dc6",
         "🇭🇰 Hong Kong 907c",
@@ -97,21 +84,19 @@
         "🇭🇰 Hong Kong b438",
         "🇭🇰 Hong Kong b716",
         "🇭🇰 Hong Kong c905",
-        "🇭🇰 Hong Kong cac6",
         "🇭🇰 Hong Kong ccbe",
         "🇭🇰 Hong Kong d0cb",
         "🇭🇰 Hong Kong d74d",
-        "🇭🇰 Hong Kong de46",
-        "🇭🇰 Hong Kong e0e5",
+        "🇭🇰 Hong Kong d9cd",
         "🇭🇰 Hong Kong e152",
         "🇭🇰 Hong Kong f683",
         "🇭🇰 Hong Kong f6cb",
         "🇭🇰 Hong Kong f75a",
         "🇭🇺 Hungary 5d0a",
-        "🇭🇺 Hungary 6650",
+        "🇭🇺 Hungary 6650 [CIDR]",
         "🇭🇺 Hungary c200",
         "🇭🇺 Hungary c4e0",
-        "🇭🇺 Hungary ff12",
+        "🇭🇺 Hungary ff12 [CIDR]",
         "🇮🇳 India 3ea2",
         "🇮🇳 India de71",
         "🇮🇹 Italy 4838",
@@ -171,6 +156,7 @@
         "🇺🇸 United States 184c",
         "🇺🇸 United States 21a6",
         "🇺🇸 United States 2a18",
+        "🇺🇸 United States 2b69",
         "🇺🇸 United States 2d90",
         "🇺🇸 United States 3091",
         "🇺🇸 United States 3348",
@@ -180,21 +166,14 @@
         "🇺🇸 United States 4b06",
         "🇺🇸 United States 50f8",
         "🇺🇸 United States 59b1",
-        "🇺🇸 United States 604c",
         "🇺🇸 United States 610c",
-        "🇺🇸 United States 6705",
-        "🇺🇸 United States 6aab",
         "🇺🇸 United States 79a6",
         "🇺🇸 United States 79d7",
-        "🇺🇸 United States 7cd1",
         "🇺🇸 United States 8815",
         "🇺🇸 United States 8a57",
         "🇺🇸 United States 9560",
         "🇺🇸 United States 986d",
         "🇺🇸 United States 9aed",
-        "🇺🇸 United States 9d20",
-        "🇺🇸 United States b0aa",
-        "🇺🇸 United States b0e7",
         "🇺🇸 United States b176",
         "🇺🇸 United States b6ee",
         "🇺🇸 United States bac2",
@@ -229,55 +208,10 @@
     },
     {
       "type": "vmess",
-      "tag": " Unsorted 0c95",
-      "server": "gtm1.ktmwan.net",
-      "server_port": 12885,
-      "uuid": "91fea313-f8f9-46ae-b9ea-eeb599962e2b",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
       "tag": " Unsorted 1216",
       "server": "cf.scpnb.top",
       "server_port": 443,
       "uuid": "b4bb30b1-b4a2-4b76-90ed-c7d54ec71d69",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": " Unsorted 24ba",
-      "server": "gtm1.ktmwan.net",
-      "server_port": 12888,
-      "uuid": "91fea313-f8f9-46ae-b9ea-eeb599962e2b",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": " Unsorted 4579",
-      "server": "gtm1.ktmwan.net",
-      "server_port": 12883,
-      "uuid": "91fea313-f8f9-46ae-b9ea-eeb599962e2b",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": " Unsorted 545a",
-      "server": "iv2yun.iv2yunch.work",
-      "server_port": 16717,
-      "uuid": "d73c2cea-34e9-380d-8511-bb8521aa6183",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": " Unsorted 5467",
-      "server": "iv2yun.iv2yunch.work",
-      "server_port": 31119,
-      "uuid": "d73c2cea-34e9-380d-8511-bb8521aa6183",
       "security": "auto",
       "alter_id": 0
     },
@@ -346,15 +280,6 @@
     },
     {
       "type": "vmess",
-      "tag": " Unsorted 7ff4",
-      "server": "iv2yun.iv2yunch.work",
-      "server_port": 63353,
-      "uuid": "d73c2cea-34e9-380d-8511-bb8521aa6183",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
       "tag": " Unsorted 81ff",
       "server": "t.tizi001.com",
       "server_port": 19281,
@@ -373,37 +298,10 @@
     },
     {
       "type": "vmess",
-      "tag": " Unsorted 9c02",
-      "server": "iv2yun.iv2yunch.work",
-      "server_port": 35619,
-      "uuid": "d73c2cea-34e9-380d-8511-bb8521aa6183",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
       "tag": " Unsorted a3ab",
       "server": "t.tizi001.com",
       "server_port": 50946,
       "uuid": "7456253f-6d63-46a2-a1ed-9d37cae32811",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": " Unsorted a937",
-      "server": "iv2yun.iv2yunch.work",
-      "server_port": 30703,
-      "uuid": "d73c2cea-34e9-380d-8511-bb8521aa6183",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": " Unsorted b930",
-      "server": "gtm1.ktmwan.net",
-      "server_port": 12888,
-      "uuid": "2d4bb251-5a5a-49d2-bc8a-9a530788fd89",
       "security": "auto",
       "alter_id": 0
     },
@@ -449,33 +347,6 @@
       "server": "t.tizi001.com",
       "server_port": 19984,
       "uuid": "7456253f-6d63-46a2-a1ed-9d37cae32811",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": " Unsorted c8d8",
-      "server": "gtm1.ktmwan.net",
-      "server_port": 12887,
-      "uuid": "2d4bb251-5a5a-49d2-bc8a-9a530788fd89",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": " Unsorted d2eb",
-      "server": "iv2yun.iv2yunch.work",
-      "server_port": 61519,
-      "uuid": "d73c2cea-34e9-380d-8511-bb8521aa6183",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": " Unsorted de00",
-      "server": "gtm1.ktmwan.net",
-      "server_port": 12889,
-      "uuid": "91fea313-f8f9-46ae-b9ea-eeb599962e2b",
       "security": "auto",
       "alter_id": 0
     },
@@ -742,28 +613,19 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇰 Hong Kong 627a",
-      "server": "hk31.ccdn3.work",
-      "server_port": 20091,
-      "uuid": "2543af60-245c-11f1-aa57-8f36e190ad40",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "🇭🇰 Hong Kong 62f0",
-      "server": "8.210.121.88",
-      "server_port": 51453,
-      "uuid": "a3de462b-0276-4003-8f34-536b0f9d340c",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
       "tag": "🇭🇰 Hong Kong 68e2",
       "server": "n1761296878.4u9ma.icu",
       "server_port": 443,
       "uuid": "78f61544-3393-4e6b-9c77-5deaa0c7471d",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": "🇭🇰 Hong Kong 790c",
+      "server": "cdn.31514926.xyz",
+      "server_port": 443,
+      "uuid": "48d5eb0f-fd55-4357-baec-a68fa39a4b1b",
       "security": "auto",
       "alter_id": 0
     },
@@ -859,15 +721,6 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇰 Hong Kong cac6",
-      "server": "8.210.121.88",
-      "server_port": 51453,
-      "uuid": "1f2d0b2b-e214-4fc1-92cc-1c230be78d7c",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
       "tag": "🇭🇰 Hong Kong ccbe",
       "server": "213.156.141.52",
       "server_port": 22324,
@@ -895,19 +748,10 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇰 Hong Kong de46",
-      "server": "8.210.121.88",
-      "server_port": 51453,
-      "uuid": "0be3a336-85ad-4c42-930b-05318236e68c",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "🇭🇰 Hong Kong e0e5",
-      "server": "8.210.121.88",
-      "server_port": 51453,
-      "uuid": "8bd1fbf2-cef1-4e54-aa5b-ba7bde574dd9",
+      "tag": "🇭🇰 Hong Kong d9cd",
+      "server": "v30.hdacd.com",
+      "server_port": 30830,
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
       "security": "auto",
       "alter_id": 0
     },
@@ -958,7 +802,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇺 Hungary 6650",
+      "tag": "🇭🇺 Hungary 6650 [CIDR]",
       "server": "pq-Hungary1.09vpn.com",
       "server_port": 80,
       "uuid": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
@@ -985,7 +829,7 @@
     },
     {
       "type": "vmess",
-      "tag": "🇭🇺 Hungary ff12",
+      "tag": "🇭🇺 Hungary ff12 [CIDR]",
       "server": "45.12.132.183",
       "server_port": 80,
       "uuid": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
@@ -1525,6 +1369,15 @@
     },
     {
       "type": "vmess",
+      "tag": "🇺🇸 United States 2b69",
+      "server": "104.233.214.176",
+      "server_port": 13581,
+      "uuid": "d4d715a6-0a2e-4304-df2f-d5efd85a5a5d",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
       "tag": "🇺🇸 United States 2d90",
       "server": "150.230.41.135",
       "server_port": 80,
@@ -1606,39 +1459,12 @@
     },
     {
       "type": "vmess",
-      "tag": "🇺🇸 United States 604c",
-      "server": "67.220.85.46",
-      "server_port": 18000,
-      "uuid": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
       "tag": "🇺🇸 United States 610c",
       "server": "67.220.72.237",
       "server_port": 22324,
       "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
       "security": "auto",
       "alter_id": 1
-    },
-    {
-      "type": "vmess",
-      "tag": "🇺🇸 United States 6705",
-      "server": "cg1c05.waimaojd.com",
-      "server_port": 443,
-      "uuid": "332774e5-9371-48bb-b518-1fe56c7268da",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "🇺🇸 United States 6aab",
-      "server": "107.172.75.141",
-      "server_port": 10086,
-      "uuid": "e02c67a8-d769-4d73-833a-ab6acdb86e6e",
-      "security": "auto",
-      "alter_id": 0
     },
     {
       "type": "vmess",
@@ -1655,15 +1481,6 @@
       "server": "149.30.232.103",
       "server_port": 31469,
       "uuid": "5381445d-6ae4-4948-b61a-a16d9498d21b",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "🇺🇸 United States 7cd1",
-      "server": "cg1c02.waimaojd.com",
-      "server_port": 443,
-      "uuid": "332774e5-9371-48bb-b518-1fe56c7268da",
       "security": "auto",
       "alter_id": 0
     },
@@ -1709,33 +1526,6 @@
       "server": "usaapp1.jisuyun.top",
       "server_port": 2053,
       "uuid": "4b80aa86-4354-40bb-d2a3-47126cff0bea",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "🇺🇸 United States 9d20",
-      "server": "cg1c06.waimaojd.com",
-      "server_port": 443,
-      "uuid": "332774e5-9371-48bb-b518-1fe56c7268da",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "🇺🇸 United States b0aa",
-      "server": "104.168.1.102",
-      "server_port": 8222,
-      "uuid": "254d4bbf-e3b8-4855-ae5c-b36854de47f6",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "🇺🇸 United States b0e7",
-      "server": "cg1c03.waimaojd.com",
-      "server_port": 443,
-      "uuid": "332774e5-9371-48bb-b518-1fe56c7268da",
       "security": "auto",
       "alter_id": 0
     },
