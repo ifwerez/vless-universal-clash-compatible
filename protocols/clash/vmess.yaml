@@ -45,16 +45,6 @@ proxies:
   alterId: 0
   network: tcp
   tls: false
-- name: " Unsorted 0c95"
-  server: gtm1.ktmwan.net
-  port: 12885
-  udp: true
-  type: vmess
-  uuid: 91fea313-f8f9-46ae-b9ea-eeb599962e2b
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: false
 - name: " Unsorted 1216"
   server: cf.scpnb.top
   port: 443
@@ -65,46 +55,6 @@ proxies:
   alterId: 0
   network: ws
   tls: true
-- name: " Unsorted 24ba"
-  server: gtm1.ktmwan.net
-  port: 12888
-  udp: true
-  type: vmess
-  uuid: 91fea313-f8f9-46ae-b9ea-eeb599962e2b
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: false
-- name: " Unsorted 4579"
-  server: gtm1.ktmwan.net
-  port: 12883
-  udp: true
-  type: vmess
-  uuid: 91fea313-f8f9-46ae-b9ea-eeb599962e2b
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: false
-- name: " Unsorted 545a"
-  server: iv2yun.iv2yunch.work
-  port: 16717
-  udp: true
-  type: vmess
-  uuid: d73c2cea-34e9-380d-8511-bb8521aa6183
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: false
-- name: " Unsorted 5467"
-  server: iv2yun.iv2yunch.work
-  port: 31119
-  udp: true
-  type: vmess
-  uuid: d73c2cea-34e9-380d-8511-bb8521aa6183
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: false
 - name: " Unsorted 5aa2"
   server: cf.scpnb.top
   port: 443
@@ -175,16 +125,6 @@ proxies:
   alterId: 0
   network: tcp
   tls: false
-- name: " Unsorted 7ff4"
-  server: iv2yun.iv2yunch.work
-  port: 63353
-  udp: true
-  type: vmess
-  uuid: d73c2cea-34e9-380d-8511-bb8521aa6183
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: false
 - name: " Unsorted 81ff"
   server: t.tizi001.com
   port: 19281
@@ -205,16 +145,6 @@ proxies:
   alterId: 0
   network: tcp
   tls: false
-- name: " Unsorted 9c02"
-  server: iv2yun.iv2yunch.work
-  port: 35619
-  udp: true
-  type: vmess
-  uuid: d73c2cea-34e9-380d-8511-bb8521aa6183
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: false
 - name: " Unsorted a3ab"
   server: t.tizi001.com
   port: 50946
@@ -224,26 +154,6 @@ proxies:
   cipher: auto
   alterId: 0
   network: tcp
-  tls: false
-- name: " Unsorted a937"
-  server: iv2yun.iv2yunch.work
-  port: 30703
-  udp: true
-  type: vmess
-  uuid: d73c2cea-34e9-380d-8511-bb8521aa6183
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: false
-- name: " Unsorted b930"
-  server: gtm1.ktmwan.net
-  port: 12888
-  udp: true
-  type: vmess
-  uuid: 2d4bb251-5a5a-49d2-bc8a-9a530788fd89
-  cipher: auto
-  alterId: 0
-  network: ws
   tls: false
 - name: " Unsorted bce1"
   server: skk.moe
@@ -294,36 +204,6 @@ proxies:
   cipher: auto
   alterId: 0
   network: tcp
-  tls: false
-- name: " Unsorted c8d8"
-  server: gtm1.ktmwan.net
-  port: 12887
-  udp: true
-  type: vmess
-  uuid: 2d4bb251-5a5a-49d2-bc8a-9a530788fd89
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: false
-- name: " Unsorted d2eb"
-  server: iv2yun.iv2yunch.work
-  port: 61519
-  udp: true
-  type: vmess
-  uuid: d73c2cea-34e9-380d-8511-bb8521aa6183
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: false
-- name: " Unsorted de00"
-  server: gtm1.ktmwan.net
-  port: 12889
-  udp: true
-  type: vmess
-  uuid: 91fea313-f8f9-46ae-b9ea-eeb599962e2b
-  cipher: auto
-  alterId: 0
-  network: ws
   tls: false
 - name: " Unsorted ea22"
   server: chatgpt.com
@@ -643,28 +523,6 @@ proxies:
   alterId: 0
   network: tcp
   tls: false
-- name: "🇭🇰 Hong Kong 627a"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
-  server: hk31.ccdn3.work
-  port: 20091
-  udp: true
-  type: vmess
-  uuid: 2543af60-245c-11f1-aa57-8f36e190ad40
-  cipher: auto
-  alterId: 0
-  network: tcp
-  tls: true
-- name: "🇭🇰 Hong Kong 62f0"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
-  server: 8.210.121.88
-  port: 51453
-  udp: true
-  type: vmess
-  uuid: a3de462b-0276-4003-8f34-536b0f9d340c
-  cipher: auto
-  alterId: 0
-  network: tcp
-  tls: false
 - name: "🇭🇰 Hong Kong 68e2"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
   server: n1761296878.4u9ma.icu
@@ -672,6 +530,17 @@ proxies:
   udp: true
   type: vmess
   uuid: 78f61544-3393-4e6b-9c77-5deaa0c7471d
+  cipher: auto
+  alterId: 0
+  network: ws
+  tls: true
+- name: "🇭🇰 Hong Kong 790c"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
+  server: cdn.31514926.xyz
+  port: 443
+  udp: true
+  type: vmess
+  uuid: 48d5eb0f-fd55-4357-baec-a68fa39a4b1b
   cipher: auto
   alterId: 0
   network: ws
@@ -786,17 +655,6 @@ proxies:
   alterId: 0
   network: tcp
   tls: false
-- name: "🇭🇰 Hong Kong cac6"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
-  server: 8.210.121.88
-  port: 51453
-  udp: true
-  type: vmess
-  uuid: 1f2d0b2b-e214-4fc1-92cc-1c230be78d7c
-  cipher: auto
-  alterId: 0
-  network: tcp
-  tls: false
 - name: "🇭🇰 Hong Kong ccbe"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
   server: 213.156.141.52
@@ -830,24 +688,13 @@ proxies:
   alterId: 0
   network: ws
   tls: false
-- name: "🇭🇰 Hong Kong de46"
+- name: "🇭🇰 Hong Kong d9cd"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
-  server: 8.210.121.88
-  port: 51453
+  server: v30.hdacd.com
+  port: 30830
   udp: true
   type: vmess
-  uuid: 0be3a336-85ad-4c42-930b-05318236e68c
-  cipher: auto
-  alterId: 0
-  network: tcp
-  tls: false
-- name: "🇭🇰 Hong Kong e0e5"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
-  server: 8.210.121.88
-  port: 51453
-  udp: true
-  type: vmess
-  uuid: 8bd1fbf2-cef1-4e54-aa5b-ba7bde574dd9
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
   cipher: auto
   alterId: 0
   network: tcp
@@ -907,7 +754,7 @@ proxies:
   alterId: 0
   network: ws
   tls: true
-- name: "🇭🇺 Hungary 6650"
+- name: "🇭🇺 Hungary 6650 [CIDR]"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HU.png
   server: pq-Hungary1.09vpn.com
   port: 80
@@ -940,7 +787,7 @@ proxies:
   alterId: 0
   network: ws
   tls: false
-- name: "🇭🇺 Hungary ff12"
+- name: "🇭🇺 Hungary ff12 [CIDR]"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HU.png
   server: 45.12.132.183
   port: 80
@@ -1599,6 +1446,17 @@ proxies:
   alterId: 0
   network: tcp
   tls: false
+- name: "🇺🇸 United States 2b69"
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+  server: 104.233.214.176
+  port: 13581
+  udp: true
+  type: vmess
+  uuid: d4d715a6-0a2e-4304-df2f-d5efd85a5a5d
+  cipher: auto
+  alterId: 0
+  network: none
+  tls: false
 - name: "🇺🇸 United States 2d90"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 150.230.41.135
@@ -1698,17 +1556,6 @@ proxies:
   alterId: 0
   network: ws
   tls: false
-- name: "🇺🇸 United States 604c"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 67.220.85.46
-  port: 18000
-  udp: true
-  type: vmess
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-  cipher: auto
-  alterId: 0
-  network: tcp
-  tls: false
 - name: "🇺🇸 United States 610c"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 67.220.72.237
@@ -1718,28 +1565,6 @@ proxies:
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
   cipher: auto
   alterId: 1
-  network: tcp
-  tls: false
-- name: "🇺🇸 United States 6705"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: cg1c05.waimaojd.com
-  port: 443
-  udp: true
-  type: vmess
-  uuid: 332774e5-9371-48bb-b518-1fe56c7268da
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: true
-- name: "🇺🇸 United States 6aab"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 107.172.75.141
-  port: 10086
-  udp: true
-  type: vmess
-  uuid: e02c67a8-d769-4d73-833a-ab6acdb86e6e
-  cipher: auto
-  alterId: 0
   network: tcp
   tls: false
 - name: "🇺🇸 United States 79a6"
@@ -1764,17 +1589,6 @@ proxies:
   alterId: 0
   network: ws
   tls: false
-- name: "🇺🇸 United States 7cd1"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: cg1c02.waimaojd.com
-  port: 443
-  udp: true
-  type: vmess
-  uuid: 332774e5-9371-48bb-b518-1fe56c7268da
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: true
 - name: "🇺🇸 United States 8815"
   icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
   server: 82.198.246.233
@@ -1826,39 +1640,6 @@ proxies:
   udp: true
   type: vmess
   uuid: 4b80aa86-4354-40bb-d2a3-47126cff0bea
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: true
-- name: "🇺🇸 United States 9d20"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: cg1c06.waimaojd.com
-  port: 443
-  udp: true
-  type: vmess
-  uuid: 332774e5-9371-48bb-b518-1fe56c7268da
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: true
-- name: "🇺🇸 United States b0aa"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: 104.168.1.102
-  port: 8222
-  udp: true
-  type: vmess
-  uuid: 254d4bbf-e3b8-4855-ae5c-b36854de47f6
-  cipher: auto
-  alterId: 0
-  network: ws
-  tls: false
-- name: "🇺🇸 United States b0e7"
-  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-  server: cg1c03.waimaojd.com
-  port: 443
-  udp: true
-  type: vmess
-  uuid: 332774e5-9371-48bb-b518-1fe56c7268da
   cipher: auto
   alterId: 0
   network: ws
