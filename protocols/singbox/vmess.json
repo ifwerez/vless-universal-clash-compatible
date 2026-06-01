@@ -25,22 +25,28 @@
       "type": "selector",
       "tag": "proxy",
       "outbounds": [
+        " Unsorted 009d",
+        " Unsorted 027e",
         " Unsorted 05c2",
         " Unsorted 09be",
+        " Unsorted 0b43",
         " Unsorted 0bbf",
+        " Unsorted 2746",
         " Unsorted 279b",
         " Unsorted 4f53",
         " Unsorted 6596",
         " Unsorted 7d07",
+        " Unsorted 8767",
         " Unsorted 9720",
         " Unsorted bce1",
         " Unsorted bfb2",
+        " Unsorted c534",
+        " Unsorted c65d",
+        " Unsorted cd4e",
+        " Unsorted e630",
         " Unsorted ea22",
         " Unsorted efcd",
-        "🇦🇱 Albania efd4",
         "🇦🇺 Australia 9b06",
-        "🇧🇷 Brazil 027e",
-        "🇨🇦 Canada 009d",
         "🇨🇦 Canada 3cf8",
         "🇨🇦 Canada 4aaf",
         "🇨🇦 Canada 5050",
@@ -58,6 +64,7 @@
         "🇩🇪 Germany 1a6c",
         "🇩🇪 Germany 1ca9",
         "🇩🇪 Germany 1f7e",
+        "🇩🇪 Germany 1f9d",
         "🇩🇪 Germany 1fda",
         "🇩🇪 Germany 20a8",
         "🇩🇪 Germany 23d2",
@@ -93,8 +100,10 @@
         "🇩🇪 Germany 82a0",
         "🇩🇪 Germany 84bc",
         "🇩🇪 Germany 85a1",
+        "🇩🇪 Germany 8a84",
         "🇩🇪 Germany 8b70",
         "🇩🇪 Germany 8baf",
+        "🇩🇪 Germany 905e",
         "🇩🇪 Germany 9790",
         "🇩🇪 Germany 9922",
         "🇩🇪 Germany 9c9e",
@@ -106,9 +115,9 @@
         "🇩🇪 Germany bcd2",
         "🇩🇪 Germany c01b",
         "🇩🇪 Germany c346",
+        "🇩🇪 Germany c8fc",
         "🇩🇪 Germany caaf",
         "🇩🇪 Germany cce0",
-        "🇩🇪 Germany cd4e",
         "🇩🇪 Germany cf7f",
         "🇩🇪 Germany d533",
         "🇩🇪 Germany d954",
@@ -126,6 +135,7 @@
         "🇩🇪 Germany f5b3",
         "🇩🇪 Germany f785",
         "🇩🇪 Germany fd9d",
+        "🇩🇪 Germany ffcb",
         "🇪🇸 Spain 6dc9",
         "🇪🇸 Spain dbd5",
         "🇫🇷 France 0450",
@@ -227,24 +237,25 @@
         "🇫🇷 France f2a3",
         "🇫🇷 France f55d",
         "🇫🇷 France fc38",
-        "🇬🇧 United Kingdom 0b43",
         "🇬🇧 United Kingdom 0b81",
+        "🇬🇧 United Kingdom 31bf",
         "🇬🇧 United Kingdom 3b91",
         "🇬🇧 United Kingdom 4ae7",
-        "🇬🇧 United Kingdom c534",
+        "🇬🇧 United Kingdom 547d",
+        "🇬🇧 United Kingdom 62f2",
+        "🇬🇧 United Kingdom cd9c",
         "🇭🇰 Hong Kong 0af7",
-        "🇭🇰 Hong Kong 14f8",
         "🇭🇰 Hong Kong 1de1",
         "🇭🇰 Hong Kong 378b",
         "🇭🇰 Hong Kong 4f47",
         "🇭🇰 Hong Kong 526d",
         "🇭🇰 Hong Kong 5826",
         "🇭🇰 Hong Kong a5e7",
+        "🇭🇰 Hong Kong b954",
         "🇭🇰 Hong Kong ccbe",
         "🇭🇰 Hong Kong d74d",
         "🇭🇰 Hong Kong df22",
         "🇭🇰 Hong Kong e109",
-        "🇭🇰 Hong Kong e152",
         "🇭🇰 Hong Kong f6cb",
         "🇭🇺 Hungary 5d0a",
         "🇭🇺 Hungary 6650",
@@ -252,10 +263,10 @@
         "🇭🇺 Hungary c4e0",
         "🇭🇺 Hungary ff12",
         "🇮🇳 India 3ea2",
-        "🇮🇳 India 5932",
         "🇮🇳 India de71",
         "🇮🇹 Italy 4838",
         "🇮🇹 Italy 5c43",
+        "🇮🇹 Italy 6578",
         "🇮🇹 Italy eea4",
         "🇯🇵 Japan 0d96",
         "🇯🇵 Japan 0fcf",
@@ -340,7 +351,6 @@
         "🇯🇵 Japan e0a9",
         "🇯🇵 Japan e194",
         "🇯🇵 Japan e54b",
-        "🇯🇵 Japan e630",
         "🇯🇵 Japan ee63",
         "🇯🇵 Japan ee6e",
         "🇯🇵 Japan f104",
@@ -360,10 +370,13 @@
         "🇲🇾 Malaysia c114",
         "🇳🇱 Netherlands f8f9 [CIDR]",
         "🇵🇭 Philippines 8210",
+        "🇵🇱 Poland 4745",
         "🇵🇱 Poland 7b5c",
         "🇵🇱 Poland d72d",
         "🇸🇬 Singapore 0946",
+        "🇸🇬 Singapore 0e41",
         "🇸🇬 Singapore 1c70",
+        "🇸🇬 Singapore 36b4",
         "🇸🇬 Singapore 44e2",
         "🇸🇬 Singapore 6a34",
         "🇸🇬 Singapore 8125",
@@ -372,7 +385,7 @@
         "🇸🇬 Singapore dcd0",
         "🇹🇷 Turkey 4b72",
         "🇹🇷 Turkey 92e5",
-        "🇹🇼 Taiwan 2746",
+        "🇹🇼 Taiwan 45cf",
         "🇺🇸 United States 018e",
         "🇺🇸 United States 0781",
         "🇺🇸 United States 184c",
@@ -387,14 +400,13 @@
         "🇺🇸 United States 59b1",
         "🇺🇸 United States 604c",
         "🇺🇸 United States 610c",
-        "🇺🇸 United States 63d2",
         "🇺🇸 United States 7230",
         "🇺🇸 United States 79a6",
         "🇺🇸 United States 7fb8",
         "🇺🇸 United States 8551",
-        "🇺🇸 United States 8767",
         "🇺🇸 United States 8815",
         "🇺🇸 United States 8ae7",
+        "🇺🇸 United States 8b19",
         "🇺🇸 United States 9560",
         "🇺🇸 United States 986d",
         "🇺🇸 United States 9aed",
@@ -403,19 +415,37 @@
         "🇺🇸 United States b0aa",
         "🇺🇸 United States bac2",
         "🇺🇸 United States bfc9",
-        "🇺🇸 United States c65d",
         "🇺🇸 United States c7da",
         "🇺🇸 United States ce9e",
         "🇺🇸 United States d26c",
         "🇺🇸 United States d973",
         "🇺🇸 United States dabb",
         "🇺🇸 United States db4d",
-        "🇺🇸 United States db52"
+        "🇺🇸 United States db52",
+        "🇺🇸 United States fd57"
       ]
     },
     {
       "type": "direct",
       "tag": "direct"
+    },
+    {
+      "type": "vmess",
+      "tag": " Unsorted 009d",
+      "server": "134.195.196.211",
+      "server_port": 18000,
+      "uuid": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": " Unsorted 027e",
+      "server": "172.233.17.76",
+      "server_port": 22324,
+      "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+      "security": "auto",
+      "alter_id": 0
     },
     {
       "type": "vmess",
@@ -437,10 +467,28 @@
     },
     {
       "type": "vmess",
+      "tag": " Unsorted 0b43",
+      "server": "66.163.117.58",
+      "server_port": 22324,
+      "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
       "tag": " Unsorted 0bbf",
       "server": "speedtest.org",
       "server_port": 80,
       "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": " Unsorted 2746",
+      "server": "165.154.195.38",
+      "server_port": 35034,
+      "uuid": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
       "security": "auto",
       "alter_id": 0
     },
@@ -482,6 +530,15 @@
     },
     {
       "type": "vmess",
+      "tag": " Unsorted 8767",
+      "server": "gtm-sg-cc54q7d1q01.365cloud0285.com",
+      "server_port": 6001,
+      "uuid": "a030842a-d29a-4ea9-a776-14fc4b9e102d",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
       "tag": " Unsorted 9720",
       "server": "bbnmji.tc5.ccwu.cc",
       "server_port": 80,
@@ -509,6 +566,42 @@
     },
     {
       "type": "vmess",
+      "tag": " Unsorted c534",
+      "server": "uk5.taskflowhub.org",
+      "server_port": 2053,
+      "uuid": "89371dfc-2618-40d7-a558-693ff4f7f1eb",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": " Unsorted c65d",
+      "server": "165.140.216.141",
+      "server_port": 443,
+      "uuid": "e7d72a8d-26f2-4b54-b366-0c43e0bcba7d",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": " Unsorted cd4e",
+      "server": "de5.taskflowhub.org",
+      "server_port": 2053,
+      "uuid": "ca58b165-0f7d-49aa-9fae-a017e8a0f884",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": " Unsorted e630",
+      "server": "172.104.80.66",
+      "server_port": 22324,
+      "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
       "tag": " Unsorted ea22",
       "server": "chatgpt.com",
       "server_port": 8443,
@@ -527,37 +620,10 @@
     },
     {
       "type": "vmess",
-      "tag": "🇦🇱 Albania efd4",
-      "server": "45.15.170.237",
-      "server_port": 80,
-      "uuid": "820d4b4f-3357-4dc7-9381-6e5fd52b5f39",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
       "tag": "🇦🇺 Australia 9b06",
       "server": "www.wn03.cc",
       "server_port": 80,
       "uuid": "2f38f848-a899-4c87-9807-207a41615e3c",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "🇧🇷 Brazil 027e",
-      "server": "172.233.17.76",
-      "server_port": 22324,
-      "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
-      "security": "auto",
-      "alter_id": 1
-    },
-    {
-      "type": "vmess",
-      "tag": "🇨🇦 Canada 009d",
-      "server": "134.195.196.211",
-      "server_port": 18000,
-      "uuid": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
       "security": "auto",
       "alter_id": 0
     },
@@ -711,6 +777,15 @@
       "server": "77.90.60.29",
       "server_port": 34405,
       "uuid": "b01d1e26-2f84-48da-88a1-1d06a77857f3",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": "🇩🇪 Germany 1f9d",
+      "server": "de.connfull.org",
+      "server_port": 2053,
+      "uuid": "f2ff4ae6-cf2d-4d15-9f0d-b6d9980df9aa",
       "security": "auto",
       "alter_id": 0
     },
@@ -1031,6 +1106,15 @@
     },
     {
       "type": "vmess",
+      "tag": "🇩🇪 Germany 8a84",
+      "server": "de.connfull.org",
+      "server_port": 2053,
+      "uuid": "70594eb9-81fe-4096-ad69-cb6b95095a52",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
       "tag": "🇩🇪 Germany 8b70",
       "server": "82.40.62.106",
       "server_port": 2080,
@@ -1044,6 +1128,15 @@
       "server": "77.90.60.29",
       "server_port": 57719,
       "uuid": "d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": "🇩🇪 Germany 905e",
+      "server": "77.90.60.29",
+      "server_port": 50179,
+      "uuid": "fa8f8911-2e9b-494e-9a8d-f80239ee2214",
       "security": "auto",
       "alter_id": 0
     },
@@ -1148,6 +1241,15 @@
     },
     {
       "type": "vmess",
+      "tag": "🇩🇪 Germany c8fc",
+      "server": "91.107.179.170",
+      "server_port": 2080,
+      "uuid": "cd682302-c9d7-4c0d-bada-52e7d652c22c",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
       "tag": "🇩🇪 Germany caaf",
       "server": "77.90.60.29",
       "server_port": 58174,
@@ -1161,15 +1263,6 @@
       "server": "77.90.60.29",
       "server_port": 46385,
       "uuid": "12929592-a7bd-41eb-ab4d-d804f76c4ff9",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "🇩🇪 Germany cd4e",
-      "server": "de5.taskflowhub.org",
-      "server_port": 2053,
-      "uuid": "ca58b165-0f7d-49aa-9fae-a017e8a0f884",
       "security": "auto",
       "alter_id": 0
     },
@@ -1323,6 +1416,15 @@
       "server": "77.90.60.29",
       "server_port": 58527,
       "uuid": "d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": "🇩🇪 Germany ffcb",
+      "server": "162.19.254.232",
+      "server_port": 2053,
+      "uuid": "ca58b165-0f7d-49aa-9fae-a017e8a0f884",
       "security": "auto",
       "alter_id": 0
     },
@@ -2237,19 +2339,19 @@
     },
     {
       "type": "vmess",
-      "tag": "🇬🇧 United Kingdom 0b43",
-      "server": "66.163.117.58",
-      "server_port": 22324,
-      "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+      "tag": "🇬🇧 United Kingdom 0b81",
+      "server": "185.168.195.211",
+      "server_port": 22258,
+      "uuid": "7f9544bb-1a24-4a84-89fc-11382518c288",
       "security": "auto",
       "alter_id": 0
     },
     {
       "type": "vmess",
-      "tag": "🇬🇧 United Kingdom 0b81",
-      "server": "185.168.195.211",
-      "server_port": 22258,
-      "uuid": "7f9544bb-1a24-4a84-89fc-11382518c288",
+      "tag": "🇬🇧 United Kingdom 31bf",
+      "server": "uk.connfull.org",
+      "server_port": 2053,
+      "uuid": "e9661ce8-ec96-4d01-862f-82a3a1953f6b",
       "security": "auto",
       "alter_id": 0
     },
@@ -2273,10 +2375,28 @@
     },
     {
       "type": "vmess",
-      "tag": "🇬🇧 United Kingdom c534",
-      "server": "uk5.taskflowhub.org",
+      "tag": "🇬🇧 United Kingdom 547d",
+      "server": "uk.connfull.org",
+      "server_port": 2053,
+      "uuid": "d64d52b1-144f-4bce-a6d7-1324de187b1b",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": "🇬🇧 United Kingdom 62f2",
+      "server": "51.195.203.247",
       "server_port": 2053,
       "uuid": "89371dfc-2618-40d7-a558-693ff4f7f1eb",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": "🇬🇧 United Kingdom cd9c",
+      "server": "57.128.174.124",
+      "server_port": 2053,
+      "uuid": "d64d52b1-144f-4bce-a6d7-1324de187b1b",
       "security": "auto",
       "alter_id": 0
     },
@@ -2286,15 +2406,6 @@
       "server": "47.238.130.197",
       "server_port": 443,
       "uuid": "f267eac3-dfb4-45be-a480-7e1847ca04ab",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "🇭🇰 Hong Kong 14f8",
-      "server": "n1753356378.4u9ma.icu",
-      "server_port": 443,
-      "uuid": "37b20639-0d6e-46f2-9db5-472201b10cdd",
       "security": "auto",
       "alter_id": 0
     },
@@ -2354,6 +2465,15 @@
     },
     {
       "type": "vmess",
+      "tag": "🇭🇰 Hong Kong b954",
+      "server": "103.85.73.72",
+      "server_port": 2510,
+      "uuid": "1d3d868e-ae7b-3762-b9d9-a7f267494c7e",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
       "tag": "🇭🇰 Hong Kong ccbe",
       "server": "213.156.141.52",
       "server_port": 22324,
@@ -2385,15 +2505,6 @@
       "server": "world.t.51guangtaobao.com",
       "server_port": 6009,
       "uuid": "1d3d868e-ae7b-3762-b9d9-a7f267494c7e",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
-      "tag": "🇭🇰 Hong Kong e152",
-      "server": "47.238.82.7",
-      "server_port": 443,
-      "uuid": "37b20639-0d6e-46f2-9db5-472201b10cdd",
       "security": "auto",
       "alter_id": 0
     },
@@ -2462,15 +2573,6 @@
     },
     {
       "type": "vmess",
-      "tag": "🇮🇳 India 5932",
-      "server": "in.connfull.org",
-      "server_port": 2053,
-      "uuid": "f074d083-cb28-45c2-8a3c-e5ebbc041b5c",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
       "tag": "🇮🇳 India de71",
       "server": "172.232.103.186",
       "server_port": 22324,
@@ -2491,6 +2593,15 @@
       "type": "vmess",
       "tag": "🇮🇹 Italy 5c43",
       "server": "it.connfull.org",
+      "server_port": 2053,
+      "uuid": "79e33f2e-6f88-4867-b311-844198e59270",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": "🇮🇹 Italy 6578",
+      "server": "57.131.38.150",
       "server_port": 2053,
       "uuid": "79e33f2e-6f88-4867-b311-844198e59270",
       "security": "auto",
@@ -3254,15 +3365,6 @@
     },
     {
       "type": "vmess",
-      "tag": "🇯🇵 Japan e630",
-      "server": "172.104.80.66",
-      "server_port": 22324,
-      "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
-      "security": "auto",
-      "alter_id": 1
-    },
-    {
-      "type": "vmess",
       "tag": "🇯🇵 Japan ee63",
       "server": "109.61.109.204",
       "server_port": 65440,
@@ -3434,6 +3536,15 @@
     },
     {
       "type": "vmess",
+      "tag": "🇵🇱 Poland 4745",
+      "server": "pl.connfull.org",
+      "server_port": 2053,
+      "uuid": "a1a3a9e5-9b15-456b-8c26-8bda0ef701e8",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
       "tag": "🇵🇱 Poland 7b5c",
       "server": "51.83.197.140",
       "server_port": 80,
@@ -3461,8 +3572,26 @@
     },
     {
       "type": "vmess",
+      "tag": "🇸🇬 Singapore 0e41",
+      "server": "6654c734ccab8f440ff0825eb443dc7f.qos.onl",
+      "server_port": 10034,
+      "uuid": "52f9cbfb-5bb3-3dd3-b947-725e365c59f3",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
       "tag": "🇸🇬 Singapore 1c70",
       "server": "1b267619c4812cc46ee281747884ca50.qos.onl",
+      "server_port": 10056,
+      "uuid": "52f9cbfb-5bb3-3dd3-b947-725e365c59f3",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": "🇸🇬 Singapore 36b4",
+      "server": "66.90.98.51",
       "server_port": 10056,
       "uuid": "52f9cbfb-5bb3-3dd3-b947-725e365c59f3",
       "security": "auto",
@@ -3542,10 +3671,10 @@
     },
     {
       "type": "vmess",
-      "tag": "🇹🇼 Taiwan 2746",
-      "server": "165.154.195.38",
-      "server_port": 35034,
-      "uuid": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
+      "tag": "🇹🇼 Taiwan 45cf",
+      "server": "world.t.51guangtaobao.com",
+      "server_port": 2510,
+      "uuid": "1d3d868e-ae7b-3762-b9d9-a7f267494c7e",
       "security": "auto",
       "alter_id": 0
     },
@@ -3677,15 +3806,6 @@
     },
     {
       "type": "vmess",
-      "tag": "🇺🇸 United States 63d2",
-      "server": "hr.connfull.org",
-      "server_port": 2053,
-      "uuid": "e6509737-0b14-44c4-9a3d-42c010d6d5c1",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
       "tag": "🇺🇸 United States 7230",
       "server": "gtm-sg-cc54q7d1q01.365cloud0285.com",
       "server_port": 6004,
@@ -3722,15 +3842,6 @@
     },
     {
       "type": "vmess",
-      "tag": "🇺🇸 United States 8767",
-      "server": "gtm-sg-cc54q7d1q01.365cloud0285.com",
-      "server_port": 6001,
-      "uuid": "a030842a-d29a-4ea9-a776-14fc4b9e102d",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
       "tag": "🇺🇸 United States 8815",
       "server": "82.198.246.233",
       "server_port": 180,
@@ -3744,6 +3855,15 @@
       "server": "155.254.126.249",
       "server_port": 6001,
       "uuid": "a030842a-d29a-4ea9-a776-14fc4b9e102d",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 United States 8b19",
+      "server": "vpnicp.xyc.hk.cn",
+      "server_port": 20001,
+      "uuid": "7f5f0705-3dfb-4f56-9657-c95cade2ba83",
       "security": "auto",
       "alter_id": 0
     },
@@ -3821,15 +3941,6 @@
     },
     {
       "type": "vmess",
-      "tag": "🇺🇸 United States c65d",
-      "server": "165.140.216.141",
-      "server_port": 443,
-      "uuid": "e7d72a8d-26f2-4b54-b366-0c43e0bcba7d",
-      "security": "auto",
-      "alter_id": 0
-    },
-    {
-      "type": "vmess",
       "tag": "🇺🇸 United States c7da",
       "server": "155.254.126.249",
       "server_port": 6003,
@@ -3888,6 +3999,15 @@
       "server": "57.151.100.27",
       "server_port": 10086,
       "uuid": "550e8400-e29b-41d4-a716-446655440000",
+      "security": "auto",
+      "alter_id": 0
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 United States fd57",
+      "server": "199.195.254.136",
+      "server_port": 28747,
+      "uuid": "865a7fee-6813-4dc6-89b0-36fcce52992e",
       "security": "auto",
       "alter_id": 0
     }
